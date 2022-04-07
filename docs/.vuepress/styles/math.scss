@@ -1,0 +1,16 @@
+.katex {
+    .katex-mathml {
+        display: none;
+    }
+
+    .katex-html {
+        // border: 1px solid var(--c-brand);
+        // color: var(--c-text-accent);
+        // font-style: italic;
+        border: 1px solid var(--c-brand-light);
+        color: var(--c-text);
+        padding: 1px;
+        font-size: 1rem;
+        font-family: var(--font-family) normal 1.21em KaTeX_Main, Times New Roman, serif;
+    }
+}

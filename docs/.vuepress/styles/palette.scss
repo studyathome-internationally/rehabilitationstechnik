@@ -1,0 +1,17 @@
+// responsive breakpoints
+$MQNarrow: 959px !default;
+$MQMobile: 719px !default;
+$MQMobileNarrow: 419px !default;
+
+:root {
+    --content-width: 1240px;
+    --sidebar-width: 22rem;
+    // // layout vars
+    // --navbar-height: 3.6rem;
+    // --navbar-padding-v: 0.7rem;
+    // --navbar-padding-h: 1.5rem;
+    // --sidebar-width: 20rem;
+    // --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
+    // --content-width: 740px;
+    // --homepage-width: 960px;
+}
