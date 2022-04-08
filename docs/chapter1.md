@@ -31,8 +31,8 @@ Im hier angeführten Text handelt es sich jedoch um ein wörtliches Zitat aus de
 ## Behinderung: Sichtweise und Sprachgebrauch
 
 <!-- FIXME: „vorangehendes Kapitel“ -->
+<!-- FIXZW: gelöscht „vorangehendes Kapitel“ -->
 Bis vor kurzem wurden behinderte Menschen ausschließlich gemäß einer Mangeldefinition betrachtet und eingestuft.
-Auch das vorangehende Kapitel folgt genaugenommen dieser Sichtweise.
 Die Gesellschaft definiert eine bestimmte „Normalität“ und legt damit auf einer eindimensionalen Skala eine Latte fest, unterhalb von der eine Person als behindert gilt.
 
 > Wir widmeten (...) den Behinderungen unserer Patienten viel zu viel Aufmerksamkeit und beachteten viel zu wenig, was intakt oder erhalten geblieben war.
