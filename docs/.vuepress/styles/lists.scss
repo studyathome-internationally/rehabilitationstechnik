@@ -3,4 +3,9 @@
 .bibliography {
     list-style-type: none;
     padding-left: unset;
-} 
+
+    p {
+        margin-block-start: 0;
+        margin-block-end: 0;
+    }
+}
