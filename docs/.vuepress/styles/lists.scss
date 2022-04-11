@@ -3,7 +3,12 @@
 .bibliography {
     list-style-type: none;
     padding-left: unset;
+}
 
+.list-of-figures,
+.list-of-tables,
+.bibliography,
+.footnotes-list {
     p {
         margin-block-start: 0;
         margin-block-end: 0;

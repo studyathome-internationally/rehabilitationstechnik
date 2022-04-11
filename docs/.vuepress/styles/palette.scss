@@ -3,7 +3,10 @@ $MQNarrow: 959px !default;
 $MQMobile: 719px !default;
 $MQMobileNarrow: 419px !default;
 
+$c-brand: #3eaf7c;
+
 :root {
+    --c-brand: #{$c-brand};
     --content-width: 1240px;
     --sidebar-width: 22rem;
     // // layout vars
