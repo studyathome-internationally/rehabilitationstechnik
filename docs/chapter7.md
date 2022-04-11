@@ -675,7 +675,7 @@ Durch eine Klassifizierung alter Menschen allein aufgrund ihres Lebensalters (wi
 
 <!-- FIXME: missing bibliography entry: [PLO 98] -->
 Alter bedeutet zwar zunächst eine höhere Wahrscheinlichkeit, eine oder mehrere körperliche Beeinträchtigungen zu erleiden (<<fig:prozentueller-anteil-behinderungen-us>>), aber es darf dabei nicht vergessen werden, daß $84\%$ der Personen über $65$ keine fremde Hilfe bei der Verrichtung alltäglicher Aktivitäten benötigen.
-Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte oder Patienten und nicht als Konsumenten zu betrachten (<<fig:prozentueller-anteil-hilfestellungen-us>>); [@plo:1998, @yokoyama:1998, @charness:1998:].
+Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte oder Patienten und nicht als Konsumenten zu betrachten (<<fig:prozentueller-anteil-hilfestellungen-us>>); [@plo:1998, @yokoyama:1998, @charness:1998:b].
 
 ![Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung](./pics/07/prozentueller-anteil-behinderungen-us.svg "prozentueller-anteil-behinderungen-us#Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Census Bureau, nach [@zagler:2008, @mcneil:1995]).")
 

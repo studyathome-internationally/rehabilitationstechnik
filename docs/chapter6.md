@@ -439,7 +439,6 @@ Die genauen Werte für das sogenannte emmetrope (normalsichtige) Auge werden in 
 
 .brechkraft-emmetropes-auge#Brechkraft des emmetropen Auges  [@methling:1996].
 
-
 Die gesamte Brechkraft wird also etwa zu $2/3$ von Hornhaut und Vorderkammer und zu $1/3$ von Linse und Glaskörper aufgebracht.
 Durch eine Kontraktion des Ziliarmuskels werden die Zonulafasern entspannt.
 Die Linse wird zufolge ihrer Elastizität dicker, die Brechkraft wird erhöht und das Auge akkommodiert auf die Nähe (<<fig:augenlinse-und-akkommodation>>).
@@ -1701,6 +1700,8 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
    - _Myasthenia gravis_  
      Es kommt zu einer belastungsabhängigen abnorm raschen Ermüdung der quergestreiften Muskulatur, von der in typischer Folge besonders die Augenmuskulatur (Sehen von Doppelbildern – Diplopie), die Kau- und Schluckmuskeln, die Halsmuskulatur und die Oberarme betroffen sind.
      Lebensgefahr besteht in Krisensituationen, wenn Lähmungserscheinungen auf die Schluck- und Atemmuskulatur übergreifen.
+
+    <!-- FIXME: Fußnote/Verweis -->
 
    [^31]: siehe Fußnote 28 auf Seite 54
 
