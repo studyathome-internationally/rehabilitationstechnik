@@ -4,33 +4,27 @@
 
 .theme-default-content {
     & figure {
-        margin: 0;;
+        margin: 0 auto;
+        display: flex;
+        flex-flow: column nowrap;
 
         border: 1px solid var(--c-brand);
         border-radius: 0.5rem 0.5rem 0 0;
-        // background: var(--c-brand-light);
-        
-        // & .original, & .comparison, & figcaption {
-        //     background: white;
-        // }
-
-        // & > .comparator {
-        //     margin: 1rem auto;
-        // }
 
         & > figcaption {
             border-top: 2px double var(--c-brand);
             margin: 0;
             padding: 1rem;
             background: lighten($c-brand, 50%);
-            // @debug color.blackness(#e1d7d2);
-            // @debug lighten($c-brand, 90%);
-            // @debug #{$c-brand};
         }
 
         & > table {
-            margin: 1rem auto;
-            display: table;
+            margin: 0.5rem auto;
+            max-width: 100%;
         }
+    }
+
+    & figure + figure {
+        margin-block-start: 1em;
     }
 }
