@@ -1087,3 +1087,5 @@ Das bedeutet nicht nur, daß ältere Menschen dadurch weniger Freude am Essen ha
    Neben einer durch organische Veränderungen ausgelösten Demenz wird oft auch die sogenannte "Pseudodemenz" beobachtet, von der z.B. Personen betroffen werden können, die in fortgeschrittenem Alter durch einen Krankenhausaufenthalt aus ihrer gewohnten Umgebung herausgerissen werden (Hospitalisierungs-Demenz).
 
 {.lower-alpha}
+
+!!!include(docs/general/attribution.md)!!!

@@ -57,3 +57,5 @@ Es sollte daher eine ehrenvolle Aufgabe für jeden Techniker und jede Technikeri
 > 2. durch Hilfsmittel zur Überwindung der Barriere
 > 3. durch Beseitigung der Barriere
 > {.lower-alpha}
+
+!!!include(docs/general/attribution.md)!!!

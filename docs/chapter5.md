@@ -322,3 +322,5 @@ Das aktuatorische Vikariat ist in der entgegengesetzten Richtung wirksam, also v
 Das in diesem Beispiel angenommene Hilfsmittel H empfängt Sprachkommandos und steuert eine Hebeeinrichtung an.
 
 ![Wirkungsweise eines aktuatorischen Vikariats (Ersatz des Hebens durch Sprechen).](./pics/05/wirkungsweise-aktuatorisches-vikariat.svg "wirkungsweise-aktuatorisches-vikariat#Wirkungsweise eines aktuatorischen Vikariats (Ersatz des Hebens durch Sprechen) [@zagler:2008].")
+
+!!!include(docs/general/attribution.md)!!!

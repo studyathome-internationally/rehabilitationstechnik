@@ -73,3 +73,5 @@ Wenn es mit den uns zur Verfügung stehenden medizinischen Mitteln nicht gelingt
 [^3]: engl.: A disadvantage for a given individual, resulting from an impairment or a disability, that limits or prevents the fulfilment of role that is normal – depending on age, sex, and social and culture factors – for the individual.
 
 ![Die Ebenen der Behinderung und die zugrundeliegende Ursache.](./pics/02/ebenen-der-behinderung-und-ursachen.svg "ebenen-behinderung#Die Ebenen der Behinderung und die zugrundeliegende Ursache [@zagler:2008].")
+
+!!!include(docs/general/attribution.md)!!!

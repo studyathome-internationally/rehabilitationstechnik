@@ -1706,3 +1706,5 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
    [^31]: siehe Fußnote 28 auf Seite 54
 
 {.lower-alpha}
+
+!!!include(docs/general/attribution.md)!!!

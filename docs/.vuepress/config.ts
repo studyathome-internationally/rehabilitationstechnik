@@ -15,14 +15,9 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   themeConfig: {
     navbar: [
       {
-        text: "Resources",
-        children: [
-          {
-            text: "Rehabilitationstechnik",
-            link: "/chapter1.md",
-            activeMatch: "/chapter1.md"
-          }
-        ]
+        text: "Rehabilitationstechnik",
+        link: "/chapter1.md",
+        activeMatch: "/chapter1.md"
       }
     ],
     sidebar: {
@@ -132,6 +127,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(require("markdown-it-multimd-table"), { rowspan: true });
     md.use(require("markdown-it-sub"));
     md.use(require("markdown-it-sup"));
+    md.use(require("markdown-it-include"));
     // md.use(require("markdown-it-mathjax3"));
     md.use(require("./markdown/abbreviation"));
     md.use(require("./markdown/footnote"));

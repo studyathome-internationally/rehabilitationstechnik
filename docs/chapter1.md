@@ -58,3 +58,5 @@ Der Techniker / die Technikerin ist daher gut beraten, den Blick nicht auf die M
 
 > Unsere Tests, unsere Ansätze und „Bewertungen“ sind geradezu unzulänglich (...) sie zeigen uns nur die Mängel (...) nicht die Fähigkeiten; sie führen uns Puzzles und Schemata vor, während es doch darauf ankommt, Musik, Geschichten und Spiele zu begreifen und zu erkennen, wie ein Mensch sich spontan auf seine eigene, natürliche Weise beträgt.  
 > _Oliver Sacks_ [@sacks:1998]
+
+!!!include(docs/general/attribution.md)!!!
