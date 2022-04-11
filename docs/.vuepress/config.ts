@@ -13,13 +13,14 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   // theme and its config
   theme: "@vuepress/theme-default",
   themeConfig: {
-    navbar: [
-      {
-        text: "Rehabilitationstechnik",
-        link: "/chapter1.md",
-        activeMatch: "/chapter1.md"
-      }
-    ],
+    logo: "/images/fhtw-logo.svg",
+    // navbar: [
+    //   {
+    //     text: "Rehabilitationstechnik",
+    //     link: "/chapter1.md",
+    //     activeMatch: "/chapter1.md"
+    //   }
+    // ],
     sidebar: {
       "/": [
         {
@@ -110,12 +111,13 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   locales: {
     "/": {
       lang: "de-DE",
-      title: "Open Education",
+      // title: "Open Education",
+      title: "Open Educational Resource",
       description: "FH Technikum Wien"
     },
     "/en/": {
       lang: "en-US",
-      title: "Open Education",
+      title: "Open Educational Resource",
       description: "UAS Technikum Vienna"
     }
   },
