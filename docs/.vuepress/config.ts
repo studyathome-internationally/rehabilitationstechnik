@@ -3,17 +3,17 @@ import { defineUserConfig } from "@vuepress/cli";
 import type { DefaultThemeOptions } from "@vuepress/theme-default";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
 
+const bundler = process.env.BUNDLER ? process.env.BUNDLER : '@vuepress/bundler-vite';
+process.env.BUNDLER = bundler;
+
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   // site config
   lang: "de-AT",
+  // base: "/next/",
   // theme and its config
   theme: "@vuepress/theme-default",
   themeConfig: {
     navbar: [
-      // {
-      //   text: "Rehabilitationstechnik",
-      //   link: 'chapter1.md'
-      // },
       {
         text: "Resources",
         children: [
@@ -29,31 +29,31 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       "/": [
         {
           text: "Definition und Wortwahl",
-          link: "chapter1.html"
+          link: "/chapter1.html",
         },
         {
           text: "Die Ebenen der Behinderung nach WHO",
-          link: "chapter2.html"
+          link: "/chapter2.html"
         },
         {
           text: "Behinderung als Differenz zwischen Leistung und Anforderung",
-          link: "chapter3.html"
+          link: "/chapter3.html"
         },
         {
           text: "Rehabilitationstechnik",
-          link: "chapter4.html"
+          link: "/chapter4.html"
         },
         {
           text: "Einteilung der Hilfsmittel",
-          link: "chapter5.html"
+          link: "/chapter5.html"
         },
         {
           text: "Medizinische Grundlagen - Teil I",
-          link: "chapter6.html"
+          link: "/chapter6.html"
         },
         {
           text: "Medizinische Grundlagen - Teil II",
-          link: "chapter7.html"
+          link: "/chapter7.html"
         }
       ]
     },
@@ -66,10 +66,6 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         selectLanguageText: "Languages",
         selectLanguageName: "English",
         navbar: [
-          // {
-          //   text: "Rehabilitation Technology",
-          //   link: 'chapter1.md'
-          // }
           {
             text: "Resources",
             children: [
@@ -85,31 +81,31 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
           "/en/": [
             {
               text: "Definition and Words",
-              link: "chapter1.html"
+              link: "/en/chapter1.html"
             },
             {
               text: "Die Ebenen der Behinderung nach WHO",
-              link: "chapter2.html"
+              link: "/en/chapter2.html"
             },
             {
               text: "Behinderung als Differenz zwischen Leistung und Anforderung",
-              link: "chapter3.html"
+              link: "/en/chapter3.html"
             },
             {
               text: "Rehabilitationstechnik",
-              link: "chapter4.html"
+              link: "/en/chapter4.html"
             },
             {
               text: "Einteilung der Hilfsmittel",
-              link: "chapter5.html"
+              link: "/en/chapter5.html"
             },
             {
               text: "Medizinische Grundlagen - Teil I",
-              link: "chapter6.html"
+              link: "/en/chapter6.html"
             },
             {
               text: "Medizinische Grundlagen - Teil II",
-              link: "chapter7.html"
+              link: "/en/chapter7.html"
             }
           ]
         },
@@ -150,39 +146,5 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       selector: ".theme-default-content figure img"
     }]
   ],
-  // bundlerConfig: {
-  //   vuePluginOptions: {
-  //     // customElement: [/^(?!(mi|mn)).*/]
-  //     // customElement: false
-  //     template: {
-  //       compilerOptions: {
-  //         isCustomElement: (tag) => {
-  //           if (["mn", "mtext", "mi", "mrow", "annotation"].includes(tag)) return true;
-  //           return false;
-  //         }
-  //       }
-  //     }
-  //   }
-  // },
-  // bundlerConfig: {
-  //   vuePluginOptions: {
-  //     template: {
-  //       compilerOptions: {
-  //         isCustomElement: (tag) => {
-  //           return ["mjx-container"].includes(tag);
-  //         }
-  //       }
-  //     }
-  //   }
-  // },
-  // head: [
-  //   ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
-  //   ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" }]
-  // ]
-  // head: [
-  //   ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
-  //   ["script", {}, "MathJax = { tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]} };"],
-  //   ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"}]
-  // ]
-  // clientAppEnhanceFiles: path.resolve(__dirname, './clientAppEnhance.ts'),
+  bundler
 })
