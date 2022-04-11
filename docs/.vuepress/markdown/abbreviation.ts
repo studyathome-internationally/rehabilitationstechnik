@@ -11,6 +11,7 @@ const abbreviation = (md: MdIt) => {
 function list_of_abbreviations_rule() {
   const list_of_abbreviations: Core.RuleCore = (state: StateCore) => {
     if (!state || !state.env || !state.env.abbreviations) return false;
+    if (!frontmatter(state, "list", true)) return false;
 
     const tokens: Token[] = state.tokens;
     let token: Token, tokenChild: Token;
@@ -84,7 +85,7 @@ function frontmatter(state, key, alternative) {
     state.env &&
     state.env.frontmatter &&
     state.env.frontmatter[frontmatterKey] &&
-    state.env.frontmatter[frontmatterKey][key]
+    key in state.env.frontmatter[frontmatterKey]
     ? state.env.frontmatter[frontmatterKey][key]
     : alternative;
 }
