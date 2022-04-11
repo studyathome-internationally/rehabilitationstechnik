@@ -13,16 +13,16 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
-# Die Ebenen der Behinderung nach WHO
-
+<!-- prettier-ignore -->
 *[ICIDH]: International Classification of Impairments, Disabilities and Handicaps
 *[ICF]: International Classification of Functioning
 *[WHO]: World Health Organization
 
+# Die Ebenen der Behinderung nach WHO
+
 Von der WHO (_World Health Organization_, Weltgesundheitsorganisation) wurde 1980 zum erstenmal die "ICIDH" (_International Classification of Impairments, Disabilities and Handicaps_) herausgegeben.
 Während der deutschsprachige Begriff "Behinderung" als umfassender Oberbegriff aufgefasst werden kann, unterscheidet die ICIDH drei Ebenen bzw. Dimensionen von Behinderung und gibt ihnen unterschiedliche Benennungen.
 Auch im Deutschen hat man versucht, verschiedene Begriffe einzuführen, obwohl der Übersetzung sprachlich bedingt die Prägnanz der englischen Begriffe fehlt [@matthesius:1995].
-
 
 Die ICIDH wurde tiefgreifend überarbeitet und liegt jetzt als ICF (_International Classification of Functioning_) vor.
 Ein wesentlicher Unterschied dieser Neuauflage wird auch sein, dass für _Disability_ und _Handicap_ neue Begriffe geprägt werden.
@@ -58,7 +58,6 @@ In der ICF verwendet anstelle des Begriffs _handicap_ der Begriff _participation
 > "Soziale Beeinträchtigung (handicap) ist daher keine einfache Folge eines physischen oder psychischen Schadens und der sich daraus ergebenden Funktionseinschränkung, sondern ist das Ergebnis der Wechselwirkung zwischen dem Wunsch eines Behinderten nach Eingliederung und Anerkennung und den Einstellungen und Verhaltensweisen seiner Umwelt.
 > Erst durch Erlebnisse der Abweisung, Distanzierung, Mißachtung und sozialer Ausgliederung entsteht für den Behinderten die ganze Erfahrung behindert zu sein, nämlich auch als eine Erfahrung in der eigenen Entfaltung und Eingliederung in die Gesellschaft behindert zu werden." [@brockhaus:1994]
 
-
 Zur Verdeutlichung werden die drei oben erwähnten Ebenen hier nochmals graphisch zusammengefaßt.
 Als darunterliegende Ebene (Ursache für eine Schädigung) kann Krankheit oder Verletzung (_disease_) in das Schema aufgenommen werden (<<fig:ebenen-behinderung>>).
 
@@ -74,4 +73,4 @@ Wenn es mit den uns zur Verfügung stehenden medizinischen Mitteln nicht gelingt
 
 ![Die Ebenen der Behinderung und die zugrundeliegende Ursache.](./pics/02/ebenen-der-behinderung-und-ursachen.svg "ebenen-behinderung#Die Ebenen der Behinderung und die zugrundeliegende Ursache [@zagler:2008].")
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

@@ -13,6 +13,7 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
+<!-- prettier-ignore -->
 *[PET]: Positronen-Emmissions-Tomographie
 *[PVS]: Persistent Vegetative State
 
@@ -143,7 +144,7 @@ Beim Komplex "Sprache - Sprechen" lassen sich vier linguistische Ebenen untersch
    ![Stellung der Stimmbänder a: bei ruhiger Atmung; b: bei forcierter Atmung; c: bei Stimmbildung; d: bei Flüsterstimme](./pics/07/stellung-der-stimmbaender.svg "stellung-der-stimmbaender#Stellung der Stimmbänder [@servier-medical-art:2019,  @mörike:1981].")
 
    <!-- FIXME: figure multiline captioning -->
-  
+
    > <<fig:stellung-der-stimmbaender>>
    >
    > 1. bei ruhiger Atmung;
@@ -569,7 +570,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
      PET Scans zeigen wesentlich höhere metabolische Werte als bei PVS.
    - Demenz: Progressiver, multidimensionaler Verlust von kognitiven Funktionen.
      Ein Fortschreiten bis in einen PVS als Endstadium ist möglich.
-   
+
    <table>
      <thead>
        <tr style="height: 14rem;">
@@ -636,7 +637,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
        </tr>
      </tbody>
    </table>
-   
+
    .wachkoma-und-verwandte-zustaende#Wachkoma (PVS) und verwandte Zustände [@persistent-vegetative-state:1994:part-1].
 
    Bei den Ursachen, die zu einem Wachkoma führen können, unterscheidet man zunächst zwischen akuten Ursachen auf der einen und kongenitaler bzw. degenerativen Ursachen auf der anderen Seite [@persistent-vegetative-state:1994:part-1].
@@ -657,6 +658,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
    Dabei muß allerdings angemerkt werden, daß eine eindeutige Diagnose oft sehr schwer ist und Fehldiagnosen bis zu $60\%$ der untersuchten Fälle ausmachen können [@andrews:1996].
 
    <!-- FIXME: Querverweis -->
+
    Beim Locked-in Syndrom sind die Patienten/innen bei Bewußtsein aber ohne jegliche Bewegungsmöglichkeit.
    Bei der "klassischen" Form, bleiben die vertikalen Augenbewegungen und der Lidschlag erhalten, und können mit geeigneten Interfaces für Kommunikationszwecke verwendet werden.
    Beim "totalen" Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist - wenn überhaupt - nur über die Auswertung des EEG (Brain Computer Interface - siehe Teil B, Kapitel 3.2.8) möglich.
@@ -674,6 +676,7 @@ Bei der Betrachtung von Alterserscheinungen sollte bewußt zwischen dem chronolo
 Durch eine Klassifizierung alter Menschen allein aufgrund ihres Lebensalters (wie sie im Rahmen von Statistiken mangels besserer Möglichkeiten immer wieder vorgenommen wird), werden hochgradig heterogene Bevölkerungsschichten geschaffen, deren Fähigkeiten in vielfacher Hinsicht nicht miteinander verglichen werden können.
 
 <!-- FIXME: missing bibliography entry: [PLO 98] -->
+
 Alter bedeutet zwar zunächst eine höhere Wahrscheinlichkeit, eine oder mehrere körperliche Beeinträchtigungen zu erleiden (<<fig:prozentueller-anteil-behinderungen-us>>), aber es darf dabei nicht vergessen werden, daß $84\%$ der Personen über $65$ keine fremde Hilfe bei der Verrichtung alltäglicher Aktivitäten benötigen.
 Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte oder Patienten und nicht als Konsumenten zu betrachten (<<fig:prozentueller-anteil-hilfestellungen-us>>); [@plo:1998, @yokoyama:1998, @charness:1998:b].
 
@@ -746,6 +749,7 @@ Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen
    In der Altersgruppe $65-74$ Jahre besitzen $92\%$ der Personen einen Visus besser als $0.8$ (bei bestmöglicher Korrektur), für die Altersgruppe $75-84$ sinkt dieser Wert jedoch auf $69\%$ [@kahn:1977].
 
    <!-- FIXME: missing bibliography entry: [GIT 86] -->
+
    ![Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter.](./pics/07/abnahme-sehleistung-im-alter.svg "abnahme-sehleistung-im-alter#Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter [@zagler:2008] [@fozard:1993] nach [@git:1986].")
 
 3) Verringerung des Akkommodationserfolges und der Akkommodationszeit  
@@ -793,7 +797,7 @@ Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen
    Während das Auge einer 20-jährigen Person mit einem Kameraobjektiv der Lichtstärke $2$ verglichen werden kann, beträgt die größte "Blende" einer 80-jährigen Person nur $5.6$.
    Das ist eine Verringerung um etwa $3$ Blendenstufen, was der Reduktion der auf die Netzhaut fallenden Lichtmenge um den Faktor $8$ gleichkommt.
    Damit erklärt sich der im Alter deutlich höhere Lichtbedarf (<<tab:altersabhaengigkeit-pupillendurchmesser>> und <<fig:abhaengigkeit-pupillendurchmesser-vom-alter>>).
-   
+
    <table>
      <col>
      <colgroup span="2"></colgroup>
@@ -842,7 +846,7 @@ Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen
        </tr>
      </tbody>
    </table>
-   
+
    .altersabhaengigkeit-pupillendurchmesser#Altersabhängigkeit des Pupillendurchmessers - f ist die dem äquivalenten photographischen System entsprechende gerundete Blendenzahl [@zagler:1997, @methling:1996].
 
    ![Abhängigkeit des Pupillendurchmessers vom Alter; 1: Bei Dunkelakkommodation; 2: Bei Hellakkommodation.](./pics/07/abhaengigkeit-pupillendurchmesser-vom-alter.svg "abhaengigkeit-pupillendurchmesser-vom-alter#Abhängigkeit des Pupillendurchmessers vom Alter [@zagler:2008, @methling:1996].")
@@ -947,7 +951,7 @@ Das bedeutet nicht nur, daß ältere Menschen dadurch weniger Freude am Essen ha
        </tr>
      </tbody>
    </table>
-   
+
    .altersabhaengigkeit-gehgeschwindigkeit#Abhängigkeit der Gehgeschwindigkeit vom Alter – Gesunde Personen [@fozard:1998]
 
    Werden auch Personen mit Mobilitätsbehinderung (sie verwenden Stock oder Krücke) einbezogen, ergibt sich nach einer finnischen Studie folgendes Bild (<<tab:gehgeschwindigkeit-alter-personen>>):
@@ -991,7 +995,7 @@ Das bedeutet nicht nur, daß ältere Menschen dadurch weniger Freude am Essen ha
        </tr>
      </tbody>
    </table>
-   
+
    .gehgeschwindigkeit-alter-personen#Gehgeschwindigkeit alter Personen - Gesunde Personen und Personen, die Gehhilfen verwenden - Laborwerte von 55 Versuchspersonen [@virokannas:1998]
 
    Die Gehgeschwindigkeit einer Person ist proportional der zur ihr Verfügung stehenden Muskelkraft, wobei dem Strecken des Kniegelenkes eine wesentliche Rolle zukommt.
@@ -1041,7 +1045,6 @@ Das bedeutet nicht nur, daß ältere Menschen dadurch weniger Freude am Essen ha
    </table>
 
    .stuerze-todesursache-abhaengigkeit-alter#Stürze als Todesursache in Abhängigkeit vom Alter Office of Population Censuses and Surveys, Großbritannien, 1986; aus [@williams:1998:c].
-   
 
 {.lower-alpha}
 
@@ -1088,4 +1091,4 @@ Das bedeutet nicht nur, daß ältere Menschen dadurch weniger Freude am Essen ha
 
 {.lower-alpha}
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

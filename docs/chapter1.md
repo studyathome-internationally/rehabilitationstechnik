@@ -13,18 +13,19 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
-# Definitionen und Wortwahl
-
+<!-- prettier-ignore -->
 *[USA]: United States of America
 *[CERTEC]: Center of Rehabilitation Engineering Research
 *[WHO]: World Health Organization
+
+# Definitionen und Wortwahl
 
 ## Behinderung: Definition
 
 Das Lexikon (der Große Brockhaus [@brockhaus:1994]) definiert wie folgt:
 
 > „Behinderte“ sind Menschen in allen Altersgruppen, die durch einen angeborenen oder erworbenen gesundheitlichen Schaden in der Ausübung der im entsprechenden Lebensalter üblichen Funktionen beeinträchtigt sind [@brockhaus:1994].
- 
+
 Die substantivierte Form „Behinderte“ wird allgemein als diskriminierend abgelehnt und sollte generell durch Ausdrücke wie „behinderte Menschen", „Personen mit Behinderung", „behinderte Anwender“ etc. ersetzt werden.
 Im hier angeführten Text handelt es sich jedoch um ein wörtliches Zitat aus dem Lexikon bzw. aus WHO-Texten, die nicht verändert wurden.
 
@@ -32,6 +33,7 @@ Im hier angeführten Text handelt es sich jedoch um ein wörtliches Zitat aus de
 
 <!-- FIXME: „vorangehendes Kapitel“ -->
 <!-- FIXZW: gelöscht „vorangehendes Kapitel“ -->
+
 Bis vor kurzem wurden behinderte Menschen ausschließlich gemäß einer Mangeldefinition betrachtet und eingestuft.
 Die Gesellschaft definiert eine bestimmte „Normalität“ und legt damit auf einer eindimensionalen Skala eine Latte fest, unterhalb von der eine Person als behindert gilt.
 
@@ -52,11 +54,11 @@ Diese Sichtweise erscheint aus zwei Gründen vorteilhaft zu sein.
 Erstens trägt sie dazu bei, Vorurteilen entgegenzuwirken und somit gesellschaftliche Barrieren für die Integration behinderter Menschen anzubauen.
 Zweitens – und das ist für die Rehabilitationstechnik von entscheidender Bedeutung – lenkt sie den Blick verstärkt auf die einer Person trotz einer Behinderung verbliebenen Stärken und Fähigkeiten.
 Bei der Schaffung von technischen Hilfen für behinderte Menschen muss sich die Rehabilitationstechnik aber genau diese Fähigkeiten und Stärken zunutze machen, um einen Beitrag zur Kompensation von Schwächen und Mängeln leisten zu können.
-Der Techniker / die Technikerin ist daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.  
+Der Techniker / die Technikerin ist daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.
 
 ![Eindimensionale und mehrschichtige Sichtweise von Behinderung.](./pics/01/sichtweise-auf-behinderung.svg "sichtweise-behinderung#Eindimensionale und mehrschichtige Sichtweise von Behinderung [@zagler:2008].")
 
 > Unsere Tests, unsere Ansätze und „Bewertungen“ sind geradezu unzulänglich (...) sie zeigen uns nur die Mängel (...) nicht die Fähigkeiten; sie führen uns Puzzles und Schemata vor, während es doch darauf ankommt, Musik, Geschichten und Spiele zu begreifen und zu erkennen, wie ein Mensch sich spontan auf seine eigene, natürliche Weise beträgt.  
 > _Oliver Sacks_ [@sacks:1998]
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

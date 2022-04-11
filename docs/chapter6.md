@@ -150,7 +150,6 @@ Diese aus Konvergenz und Divergenz gebildete Vernetzung macht die enorme Fähigk
 Im Bereich des Kopfes zweigen aus dem Zentralnervensystem (ZNS) 12 Hirnnerven (-paare) ab, die in der medizinischen Literatur üblicherweise mit römischen Ziffern bezeichnet werden.
 In <<tab:namen-funktionen-hirnnerven>> sind die Namen und die wichtigsten Versorgungsgebiete bzw. Funktionen der Hirnnerven zusammengefaßt.
 
-
 <table>
     <thead>
         <tr>
@@ -298,7 +297,6 @@ Vereinfacht wird oft von "blauen", "grünen" und "roten" Zäpfchen gesprochen.
 Von allen in der Netzhaut vorkommenden Zäpfchen sind rund $46\%$ rot, $46\%$ grün aber nur $8\%$ blau [@bright:1997].
 Die Stäbchen erreichen ihr spektrales Maximum bei $510\;\sf{nm}$ und leisten keinen Beitrag zur Farbenwahrnehmung (<<fig:spektrales-verhalten-zaepfchen>>).
 
-
 ![Spektrales Verhalten der Zäpfchen: Absorption in % der gesamten einfallenden Lichtmenge](./pics/06/spektrales-verhalten-zaepfchen.svg "spektrales-verhalten-zaepfchen#Spektrales Verhalten der Zäpfchen: Absorption in $\\%$ der gesamten einfallenden Lichtmenge [@lindsay:1981].")
 
 ### Intensitätsbereich und Adaptation
@@ -437,7 +435,7 @@ Die genauen Werte für das sogenannte emmetrope (normalsichtige) Auge werden in 
   </tbody>
 </table>
 
-.brechkraft-emmetropes-auge#Brechkraft des emmetropen Auges  [@methling:1996].
+.brechkraft-emmetropes-auge#Brechkraft des emmetropen Auges [@methling:1996].
 
 Die gesamte Brechkraft wird also etwa zu $2/3$ von Hornhaut und Vorderkammer und zu $1/3$ von Linse und Glaskörper aufgebracht.
 Durch eine Kontraktion des Ziliarmuskels werden die Zonulafasern entspannt.
@@ -454,7 +452,6 @@ Als durchschnittlicher Richtwert gelten $15$ bis $16$ Lidschläge / min [@wilson
 Die Lidschlagfrequenz nimmt bei lang andauernden Tätigkeiten mit hoher Sehanforderung zu und kann dann Werte bis über $70$ Lidschläge / min erreichen [@methling:1996].
 
 Die Dauer eines Lidschlages (Zeit, in der das Auge verschlossen bleibt) wird in der Literatur für unwillkürliche Lidschläge mit kleiner als $100\sf{ms}$, für willkürliche Lidschläge jedoch mit größer als $250\sf{ms}$ angegeben [@lauruska:1996].
-
 
 ### Vorverarbeitung und Informationsverdichtung in der Retina
 
@@ -668,6 +665,7 @@ Die Isophone ist die Menge aller gleich laut empfundenen Töne.
 Unter der Schallimpedanz versteht den Wellenwiderstand (Produkt aus Dichte und Schallgeschwindigkeit) eines Mediums [@pschyrembel:1989].
 
 <!-- FIXME: Querverweis -->
+
 Für die Bewertung von Hörleistungen bzw. Hörverlusten in der Audiometrie (siehe Kapitel 7.4.5) wird ein logarithmisches Maß (dB) verwendet, dessen Nullpunkt bei der jeweils betrachteten Frequenz die "normale Hörschwelle" ist (audiometrischer Nullpunkt).
 Hörverluste werden in dB HV oder dB HL (Zusatz HV für Hörverlust bzw. HL für _Hearing Loss_ oder _Hearing Level_) angegeben und geben an, um wieviel dB der Schalldruck über die normale Hörschwelle (siehe <<fig:dynamikbereich-ohr>>) angehoben werden muß, damit eine hörbehinderte Person einen Ton bei einer bestimmten Frequenz wahrnehmen kann.
 
@@ -675,7 +673,6 @@ Zur Bewertung der Wahrnehmung von akustischen Signalen bei Anwesenheit von Stör
 Die Referenzschwelle (also $0\;\sf{dB}$ SL) wird für eine bestimmte zu bewertende Hörsituation dort gelegt, wo die Versuchsperson das Schallereignis (das Signal) bei $50\%$ der durchgeführten Messungen aus des Hintergrundgeräusch (Rauschen) heraushören kann.
 Der in dB SL angegebene Schalldruckpegel gibt daher an, um wieviel ein Signal über dieser Referenzschwelle liegt.
 Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrück:1993].
-
 
 ### Anatomie des Ohres
 
@@ -690,10 +687,10 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 2. Mittelohr  
    Die Weiterleitung des Schalls im Mittelohr (Paukenhöhle) – zwischen dem Trommelfell und dem ovalen Fenster – erfolgt über die drei gelenkig miteinander verbundenen Gehörknöchelchen: Hammer (_Malleus_), Amboß (_Incus_) und Steigbügel (_Stapes_).
    Der Durchmesser der Paukenhöhle (vom Trommelfell bis zur Innenwand) beträgt nur etwa $5\;\sf{mm}$.
-   Die Dicke des Trommelfells beträgt $0.1\;\sf{mm}$ (<<fig:schnitt-durch-ohr>>). 
+   Die Dicke des Trommelfells beträgt $0.1\;\sf{mm}$ (<<fig:schnitt-durch-ohr>>).
 
    ![Schnitt durch das Ohr](./pics/06/schnitt-durch-ohr.svg "schnitt-durch-ohr#Schnitt durch das Ohr [@servier-medical-art:2019, @faller:1995].")
-   
+
    > <<fig:schnitt-durch-ohr>>
    >
    > 1. Äußerer Gehörgang;
@@ -784,7 +781,6 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Etwa $1\:800$ sind efferent und stehen in Verbindung mit den im nächsten Abschnitt beschriebenen aktiven Vorgängen in der Cochlea [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
    Die örtliche Dichte der Neuronen beträgt am Beginn der Cochlea (beim ovalen Fenster) $1\:150$ Ganglienzellen/mm und nimmt zum Helicotrema hin ab [@lindsay:1981].
 
-
 2. Ausbildung der Wanderwelle und cochleärer Verstärker  
    Bisher wurde die Mechanik des Innenohres nur dem Prinzip nach geschildert.
    Genauer betrachtet löst die Vibration des Steigbügel-Fußplatte zunächst nur am Beginn der Schnecke eine Bewegung der cochleären Trennwand aus, die sich im weiteren zeitlichen Verlauf als Wanderwelle entlang der gesamten Schnecke ausbreitet.
@@ -808,7 +804,6 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    ![Aktive Verstärkung der Wanderwelle](./pics/06/verstaerkung-wanderwelle.svg "verstaerkung-wanderwelle#Aktive Verstärkung der Wanderwelle [@zenner:1994:a].")
 
-
 3. Frequenzselektivität des Ohres  
    Die Ausbildung der passiven und auch der aktiven Wanderwelle (Ortstheorie, Tonotopie) ist nicht vollkommen ausreichend, um die enorme Frequenzselektivität des Ohres zu erklären.
    Zu dieser Annahme gelangt man einerseits aus Messungen bei mittleren Schalldruckpegeln, bei denen fast alle Fasern des Hörnervs aktiv sind und nicht nur die, die für die jeweilige Frequenz charakteristisch sind.
@@ -820,7 +815,6 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Beim sogenannten Salvenprinzip wechseln sich mehrere Nervenfasern so beim "Feuern" ab, daß die Summe (Überlagerung) ihrer einzelnen Entladungen der zu übermittelnden Frequenz entspricht.
    Dies führt zur sogenannten Periodentheorie (mikrophonische Theorie) der Frequenzselektivität.
    Einzelne Nervenfasern werden zu Gruppen zusammengefaßt und so synchronisiert, daß das Gesamtmuster ihrer neuralen Aktivität auch höheren Frequenzen zu folgen vermag (<<fig:schematische-darstellung-salvenprinzip>>) [@troost:1998].
-
 
    ![Schematische Darstellung der Übertragung höherer Frequenzen durch das Salvenprinzip](./pics/06/schematische-darstellung-salvenprinzip.svg "schematische-darstellung-salvenprinzip#Schematische Darstellung der Übertragung höherer Frequenzen durch das Salvenprinzip [@guski:1996].")
 
@@ -900,7 +894,6 @@ Der Nutzen, mittels einer Angabe in dB HV eine stichhaltige Trennungslinie zwisc
 Wesentlich wichtiger ist die Funktionalität des Gehörs in Bezug auf die sozial bedeutendste Aufgabe, das Hören und Verstehen gesprochener Sprache, zu bewerten.
 In diesem Sinn wird von Praktikern vorgeschlagen, die Trennung dort zu ziehen, wo das auditive Kommunizieren trotz verstärkender Hilfsmittel scheitert [@dotter:1996].
 
-
 Bei der Klassifizierung von Hörschädigungen wird in erster Linie unterschieden, ob die Reduktion der Hörleistung durch eine verringerte Leitung des Schalls bis zu den Rezeptoren (Haarzellen) des Innenohrs bedingt ist oder ob eine Schädigung der Cochlea oder der nachfolgenden Nervenbahnen (Hörbahn) vorliegt.
 Nach dieser generellen Unterscheidung werden noch einige typische Formen der Schwerhörigkeit besprochen
 
@@ -909,10 +902,11 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
    Das Hörvermögen ist vermindert, nie jedoch völlig verloren.
 
    <!-- FIXME: Querverweis -->
+
    Im Tonschwellenaudiogramm (siehe dazu Kapitel 7.4.5) äußert sich eine Schalleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normalhörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
    Man spricht hier vom Auftreten einer "KL-LL-Differenz oder "air-bone-gap").
 
-   ![Tonschwellenaudiogramm bei Schalleitungsschwerhörigkeit – die Luftleitungskurve liegt unter der Knochenleitungskurve.](./pics/06/tonschwellenaudiogramm-schallleitung.svg "tonschwellenaudiogramm-schallleitung#Tonschwellenaudiogramm bei Schalleitungsschwerhörigkeit – die Luftleitungskurve (x) liegt unter der Knochenleitungskurve (]) = \"air-bone-gap\" [@hellbrück:1993].")
+   ![Tonschwellenaudiogramm bei Schalleitungsschwerhörigkeit – die Luftleitungskurve liegt unter der Knochenleitungskurve.](./pics/06/tonschwellenaudiogramm-schallleitung.svg 'tonschwellenaudiogramm-schallleitung#Tonschwellenaudiogramm bei Schalleitungsschwerhörigkeit – die Luftleitungskurve (x) liegt unter der Knochenleitungskurve (]) = "air-bone-gap" [@hellbrück:1993].')
 
    Ein Verschließen der Ohren mit den Fingern führt zu einer Dämpfung von ca. $20\;\sf{dB}\,\sf{HV}$, simuliert also eine Schalleitungsschwerhörigkeit, die noch geringer ist, als eine "geringe Hörschädigung" nach ICIDH (siehe <<tab:kategorien-hoerschaedigung-nach-icidh>>).
 
@@ -965,10 +959,9 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
    Die Auswirkungen von überlauter Musik (Diskotheken, open-air Konzerte[^16], "Car-Sound") und insbesondere die über Kopf- und Ohrhörer konsumierte Musik aus tragbaren Geräten stellen ein enormes Risiko dar.
    Allen Liebhabern solcher "Schallquellen" muß an dieser Stelle warnend ins Stammbuch geschrieben werden, daß Beschädigungen der Haarzellen absolut irreversibel sind.
 
-
    [^16]: Der von einer "durchschnittlichen" Rockband produzierte Schalldruckpegel wird in der Literatur mit $120$ bis $130\;\sf{dB}\,\sf{SPL}$ angegeben. Für die Gruppe "The Who" finden sich Werte bis $160\;\sf{dB}\,\sf{SPL}$ (!). Die Folgen für die Haarzellen sind leicht vorstellbar. Nur der Start eines Space-Shuttles (in $50\;\sf{m}$ Entfernung gemessen) übertrifft mit $180\;\sf{dB}\,\sf{SPL}$ diesen Wert noch deutlich [@lindsay:1981, @kendrik:1997].
 
-1. Altersschwerhörigkeit – Presbyakusis  
+5. Altersschwerhörigkeit – Presbyakusis  
    Unter Altersschwerhörigkeit (Presbyakusis) wird eine mit zunehmendem Alter steigende Hörschwelle bei höheren Frequenzen verstanden (den typischen Verlauf des Audiogramms zeigt <<fig:tonschwellenaudiogramm-altersschwerhoerigkeit>>).
 
    ![Tonschwellenaudiogramm bei Altersschwerhörigkeit – typischer Verlust im Bereich der hohen Töne.](./pics/06/tonschwellenaudiogramm-altersschwerhoerigkeit.svg "tonschwellenaudiogramm-altersschwerhoerigkeit#Tonschwellenaudiogramm bei Altersschwerhörigkeit – typischer Verlust im Bereich der hohen Töne.")
@@ -1148,6 +1141,7 @@ Für die Zweipunktunterscheidung (Zweipunktdiskriminierung) an verschiedenen Kö
 .zweipunktdiskriminierung-tastreizen#Zweipunktdiskriminierung von Tastreizen in verschiedenen Körperregionen [@betz:1991].
 
 <!-- FIXME: Querverweis -->
+
 Die feinste Diskriminierung ermöglicht also die Zunge gefolgt von den Fingerbeeren.
 Gerade die großen Hautpartien, die sich hinsichtlich ihrer Fläche für die taktile Wahrnehmung von Bildern anbieten würden, schneiden bei der räumlichen Reizdiskriminierung äußerst schlecht ab.
 Zusätzlich muß unterschieden werden, ob beide taktilen Stimuli gleichzeitig (simultan) oder nacheinander (sukzessiv) präsentiert werden.
@@ -1159,6 +1153,7 @@ Für die Darstellung einer aus Punkten gebildeten Linie, die als einigermaßen k
 ## Rückenmark, Bewegungsapparat und Muskulatur
 
 <!-- FIXME: Querverweis -->
+
 In diesem Kapitel wird gemeinsam mit der Besprechung von Muskulatur und Bewegungsapparat auch das Rückenmark besprochen, weil alle motorischen Befehle, durch die periphere Muskel angeregt werden können, über diese Verbindung vom Zentralnervensystem (ZNS) her angesprochen werden.
 Dabei ist es wichtig zu unterscheiden, welche Muskeln über eine direkte Verbindung vom Gehirn aus versorgt werden (Hirnnerven, siehe Kapitel 7.1.5) und welche über das Rückenmark laufen und daher bei Verletzungen der Wirbelsäule in Mitleidenschaft gezogen werden können.
 
@@ -1276,7 +1271,7 @@ Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
    Die Bezeichnung von Lähmungen in Hinblick auf Ort und Ausmaß kann der <<tab:klassifizierung-laehmungen>> entnommen werden.
 
    [^24]: Die Bezeichnungen sind in der Literatur nicht einheitlich gewählt. Einerseits wird der allgemeine Begriff Plegie auch im Zusammenhang mit vollständigen Lähmungen verwendet, andererseits findet man die Bezeichnung Paralyse anstelle von Plegie.
-   
+
    <!-- FIXME: figure referencing -->
    <table>
      <colgroup>
@@ -1367,9 +1362,9 @@ Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
        </tr>
      </tbody>
    </table>
- 
+
    .klassifizierung-laehmungen# Klassifizierung von Lähmungen nach Ort und Ausmaß.
- 
+
 3. Störungen des Muskeltonus und der Bewegung  
    Störungen des Bewegungsablaufes werden allgemein _Dyskinesen_ genannt.
    Man unterscheidet folgende Formen:
@@ -1490,6 +1485,7 @@ Schädigungen im Bereich des zentralen und peripheren Nervensystems können nebe
 Aus diesem Grund werden bei der Behandlung von Muskelerkrankungen meistens die eigentlichen Muskelerkrankungen (primäre Myopathien) und die neurogenen (also nervlich verursachte) Muskelerkrankungen (sekundäre Myopathien) unter dem gemeinsamen Begriff der neuromuskulären Erkrankungen zusammengefaßt.
 
 <!-- FIXME: Querverweis -->
+
 Wegen der viel breiteren Betrachtungsweise von motorischen Störungen werden hier diese beiden Kategorien getrennt behandelt.
 Die neurogenen (sekundären) Myopathien finden sich daher in diesem Kapitel.
 Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel 7.8.5 gewidmet.
@@ -1645,6 +1641,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel 7
 ### Muskuläre Ursachen
 
 <!-- FIXME: Querverweis -->
+
 In diesem Abschnitt werden die Muskelerkrankungen im engeren Sinn (primäre Myopathien) behandelt.
 Dazu gehören alle Krankheiten, bei denen die Muskelfasern direkt von einem Krankheitsprozeß betroffen sind [@deutsche-gesellschaft-muskelkranke:1998].
 Die sekundären oder auch neurogenen Myopathien finden sich im Kapitel 7.8.4.
@@ -1694,6 +1691,7 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
      Im Gegensatz zu den meisten anderen Muskelerkrankungen kann es hier kann es zu weiteren Schädigungen kommen, die vom Katerakt bis hin zu geistigen Behinderungen reichen.
 
 <!-- FIXME: Querverweis -->
+
 2. Myasthenien  
    Unter Myasthenien (Muskelschwächen) wird eine Gruppe von nicht erblichen Autoimmunkrankheiten[^31] verstanden, bei denen die Übertragung neuraler Reize von den motorischen Nerven auf das Muskelgewebe zufolge Blockade von Acetylcholinrezeptoren der motorischen Endplatten gestört ist (siehe Kapitel 7.7.2).
 
@@ -1707,4 +1705,4 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
 
 {.lower-alpha}
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

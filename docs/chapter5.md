@@ -13,6 +13,7 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
+<!-- prettier-ignore -->
 *[EN]: Europäische Norm (European Standard)
 *[ISO]: International Organization for Standardization
 
@@ -64,7 +65,6 @@ Beispiel für die Klassifizierung eines Telefon-Hörverstärkers mit der Codieru
 
 Für unsere Betrachtungen ist vor allem die Klasse 21 von Bedeutung.
 Sie wird in <<tab:beispiel-technische-klassifikation-iso-9999>> anhand von einigen Beispielen näher ausgeführt.
-
 
 <table>
   <thead>
@@ -314,7 +314,6 @@ Auch thermische Reize liefern nur geringe Bandbreiten.
 
 .bandbreiten-menschliche-sinnesorgane#Bandbreiten der menschlichen Sinnesorgane [@kokjer:1987, @way:1997].
 
-
 ### Aktuatorisches Vikariat
 
 Das aktuatorische Vikariat ist in der entgegengesetzten Richtung wirksam, also vom Menschen zu Umwelt hin.
@@ -323,4 +322,4 @@ Das in diesem Beispiel angenommene Hilfsmittel H empfängt Sprachkommandos und s
 
 ![Wirkungsweise eines aktuatorischen Vikariats (Ersatz des Hebens durch Sprechen).](./pics/05/wirkungsweise-aktuatorisches-vikariat.svg "wirkungsweise-aktuatorisches-vikariat#Wirkungsweise eines aktuatorischen Vikariats (Ersatz des Hebens durch Sprechen) [@zagler:2008].")
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

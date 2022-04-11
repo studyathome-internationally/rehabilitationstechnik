@@ -31,4 +31,4 @@ Es soll deutlich gemacht werden, daß unter einer Barriere jegliches Hindernis (
 
 ![Behinderung wird dann erlebt, wenn die eigene Leistung geringer ist, als die von der Umgebung bzw. Gesellschaft gestellte Aufgabe.](./pics/03/behinderung-leistung-umgebung.svg "erlebnis-behinderung#Behinderung wird dann erlebt, wenn die eigene Leistung geringer ist, als die von der Umgebung bzw. Gesellschaft gestellte Aufgabe [@zagler:2008].")
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!

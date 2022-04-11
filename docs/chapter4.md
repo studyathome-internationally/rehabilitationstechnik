@@ -52,10 +52,12 @@ Es sollte daher eine ehrenvolle Aufgabe für jeden Techniker und jede Technikeri
 
 ![Überwindung des Handicaps](./pics/04/ueberwindung-des-handicaps.svg "ueberwindung-handicap#Überwindung des Handicaps [@zagler:2008].")
 
+<!-- prettier-ignore -->
 > <<fig:ueberwindung-handicap>>
+>
 > 1. durch Hilfsmittel zur Wiederherstellung der Funktion
 > 2. durch Hilfsmittel zur Überwindung der Barriere
 > 3. durch Beseitigung der Barriere
 > {.lower-alpha}
 
-!!!include(docs/general/attribution.md)!!!
+!!!include(general/attribution.md)!!!
