@@ -132,10 +132,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(require("markdown-it-include"));
     // md.use(require("markdown-it-mathjax"), { tex: { ags: "ams" }, svg: { scale: 1, mtextInheritFont: true }, display: true });
     // md.use(require("markdown-it-mathjax-chtml"));
-    md.use(require("markdown-it-math-jax"));
+    // md.use(require("markdown-it-math-jax"));
     md.use(require("./markdown/abbreviation"));
     md.use(require("./markdown/footnote"));
-    // md.use(require("./markdown/math"));
+    md.use(require("./markdown/math"));
   },
   plugins: [
     ["image-comparator", {
@@ -147,80 +147,4 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     }]
   ],
   bundler,
-   bundlerConfig: {
-    vuePluginOptions: {
-      template: {
-        compilerOptions: {
-          isCustomElement: (tag) => {
-            return ["mjx-container"].includes(tag);
-          }
-        }
-      }
-    }
-  },
-  head: [
-    // ["script", {}, `
-    //   window.MathJax = {
-    //     loader: {load: ["input/asciimath"]},
-    //     startup: {
-    //       pageReady: function () {
-    //         //
-    //         // Synchronize menu renderer item with on-screen popup menu
-    //         //
-    //         var select = document.getElementById("Renderer");
-    //         if (select) {
-    //           var renderer = MathJax.startup.document.menu.settings.renderer;
-    //           var menu = MathJax.startup.document.menu.menu;
-    //           var item = (menu.getPool ? menu.getPool() : menu.pool).lookup("renderer");
-    //           select.value = renderer;
-    //           if (renderer !== "CHTML") item.setValue(renderer);
-    //           item.registerCallback(function () {
-    //             var value = item.getValue();
-    //             if (value !== select.value) select.value = value;
-    //           });
-    //           window.setMode = function (renderer) {
-    //             if (item.getValue() !== renderer) item.setValue(renderer);
-    //           }
-    //           //
-    //           //  Set up processing of input content
-    //           //
-    //           var input = document.getElementById("MathInput");
-    //           var output = document.getElementById("MathPreview");
-    //           var button = document.getElementById("renderHTML");
-    //           output.innerHTML = input.value.trim();
-    //           window.typesetInput = function () {
-    //             button.disabled = true;
-    //             output.innerHTML = input.value.trim();
-    //             MathJax.texReset();
-    //             MathJax.typesetClear();
-    //             MathJax.typesetPromise([output]).catch(function (err) {
-    //               output.innerHTML = "";
-    //               output.appendChild(document.createTextNode(err.message));
-    //               console.error(err);
-    //             }).then(function () {
-    //               button.disabled = false;
-    //             });
-    //           }
-    //           input.oninput = typesetInput;
-    //         }
-
-    //         return MathJax.startup.defaultPageReady();
-    //       }
-    //     },
-    //     tex: {
-    //       inlineMath: [["$", "$"], ["\\(", "\\)"]],
-    //       processEscapes: true
-    //     }
-    //   };
-    //   `
-    // ],
-    ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
-    // ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" }]
-    ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" }],
-    // ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" }]
-    // ["script", { charset: "UTF-8", src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/asciimath.js"}],
-    // ["script", { charset: "UTF-8", src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/sre/sre_browser.js" }],
-    // ["script", { charset: "UTF-8", src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/a11y/semantic-enrich.js" }],
-    // ["script", { charset: "UTF-8", src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/a11y/explorer.js"}],
-  ]
 })
