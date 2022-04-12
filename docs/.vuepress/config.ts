@@ -124,10 +124,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(require("markdown-it-include"));
     // md.use(require("markdown-it-mathjax"), { tex: { ags: "ams" }, svg: { scale: 1, mtextInheritFont: true }, display: true });
     // md.use(require("markdown-it-mathjax-chtml"));
-    // md.use(require("markdown-it-math-jax"));
+    md.use(require("markdown-it-mathjax-a11y"));
     md.use(require("./markdown/abbreviation"));
     md.use(require("./markdown/footnote"));
-    md.use(require("./markdown/math"));
+    // md.use(require("./markdown/math"));
   },
   plugins: [
     ["image-comparator", {
