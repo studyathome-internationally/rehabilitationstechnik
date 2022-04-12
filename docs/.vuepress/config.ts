@@ -14,13 +14,6 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   theme: "@vuepress/theme-default",
   themeConfig: {
     logo: "/images/fhtw-logo.svg",
-    // navbar: [
-    //   {
-    //     text: "Rehabilitationstechnik",
-    //     link: "/chapter1.md",
-    //     activeMatch: "/chapter1.md"
-    //   }
-    // ],
     sidebar: {
       "/": [
         {
