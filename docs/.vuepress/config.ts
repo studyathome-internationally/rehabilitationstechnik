@@ -3,8 +3,7 @@ import { defineUserConfig } from "@vuepress/cli";
 import type { DefaultThemeOptions } from "@vuepress/theme-default";
 import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
 
-const bundler = process.env.BUNDLER ? process.env.BUNDLER : '@vuepress/bundler-vite';
-process.env.BUNDLER = bundler;
+const bundler = process.env.BUNDLER ? process.env.BUNDLER : process.env.BUNDLER = '@vuepress/bundler-vite';
 
 export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   // site config
