@@ -11,60 +11,60 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   // base: "/next/",
   // theme and its config
   theme: "@vuepress/theme-default",
+  locales: {
+    "/": {
+      lang: "de-DE",
+      title: "Open Educational Resource",
+      description: "FH Technikum Wien"
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "Open Educational Resource",
+      description: "UAS Technikum Vienna"
+    }
+  },
   themeConfig: {
     logo: "/images/fhtw-logo.svg",
-    sidebar: {
-      "/": [
-        {
-          text: "Definition und Wortwahl",
-          link: "/chapter1.html",
-        },
-        {
-          text: "Die Ebenen der Behinderung nach WHO",
-          link: "/chapter2.html"
-        },
-        {
-          text: "Behinderung als Differenz zwischen Leistung und Anforderung",
-          link: "/chapter3.html"
-        },
-        {
-          text: "Rehabilitationstechnik",
-          link: "/chapter4.html"
-        },
-        {
-          text: "Einteilung der Hilfsmittel",
-          link: "/chapter5.html"
-        },
-        {
-          text: "Medizinische Grundlagen - Teil I",
-          link: "/chapter6.html"
-        },
-        {
-          text: "Medizinische Grundlagen - Teil II",
-          link: "/chapter7.html"
-        }
-      ]
-    },
     locales: {
       "/": {
         selectLanguageText: "Sprachen",
-        selectLanguageName: "Deutsch"
+        selectLanguageName: "Deutsch",
+        sidebar: {
+          "/": [
+            {
+              text: "Definition und Wortwahl",
+              link: "/chapter1.html",
+            },
+            {
+              text: "Die Ebenen der Behinderung nach WHO",
+              link: "/chapter2.html"
+            },
+            {
+              text: "Behinderung als Differenz zwischen Leistung und Anforderung",
+              link: "/chapter3.html"
+            },
+            {
+              text: "Rehabilitationstechnik",
+              link: "/chapter4.html"
+            },
+            {
+              text: "Einteilung der Hilfsmittel",
+              link: "/chapter5.html"
+            },
+            {
+              text: "Medizinische Grundlagen - Teil I",
+              link: "/chapter6.html"
+            },
+            {
+              text: "Medizinische Grundlagen - Teil II",
+              link: "/chapter7.html"
+            }
+          ]
+        },
       },
       "/en/": {
         selectLanguageText: "Languages",
         selectLanguageName: "English",
-        navbar: [
-          {
-            text: "Resources",
-            children: [
-              {
-                text: "Rehabilitation Technology",
-                link: "/en/chapter1.md",
-                activeMatch: "/en/chapter1.md"
-              }
-            ]
-          }
-        ],
         sidebar: {
           "/en/": [
             {
@@ -98,19 +98,6 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
           ]
         },
       }
-    }
-  },
-  locales: {
-    "/": {
-      lang: "de-DE",
-      // title: "Open Education",
-      title: "Open Educational Resource",
-      description: "FH Technikum Wien"
-    },
-    "/en/": {
-      lang: "en-US",
-      title: "Open Educational Resource",
-      description: "UAS Technikum Vienna"
     }
   },
   extendsMarkdown: (md) => {
