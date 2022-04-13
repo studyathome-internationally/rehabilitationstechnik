@@ -656,9 +656,12 @@ Die Isophone ist die Menge aller gleich laut empfundenen Töne.
 
 ![Dynamikbereich des Ohres](./pics/06/dynamikbereich-ohr.svg "dynamikbereich-ohr#Dynamikbereich des Ohres [@tetzchner:1991].")
 
-> <<fig:dynamikbereich-ohr>>  
-> Die Kurven geben gleich laut empfundene Lautstärke in Phon an (Isophone); schattiert: Hauptsprachbereich [@betz:1991, @schmidt:1997].
-> Der für Telephon angegebene Frequenzbereich bezieht sich auf die Bandbreiten analoger Telephonsysteme [^12].
+::: figcaption
+
+Die Kurven geben gleich laut empfundene Lautstärke in Phon an (Isophone); schattiert: Hauptsprachbereich [@betz:1991, @schmidt:1997].
+Der für Telephon angegebene Frequenzbereich bezieht sich auf die Bandbreiten analoger Telephonsysteme [^12].
+
+:::
 
 [^12]: Analoge Telephonsysteme sind mit einer Bandbreite von ca. $3.1\;\sf{kHz}$ ($300$ bis $3\:400\;\sf{Hz}$) spezifiziert. Digitale Systeme (ISDN) können Bandbreiten von typisch $7\;\sf{kHz}$ erreichen.
 
@@ -691,20 +694,22 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    ![Schnitt durch das Ohr](./pics/06/schnitt-durch-ohr.svg "schnitt-durch-ohr#Schnitt durch das Ohr [@servier-medical-art:2019, @faller:1995].")
 
-   > <<fig:schnitt-durch-ohr>>
-   >
-   > 1. Äußerer Gehörgang;
-   > 2. Ohrläppchen;
-   > 3. Trommelfell;
-   > 4. Hammer;
-   > 5. Paukenhöhle;
-   > 6. Amboß;
-   > 7. Steigbügel;
-   > 8. Steigbügelplatte im ovalen Fenster;
-   > 9. rundes Fenster;
-   > 10. Schnecke;
-   > 11. Bogengänge des Vestibularapparates (Gleichgewichtsorgan)
-   >     {.lower-alpha}
+   ::: figcaption
+
+   1. Äußerer Gehörgang;
+   2. Ohrläppchen;
+   3. Trommelfell;
+   4. Hammer;
+   5. Paukenhöhle;
+   6. Amboß;
+   7. Steigbügel;
+   8. Steigbügelplatte im ovalen Fenster;
+   9. rundes Fenster;
+   10. Schnecke;
+   11. Bogengänge des Vestibularapparates (Gleichgewichtsorgan)
+       {.lower-alpha}
+
+   :::
 
    Die Auslenkungen des Trommelfells (bei der Hörschwelle kleiner als $10^{-10}\;\sf{m}$, das ist $1\text{\AA}$, $0.1\;\sf{nm}$ oder etwa der Durchmesser eines Wasserstoffatoms) werden in komplizierten (frequenzabhängigen) Bewegungen über die drei Gehörknöchelchen zum ovalen Fenster übertragen.
    Dabei wird einerseits die Bewegungsamplitude durch die Hebelwirkung der Gehörknöchelchen herabgesetzt (etwa um den Faktor $0.7$) bzw. die Kraft, die am ovalen Fenster zur Verfügung steht, entsprechend vergrößert.
@@ -735,32 +740,41 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    ![Die Schnecke (rechtes Ohr), geöffnet](./pics/06/schnecke.svg "schnecke#Die Schnecke (rechtes Ohr), geöffnet [@servier-medical-art:2019, @betz:1991].")
 
-   > <<fig:schnecke>>
-   >
-   > 1. Steigbügel im ovalen Fenster;
-   > 2. Beginn der Vorhoftreppe;
-   > 3. häutiger Schneckengang;
-   > 4. rundes Fenster am Ende der Paukentreppe;
-   >    {.lower-alpha}
+   ::: figcaption
+
+   1. Steigbügel im ovalen Fenster;
+   2. Beginn der Vorhoftreppe;
+   3. häutiger Schneckengang;
+   4. rundes Fenster am Ende der Paukentreppe;
+      {.lower-alpha}
+
+   :::
 
    ![Schematischer Querschnitt durch die Schnecke](./pics/06/querschnitt-durch-schnecke.svg "querschnitt-durch-schnecke#Schematischer Querschnitt durch die Schnecke [@servier-medical-art:2019, @betz:1991].")
 
-   > <<fig:querschnitt-durch-schnecke>>
-   >
-   > 1. Vorhoftreppe;
-   > 2. häutiger Schneckengang;
-   > 3. Paukentreppe
-   >    {.upper-alpha}
+   ::: figcaption
 
-   > 1. Reissnersche Membran;
-   > 2. Deckmembran;
-   > 3. Basilarmembran;
-   > 4. Cortisches Organ;
-   > 5. äußere Haarzellen;
-   > 6. innere Haarzellen
-   >    {.lower-alpha}
+   <div>
 
-   {.lower-alpha}
+   1. Vorhoftreppe;
+   2. häutiger Schneckengang;
+   3. Paukentreppe
+      {.upper-alpha}
+
+   </div>
+   <div>
+
+   1. Reissnersche Membran;
+   2. Deckmembran;
+   3. Basilarmembran;
+   4. Cortisches Organ;
+   5. äußere Haarzellen;
+   6. innere Haarzellen
+      {.lower-alpha}
+
+   </div>
+
+   :::
 
 ### Physiologie des Ohres
 
@@ -1074,14 +1088,16 @@ Die Lage der Mechano-Rezeptoren in der menschlichen Fingerkuppe ist in <<fig:mec
 
 ![Mechano-Rezeptoren der menschlichen Haut: a: freie Nervenendigungen; b: Merkel-Zelle; c: Ruffini-Körperchen; d: Meissner-Körperchen; e: Vater-Pacini-Körperchen.](./pics/06/mechano-rezeptoren.svg "mechano-rezeptoren#Mechano-Rezeptoren der menschlichen Haut [@servier-medical-art:2019, @dudel:1996]")
 
-> <<fig:mechano-rezeptoren>>
->
-> 1. freie Nervenendigungen
-> 2. Merkel-Zelle
-> 3. Ruffini-Körperchen
-> 4. Meissner-Körperchen
-> 5. Vater-Pacini-Körperchen
->    {.lower-alpha}
+::: figcaption
+
+1. freie Nervenendigungen
+2. Merkel-Zelle
+3. Ruffini-Körperchen
+4. Meissner-Körperchen
+5. Vater-Pacini-Körperchen
+   {.lower-alpha}
+
+:::
 
 Wie alle Rezeptoren weisen auch Mechano-Rezeptoren bei Dauerreizung Adaptation auf (d.h. sie reagieren nur auf eine Änderung des Reizes).
 Die _Meißner-Körperchen_ (RA) reagieren auf eine Druckänderung, sie sind also _Geschwindigkeitssensoren_ und sind bei Reizfrequenzen zwischen $5\;\sf{Hz}$ bis $40\;\sf{Hz}$ dominant.

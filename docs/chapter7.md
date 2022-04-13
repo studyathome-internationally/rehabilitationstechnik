@@ -143,15 +143,15 @@ Beim Komplex "Sprache - Sprechen" lassen sich vier linguistische Ebenen untersch
 
    ![Stellung der Stimmbänder a: bei ruhiger Atmung; b: bei forcierter Atmung; c: bei Stimmbildung; d: bei Flüsterstimme](./pics/07/stellung-der-stimmbaender.svg "stellung-der-stimmbaender#Stellung der Stimmbänder [@servier-medical-art:2019,  @mörike:1981].")
 
-   <!-- FIXME: figure multiline captioning -->
+   ::: figcaption
 
-   > <<fig:stellung-der-stimmbaender>>
-   >
-   > 1. bei ruhiger Atmung;
-   > 2. bei forcierter Atmung;
-   > 3. bei Stimmbildung;
-   > 4. bei Flüsterstimme
-   >    {.lower-alpha}
+   1. bei ruhiger Atmung;
+   2. bei forcierter Atmung;
+   3. bei Stimmbildung;
+   4. bei Flüsterstimme
+      {.lower-alpha}
+
+   :::
 
 {.lower-alpha}
 
@@ -682,14 +682,16 @@ Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte 
 
 ![Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung](./pics/07/prozentueller-anteil-behinderungen-us.svg "prozentueller-anteil-behinderungen-us#Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Census Bureau, nach [@zagler:2008, @mcneil:1995]).")
 
-> <<fig:prozentueller-anteil-behinderungen-us>>
->
-> Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Census Bureau [@mcneil:1995]), die
->
-> 1. leicht oder schwer behindert sind;
-> 1. schwer behindert sind;
-> 1. bei mindestens einer Aktivität des täglichen Lebens Probleme haben[^45]
->    {.lower-alpha}
+::: figcaption
+
+Prozentueller Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Census Bureau [@mcneil:1995]), die
+
+1. leicht oder schwer behindert sind;
+2. schwer behindert sind;
+3. bei mindestens einer Aktivität des täglichen Lebens Probleme haben[^45]
+   {.lower-alpha}
+
+:::
 
 [^45]: Die Angaben gelten für den Bevölkerungsdurchschnitt. Schwarze sind stärker von Behinderungen betroffen. Z.B. Altersstufe $55-64$ Jahre: Weiße: $20\%$; Schwarze $35\%$ [@mcneil:1997].
 
@@ -851,10 +853,12 @@ Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen
 
    ![Abhängigkeit des Pupillendurchmessers vom Alter; 1: Bei Dunkelakkommodation; 2: Bei Hellakkommodation.](./pics/07/abhaengigkeit-pupillendurchmesser-vom-alter.svg "abhaengigkeit-pupillendurchmesser-vom-alter#Abhängigkeit des Pupillendurchmessers vom Alter [@zagler:2008, @methling:1996].")
 
-   > <<fig:abhaengigkeit-pupillendurchmesser-vom-alter>>
-   >
-   > 1. Bei Dunkelakkommodation;
-   > 2. Bei Hellakkommodation.
+   ::: figcaption
+
+   1. Bei Dunkelakkommodation;
+   2. Bei Hellakkommodation.
+
+   :::
 
    Auch bei photopischen Verhältnissen ist der Pupillendurchmesser einer über 60-jähringen Person wesentlich geringer als in der Jugend, sodaß der die Retina einer 60-jährigen Person erreichende Lichtstrom nur $1/3$ einer 20-jährigen Person beträgt und somit die für vergleichbare Sehleistung erforderliche Beleuchtungsstärke dreimal so groß ist [@methling:1996].
    Besonders bei alten Menschen ist die durch Erhöhung der Beleuchtungsstärke erzielbare Verbesserung der Sehleistung signifikant.
