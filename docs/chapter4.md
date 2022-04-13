@@ -13,6 +13,9 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
+<!-- prettier-ignore -->
+*[RT]: Rehabilitation Technology
+
 # Rehabilitationstechnik
 
 ## Medizintechnik und Rehabilitationstechnik
@@ -28,8 +31,8 @@ Diese ärztlichen Bemühungen können auch auf die Rehabilitation eines Patiente
 - Rehabilitationstechnik zielt auf die Wiederherstellung oder Verbesserung einer durch Schädigung betroffenen Funktion des Patienten ab.
 - Rehabilitationstechnik setzt daher bei der Fähigkeitsstörung (_disability_) bzw. bei der Beeinträchtigung (_handicap_) an.
 
-Rehabilitationstechnik (engl. _Rehabilitation Technology_, _Rehabilitation Engineering_, abk. RT) versteht sich als multidisziplinäres, technisches Fachgebiet, dessen Aufgabe es ist, technische und technologische Errungenschaften zur Verbesserung der Lebensqualität behinderter, chronisch-kranker und alter (gebrechlicher) Menschen nutzbar zu machen.
-Diese Multidisziplinarität besteht nicht bloß notgedrungen (wegen mangelnder Möglichkeit einer Zuordnung) sondern vollkommen bewußt.
+Rehabilitationstechnik (engl. _Rehabilitation Technology_, _Rehabilitation Engineering_, RT) versteht sich als multidisziplinäres, technisches Fachgebiet, dessen Aufgabe es ist, technische und technologische Errungenschaften zur Verbesserung der Lebensqualität behinderter, chronisch-kranker und alter (gebrechlicher) Menschen nutzbar zu machen.
+Diese Multidisziplinarität besteht nicht bloß notgedrungen (wegen mangelnder Möglichkeit einer Zuordnung), sondern vollkommen bewusst.
 Wenn es darum geht, Mittel und Wege zu finden, um behinderten, kranken und alten/gebrechlichen Menschen Hilfestellung zu mehr Selbständigkeit und höherer Lebensqualität zu geben, dann darf keine technische Disziplin davon ausgeschlossen werden.
 Es sollte daher eine ehrenvolle Aufgabe für jeden Techniker und jede Technikerin sein, das eigene Spezialgebiet danach zu durchforsten, welche Beiträge zur Rehabilitationstechnik damit geleistet werden können.
 
@@ -41,11 +44,10 @@ Es sollte daher eine ehrenvolle Aufgabe für jeden Techniker und jede Technikeri
    Siehe <<fig:ueberwindung-handicap>> (a).
 2. Überwindung der Auswirkungen einer Schädigung  
    Der Ansatz erfolgt bei der (sozialen) Beeinträchtigung.
-   Trotz Weiterbestand der Funktionsstörung kann die gesellschaftliche Rolle (Ausbildung, Beruf, selbständige Lebensführung etc.) wieder wahr-
-   genommen werden (z.B. Fernsehsendung mit Untertiteln für gehörlose Menschen).
+   Trotz Weiterbestand der Funktionsstörung kann die gesellschaftliche Rolle (Ausbildung, Beruf, selbständige Lebensführung etc.) wieder wahr-genommen werden (z.B. Fernsehsendung mit Untertiteln für gehörlose Menschen).
    Siehe <<fig:ueberwindung-handicap>> (b).
 3. Beseitigung von Barrieren  
-    Hier erfolgt der Ansatz bei der allgemeinen Gestaltung der Umwelt.
+   Hier erfolgt der Ansatz bei der allgemeinen Gestaltung der Umwelt.
    Die Rehabilitationstechnik zeigt Wege auf, wie barrierefreie Lebensräume geschaffen werden können, in denen Funktionseinschränkungen (_disabilities_) nicht zwangsläufig zur Beeinträchtigung (_handicap_) werden (z.B. Schaffung von stufenfreien Zugängen zu öffentlichen Einrichtungen).
    Siehe <<fig:ueberwindung-handicap>> (c).
    {.lower-alpha}
