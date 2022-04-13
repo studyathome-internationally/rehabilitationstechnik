@@ -27,13 +27,13 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="-29.00755"
-     inkscape:cx="229.52224"
-     inkscape:zoom="1.3789514"
+     inkscape:cy="71.793683"
+     inkscape:cx="140.86791"
+     inkscape:zoom="2.7579028"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
@@ -1297,25 +1297,14 @@
     <text
        xml:space="preserve"
        style="font-size:10px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.56339"
-       y="14.181038"
+       x="123.38273"
+       y="21.923223"
        id="text4757"><tspan
          sodipodi:role="line"
          style="font-size:10px;fill:#ffffff;stroke-width:0.75"
-         x="123.56339"
-         y="14.181038"
-         id="tspan6398">Beeinträchtigung</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.67619"
-       y="22.339241"
-       id="text8026"><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.75"
-         x="123.67619"
-         y="22.339241"
-         id="tspan8024">Handicap</tspan></text>
+         x="123.38273"
+         y="21.923223"
+         id="tspan6398">Handicap</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
@@ -1330,79 +1319,46 @@
     <text
        xml:space="preserve"
        style="font-size:10px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.56339"
-       y="52.837616"
+       x="123.25822"
+       y="60.275116"
        id="text21282"><tspan
          sodipodi:role="line"
          style="font-size:10px;fill:#ffffff;stroke-width:0.75"
-         x="123.56339"
-         y="52.837616"
-         id="tspan21280">Fähigkeitsstörung</tspan></text>
+         x="123.25822"
+         y="60.275116"
+         id="tspan21280">Disability</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.44767"
-       y="60.995815"
-       id="text21286"><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.75"
-         x="123.44767"
-         y="60.995815"
-         id="tspan21284">Disability</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.69962"
-       y="68.738007"
+       x="123.39445"
+       y="68.433319"
        id="text21290"><tspan
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.75"
-         x="123.69962"
-         y="68.738007"
+         x="123.39445"
+         y="68.433319"
          id="tspan21288">(Activities)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.72453"
-       y="90.905434"
+       x="123.22892"
+       y="98.342941"
        id="text21294"><tspan
          sodipodi:role="line"
          style="font-size:10px;fill:#ffffff;stroke-width:0.75"
-         x="123.72453"
-         y="90.905434"
-         id="tspan21292">Schädigung</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.36955"
-       y="99.063637"
-       id="text21298"><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.75"
-         x="123.36955"
-         y="99.063637"
-         id="tspan21296">Impairment</tspan></text>
+         x="123.22892"
+         y="98.342941"
+         id="tspan21292">Impairment</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.56339"
-       y="138.48883"
+       x="123.25822"
+       y="145.15094"
        id="text21306"><tspan
          sodipodi:role="line"
          style="font-size:10px;fill:#ffffff;stroke-width:0.75"
-         x="123.56339"
-         y="138.48883"
-         id="tspan21304">Krankheit und Verletzung</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:8px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke-width:0.75"
-       x="123.67032"
-       y="146.64703"
-       id="text21310"><tspan
-         sodipodi:role="line"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';fill:#ffffff;stroke-width:0.75"
-         x="123.67032"
-         y="146.64703"
-         id="tspan21308">Disease</tspan></text>
+         x="123.25822"
+         y="145.15094"
+         id="tspan21304">Disease and Injury</tspan></text>
   </g>
 </svg>
