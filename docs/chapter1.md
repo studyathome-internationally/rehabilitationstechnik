@@ -26,7 +26,7 @@ Das Lexikon (der Große Brockhaus [@brockhaus:1994]) definiert wie folgt:
 
 > „Behinderte“ sind Menschen in allen Altersgruppen, die durch einen angeborenen oder erworbenen gesundheitlichen Schaden in der Ausübung der im entsprechenden Lebensalter üblichen Funktionen beeinträchtigt sind [@brockhaus:1994].
 
-Die substantivierte Form „Behinderte“ wird allgemein als diskriminierend abgelehnt und sollte generell durch Ausdrücke wie „behinderte Menschen", „Personen mit Behinderung", „behinderte Anwender“ etc. ersetzt werden.
+Die substantivierte Form „Behinderte“ wird allgemein als diskriminierend abgelehnt und sollte generell durch Ausdrücke wie „behinderte Menschen“, „Personen mit Behinderung“, „behinderte Anwender“ etc. ersetzt werden.
 Im hier angeführten Text handelt es sich jedoch um ein wörtliches Zitat aus dem Lexikon bzw. aus WHO-Texten, die nicht verändert wurden.
 
 ## Behinderung: Sichtweise und Sprachgebrauch
@@ -47,14 +47,14 @@ So wird die substantivierte Form „Behinderte“ allgemein abgelehnt und soll z
 Dabei soll nicht die Tatsache einer Behinderung geleugnet oder beschönigt werden.
 Eine solche Wortwahl soll und kann aber helfen, das strenge Denken in Kategorien (Schubladisieren) zu durchbrechen und den Blick auf den ganzen Menschen zu lenken.
 
-Bodil Jönsson (CERTEC – Center of Rehabilitation Engineering Research, Universität Lund, Schweden) rät aus diesem Grund daher dringend vom Denken in eindimensionalen Skalen ab.
-Sie spricht daher bewusst nicht von _"disabled"_ oder _"mentally retarded persons"_ sondern immer von _"differently abled persons"_ [@jönsson:1996] (<<fig:sichtweise-behinderung>>, [@zagler:2008]).
+Bodil Jönsson (CERTEC, Universität Lund, Schweden) rät aus diesem Grund daher dringend vom Denken in eindimensionalen Skalen ab.
+Sie spricht daher bewusst nicht von _„disabled”_ oder _„mentally retarded persons”_ sondern immer von _„differently abled persons”_ [@jönsson:1996] (<<fig:sichtweise-behinderung>>).
 
 Diese Sichtweise erscheint aus zwei Gründen vorteilhaft zu sein.
 Erstens trägt sie dazu bei, Vorurteilen entgegenzuwirken und somit gesellschaftliche Barrieren für die Integration behinderter Menschen anzubauen.
 Zweitens – und das ist für die Rehabilitationstechnik von entscheidender Bedeutung – lenkt sie den Blick verstärkt auf die einer Person trotz einer Behinderung verbliebenen Stärken und Fähigkeiten.
 Bei der Schaffung von technischen Hilfen für behinderte Menschen muss sich die Rehabilitationstechnik aber genau diese Fähigkeiten und Stärken zunutze machen, um einen Beitrag zur Kompensation von Schwächen und Mängeln leisten zu können.
-Der Techniker / die Technikerin ist daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.
+Techniker und Technikerinnen ist daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.
 
 ![Eindimensionale und mehrschichtige Sichtweise von Behinderung.](./pics/01/sichtweise-auf-behinderung.svg "sichtweise-behinderung#Eindimensionale und mehrschichtige Sichtweise von Behinderung [@zagler:2008].")
 
