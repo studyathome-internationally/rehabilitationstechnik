@@ -21,7 +21,7 @@ All attribution and citation information applies only to the contents of this bo
 Use the following information to cite this book.
 
 - Author: Dr. Wolfgang L. Zagler
-- Title: Rehabilitation Technology
+- Title: Rehabilitationstechnik
 - Date: March 1, 2008
 - Location: Vienna, Austria
 - Book URL: <BookUrl/>
