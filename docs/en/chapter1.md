@@ -49,7 +49,7 @@ This is not intended to deny or gloss over the fact of a disability.
 However, such a choice of words should and can help to break through the strict thinking in categories (pigeonholing) and to direct the view to the whole person.
 
 Bodil Jönsson (CERTEC, Lund University, Sweden) therefore strongly advises against thinking in one-dimensional scales.
-She therefore deliberately does not speak of “disabled” or “mentally retarded persons” but always of “differently abled persons” [@jönsson:1996] (<<fig:sichtweise-behinderung>>).
+She therefore deliberately does not speak of _“disabled”_ or _“mentally retarded persons”_ but always of _“differently abled persons”_ [@jönsson:1996] (<<fig:sichtweise-behinderung>>).
 
 This view appears to be advantageous for two reasons.
 First, it helps to counteract prejudices and thus to raise social barriers to the integration of disabled people.
