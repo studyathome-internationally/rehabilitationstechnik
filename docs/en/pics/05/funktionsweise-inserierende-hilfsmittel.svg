@@ -2,7 +2,7 @@
 <svg width="600px" height="237px" version="1.1" viewBox="0 0 600 237" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <symbol id="a" overflow="visible">
-<path d="m4.375-34.828h8.9531v13.281h13.219v-13.281h8.9688v34.828h-8.9688v-14.766h-13.219v14.766h-8.9531z"/>
+<path d="m25.453-6.3438h-14l-2.2188 6.3438h-9l12.859-34.828h10.688l12.875 34.828h-9.0156zm-11.766-6.4531h9.5156l-4.75-13.859z"/>
 </symbol>
 </defs>
 <path transform="matrix(1.9859 0 0 1.9901 0 .11178)" d="m63.46 48.539-20.325 58.421c18.672 7.4667 41.076 7.4667 59.746 0l-20.33-58.419c-6.3257 0.72037-12.766 0.72037-19.091-0.001963z" fill="#fff" stroke="#000" stroke-linejoin="round" stroke-width="2.8226"/>
@@ -20,6 +20,6 @@
 <path transform="matrix(1.126 -1.38e-16 1.38e-16 1.1284 517.78 69.847)" d="m5.7705 2.7371e-4 -8.6518 4.9989v-9.9978z" fill-rule="evenodd" stroke="#000" stroke-width="1.25"/>
 <path transform="matrix(1.9859 0 0 1.9901 0 .11178)" d="m175.3 20.042h30v30h-30z" fill="#fff" stroke="#000" stroke-width="2.8346"/>
 <g>
-<use x="357.980469" y="87.255429" xlink:href="#a"/>
+<use x="359.480469" y="87.255429" xlink:href="#a"/>
 </g>
 </svg>

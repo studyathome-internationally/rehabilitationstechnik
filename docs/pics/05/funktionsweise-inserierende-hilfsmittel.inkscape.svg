@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="funktionsweise-inserierende-hilfsmittel.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="funktionsweise-inserierende-hilfsmittel.inkscape.svg"
    id="svg4882"
    version="1.2"
    viewBox="0 0 302.12367 118.97873"
    height="118.97873pt"
-   width="302.12366pt">
+   width="302.12366pt"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata4886">
     <rdf:RDF>
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,8 +31,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="-7.688188"
-     inkscape:cx="142.41868"
+     inkscape:cy="-7.9770762"
+     inkscape:cx="213.93068"
      inkscape:zoom="2.7579027"
      fit-margin-bottom="5"
      fit-margin-right="5"
@@ -60,7 +59,9 @@
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="pt">
     <inkscape:grid
        type="xygrid"
        id="grid1252"
@@ -1902,7 +1903,7 @@
   </g>
   <path
      id="path1371"
-     style="fill:none;stroke:#000000;stroke-width:2.82263;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;stroke:#000000;stroke-width:2.82263;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 63.458929,48.53868 -20.32294,58.42008 c 18.67053,7.46821 41.075169,7.46821 59.745711,0 L 82.551018,48.53957 c -6.326719,0.72101 -12.765469,0.72073 -19.092089,-7.6e-4 z"
      sodipodi:nodetypes="ccccc" />
   <circle
@@ -1920,7 +1921,7 @@
      ry="3.7341061" />
   <path
      id="path1539"
-     style="fill:none;stroke:#000000;stroke-width:2.82263;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;stroke:#000000;stroke-width:2.82263;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 256.28962,48.53868 -20.32294,58.42008 c 18.67053,7.46821 41.07517,7.46821 59.74571,0 L 275.38171,48.53957 c -6.32672,0.72101 -12.76547,0.72073 -19.09209,-7.6e-4 z"
      sodipodi:nodetypes="ccccc" />
   <circle
