@@ -1,7 +1,7 @@
 ## Attribuierung/Zitierung
 
 Möchten Sie dieses Buch zitieren, teilen oder bearbeiten?
-Dieses Buch ist unter [Creative Commons Attribution-NonCommericial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizensiert.
+Dieses Buch ist unter [Creative Commons Attribution-NonCommericial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizenziert.
 
 ::: danger Achtung
 
@@ -22,9 +22,9 @@ Alle Angaben zur Attribuierung und Zitierung beziehen sich nur auf die Inhalte d
 
 ### Zitierung
 
-Benützen Sie folgende Informationen um dieses Buch zu zitieren.
+Benützen Sie folgende Informationen, um dieses Buch zu zitieren.
 
-- Author: Dr. Wolfgang L. Zagler
+- Autor: Dr. Wolfgang L. Zagler
 - Titel: Rehabilitationstechnik
 - Datum: 1. März 2008
 - Ort: Wien, Österreich
