@@ -4,9 +4,9 @@ list-of-figures:
   title: List of Figures
 list-of-tables:
   label: Table
-  title: Tabellenverzeichnis
-cite:
   title: List of Tables
+cite:
+  title: List of Sources
 footnotes:
   title: Footnotes
 abbreviations:
@@ -36,7 +36,7 @@ This multidisciplinarity does not exist merely by necessity (because of the lack
 When it comes to finding ways and means to help disabled, ill and old/frail people to achieve more independence and a higher quality of life, no technical discipline should be excluded from it.
 It should therefore be an honorable task for every technician to search his or her own field of specialization to see what contributions can be made to rehabilitation technology.
 
-## Rehabilitation Technology Goals
+## Goals of Rehabilitation Technology
 
 1. Restoration / improvement of a function affected by damage.  
    The approach is made to the ability disturbance.

@@ -4,9 +4,9 @@ list-of-figures:
   title: List of Figures
 list-of-tables:
   label: Table
-  title: Tabellenverzeichnis
-cite:
   title: List of Tables
+cite:
+  title: List of Sources
 footnotes:
   title: Footnotes
 abbreviations:
