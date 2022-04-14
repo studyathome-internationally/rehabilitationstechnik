@@ -6,7 +6,7 @@ This book is licensed under [Creative Commons Attribution-NonCommericial-ShareAl
 Third party intellectual property is appropriately marked or cited and is not part of this book.
 All attribution and citation information applies only to the contents of this book, which are not derived from third party sources.
 
-### Attribution.
+### Attribution
 
 - If you wish to publish or distribute this book in print, edited or unedited, the following attribution must be included on each physical page:
 
