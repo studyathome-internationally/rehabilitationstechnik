@@ -6,6 +6,10 @@
     font-family: var(--font-family);
 }
 
+mjx-container {
+    white-space: nowrap;
+}
+
 .katex {
     .katex-mathml {
         display: none;
