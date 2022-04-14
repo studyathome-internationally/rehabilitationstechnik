@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="medizintechnik-rehabilitationstechnik-wirkungskette.svg"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="medizintechnik-rehabilitationstechnik-wirkungskette.inkscape.svg"
    id="svg5887"
    version="1.2"
    viewBox="0 0 562.31893 53.397053"
    height="53.397053pt"
-   width="562.31891pt">
+   width="562.31891pt"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata5891">
     <rdf:RDF>
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,10 +35,10 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="-50.714974"
-     inkscape:cx="330.73061"
+     inkscape:cy="31.279939"
+     inkscape:cx="354.33504"
      inkscape:zoom="1.9501317"
-     showgrid="true"
+     showgrid="false"
      id="namedview5889"
      inkscape:window-height="1403"
      inkscape:window-width="2560"
@@ -51,7 +50,9 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="pt">
     <inkscape:grid
        type="xygrid"
        id="grid1582"
@@ -2656,7 +2657,7 @@
        y="17.364248"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Krankheit</tspan></text>
   <path
-     style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 91.234399,9.5106306 H 106.2344 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 H 90.109399 Z"
      id="path1584"
      sodipodi:nodetypes="cccccccc" />
@@ -2672,7 +2673,7 @@
        y="17.364248"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Schädigung</tspan></text>
   <path
-     style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 217.41109,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
      id="path1590"
      sodipodi:nodetypes="cccccccc" />
@@ -2688,7 +2689,7 @@
        y="17.364248"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Fähigkeitsstörung</tspan></text>
   <path
-     style="fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 392.48622,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
      id="path1596"
      sodipodi:nodetypes="cccccccc" />

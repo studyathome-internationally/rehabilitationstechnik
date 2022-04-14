@@ -27,13 +27,13 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="107.16939"
-     inkscape:cx="239.72099"
-     inkscape:zoom="1.4183155"
+     inkscape:cy="132.11679"
+     inkscape:cx="275.70033"
+     inkscape:zoom="2.005801"
      fit-margin-bottom="5"
      fit-margin-right="5"
      fit-margin-left="5"
@@ -50,7 +50,7 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="pt"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -2383,6 +2383,13 @@
        d="m 181.45162,120.60896 c 5.18525,-13.55496 33.07036,-21.300894 48.88251,-17.601 31.07738,7.27182 61.53961,7.85258 70.70795,23.88674 6.96503,12.18087 -3.87574,26.13446 -24.69228,14.87778 -23.88453,-12.91571 -42.74834,-5.28782 -49.4132,-3.42913 -30.16707,8.41298 -49.18332,-8.06642 -45.48498,-17.73439 z"
        id="path22744"
        sodipodi:nodetypes="ssssss" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.283465;stroke-linecap:round;stop-color:#000000"
+       id="rect1524"
+       width="261.44525"
+       height="206.25"
+       x="93.749992"
+       y="-1.1920929e-07" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2611,14 +2618,14 @@
     <text
        xml:space="preserve"
        style="font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.75"
-       x="227.74805"
+       x="231.41406"
        y="225.88652"
        id="text26415"><tspan
          sodipodi:role="line"
          id="tspan26413"
          style="font-size:8px;stroke-width:0.75"
-         x="227.74805"
-         y="225.88652">Telephon</tspan></text>
+         x="231.41406"
+         y="225.88652">Telefon</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:11px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="verstaerkung-wanderwelle.svg"
+   sodipodi:docname="verstaerkung-wanderwelle.inkscape.svg"
    id="svg5828"
    version="1.2"
    viewBox="0 0 474.48 164.75996"
@@ -23,7 +23,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -32,12 +31,12 @@
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="-44.547727"
-     inkscape:cx="88.034794"
+     inkscape:cy="-44.547726"
+     inkscape:cx="88.034792"
      inkscape:zoom="1.4142136"
      showgrid="false"
      id="namedview5830"
@@ -1625,7 +1624,6 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Text"
-     sodipodi:insensitive="true"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -1648,7 +1646,7 @@
          id="tspan4227"
          style="stroke-width:0.75"
          x="152.02466"
-         y="147.73676">Enfternung vom ovalen Fenster</tspan></text>
+         y="147.73676">Entfernung vom ovalen Fenster</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.75"
