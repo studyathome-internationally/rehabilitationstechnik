@@ -121,7 +121,7 @@
 <path d="m-15.562-6.2344h18.266v4.25h-1.4375v-2.4062h-15.406v2.4062h-1.4219z"/>
 </symbol>
 </defs>
-<path transform="matrix(2.5596 0 0 2.5624 34.445 19.042)" d="m32.634 0.31905h180.54v130.06h-180.54z" fill="none" stroke="#000" stroke-width="1.5"/>
+<path transform="matrix(2.5596 0 0 2.5624 34.445 19.042)" d="m32.634 0.31905h180.54v130.06h-180.54z" fill="#fff" stroke="#000" stroke-width="1.5"/>
 <path transform="matrix(2.5596 0 0 2.5624 34.445 19.042)" d="m213.17 130.38h-187.39" fill="none" stroke="#000" stroke-width=".75"/>
 <path transform="matrix(2.5596 0 0 2.5624 34.445 19.042)" d="m32.634 0.31905v136.93" fill="none" stroke="#000" stroke-width=".75"/>
 <path transform="matrix(2.5596 0 0 2.5624 34.445 19.042)" d="m84.216 0.31905v28.341m0 9.1588v99.429" fill="none" stroke="#000" stroke-width=".5"/>

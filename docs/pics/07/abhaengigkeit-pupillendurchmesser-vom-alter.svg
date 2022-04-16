@@ -118,6 +118,8 @@
 <path d="m-11.562-4.625h13.562v3.1406h-1.0625v-1.7656h-11.438v1.7656h-1.0625z"/>
 </symbol>
 </defs>
+<path d="m374.95 233.62h210.27v106.76h-210.27z" fill="#fff"/>
+<path d="m75.223 14.75h291.38v325.29h-291.38z" fill="#fff"/>
 <path transform="matrix(1.9021 0 0 1.9031 28.225 13.022)" d="m177.9 172.02h-156.97" fill="none" stroke="#000" stroke-width=".5"/>
 <path transform="matrix(1.9021 0 0 1.9031 28.225 13.022)" d="m24.709 0.90789v174.91" fill="none" stroke="#000" stroke-width=".5"/>
 <path transform="matrix(1.9021 0 0 1.9031 28.225 13.022)" d="m24.709 0.90789h153.19v171.11h-153.19z" fill="none" stroke="#000" stroke-width="1.5"/>

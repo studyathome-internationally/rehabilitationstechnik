@@ -142,6 +142,7 @@
 <path d="m-12.219-4.8906h14.344v3.3281h-1.125v-1.875h-12.094v1.875h-1.125z"/>
 </symbol>
 </defs>
+<path transform="matrix(2.6807 0 0 2.6815 0 .17558)" d="m46.881 9.2692h164.13v116.98h-164.13z" fill="#fff" stroke="#000" stroke-width=".75"/>
 <path transform="matrix(2.6807 0 0 2.6815 -15.137 2.3967)" d="m216.66 125.42h-167.21" fill="none" stroke="#000" stroke-width=".5"/>
 <path transform="matrix(2.6807 0 0 2.6815 -15.137 2.3967)" d="m52.527 8.4409v120.03" fill="none" stroke="#000" stroke-width=".5"/>
 <path transform="matrix(2.6807 0 0 2.6815 -15.137 2.3967)" d="m52.527 8.4409h164.13v116.98h-164.13z" fill="none" stroke="#000" stroke-width="1.5"/>

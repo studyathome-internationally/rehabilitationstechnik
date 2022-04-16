@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="greifkraft-abhaengigkeit-alter.svg"
+   sodipodi:docname="greifkraft-abhaengigkeit-alter.inkscape.svg"
    id="svg5047"
    version="1.2"
    viewBox="0 0 267.31406 199.20264"
@@ -27,12 +27,12 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="layer4"
-     inkscape:window-maximized="0"
-     inkscape:window-y="27"
-     inkscape:window-x="4924"
-     inkscape:cy="90.829893"
-     inkscape:cx="223.17684"
+     inkscape:current-layer="layer5"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="2560"
+     inkscape:cy="90.648597"
+     inkscape:cx="211.02993"
      inkscape:zoom="2.7579026"
      fit-margin-bottom="7"
      fit-margin-right="7"
@@ -40,8 +40,8 @@
      fit-margin-top="7"
      showgrid="false"
      id="namedview5049"
-     inkscape:window-height="1376"
-     inkscape:window-width="2356"
+     inkscape:window-height="1403"
+     inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -50,7 +50,7 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="pt"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -1787,6 +1787,18 @@
        y="0"
        width="100%"
        height="100%" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Background">
+    <rect
+       style="fill:#ffffff;stroke-width:0.75px;-inkscape-stroke:none;stop-color:#000000"
+       id="rect3926"
+       width="206.54755"
+       height="146.20154"
+       x="42.752853"
+       y="10.027391" />
   </g>
   <g
      inkscape:groupmode="layer"
