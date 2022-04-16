@@ -14,12 +14,12 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
   locales: {
     "/": {
       lang: "de-DE",
-      title: "Open Educational Resource",
+      title: "Rehabilitationstechnik",
       description: "FH Technikum Wien"
     },
     "/en/": {
       lang: "en-US",
-      title: "Open Educational Resource",
+      title: "Rehabilitation Technology",
       description: "UAS Technikum Vienna"
     }
   },
@@ -68,31 +68,31 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
         sidebar: {
           "/en/": [
             {
-              text: "Definition and Words",
+              text: "Definitions and Wording",
               link: "/en/chapter1.html"
             },
             {
-              text: "Die Ebenen der Behinderung nach WHO",
+              text: "The Levels of Disability According to WHO",
               link: "/en/chapter2.html"
             },
             {
-              text: "Behinderung als Differenz zwischen Leistung und Anforderung",
+              text: "Disability as Difference Between Performance and Requirement",
               link: "/en/chapter3.html"
             },
             {
-              text: "Rehabilitationstechnik",
+              text: "Rehabilitation Technology",
               link: "/en/chapter4.html"
             },
             {
-              text: "Einteilung der Hilfsmittel",
+              text: "Classification of the Tools",
               link: "/en/chapter5.html"
             },
             {
-              text: "Medizinische Grundlagen - Teil I",
+              text: "Medical Basics - Part I",
               link: "/en/chapter6.html"
             },
             {
-              text: "Medizinische Grundlagen - Teil II",
+              text: "Medical Basics - Part II",
               link: "/en/chapter7.html"
             }
           ]
