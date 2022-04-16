@@ -117,10 +117,10 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(require("markdown-it-include"));
     // md.use(require("markdown-it-mathjax"), { tex: { ags: "ams" }, svg: { scale: 1, mtextInheritFont: true }, display: true });
     // md.use(require("markdown-it-mathjax-chtml"));
-    md.use(require("markdown-it-mathjax-a11y"));
+    // md.use(require("markdown-it-mathjax-a11y"));
     md.use(require("./markdown/abbreviation"));
     md.use(require("./markdown/footnote"));
-    // md.use(require("./markdown/math"));
+    md.use(require("./markdown/math"));
   },
   plugins: [
     ["image-comparator", {
@@ -129,7 +129,16 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     }],
     ["@vuepress/medium-zoom", {
       selector: ".theme-default-content figure img"
+    }],
+    "@vuepress/search",
+    ["@vuepress/container", {
+      type: 'post-it',
     }]
   ],
   bundler,
+  head: [
+    ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
+    // ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" }],
+    ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" }],
+  ]
 })
