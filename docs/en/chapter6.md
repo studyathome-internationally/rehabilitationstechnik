@@ -27,7 +27,6 @@ abbreviations:
 *[RA]: rapidly adapting
 *[RP]: Retinopathia pigmentosa
 *[SA]: slowly adapting
-*[SHT]: Schädelhirntrauma
 *[SPL]: Sound Pressure Level
 *[TBI]: Traumatic brain injury
 
@@ -1672,8 +1671,8 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      - Hemorrhagic infarction: mass hemorrhage in the brain after rupture of a vessel.
        Symptoms include impaired consciousness and marked motor paralysis.
 
-   - _Skull Trauma_ (SHT)  
-     Head injury, _traumatic brain injury_, TBI; abbreviated SHT) is the generic term for all skull injuries involving the brain due to accident or other injury.
+   - _Skull Trauma_  
+     Head injury, _traumatic brain injury_, TBI) is the generic term for all skull injuries involving the brain due to accident or other injury.
      Depending on the extent and localization of the injury and the primary (destruction of nerve tissue) and secondary (hemorrhage, pressure on adjacent regions) effects of the injury, all the damage known from infarcts or tumor diseases may occur.
 
    - _Hypoxia_  
@@ -1707,7 +1706,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
 
 .effects-cross-sectional-lesions#Effects of paraplegic lesions [@müller:1994].
 
-[^29]: The designation $sf{C}8$ refers to the spinal nerves, not to the numbering of the vertebral bodies.
+[^29]: The designation $\sf{C}8$ refers to the spinal nerves, not to the numbering of the vertebral bodies.
 
 ### Muscular Causes
 
