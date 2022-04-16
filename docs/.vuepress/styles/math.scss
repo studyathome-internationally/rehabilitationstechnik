@@ -8,13 +8,16 @@
 
 mjx-container {
     white-space: nowrap;
+    // margin-bottom: 0.2rem;
+    vertical-align: 2px;
 }
 
 .katex {
     .katex-mathml {
         display: none;
     }
-    .katex-html {
-        font-family: var(--font-family) normal 1.21em KaTeX_Main, Times New Roman, serif;
-    }
+    // .katex-html {
+        // font-family: var(--font-family) normal 1.21em KaTeX_Main, Times New Roman, serif;
+        // font-family: var(--font-family);
+    // }
 }
