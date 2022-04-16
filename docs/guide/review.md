@@ -26,6 +26,8 @@ Die Ordner `docs/` und `docs/en` beinhalten die deutsche bzw. englische Fassung,
 - chapter6.md (de, en)
 - chapter7.md (de, en)
 
+Die beiliegenden Links können direkt für das Review der jeweiligen Dateien bzw. Fassungen verwendet werden.
+
 ## Kommentare
 
 ## Notizen
