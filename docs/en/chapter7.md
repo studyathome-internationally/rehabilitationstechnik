@@ -21,7 +21,7 @@ abbreviations:
 *[USA]: United States of America
 *[WWW]: World Wide Web
 
-# Medical Basics - Part II
+# Medical Basics – Part II
 
 ## Language and Speech
 
@@ -29,11 +29,11 @@ The spoken (vocalized) utterances of a human being are based on a two-stage proc
 Language is the encoding of abstract patterns of thought into a sequence of characters (e.g., letters) or phonetic elements (phonemes).
 We call the manifestation of characters “writing”; we call the realization of sounds “speaking” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
 
-In the complex “language - speaking” four linguistic levels can be distinguished [@böhme:1997]:
+In the complex “language – speaking” four linguistic levels can be distinguished [@böhme:1997]:
 
-- _Semantic-lexical level_: semantics - study of the content and meaning of words; lexicology - study of the vocabulary of a language.
-- _Syntactic-morphological level_: syntax - characterization of sentences and recognition of their internal structure; morphology or grammar - teaching of the structure and laws of a language.
-- _Phonetic-phonological level_: phonetics - articulatory, acoustic and auditory factors of sounds; phonology - study of the sound system of individual languages and its function.
+- _Semantic-lexical level_: semantics – study of the content and meaning of words; lexicology – study of the vocabulary of a language.
+- _Syntactic-morphological level_: syntax – characterization of sentences and recognition of their internal structure; morphology or grammar – teaching of the structure and laws of a language.
+- _Phonetic-phonological level_: phonetics – articulatory, acoustic and auditory factors of sounds; phonology – study of the sound system of individual languages and its function.
 - _Pragmatic-communicative level_: use of language in the relationship between speaker and listener (sender and receiver).
 
 ### The Language
@@ -557,7 +557,7 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
    Usher syndrome is a major cause of deaf-blindness.
 
 6. Persistent vegetative state (PVS) and locked-in syndrome  
-   Waking coma (apallic syndrome, coma vigile, persistent vegetative state - PVS) refers to a clinical condition in which the patient is in a complete loss of perception of him/herself and his/her environment.
+   Waking coma (apallic syndrome, coma vigile, persistent vegetative state – PVS) refers to a clinical condition in which the patient is in a complete loss of perception of him/herself and his/her environment.
    The autonomic functions of the hypothalamus and brainstem are fully or partially preserved.
    An EEG is present and normal in the further course.
    However, visual stimulation lacks the usual blocking of alpha waves.
@@ -663,9 +663,9 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
 
    In locked-in syndrome, patients are conscious but without any ability to move.
    In the “classic” form, vertical eye movements and blinking are preserved, and can be used for communication purposes with appropriate interfaces.
-   In “total” locked-in syndrome, these movements are also absent and communication is possible - if at all - only via the evaluation of the EEG (Brain Computer Interface - see Part B, Chapter 3.2.8).
+   In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface – see Part B, Chapter 3.2.8).
 
-   Causes for locked-in syndrome are: advanced ALS, brainstem infarction, infarction in the bridge (_pons_, connection of the two brain hemispheres), bilateral infarction of the internal capsule (capsula interna - deep lying part of the brain), tumors, encephalitis (inflammation of the brain) and craniocerebral trauma [@kübler:2001:a, @kübler:2001:b].
+   Causes for locked-in syndrome are: advanced ALS, brainstem infarction, infarction in the bridge (_pons_, connection of the two brain hemispheres), bilateral infarction of the internal capsule (capsula interna – deep lying part of the brain), tumors, encephalitis (inflammation of the brain) and craniocerebral trauma [@kübler:2001:a, @kübler:2001:b].
 
 {.lower-alpha}
 
@@ -700,7 +700,7 @@ Percentage of the U.S. population living in households (source: U.S. Census Bure
     Blacks are more affected by disability.
     E.g., age group $55-64$ years: whites: $20\%$; blacks $35\%$ [@mcneil:1997].
 
-![Percentage of U.S. population living in households requiring assistance with daily living tasks – 1990/91 (source: U.S. Census Bureau WWW page).](./pics/07/prozentueller-anteil-hilfestellungen-us.color.svg "percentage-assistance-us#Percentage of U.S. population living in households needing assistance with daily living tasks - $1990/91$ (Source: U.S. Census Bureau WWW page, according to [@zagler:2008, @charness:1998:b]).")
+![Percentage of U.S. population living in households requiring assistance with daily living tasks – 1990/91 (source: U.S. Census Bureau WWW page).](./pics/07/prozentueller-anteil-hilfestellungen-us.color.svg "percentage-assistance-us#Percentage of U.S. population living in households needing assistance with daily living tasks – $1990/91$ (Source: U.S. Census Bureau WWW page, according to [@zagler:2008, @charness:1998:b]).")
 
 In a $1982$ study conducted in the U.S., it was found that $36\%$ of those caring for an elderly person were themselves over $65$ years old [@harootyan:1993].
 
@@ -856,7 +856,7 @@ Therefore, the values given here can only represent a general trend line.
      </tbody>
    </table>
 
-   .age-dependence-pupil-diameter#Age dependence of pupil diameter - f is the rounded f-number corresponding to the equivalent photographic system [@zagler:1997, @methling:1996].
+   .age-dependence-pupil-diameter#Age dependence of pupil diameter – f is the rounded f-number corresponding to the equivalent photographic system [@zagler:1997, @methling:1996].
 
    ![Dependence of pupil diameter on age.](./pics/07/abhaengigkeit-pupillendurchmesser-vom-alter.color.svg "abhaengigkeit-pupillendurchmesser-vom-alter#Abhängigkeit des Pupillendurchmessers vom Alter [@zagler:2008, @methling:1996].")
 
@@ -965,7 +965,7 @@ This not only means that older people enjoy eating less (the sense of smell play
      </tbody>
    </table>
 
-   .age-dependence-walking-speed#Dependence of walking speed on age - Healthy subjects [@fozard:1998].
+   .age-dependence-walking-speed#Dependence of walking speed on age – Healthy subjects [@fozard:1998].
 
    If persons with mobility disabilities (they use a cane or crutch) are also included, the following picture emerges according to a Finnish study (<<tab:walking-speed-age-persons>>):
 
@@ -1009,7 +1009,7 @@ This not only means that older people enjoy eating less (the sense of smell play
      </tbody>
    </table>
 
-   .walking-speed-age-persons#Walking speed of elderly persons - Healthy persons and persons using walking aids - Laboratory values of $55$ subjects [@virokannas:1998].
+   .walking-speed-age-persons#Walking speed of elderly persons – Healthy persons and persons using walking aids – Laboratory values of $55$ subjects [@virokannas:1998].
 
    The walking speed of a person is proportional to the muscular strength available to him, whereby the stretching of the knee joint plays an essential role.
 
@@ -1074,7 +1074,7 @@ This not only means that older people enjoy eating less (the sense of smell play
 2. Dementia  
     Dementia is the term used to describe a progressive (advancing) degenerative change in the brain that affects three main areas (other sources form five groups) [@riederer:1998:a, @mihailidis:2000]:
 
-   - _Cognitive impairments_: disturbance of memory (mainly short-term memory), limitations of abstract and rational thinking and judgment, inability or difficulty to remember concrete sequences (order of dressing), problems with speaking and naming, disorientation with respect to date, time, place of residence (danger of “wandering”), spatial disorientation (inability to find a specific room - toilet, bathroom, etc.).
+   - _Cognitive impairments_: disturbance of memory (mainly short-term memory), limitations of abstract and rational thinking and judgment, inability or difficulty to remember concrete sequences (order of dressing), problems with speaking and naming, disorientation with respect to date, time, place of residence (danger of “wandering”), spatial disorientation (inability to find a specific room – toilet, bathroom, etc.).
    - Emotional, behavioral impairments affecting the personality picture: Depression, anxiety, quarrelsomeness, psychosis, hallucinations, paranoia, sleep disturbances.
    - _Physical impairments_: unsteady gait, tendency to fall, incontinence.
 

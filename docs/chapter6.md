@@ -39,7 +39,7 @@ abbreviations:
 *[z. B.]: zum Beispiel
 *[ZNS]: Zentralnervensystem
 
-# Medizinische Grundlagen - Teil I
+# Medizinische Grundlagen – Teil I
 
 <!-- FIXME: citation numbering (markdown-it core chain) -->
 
@@ -756,7 +756,7 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Das runde Fenster (die zweite Verbindungsstelle zwischen Mittelohr und Innenohr) kann daher gegenphasig schwingen, was für die Funktion der Schnecke (siehe Kapitel 7.4.4a) von großer Bedeutung ist.
 
    Schließlich kommt dem Mittelohr auch noch eine gewisse Regelungsfunktion bzw. Schutzfunktion zu.
-   Das Trommelfell und der Steigbügel sind mit Muskeln (_Musculus tensor tympani_ am Trommelfell/Hammer und _Musculus stapedius_ am Steigbügel) verbunden, die bei einem Schalldruckpegel von $60$ - $80\;\sf{dB}$ oberhalb der Hörschwelle kontrahieren und dämpfend auf die Übertragung niederer Frequenzen wirken.
+   Das Trommelfell und der Steigbügel sind mit Muskeln (_Musculus tensor tympani_ am Trommelfell/Hammer und _Musculus stapedius_ am Steigbügel) verbunden, die bei einem Schalldruckpegel von $60$ – $80\;\sf{dB}$ oberhalb der Hörschwelle kontrahieren und dämpfend auf die Übertragung niederer Frequenzen wirken.
 
 3. Innenohr  
    Das Innenohr enthält zwei Sinnesorgane, die vollkommen unterschiedliche Funktionen erfüllen, aber anatomisch einen Komplex bilden: Die Schnecke (_Cochlea_), das eigentliche Hörorgan und den Vestibularapparat, der das Gleichgewichtsorgan bildet (<<fig:schnitt-durch-ohr>>).
@@ -819,7 +819,7 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    Die Haarzellen sind entlang der Cochlea in zwei parallel verlaufenden Gruppen angeordnet.
    Die etwa $8\:000$ inneren Haarzellen (IHC = _inner hair cells_) sind in einer Reihe angeordnet, die rund $14\:000$ äußeren Haarzellen (OHC = _outer hair cells_) bilden drei bis fünf Reihen.
-   Jede dieser Haarzellen trägt $60$ - $100$ Sinneshärchen (_Stereozilien_).
+   Jede dieser Haarzellen trägt $60$ – $100$ Sinneshärchen (_Stereozilien_).
    Trotz ihrer wesentlich größeren Zahl enden nur $5$ bis $10\%$ der Nervenfasern des Hörnervs an den OHC (hohe Konvergenz).
    Die wesentlich größere Zahl der $30\:000$ bis $40\:000$ Nervenfasern innerviert die IHC.
    Nicht alle Nervenfasern des Hörnervs sind afferent (verlaufen also von den Haarzellen zum ZNS).
@@ -1116,7 +1116,7 @@ Der Tastsinn nimmt seinen Ursprung in den Rezeptorzellen (Mechanorezeptoren) der
 Es werden außer freien Nervenendungen vier verschiedene Rezeptoren unterschieden, von denen zwei auf statische Reize (absolute Verformung der Hautoberfläche) und zwei auf dynamische Reize (Veränderung der Verformung) reagieren.
 In diesem Sinn wird von langsam adaptierenden (_slowly adapting_ = SA) und schnell adaptierenden (_rapidly adapting_ = RA) Zellen gesprochen [@lederman:1982, @betz:1991, @dudel:1996[^18]].
 
-[^18]: Die Art der jeweils adäquaten Reize wird in der Literatur nicht einheitlich angegeben. Die medizinische Literatur [@betz:1991, @dudel:1996] spricht neben der Reaktion auf Druckänderungen ($\sf{dp/dt}$ - also eine Geschwindigkeit) bei Vater-Pacini-Körperchen auch von der Reaktion auf eine Änderung der Geschwindigkeit ($\sf{dp/dt^2}$ - also eine Beschleunigung), ohne den Vorgang jedoch näher zu erklären.
+[^18]: Die Art der jeweils adäquaten Reize wird in der Literatur nicht einheitlich angegeben. Die medizinische Literatur [@betz:1991, @dudel:1996] spricht neben der Reaktion auf Druckänderungen ($\sf{dp/dt}$ – also eine Geschwindigkeit) bei Vater-Pacini-Körperchen auch von der Reaktion auf eine Änderung der Geschwindigkeit ($\sf{dp/dt^2}$ – also eine Beschleunigung), ohne den Vorgang jedoch näher zu erklären.
 
 _Freie Nervenendungen_, die in geschichteten Epithelien der Haut liegen und bis in die verhornten Schichten reichen.
 Sie reagieren auf Druck aber auch thermische Reize.
@@ -1702,7 +1702,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel 7
 
 | Klasse      | Ort                           | Auswirkung bei komplettem motorischem Ausfall                                                                                                                                                   |
 | ----------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| -           | $\sf{C}1$ und $\sf{C}2$       | Tödlicher Ausgang                                                                                                                                                                               |
+| –           | $\sf{C}1$ und $\sf{C}2$       | Tödlicher Ausgang                                                                                                                                                                               |
 | Tetraplegie | $\sf{C}3$ und $\sf{C}4$       | Atemvolumen sehr stark reduziert (Atemschrittmacher)<br/>Sitzen im Spezial-Elektrorollstuhl<br/>vollständige Abhängigkeit                                                                       |
 | ^^          | $\sf{C}5$                     | Atemvolumen vermindert<br/>Beugen im Ellbogengelenk möglich<br/>kurze, ebene Strecken im Rollstuhl möglich<br/>vollständige Abhängigkeit                                                        |
 | ^^          | $\sf{C}6$                     | Atemvolumen vermindert<br/>Beugung im Ellenbogengelenk, Streckung im Handgelenk<br/>relativ gute Manipulation des Rollstuhls<br/>vollständige Abhängigkeit                                      |

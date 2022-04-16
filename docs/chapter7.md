@@ -30,7 +30,7 @@ abbreviations:
 *[z. B.]: zum Beispiel
 *[Z. B.]: Zum Beispiel
 
-# Medizinische Grundlagen - Teil II
+# Medizinische Grundlagen – Teil II
 
 ## Sprache und Sprechen
 
@@ -564,7 +564,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
    Das Usher-Syndrom ist eine der Hauptursachen für Taubblindheit.
 
 6. Wachkoma (PVS) und Locked-in Syndrom  
-   Mit Wachkoma (Apallisches Syndrom, Coma vigile, Persistent Vegetative State - PVS) wird ein klinischer Zustand bezeichnet, bei dem sich der Patient / die Patientin in einer vollständigen Wahrnehmungslosigkeit über sich und seine / ihre Umwelt befindet.
+   Mit Wachkoma (Apallisches Syndrom, Coma vigile, Persistent Vegetative State – PVS) wird ein klinischer Zustand bezeichnet, bei dem sich der Patient / die Patientin in einer vollständigen Wahrnehmungslosigkeit über sich und seine / ihre Umwelt befindet.
    Die autonomen Funktionen des Hypothalamus und des Hirnstammes bleiben vollständig oder teilweise erhalten.
    Ein EEG ist vorhanden und im weiteren Verlauf normal.
    Allerdings fehlt bei visueller Stimulation die sonst übliche Blockierung der alpha Wellen.
@@ -707,7 +707,7 @@ Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Censu
     Schwarze sind stärker von Behinderungen betroffen.
     Z. B. Altersstufe $55-64$ Jahre: Weiße: $20\%$; Schwarze $35\%$ [@mcneil:1997].
 
-![Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung, die Hilfestellungen bei alltäglichen Verrichtungen benötigt - 1990/91 (Quelle: US Census Bureau WWW-Page).](./pics/07/prozentueller-anteil-hilfestellungen-us.color.svg "prozentueller-anteil-hilfestellungen-us#Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung, die Hilfestellungen bei alltäglichen Verrichtungen benötigt - $1990/91$ (Quelle: US Census Bureau WWW-Page, nach [@zagler:2008, @charness:1998:b]).")
+![Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung, die Hilfestellungen bei alltäglichen Verrichtungen benötigt – 1990/91 (Quelle: US Census Bureau WWW-Page).](./pics/07/prozentueller-anteil-hilfestellungen-us.color.svg "prozentueller-anteil-hilfestellungen-us#Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung, die Hilfestellungen bei alltäglichen Verrichtungen benötigt – $1990/91$ (Quelle: US Census Bureau WWW-Page, nach [@zagler:2008, @charness:1998:b]).")
 
 In einer $1982$ in den USA erstellten Studie wurde festgestellt, dass $36\%$ jener Personen, die einen alten Menschen pflegen, selbst über $65$ Jahre alt sind [@harootyan:1993].
 
@@ -1082,7 +1082,7 @@ Das bedeutet nicht nur, dass ältere Menschen dadurch weniger Freude am Essen ha
 2. Demenz  
     Mit Demenz wird eine progrediente (fortschreitende) degenerative Veränderung des Gehirns bezeichnet, die sich in drei Hauptbereichen auswirkt (andere Quellen bilden fünf Gruppen) [@riederer:1998:a, @mihailidis:2000]:
 
-   - _Kognitive Beeinträchtigungen_: Störung des Gedächtnisses (vornehmlich des Kurzzeitgedächtnisses), Einschränkungen des abstrakten und rationalen Denkens und des Urteilsvermögens, Unfähigkeit bzw. Schwierigkeit sich an konkrete Abläufe zu erinnern (Reihenfolge beim Ankleiden), Probleme beim Sprechen und beim Benennen, Desorientierung in Bezug auf Datum, Zeit, Wohnort (Gefahr des „Wanderns“), räumliche Desorientierung (Unvermögen, einen bestimmten Raum zu finden - WC, Bad etc.).
+   - _Kognitive Beeinträchtigungen_: Störung des Gedächtnisses (vornehmlich des Kurzzeitgedächtnisses), Einschränkungen des abstrakten und rationalen Denkens und des Urteilsvermögens, Unfähigkeit bzw. Schwierigkeit sich an konkrete Abläufe zu erinnern (Reihenfolge beim Ankleiden), Probleme beim Sprechen und beim Benennen, Desorientierung in Bezug auf Datum, Zeit, Wohnort (Gefahr des „Wanderns“), räumliche Desorientierung (Unvermögen, einen bestimmten Raum zu finden – WC, Bad etc.).
    - Emotionelle, verhaltensmäßige und auf das Persönlichkeitsbild wirkende Beeinträchtigungen: Depression, Angst, Streitsucht, Psychosen, Halluzinationen, Paranoia, Schlafstörungen.
    - _Physische Beeinträchtigungen_: Unsicherer Gang, Tendenz zum Fallen, Inkontinenz.
 

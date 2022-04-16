@@ -30,7 +30,7 @@ abbreviations:
 *[SPL]: Sound Pressure Level
 *[TBI]: Traumatic brain injury
 
-# Medical Basics - Part I
+# Medical Basics – Part I
 
 <!-- FIXME: citation numbering (markdown-it core chain) -->
 
@@ -90,7 +90,7 @@ This therefore causes potassium ions to diffuse from the inside to the outside u
 
 Signal transmission along an axon by an action potential starts with the sudden opening of the sodium pores at one point of the axon.
 Since the sodium ion concentration is higher on the outside than on the inside, numerous sodium ions migrate to the inside of the nerve cell, so that
-at this point the potential ratios are reversed, i.e. the inside becomes positive compared to the outside - the membrane “depolarizes”.
+at this point the potential ratios are reversed, i.e. the inside becomes positive compared to the outside – the membrane “depolarizes”.
 Within $10^{-3}\;\sf{s}$, the original ratios (outside positive) are restored by closing the sodium pores and increasing the opening of the potassium pores (<<fig:conduction-axon>>).
 
 ![Conduction of stimuli in the axon, formation of the action potential](./pics/06/reizleitung-axon.svg "conduction-axon#Conduction of stimuli in the axon, formation of the action potential [@hubel:1989]")
@@ -108,7 +108,7 @@ Here again, special pores play a role, which open to calcium ions when the membr
 
 The influx of calcium ions releases chemical compounds (called neurotransmitters) inside the axon terminal, which diffuse through the membrane and also across the $20\;\sf{nm}$-wide synaptic cleft to the next neuron (postsynaptic cell).
 There, these substances cause the opening of certain types of pores.
-If the postsynaptic cell responds to the neurotransmitter by opening sodium pores, depolarization is initiated - the nerve cell is thus excited and we then speak of an excitatory (energizing) synapse.
+If the postsynaptic cell responds to the neurotransmitter by opening sodium pores, depolarization is initiated – the nerve cell is thus excited and we then speak of an excitatory (energizing) synapse.
 Conversely, the postsynaptic cell may also respond to the release of a neurotransmitter by opening potassium pores, which causes the cell to stabilize.
 In this case, an inhibitory (inhibitory) synapse is present.
 
@@ -306,7 +306,7 @@ The detection of optical stimuli begins in the layer of the retina facing away f
 The approximately $120\;\sf{million}$ rods enable black and white (light/dark) vision, while the three-wavelength
 $6\;\sf{million.}$ cones serve the color perception (<<fig:cutaway-retina>>).
 
-![Section through the retina - light incidence from the left; direction of conduction from right to left](./pics/06/schnitt-netzhaut.svg "cutaway-retina#Section through the retina - light incidence from the left; direction of conduction from right to left [@mörike:1981].")
+![Section through the retina – light incidence from the left; direction of conduction from right to left](./pics/06/schnitt-netzhaut.svg "cutaway-retina#Section through the retina – light incidence from the left; direction of conduction from right to left [@mörike:1981].")
 
 The spectral range covered by the eye extends from $350\;\sf{nm}$ (blue) to $750\;\sf{nm}$ (red), with a maximum overall sensitivity at $560\;\sf{nm}$ (green).
 The maxima of spectral sensitivities for the three types of cones are $560\;\sf{nm}$ (yellow-green), $530\;\sf{nm}$ (blue-green), and $430\;\sf{nm}$ (violet).
@@ -321,7 +321,7 @@ The cones reach their spectral maximum at $510\;\sf{nm}$ and make no contributio
 The range of intensity over which the eye can process stimuli spans a range of $1:10^{12}$ (<<tab:sensitivity-rod-cone>>) and is managed by different mechanisms of adaptation:
 
 - Use of two differently sensitive receptor types (rods and cones).
-- Change of the amount of incident light through the pupil (ratio $1:16$ - fast process[^7])
+- Change of the amount of incident light through the pupil (ratio $1:16$ – fast process[^7])
 - Buildup and breakdown of visual pigment in the receptors (slow).
 - Adaptive spatial and temporal stimulus integration in the retina.
 
@@ -486,8 +486,8 @@ The action potential is derived at the ganglion cell (optic nerve) axon.
 ![Uniform (diffuse) exposure of a receptive field.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "equal-exposure-receptive-field#Uniform (diffuse) exposure of a receptive field [@lindsay:1981].")
 
 It was not until $1950$ that Stephen Kuffler was able to show that retinal ganglion cells do not respond to diffuse illumination per se, but only to local illumination contrasts.
-A punctate exposure at or near that location (= center of the receptive field) from which the derivation was made leads to a marked increase in the impulse rate (<<fig:selective-exposure-receptive-field>> - left).
-Exposure of a ring-shaped zone (= environment of the receptive field) around the derivation site has an inhibitory effect, so that even spontaneous firing disappears (<<fig:selective-exposure-receptive-field>> - right).
+A punctate exposure at or near that location (= center of the receptive field) from which the derivation was made leads to a marked increase in the impulse rate (<<fig:selective-exposure-receptive-field>> – left).
+Exposure of a ring-shaped zone (= environment of the receptive field) around the derivation site has an inhibitory effect, so that even spontaneous firing disappears (<<fig:selective-exposure-receptive-field>> – right).
 
 ![Selective exposure of (a) center and (b) surroundings of a receptive field.](./pics/06/selektive-belichtung-rezeptives-feld.svg "selective-exposure-receptive-field#Selective exposure of (a) center and (b) surroundings of a receptive field [@lindsay:1981].")
 
@@ -545,7 +545,7 @@ This rating is valid with optimal optical correction (glasses, contact lenses) f
 <!-- FIXME: Abbildungsverweis -->
 
 Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
-For illustration purposes, the associated figures reproduce the view of a room as perceived by a person suffering from the eye disease in question ([Definitions and wording - Fig. 1](chapter1.html#figure-1)).
+For illustration purposes, the associated figures reproduce the view of a room as perceived by a person suffering from the eye disease in question ([Definitions and wording – Fig. 1](chapter1.html#figure-1)).
 
 ![NormNormal visionalsicht](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
 
@@ -556,7 +556,7 @@ Here, a neutral gray was deliberately chosen, which still comes closest to a non
 Even if it were possible to draw a visually faithful picture of a visual impairment, even this representation would only remain on the surface, since any kind of disability not only restricts the affected person functionally, but also deeply shapes his or her personality and imagination.
 Anyone who believes, for example, that blindness can be understood by wearing a blindfold is subject to a huge error.
 
-### Refractive Anomalies - Refractive Errors of the Eye
+### Refractive Anomalies – Refractive Errors of the Eye
 
 If the refractive power of the optical elements of the eye (cornea and lens) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
 Eyeglasses and contact lenses can compensate for $90\%$ of refractive anomalies.
@@ -700,7 +700,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 ### Ear Anatomy
 
 1. Outer ear  
-   The outer ear - from the pinna to the eardrum - represents a funnel about $3$ to $3.5\;\sf{cm}$ long that conducts sound waves from the environment to the eardrum.
+   The outer ear – from the pinna to the eardrum – represents a funnel about $3$ to $3.5\;\sf{cm}$ long that conducts sound waves from the environment to the eardrum.
    It is important that the air on both sides of the eardrum has the same temperature (body temperature), otherwise the different Brownian molecular motion would already be disturbingly perceptible due to the high sensitivity of the ear.
 
    The external auditory canal has an amplifying effect and exhibits an amplification of $20\;\sf{dB}$ at the resonant frequency (about $2\:500\;\sf{Hz}$).
@@ -708,7 +708,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    Because the external auditory canal in infants is only a few millimeters long, the resonance shifts significantly to higher frequencies, which results in infants perceiving high frequencies more preferentially.
 
 2. Middle ear  
-   Sound is transmitted in the middle ear (tympanic cavity) - between the tympanic membrane and the oval window - by the three articulating ossicles: Mallet (_Malleus_), Anvil (_Incus_), and Stapes.
+   Sound is transmitted in the middle ear (tympanic cavity) – between the tympanic membrane and the oval window – by the three articulating ossicles: Mallet (_Malleus_), Anvil (_Incus_), and Stapes.
    The diameter of the tympanic cavity (from the tympanic membrane to the inner wall) is only about $5\;\sf{mm}$.
    The thickness of the tympanic membrane is $0.1\;\sf{mm}$ (<<fig:cut-through-ear>>).
 
@@ -747,7 +747,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    The round window (the second connection point between the middle ear and the inner ear) can therefore oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter 7.4.4a).
 
    Finally, the middle ear also has a certain regulatory or protective function.
-   The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ - $80\;\sf{dB}$ above the hearing threshold and have a damping effect on the transmission of lower frequencies.
+   The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ – $80\;\sf{dB}$ above the hearing threshold and have a damping effect on the transmission of lower frequencies.
 
 3. Inner ear  
    The inner ear contains two sensory organs that perform completely different functions, but anatomically form a complex: The cochlea (_cochlea_), the hearing organ proper, and the vestibular apparatus, which forms the organ of balance (<<fig:cut-through-ear>>).
@@ -810,7 +810,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    The hair cells are arranged along the cochlea in two parallel groups.
    The approximately $8\:000$ inner hair cells (IHC = _inner hair cells_) are arranged in one row, and the approximately $14\:000$ outer hair cells (OHC = _outer hair cells_) form three to five rows.
-   Each of these hair cells carries $60$ - $100$ sensory hairs (_stereocilia_).
+   Each of these hair cells carries $60$ – $100$ sensory hairs (_stereocilia_).
    Despite their much larger number, only $5$ to $10\%$ of the auditory nerve fibers terminate at the OHC (high convergence).
    The much larger number of $30\:000$ to $40\:000$ nerve fibers innervate the IHC.
    Not all auditory nerve fibers are afferent (i.e., run from the hair cells to the CNS).
@@ -856,7 +856,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    {.lower-alpha}
 
-### Determination of Hearing Ability - Audiometry
+### Determination of Hearing Ability – Audiometry
 
 The procedure for determining hearing is called audiometry.
 In addition to determining the degree of hearing loss and the frequencies affected, the purpose of audiometry is also to locate the place where the hearing loss occurs and to distinguish between conductive hearing loss and sensorineural hearing loss.
@@ -951,7 +951,7 @@ After this general distinction, some more typical forms of hearing loss will be 
    This is referred to as the occurrence of a “KL-LL difference” or “air-bone gap”).
 
    <!-- prettier-ignore -->
-   ![Sound threshold audiogram in conductive hearing loss - the air conduction curve (x) is below the bone conduction curve (\]) = “air-bone-gap”.](./pics/06/tonschwellenaudiogramm-schallleitung.svg "sound-threshold-audiogram-sound-conduction#Sound threshold audiogram in conductive hearing loss - the air conduction curve (x) is below the bone conduction curve (]) = “air-bone-gap” [@hellbrück:1993].")
+   ![Sound threshold audiogram in conductive hearing loss – the air conduction curve (x) is below the bone conduction curve (\]) = “air-bone-gap”.](./pics/06/tonschwellenaudiogramm-schallleitung.svg "sound-threshold-audiogram-sound-conduction#Sound threshold audiogram in conductive hearing loss – the air conduction curve (x) is below the bone conduction curve (]) = “air-bone-gap” [@hellbrück:1993].")
 
    Closing the ears with the fingers results in an attenuation of approximately $20\;\sf{dB}\,\sf{HV}$, thus simulating a conductive hearing loss that is even lower than a “mild hearing loss” according to ICIDH (see <<tab:categories-hearing-impairment-according-to-icidh>>).
 
@@ -960,7 +960,7 @@ After this general distinction, some more typical forms of hearing loss will be 
    In the tone threshold audiogram, sensorineural hearing loss is manifested by a joint drop in the air conduction curve and the bone conduction curve (<<fig:tone-threshold-audiogram-sound-sensing>>).
 
    <!-- prettier-ignore -->
-   ![Sound threshold audiogram in sensorineural hearing loss - air conduction curve (x) and bone conduction curve (\]) in congruence](./pics/06/tonschwellenaudiogramm-schallempfindung.svg "tone-threshold-audiogram-sound-sensing#Sound threshold audiogram in sensorineural hearing loss - air conduction curve (x) and bone conduction curve (]) in congruence [@hellbrück:1993].")
+   ![Sound threshold audiogram in sensorineural hearing loss – air conduction curve (x) and bone conduction curve (\]) in congruence](./pics/06/tonschwellenaudiogramm-schallempfindung.svg "tone-threshold-audiogram-sound-sensing#Sound threshold audiogram in sensorineural hearing loss – air conduction curve (x) and bone conduction curve (]) in congruence [@hellbrück:1993].")
 
    Sensorineural hearing loss primarily affects the high frequencies, which is noticeable in poor perceptibility of the phonemes “s”, “f” and “sh”.
    Thus, not only hearing itself is affected, but especially understanding.
@@ -972,7 +972,7 @@ After this general distinction, some more typical forms of hearing loss will be 
    The additional conductive hearing loss causes a further drop of the LL curve (<<fig:tone-threshold-audiogram-sound-sensing>>).
 
    <!-- prettier-ignore -->
-   ![Sound threshold audiogram in combined conductive and sensorineural hearing loss - both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (\]).](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Sound threshold audiogram in combined conductive and sensorineural hearing loss - both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (]) [@hellbrück:1993].")
+   ![Sound threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (\]).](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Sound threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (]) [@hellbrück:1993].")
 
 4. Noise-induced hearing loss  
     Any exposure of the auditory system to high sound pressure levels leads to an upward shift of the hearing threshold.
@@ -999,7 +999,7 @@ After this general distinction, some more typical forms of hearing loss will be 
        The concert pitch lying in the same octave with $440\;\sf{Hz}$ has the designation $\sf{a^1}$.
        The musical $\sf{c^1}$ thus corresponds to the acoustic $\sf{C^4}$ [@lindsay:1981].
 
-   ![Sound threshold audiogram in noise-induced hearing loss - typical drop at 4000 Hz, c5 - dip.](./pics/06/tonschwellenaudiogramm-laermschwerhoerigkeit.svg "tone-threshold-audiogram-noise-induced-hearing-loss#Sound threshold audiogram in noise-induced hearing loss - typical drop at $4000;\\sf{Hz}$, $\sf{c^5}$ dip.")
+   ![Sound threshold audiogram in noise-induced hearing loss – typical drop at 4000 Hz, c5 – dip.](./pics/06/tonschwellenaudiogramm-laermschwerhoerigkeit.svg "tone-threshold-audiogram-noise-induced-hearing-loss#Sound threshold audiogram in noise-induced hearing loss – typical drop at $4000;\\sf{Hz}$, $\sf{c^5}$ dip.")
 
    <!--
     Beschriftung: Zagler
@@ -1018,10 +1018,10 @@ After this general distinction, some more typical forms of hearing loss will be 
        For the group “The Who” values up to $160\;\sf{dB}\,\sf{SPL}$ (!) are found.
        The consequences for the hair cells are easy to imagine. Only the launch of a space shuttle (measured at a distance of $50\;\sf{m}$) clearly exceeds this value with $180\;\sf{dB}\,\sf{SPL}$ [@lindsay:1981, @kendrik:1997].
 
-5. Age-related hearing loss - presbycusis  
+5. Age-related hearing loss – presbycusis  
    Age-related hearing loss (presbycusis) refers to a hearing threshold at higher frequencies that increases with age (the typical course of the audiogram is shown in <<fig:tone-threshold-audiogram-age-related-hearing-loss>>).
 
-   ![Sound threshold audiogram in age-related hearing loss - typical loss in the range of high tones.](./pics/06/tonschwellenaudiogramm-altersschwerhoerigkeit.svg "tone-threshold-audiogram-age-related-hearing-loss#Sound threshold audiogram in age-related hearing loss - typical loss in the range of high tones.")
+   ![Sound threshold audiogram in age-related hearing loss – typical loss in the range of high tones.](./pics/06/tonschwellenaudiogramm-altersschwerhoerigkeit.svg "tone-threshold-audiogram-age-related-hearing-loss#Sound threshold audiogram in age-related hearing loss – typical loss in the range of high tones.")
 
    <!--
     Beschriftung: Zagler
@@ -1038,7 +1038,7 @@ After this general distinction, some more typical forms of hearing loss will be 
 
    {.lower-alpha}
 
-### Tinnitus - Ringing in the Ears
+### Tinnitus – Ringing in the Ears
 
 Tinnitus refers to sounds and noises that are perceived by the affected person but are not caused by any external sound source.
 Approximately $32\%$ of the adult population is affected by tinnitus, with $20\%$ reporting that it affects them so severely that the ringing in the ears is bothersome.
@@ -1063,7 +1063,7 @@ When we talk about human senses, we think first and foremost of the eye and the 
 The sense of touch, on the other hand, usually ranks last in our conception of the senses.
 With the extraordinary importance that we give to the eye and the ear for perception, we must not forget that each sense organ also has clear weaknesses in addition to its strengths.
 
-The eye is excellently suited to convey spatial ideas, while it is only able to perform modestly with regard to the perception of rapidly changing processes in time (the flicker fusion frequency is - depending on the luminance - at a maximum of $80\;\sf{Hz}$ [@guski:1996]).
+The eye is excellently suited to convey spatial ideas, while it is only able to perform modestly with regard to the perception of rapidly changing processes in time (the flicker fusion frequency is – depending on the luminance – at a maximum of $80\;\sf{Hz}$ [@guski:1996]).
 
 The ear performs much higher in the time domain.
 The highest perceptible frequency is about $16\;\sf{kHz}$ and thus exceeds the eye by a factor of $200$.
@@ -1083,9 +1083,9 @@ The importance of the sense of touch for the whole multimodal human perception c
 In the human skin there are sensory cells (receptors) of most different construction.
 The sensations mediated by these sensory cells can be divided into three areas [@betz:1991]:
 
-- Mechanical sensation - touch, pressure, tickle, vibration.
-- Thermal sensation - heat and cold.
-- Damage sensation, so-called nociceptive sensation - pain, itching.
+- Mechanical sensation – touch, pressure, tickle, vibration.
+- Thermal sensation – heat and cold.
+- Damage sensation, so-called nociceptive sensation – pain, itching.
 
 A strict assignment of different stimulus perceptions to certain types of receptors is not possible.
 For some receptor types there is only one adequate stimulus, while others respond to several different stimuli.
@@ -1103,7 +1103,7 @@ The sense of touch takes its origin in the receptor cells (mechanoreceptors) of 
 Apart from free nerve endings, four different receptors are distinguished, two of which react to static stimuli (absolute deformation of the skin surface) and two to dynamic stimuli (change in deformation).
 In this sense, we speak of slow adapting (_slowly adapting_ = SA) and fast adapting (_rapidly adapting_ = RA) cells [@lederman:1982, @betz:1991, @dudel:1996[^18]].
 
-[^18]: The nature of the adequate stimuli in each case is not uniformly stated in the literature. The medical literature [@betz:1991, @dudel:1996] speaks not only of the response to changes in pressure ($\sf{dp/dt}$ - i.e., a velocity) in Vater-Pacini bodies but also of the response to a change in velocity ($\sf{dp/dt^2}$ - i.e., an acceleration), but without explaining the process in more detail.
+[^18]: The nature of the adequate stimuli in each case is not uniformly stated in the literature. The medical literature [@betz:1991, @dudel:1996] speaks not only of the response to changes in pressure ($\sf{dp/dt}$ – i.e., a velocity) in Vater-Pacini bodies but also of the response to a change in velocity ($\sf{dp/dt^2}$ – i.e., an acceleration), but without explaining the process in more detail.
 
 _Free nerve endings_ located in stratified epithelia of the skin and extending into the keratinized layers.
 They respond to pressure but also to thermal stimuli.
@@ -1235,7 +1235,7 @@ Each of these nerve cords is in turn composed of two groups of root filaments, o
 
 The anterior (ventral) roots are motor (_efferent_, thus leading from the CNS to the musculature).
 Their cells of origin are located in the gray matter of the spinal cord.
-The posterior (dorsal) root filaments are sensory (_afferent_ - thus lead from receptors to the CNS).
+The posterior (dorsal) root filaments are sensory (_afferent_ – thus lead from receptors to the CNS).
 However, this separation into motor and sensory branches does not apply to the autonomic nervous system.
 
 The totality of motor nerve tracts descending from the CNS, which originate in the cerebral cortex (primarily from the anterior central turn) and lead to motor nuclei of the cranial nerves or the anterior gray horn cells of the spinal cord, is called the pyramidal tract (_fasciculus pyramidalis_).
@@ -1562,7 +1562,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
 1. Congenital lesions
 
    - _Infantile cerebral palsy_ (CP)  
-     Infantile cerebral palsy (_infantile cerebral palsy_, also called cerebral palsy - not to be confused with poliomyelitis - epidemic spinal polio)7.8.4b) is the general term for consequences of early childhood, non-progressive brain damage (of the developing brain, $6.$ month of gestation to $6.$ year of life), resulting in damage to motor brain regions.
+     Infantile cerebral palsy (_infantile cerebral palsy_, also called cerebral palsy – not to be confused with poliomyelitis – epidemic spinal polio)7.8.4b) is the general term for consequences of early childhood, non-progressive brain damage (of the developing brain, $6.$ month of gestation to $6.$ year of life), resulting in damage to motor brain regions.
      Causes include hypoxia during pregnancy (in utero) or at birth, infections, cerebral hemorrhage, jaundice (kernicterus), fetopathies, and trauma.
 
      In addition to possible intelligence deficits and delay in language development, spastic paralysis symptoms are the most common.
@@ -1572,7 +1572,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      A distinction is made between the types spastic, athetotic, and ataxic (for description see [basics-and-systematics](chapter6.html#basics-and-systematics) (c)), but these can also occur in combinations [@prentke:1993, @trace-center:1999].
 
    - _Minimal cerebral dysfunction_ (MCD)  
-     Minimal cerebral dysfunction (_minimal cerebral dysfunction_; MCD) is the consequence for only slightly affecting early brain damage (MCP - minimal cerebral palsy).
+     Minimal cerebral dysfunction (_minimal cerebral dysfunction_; MCD) is the consequence for only slightly affecting early brain damage (MCP – minimal cerebral palsy).
      Common cause is hypoxia during pregnancy or during the birth process.
      Appearance of immaturity in organizing movements (hesitant, awkward, clumsy).
      In addition, speech, perception and intellect may be affected, but with normal intelligence, but only in terms of planning and organizing.
@@ -1680,7 +1680,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      A lack of oxygen supply to the brain can lead to permanent brain damage.
      Hypoxia during pregnancy (in utero) or during the birth process, for example, can lead to early brain damage and, as a consequence, to minimal cerebral dysfunction.
 
-4. lesions of the spinal cord and nerve tracts - paraplegia  
+4. lesions of the spinal cord and nerve tracts – paraplegia  
    Transverse lesions (_transverse lesion_, _spinal cord injury_) are complete or partial damage to the spinal cord following vertebral fractures, disc herniation, tumors, and others.
    Lesions of the spinal cord above $\sf{Th}1$ lead to tetraparesis, below $\sf{Th}1$ to paraparesis, thus only the lower extremities are affected (see <<fig:vertebral-column>> and <<tab:classification-paralysis>>) [@pschyrembel:1989].
    The typical relationships between the level of the lesion and the resulting functional consequences are shown in <<tab:effects-cross-sectional-lesions>>; after [@müller:1994].
@@ -1693,7 +1693,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
 
 | Class           | Location                     | Effect of complete motor failure                                                                                                                                                         |
 | --------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| -               | $\sf{C}1$ and $\sf{C}2$      | Fatal outcome                                                                                                                                                                            |
+| –               | $\sf{C}1$ and $\sf{C}2$      | Fatal outcome                                                                                                                                                                            |
 | tetraplegia     | $\sf{C}3$ and $\sf{C}4$      | respiratory volume very much reduced (respiratory pacemaker)<br/>sitting in special electric wheelchair<br/>complete dependence                                                          |
 | ^^              | $\sf{C}5$                    | respiratory volume reduced<br/>bending at elbow joint possible<br/>short, level distances in wheelchair possible<br/>complete dependence                                                 |
 | ^^              | $\sf{C}6$                    | respiratory volume decreased<br/>flexion in elbow joint, extension in wrist joint<br/>relatively good manipulation of wheelchair<br/>complete dependence                                 |
@@ -1766,7 +1766,7 @@ Most neuromuscular diseases are genetic, intelligence, emotions and affect are n
    Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^31] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter 7.7.2).
 
    - _Myasthenia gravis_  
-     There is a load-dependent, abnormally rapid fatigue of the striated muscles, which typically affects the eye muscles (double vision - diplopia), the chewing and swallowing muscles, the neck muscles and the upper arms.
+     There is a load-dependent, abnormally rapid fatigue of the striated muscles, which typically affects the eye muscles (double vision – diplopia), the chewing and swallowing muscles, the neck muscles and the upper arms.
      Danger to life exists in crisis situations when paralysis symptoms spread to the swallowing and breathing muscles.
 
     <!-- FIXME: footnote/reference -->

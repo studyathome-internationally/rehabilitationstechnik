@@ -30,12 +30,12 @@ On the one hand, this is intended to introduce more comprehensive terms, and on 
 It remains to be seen how these terms will fit into the overall classification.
 Here we will still work with the previous terms, the new terms will be placed next to them as a comment.
 
-## Impairment - (Health) Damage
+## Impairment – (Health) Damage
 
 This addresses the level of **disruption of biological and/or psychological structure and function**.
 Damage is understood to be “any loss or deviation from norm in psychological, physiological or anatomical structure or function”.
 
-## Disability - Ability Disorder
+## Disability – Ability Disorder
 
 This is the level of impairment of the affected person's ability to perform purposeful actions.
 
@@ -43,7 +43,7 @@ Ability disorder is “any restriction or lack – resulting from an impairment 
 
 The ICF replaces the term disability with activities, including limitation of activities.
 
-## Handicap - (Social) Impairment
+## Handicap – (Social) Impairment
 
 This is the level of disturbance of the social position or role of the person concerned and his or her ability to participate in social life.
 

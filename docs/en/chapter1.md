@@ -53,7 +53,7 @@ She therefore deliberately does not speak of _“disabled”_ or _“mentally re
 
 This view appears to be advantageous for two reasons.
 First, it helps to counteract prejudices and thus to raise social barriers to the integration of disabled people.
-Secondly - and this is of crucial importance for rehabilitation technology - it draws more attention to the strengths and abilities that remain in a person despite a disability.
+Secondly – and this is of crucial importance for rehabilitation technology – it draws more attention to the strengths and abilities that remain in a person despite a disability.
 When creating technical aids for disabled people, however, rehabilitation technology must make use of precisely these abilities and strengths in order to be able to contribute to compensating for weaknesses and deficiencies.
 Technicians are therefore well advised to focus not on the deficiencies but on the abilities of a disabled person in order to find starting points for creative solutions.
 

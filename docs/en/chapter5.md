@@ -21,7 +21,7 @@ abbreviations:
 
 ## Classification According to ISO 9999
 
-Based on the “_Nordic Classification System for Aids for Disabled Persons_”, a comprehensive internationally valid classification system for technical aids for disabled persons was created by the standard ISO $9999$ “_Technical aids for disabled persons - Classification_” (adopted into the European body of standards under EN ISO $9999$).
+Based on the “_Nordic Classification System for Aids for Disabled Persons_”, a comprehensive internationally valid classification system for technical aids for disabled persons was created by the standard ISO $9999$ “_Technical aids for disabled persons – Classification_” (adopted into the European body of standards under EN ISO $9999$).
 The ISO $9999$ standard divides aids into three hierarchical levels: _Classes_, _Subclasses_ and _Divisions_.
 On the top hierarchy, $10$ classes (_Classes_) are distinguished and assigned a code.
 To have place for later additions, so far only every third code was assigned (<<tab:classes-iso-9999>>).
