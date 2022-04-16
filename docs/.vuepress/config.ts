@@ -29,6 +29,12 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       "/": {
         selectLanguageText: "Sprachen",
         selectLanguageName: "Deutsch",
+        navbar: [
+          {
+            text: "Anleitung",
+            link: "/guide/review.md"
+          }
+        ],
         sidebar: {
           "/": [
             {
