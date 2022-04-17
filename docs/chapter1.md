@@ -56,7 +56,7 @@ Zweitens – und das ist für die Rehabilitationstechnik von entscheidender Bede
 Bei der Schaffung von technischen Hilfen für behinderte Menschen muss sich die Rehabilitationstechnik aber genau diese Fähigkeiten und Stärken zunutze machen, um einen Beitrag zur Kompensation von Schwächen und Mängeln leisten zu können.
 Techniker und Technikerinnen ist daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.
 
-![Eindimensionale und mehrschichtige Sichtweise von Behinderung.](./pics/01/sichtweise-auf-behinderung.svg "sichtweise-behinderung#Eindimensionale und mehrschichtige Sichtweise von Behinderung [@zagler:2008].")
+![Eindimensionale und mehrschichtige Sichtweise von Behinderung.](./pics/01/sichtweise-auf-behinderung.color.svg "sichtweise-behinderung#Eindimensionale und mehrschichtige Sichtweise von Behinderung [@zagler:2008].")
 
 > Unsere Tests, unsere Ansätze und „Bewertungen“ sind geradezu unzulänglich (...) sie zeigen uns nur die Mängel (...) nicht die Fähigkeiten; sie führen uns Puzzles und Schemata vor, während es doch darauf ankommt, Musik, Geschichten und Spiele zu begreifen und zu erkennen, wie ein Mensch sich spontan auf seine eigene, natürliche Weise beträgt.  
 > _Oliver Sacks_ [@sacks:1998]

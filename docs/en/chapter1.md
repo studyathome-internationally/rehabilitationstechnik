@@ -57,7 +57,7 @@ Secondly – and this is of crucial importance for rehabilitation technology –
 When creating technical aids for disabled people, however, rehabilitation technology must make use of precisely these abilities and strengths in order to be able to contribute to compensating for weaknesses and deficiencies.
 Technicians are therefore well advised to focus not on the deficiencies but on the abilities of a disabled person in order to find starting points for creative solutions.
 
-![One-dimensional and multi-layered views of disability.](./pics/01/sichtweise-auf-behinderung.svg "sichtweise-behinderung#One-dimensional and multi-layered views of disability. [@zagler:2008].")
+![One-dimensional and multi-layered views of disability.](./pics/01/sichtweise-auf-behinderung.color.svg "sichtweise-behinderung#One-dimensional and multi-layered views of disability. [@zagler:2008].")
 
 > Our tests, our approaches and “evaluations” are downright inadequate (...) they show us only the deficiencies (...) not the abilities; they present us with puzzles and schemes, whereas what matters is to grasp music, stories and games, and to recognize how a person spontaneously amounts to his own natural way.  
 > _Oliver Sacks_ [@sacks:1998]

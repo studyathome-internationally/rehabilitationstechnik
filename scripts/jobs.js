@@ -1,5 +1,6 @@
 const { join } = require("path");
 module.exports = [
+  [600, join(__dirname, "./../docs/pics/01/sichtweise-auf-behinderung.color.svg")],
   [600, join(__dirname, "./../docs/pics/01/sichtweise-auf-behinderung.svg")],
   [600, join(__dirname, "./../docs/pics/02/ebenen-der-behinderung-und-ursachen.svg")],
   [600, join(__dirname, "./../docs/pics/03/behinderung-leistung-umgebung.svg")],
@@ -92,6 +93,7 @@ module.exports = [
   [800, join(__dirname, "./../docs/pics/07/stellung-der-stimmbaender.svg")],
   [800, join(__dirname, "./../docs/pics/07/zusammenhang-schriftgroesse-beleuchtung-alter.color.svg")],
   [800, join(__dirname, "./../docs/pics/07/zusammenhang-schriftgroesse-beleuchtung-alter.svg")],
+  [600, join(__dirname, "./../docs/en/pics/01/sichtweise-auf-behinderung.color.svg")],
   [600, join(__dirname, "./../docs/en/pics/01/sichtweise-auf-behinderung.svg")],
   [600, join(__dirname, "./../docs/en/pics/02/ebenen-der-behinderung-und-ursachen.svg")],
   [600, join(__dirname, "./../docs/en/pics/03/behinderung-leistung-umgebung.svg")],
