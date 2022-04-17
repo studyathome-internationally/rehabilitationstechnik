@@ -13,6 +13,8 @@ abbreviations:
   title: Abkürzungsverzeichnis
 ---
 
+<!-- TODO: review -->
+
 <!-- prettier-ignore -->
 *[USA]: United States of America
 *[CERTEC]: Center of Rehabilitation Engineering Research
