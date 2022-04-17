@@ -204,6 +204,7 @@ module.exports = function math_plugin(md, options) {
   // set KaTeX as the renderer for markdown-it-simplemath
   var katexInline = function(latex) {
     options.displayMode = false;
+    options.strict = "ignore";
     try {
       return katex.renderToString(latex, options);
     } catch (error) {
@@ -222,6 +223,7 @@ module.exports = function math_plugin(md, options) {
 
   var katexBlock = function(latex) {
     options.displayMode = true;
+    options.strict = "ignore";
     try {
       return "<p v-pre class='katex-block'>" + katex.renderToString(latex, options) + "</p>";
     } catch (error) {
