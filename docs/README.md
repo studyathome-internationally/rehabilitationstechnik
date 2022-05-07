@@ -19,5 +19,6 @@ abbreviations:
 | Kapitel 5          | [Einteilung der Hilfsmittel](chapter5.md)                                  |
 | Kapitel 6          | [Medizinische Grundlagen - Teil I](chapter6.md)                            |
 | Kapitel 7          | [Medizinische Grundlagen - Teil II](chapter7.md)                           |
+| Kapitel 8          | [Die wichtigsten Arten von Behinderungen](chapter8.md)                           |
 
 <!-- !!!include(general/attribution.md)!!! -->
