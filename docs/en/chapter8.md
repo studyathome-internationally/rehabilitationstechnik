@@ -77,7 +77,7 @@ In the case of spinal cord injury (SCI), the clinical classification depends on 
 The level of spinal lesion divides the spinal cord into an upper part, where motor and sensory functions are intact, and a lower part where this is not the case.
 See <<fig:spinal-cord-and-sensory-skin-nerves>> for the four existing groups of levels, which are cervical (C2 - C8), thoracic (T1 - T12), lumbar (L1 - L5), and sacral (S1 - S5). [@keller:2002, pp. 34-37]
 
-![The groups of levels illustrated at the spinal cord, lateral view (left), and the regions of sensory skin nerves (right).](./pics/08/spinal-cord-and-sensory-skin-nerves.svg "spinal-cord-and-sensory-skin-nerves#The groups of levels illustrated at the spinal cord, lateral view (left), and the regions of sensory skin nerves (right). Reprinted from [@popovic:2000].")
+![The groups of levels illustrated at the spinal cord, sections of the spinal cord (middle), lateral view (left), and the regions of sensory skin nerves (right).](./pics/08/spinal-cord-and-sensory-skin-nerves.svg "spinal-cord-and-sensory-skin-nerves#The groups of levels illustrated at the spinal cord, lateral view (left), sections of the spinal cord (middle), and the regions of sensory skin nerves (right) [@servier-medical-art:2019, @popovic:2000].")
 
 The extent of functional loss of the upper extremity varies depending on the level of the lesion and includes loss of a finger, hand, arm, and shoulder functions.
 Furthermore, motor and sensory functions can be impaired individually or in conjunction. [@keller:2002, pp. 34-37]
@@ -91,7 +91,7 @@ The causative event of CP occurs in early childhood, which is defined as less th
 The reasons for the lesion can be a developmental defect (e.g. lissencephaly), infarction (e.g. middle cerebral artery occlusion in a neonate), or trauma during or after delivery.
 As CP is a persistent but not unchangeable disorder of motion and posture, it is somehow a stable and definite situation.
 Nevertheless, “not unchangeable” means that motor and non-motor disorders provoked by CP can improve or worsen, spontaneously by themselves or through treatment.
-These changes are due to the plasticity of the CNS, its compensatory capabilities, and the possibility to learn through experience. [@ferrari:2010] [@miller:2005]
+These changes are due to the plasticity of the CNS, its compensatory capabilities, and the possibility to learn through experience. [@ferrari:2010, @miller:2005]
 
 The main classifications of CP are based on
 
@@ -209,6 +209,7 @@ Only a tiny fraction of all tinnitus cases are objective ones.
 Hearing impairments are usually diagnosed using an audiometric hearing test.
 Using the pure tone audiometry, testing thresholds of audibility are established and can be compared with a normal (physiological) hearing capacity. [@zagler:2012]
 
+<!-- FIXME: check license rights of "audiometric measurement device" -->
 <!-- prettier-ignore -->
 ![Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (\])](./pics/08/audiometric-measurement-device.svg "audiometric-measurement-device#Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (]) [@zagler:2012].")
 
@@ -232,9 +233,9 @@ In the following, Trisomy 21/Down Syndrome will be explained in more detail, as 
 
 Trisomy 21 (also known as “Down syndrome”) is one of the most common chromosome abnormalities in humans, occurring in about one per 1000 babies born each year.
 The genetic cause of Down syndrome - an extra copy of chromosome 21 - was identified by French researchers in 1959.
-It is typically associated with physical growth delays, characteristic facial features, and mild to moderate intellectual disability. [@weijerman:2010] [@hickey:2012]
+It is typically associated with physical growth delays, characteristic facial features, and mild to moderate intellectual disability. [@weijerman:2010, @hickey:2012]
 
-![Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21](./pics/08/karyotype-of-trisomy-down-syndrome.svg "karyotype-of-trisomy-down-syndrome#Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21 [@human-genome-project:2013].")
+![Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21](./pics/08/karyotype-of-trisomy-down-syndrome.svg "karyotype-of-trisomy-down-syndrome#Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21 [@servier-medical-art:2019, @human-genome-project:2013].")
 
 In Down syndrome, physical and mental development is typically delayed.
 Infants tend to be placid and passive and do not cry as often as expected.
