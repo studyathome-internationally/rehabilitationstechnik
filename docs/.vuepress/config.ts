@@ -7,12 +7,13 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { containerPlugin } from "@vuepress/plugin-container";
 import { imageComparatorPlugin } from "vuepress-plugin-image-comparator";
 
+const base = process.env.BASE ? process.env.BASE : "/";
 const bundler = process.env.BUNDLER ? process.env.BUNDLER : process.env.BUNDLER = '@vuepress/bundler-vite';
 
 export default defineUserConfig({
   // site config
   lang: "de-AT",
-  // base: "/next/",
+  base,
   // theme and its config
   theme: defaultTheme({
     logo: "/images/fhtw-logo.svg",
