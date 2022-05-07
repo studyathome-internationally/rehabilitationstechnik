@@ -66,7 +66,8 @@ A physical disability is not a static situation.
 It can be, as mentioned before, inherited but also acquired through accidents or diseases.
 Through medical treatment or medical aids and appliances, the disability can be cured or moderated.
 Thus, disability is always a complex process of causes and consequences, direct effects, individual destinies, and social consequences [@fürstler:2000].
-In the following, two common forms of physical disabilities will be introduced in more detail: paraplegia/spinal cord injury and cerebral palsy:
+
+In the following, two common forms of physical disabilities will be introduced in more detail: _paraplegia_/_spinal cord injury_ and _cerebral palsy_.
 
 ### Paraplegia and Spinal Cord Injury
 
@@ -99,7 +100,7 @@ The main classifications of CP are based on
 - The type of the prevailing neurological symptom like ataxia, choreoathetosis and
 - Its somatic location, e.g. diplegia, tetraplegia, hemiplegia. [@cioni:2010]
 
-To get an idea of the clinical syndromes of CP, the following there is an extract from [@cioni:2010] – Traditional Clinical Syndromes like spastic tetraparesis, spastic diplegia, spastic hemiplegia, ataxic form, dystonic from and athetosic (or choreo-athetosic) form of CP.
+To get an idea of the clinical syndromes of CP, the following there is an extract from [@cioni:2010] – Traditional Clinical Syndromes like spastic tetraparesis, spastic diplegia, spastic hemiplegia, ataxic form, dystonic form and athetosic (or choreo-athetosic) form of CP.
 
 #### Spastic Tetraparesis
 
@@ -112,6 +113,8 @@ Consequent to spasticity, patients suffer from widespread muscle contractures an
 The most frequent anatomical lesions, also detectable in vivo through neuroimages and especially through magnetic resonance imaging (MRI), are represented by diffuse periventricular leukomalacia or by multicystic damage with severe cerebral atrophy.
 
 #### Spastic Diplegia
+
+<!-- FIXME: chapter reference -->
 
 In spastic diplegia, tone and motion disorders involve all four limbs, with more severe involvement of the lower limbs.
 This is the typical clinical picture of severe pre-term children, with a high incidence of periventricular leukomalacia.
@@ -168,7 +171,7 @@ Also in this form, symptoms are consequent of extrapyramidal system dysfunction,
 The clinical picture is characterized by hypotonia and by the presence of slow, arrhythmic, and continuous polypoidal movements, usually occurring from the first months after birth, and often by rapid, proximal, choric movements involving the face, the tongue, and the distal part of the limbs.
 Pyramidal symptoms may coexist.
 Usually, the development of intelligence is not strongly impaired, and speech is dysarthric.
-When it is caused by hyperbilirubinemia, it is often associated with perceptive deafness.“ [@cioni:2010]
+When it is caused by hyperbilirubinemia, it is often associated with perceptive deafness. [@cioni:2010]
 
 However, children with CP are in most ways normal children with special needs.
 The greater long-term goal is for children with CP as for any other children, to grow and develop to their maximum capabilities in a way that they may succeed as contributing members of society. [@ferrari:2010]
