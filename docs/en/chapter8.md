@@ -13,6 +13,15 @@ abbreviations:
   title: List of Abbreviations
 ---
 
+<!-- prettier-ignore -->
+*[AAC]: Augmentative and Alternative Communication
+*[CNS]: Central Nervous System
+*[CP]: Cerebral Palsy
+*[ICIDH]: International Classification of Impairments, Disabilities and Handicaps
+*[IQ]: Intelligence Quotient
+*[MRI]: Magnetic Resonance Imaging
+*[SCI]: Spinal Cord Injury
+
 # Major Types of Disability
 
 ## Causes of Disability
