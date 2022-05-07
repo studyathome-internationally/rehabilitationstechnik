@@ -75,9 +75,9 @@ Paraplegia is used if the lower extremities or the trunk are paralyzed (motor or
 Tetraplegia describes the paralysis of all four extremities, while hemiplegia covers half of the body divided by the sagittal plane.
 In the case of spinal cord injury (SCI), the clinical classification depends on several criteria like sensory/motor impairment, complete or incomplete SCI, the severity of the injury, and the level of spinal lesion.
 The level of spinal lesion divides the spinal cord into an upper part, where motor and sensory functions are intact, and a lower part where this is not the case.
-See Figure 29 for the four existing groups of levels, which are cervical (C2 - C8), thoracic (T1 - T12), lumbar (L1 - L5), and sacral (S1 - S5). [@keller:2002, pp. 34-37]
+See <<fig:spinal-cord-and-sensory-skin-nerves>> for the four existing groups of levels, which are cervical (C2 - C8), thoracic (T1 - T12), lumbar (L1 - L5), and sacral (S1 - S5). [@keller:2002, pp. 34-37]
 
-Figure 29: The groups of levels illustrated at the spinal cord, lateral view (left), and the regions of sensory skin nerves (right). Reprinted from [@popovic:2000]
+![The groups of levels illustrated at the spinal cord, lateral view (left), and the regions of sensory skin nerves (right).](./pics/08/spinal-cord-and-sensory-skin-nerves.svg "spinal-cord-and-sensory-skin-nerves#The groups of levels illustrated at the spinal cord, lateral view (left), and the regions of sensory skin nerves (right). Reprinted from [@popovic:2000].")
 
 The extent of functional loss of the upper extremity varies depending on the level of the lesion and includes loss of a finger, hand, arm, and shoulder functions.
 Furthermore, motor and sensory functions can be impaired individually or in conjunction. [@keller:2002, pp. 34-37]
@@ -197,7 +197,7 @@ The types of visual disabilities are manifold – they include
 - Hemianopia (half sided vision loss caused by tumors, traumatic brain injury, or stroke)
 - Damages to the neural system, optic nerve, or retina lead to blindness. [@zagler:2012]
 
-Figure 30. Effects of different types of visual disabilities (glaucoma: top, left; cataract: top, right; retinopathic pigmentosa: bottom, left; hemianopia: bottom, right) [@zagler:2012]
+![Effects of different types of visual disabilities (glaucoma: top, left; cataract: top, right; retinopathic pigmentosa: bottom, left; hemianopia: bottom, right).](./pics/08/effects-of-different-types-of-visual-disabilities.svg "effects-of-different-types-of-visual-disabilities#Effects of different types of visual disabilities (glaucoma: top, left; cataract: top, right; retinopathic pigmentosa: bottom, left; hemianopia: bottom, right) [@zagler:2012].")
 
 ### Hearing Impairments
 
@@ -209,12 +209,13 @@ Only a tiny fraction of all tinnitus cases are objective ones.
 Hearing impairments are usually diagnosed using an audiometric hearing test.
 Using the pure tone audiometry, testing thresholds of audibility are established and can be compared with a normal (physiological) hearing capacity. [@zagler:2012]
 
-Figure 31: Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (]) [@zagler:2012]
+<!-- prettier-ignore -->
+![Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (\])](./pics/08/audiometric-measurement-device.svg "audiometric-measurement-device#Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (]) [@zagler:2012].")
 
 Depending on the level of hearing loss, the ICIDH classifies following stage of hearing impairment: mild hearing loss (26-40 dB attenuation), moderate hearing loss (41-55 dB), moderately severe hearing loss (56-70dB) severe hearing loss (71-91 dB), profound hearing loss (>91 dB) and deafness. [@zagler:2012]
 The kind of hearing impairment can often be diagnosed from the differently shaped curves for air- and bone conduction levels:
 
-Figure 32: Different kinds of hearing loss: conductive (top, left); sensorineural (top, right); noise induced (bottom, left); age-related: Presbycusia (bottom, right) [@zagler:2012]
+![Different kinds of hearing loss: conductive (top, left); sensorineural (top, right); noise induced (bottom, left); age-related: Presbycusia (bottom, right)](./pics/08/different-kinds-of-hearing-loss.svg "different-kinds-of-hearing-loss#Different kinds of hearing loss: conductive (top, left); sensorineural (top, right); noise induced (bottom, left); age-related: Presbycusia (bottom, right) [@zagler:2012].")
 
 ## Mental Disability
 
@@ -233,7 +234,7 @@ Trisomy 21 (also known as “Down syndrome”) is one of the most common chromos
 The genetic cause of Down syndrome - an extra copy of chromosome 21 - was identified by French researchers in 1959.
 It is typically associated with physical growth delays, characteristic facial features, and mild to moderate intellectual disability. [@weijerman:2010] [@hickey:2012]
 
-Figure 33: Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21 [@human-genome-project:2013]
+![Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21](./pics/08/karyotype-of-trisomy-down-syndrome.svg "karyotype-of-trisomy-down-syndrome#Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21 [@human-genome-project:2013].")
 
 In Down syndrome, physical and mental development is typically delayed.
 Infants tend to be placid and passive and do not cry as often as expected.

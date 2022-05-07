@@ -140,7 +140,7 @@ export default defineUserConfig({
     // }]
     imageComparatorPlugin({
       enable: true,
-      include: [{ path: /^.*/, files: [/^\.\/pics\/0[1234567].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
+      include: [{ path: /^.*/, files: [/^\.\/pics\/0[12345678].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
     }),
     mediumZoomPlugin({
       selector: ".theme-default-content figure img"
