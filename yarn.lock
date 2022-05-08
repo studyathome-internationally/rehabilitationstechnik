@@ -2740,10 +2740,10 @@ markdown-it-attrs@^4.1.3:
   resolved "https://registry.yarnpkg.com/markdown-it-attrs/-/markdown-it-attrs-4.1.3.tgz#2b5ab8371ae947155566eaabe8c73548e816dfcd"
   integrity sha512-d5yg/lzQV2KFI/4LPsZQB3uxQrf0/l2/RnMPCPm4lYLOZUSmFlpPccyojnzaHkfQpAD8wBHfnfUW0aMhpKOS2g==
 
-markdown-it-cite@^0.0.1-alpha.9:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/markdown-it-cite/-/markdown-it-cite-0.0.1.tgz#14e46bcc5f0550e2edd33474e6d21a151f11637c"
-  integrity sha512-3RxamEwhhcUt8sMK+0NGvdcfQ44SPGQCMQuQubK/RulSAdb2X7hjn3Z9+wd7uov3K3hjda1IFcJDqs0rPG3XxQ==
+markdown-it-cite@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/markdown-it-cite/-/markdown-it-cite-0.0.2.tgz#8e6ae4c02d3323c0d045f539289be5af26cdf821"
+  integrity sha512-NC7mkTsvvD9Xosaj1/ZJJiZ5kaDNLTjVUUohZ3Hgx1xlfGhjxf2NoYLqjSDHefmHiEciTC3o6/0Rl+wgkolbzA==
   dependencies:
     biblatex-csl-converter "^2.0.4"
     markdown-it "^12.3.2"
@@ -2782,10 +2782,10 @@ markdown-it-list-of-tables@^0.0.2-alpha.7:
   dependencies:
     markdown-it "^12.3.2"
 
-markdown-it-mathjax-a11y@^0.0.2-alpha.7:
-  version "0.0.2-alpha.7"
-  resolved "https://registry.yarnpkg.com/markdown-it-mathjax-a11y/-/markdown-it-mathjax-a11y-0.0.2-alpha.7.tgz#8d12e97943b4a4af606e8cbbbbf1f192414fad02"
-  integrity sha512-MfEJH2/AB+hO7NBUP/vzyVrPouEpD6Q5sh0CMMYszZk5Je0Iys0zWNzAf/9ql7DZdpugUAPUj8lKZRXoiINvhA==
+markdown-it-mathjax-a11y@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/markdown-it-mathjax-a11y/-/markdown-it-mathjax-a11y-0.0.2.tgz#db886d30435174353577cb741ea77a39d7b5d258"
+  integrity sha512-rGDBbSBoWAqyZmrqObQe2jwFojLcIkBo2lcPWZ+ykDwFJ9HnuvucgWOFYnD5tH71yYuRMsftm3rLBcH4NMQriA==
   dependencies:
     jsdom "^19.0.0"
     juice "^8.0.0"
