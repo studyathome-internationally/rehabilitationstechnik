@@ -15,7 +15,9 @@ abbreviations:
 
 <!-- prettier-ignore -->
 *[AAL]: Ambient Assisted Living (or Active Assisted Living)
+*[AsTeRICS]: Assistive Technology Rapid Integration & Construction Set
 *[AT]: Assistive Technology
+*[USA]: United States of America
 
 # Assistive Technology - Basics
 
