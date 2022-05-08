@@ -54,13 +54,13 @@ Figure 34: A personal assistive tool to restoring a function (a), communal assis
 
 ## Assistive Tools: A Matter of Design
 
-To reach the already mentioned third goal of Assistive Technology barriers are remove by the right design.
-Thus, this approach will be described more in detail and principles of Universal Design are presented.
+To reach the already mentioned third goal of Assistive Technology barriers are removed by the right design.
+Thus, this approach will be described more in detail, and principles of Universal Design are presented.
 
 ### Narrowing the Gap
 
 As mentioned before in chapter 1.2 Disability as Difference between Personal Ability and Societal Demands the Gap Theory says that disability is the difference between the personal abilities and the demands which are posed to this person by society or environment.
-There are two directions to close the gap between abilities and demands – first, to increase the personal abilities or second to decrease the demands of a product or the environment.
+There are two directions to close the gap between abilities and demands – first, to increase the personal abilities, or second to decrease the demands of a product or the environment.
 
 Figure 35: Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design [@zagler:2013].
 
@@ -71,7 +71,7 @@ In recent years, a few design philosophies have developed:
 - Design-for-All
 - Universal Design
 
-Even if each philosophy has its own definition and its own approach, they all have one goal – to narrow the gap between the demands from the environment ant the abilities of a person by reducing the demands.
+Even if each philosophy has its definition and its approach, they all have one goal – to narrow the gap between the demands from the environment and the abilities of a person by reducing the demands.
 Nevertheless, the term “Universal Design” has become the most preferable.
 
 ### Principles of Universal Design
@@ -83,7 +83,7 @@ Pioneers in the topic “Universal Design” is the “Center for Universal Desi
 2. Principle: Flexibility in Use  
    The design accommodates a wide range of individual preferences and abilities
 3. Principle: Simple and Intuitive Use  
-   Use of the design is easy to understand, regardless of the user’s experience, knowledge,
+   The use of the design is easy to understand, regardless of the user’s experience, knowledge,
    language skills, or current concentration level.
 4. Principle: Perceptible Information  
    The design communicates necessary information effectively to the user, regardless of
@@ -93,35 +93,34 @@ Pioneers in the topic “Universal Design” is the “Center for Universal Desi
 6. Principle: Low Physical Effort  
    The design can be used efficiently and comfortably and with a minimum of fatigue.
 7. Principle: Size and Space for Approach and Use  
-   Appropriate size and space is provided for approach, reach, manipulation, and use
-   regardless of user’s body size, posture, or mobility. [@connell:1997]
+   Appropriate size and space are provided for approach, reach, manipulation, and use regardless of the user’s body size, posture, or mobility. [@connell:1997]
 
 ## Classification of Technical Aids
 
 ### Augmentative Aids
 
-With an augmentative aid a stimulus or an action is amplified in such a way that it becomes effective also for an organ with reduced functionality or capability.
+With an augmentative aid, a stimulus or an action is amplified in such a way that it becomes effective also for an organ with reduced functionality or capability.
 This amplification is represented in Figure 36 as a thickened arrow.
-Examples for augmentative aids are glasses, orthoses, hearing aids or walking aids. [@zagler:2013]
+Examples of augmentative aids are glasses, orthoses, hearing aids, or walking aids. [@zagler:2013]
 
 Figure 36: Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture) [@zagler:2013].
 
 ### Substituting Aids
 
-Substituting aid means that a stimulus is redirected to another sensory organ which is normally not used for that purpose.
+Substituting aid means that a stimulus is redirected to another sensory organ that is normally not used for that purpose.
 The same applies if an action or an activity is executed by another motor organ than usual.
 With action or activity, a movement or the trigger for a movement is meant.
 In that way there is a substitution, what is called “Vikariat” in German or simply “substitute” in English.
 The principle of a substitute is represented in Figure 37, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
-These optical stimuli can be converted by an assistive tool (“H” – helping tool) into an acoustic stimulus which are then redirected to the persons organ of hearing (Figure 37, middle).
+These optical stimuli can be converted by an assistive tool (“H” – helping tool) into an acoustic stimulus which is then redirected to the person's organ of hearing (Figure 37, middle).
 Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (Figure 37, right).
-Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where eyes take over the task of the hearing sense. [@zagler:2013]
+Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where the eyes take over the task of the hearing sense. [@zagler:2013]
 
 Figure 37: Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense [@zagler:2013].
 
 If one sensory organ takes over the task from another sensory organ this is called “sensory substitution”.
 These substitutions are limited by the bandwidth of human senses, which are displayed in <<tab:bandwidth-human-organs>>.
-Due to these bandwidths one must expect limitations by using a substitute.
+Due to these bandwidths, one must expect limitations by using a substitute.
 
 | Sensory Organ          | Bandwidth in bit/s |
 | ---------------------- | ------------------ |
@@ -133,7 +132,7 @@ Due to these bandwidths one must expect limitations by using a substitute.
 
 .bandwidth-human-organs#Bandwidths of human senses [@zagler:2013]
 
-If an action is performed by means of a deputy, e.g. a device or robot, it is called “motor substitution”.
+If an action is performed through a deputy, e.g. a device or robot, it is called “motor substitution”.
 The example displayed in Figure 38 shows a substitution for the action lifting which is done by a device.
 If the lifting through the device is initiated by pressing a button, then “pressing the button” is the substitute for the motor function of the upper limbs. Otherwise, if the lifting through the device is initiated by voice control, then “speaking” is the substitute for the motor function of the upper limbs. [@zagler:2013]
 
@@ -141,22 +140,22 @@ Figure 38: Principle of a motor substitution: substation of lifting through pres
 
 ### Bridging Aids
 
-The purpose of bridging aid is to replace or bridge an interrupted part of a (sensory or actuatory) function chain.
+The purpose of bridging aid is to replace or bridge an interrupted part of a (sensor or actuator) function chain.
 Thus, the stimulus is fed back to the original neural pathway or organ after bridging.
-The assistive tool bypasses the broken function chain in the mean that nerve paths behind the broken part gets stimulated in that way that the stimulus is similar to the originally stimulus (Figure 39).
-Examples for bridging aids are cochlea implants or retina implants. [@zagler:2013]
+The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (Figure 39).
+Examples of bridging aids are cochlea implants or retina implants. [@zagler:2013]
 
-Figure 39: Principle of a bridging aid: the assistive device (“H” – helping tool) bridge the broken sensory channel in that way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].
+Figure 39: Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].
 
 ## Differentiation to Ambient Assisted Living
 
-Ambient Assisted Living (or Active Assisted Living), in short AAL, means extending the time people can live independently in their preferred environment by increasing their autonomy, self-confidence and mobility.
-It aims to monitor and care for, to support maintaining health and functional capability of the elderly individuals.
+Ambient Assisted Living (or Active Assisted Living), in short AAL, means extending the time people can live independently in their preferred environment by increasing their autonomy, self-confidence, and mobility.
+It aims to monitor and care for, to support maintaining the health and functional capability of the elderly individuals.
 Furthermore, it enhances security and shall prevent social isolation by supporting maintaining the multifunctional network around the individual.
-In addition, the Concept of AAL is understood as supporting carers, families and care organization and as increasing efficiency and productivity of resources used in the aging societies.
-Thus, AAL addresses in particular the issues affecting an ageing population and targets the need of the individual person and their caretakers, whereby two groups of persons are considered: elderly people and people with disabilities. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
+In addition, the Concept of AAL is understood as supporting carers, families, and care organizations and as increasing the efficiency and productivity of resources used in the aging societies.
+Thus, AAL addresses, in particular, the issues affecting an aging population and targets the need of an individual and their caretakers, whereby two groups of persons are considered: elderly people and people with disabilities. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
 
-In contrast, Assistive technologies enable persons regardless of age to perform function that due to disability are difficult to perform.
+In contrast, assistive technologies enable persons regardless of age to perform a function that due to disability is difficult to perform.
 Some disabilities are associated with aging but aging itself is not a disability.
 Therefore, the relation of Ambient Assisted Living Technologies to Assistive Technologies (AT) is that AT is a part of AAL technologies. [@soprano:deliverable:1.1.2]
 
@@ -165,7 +164,7 @@ Some examples of these technologies are as follows:
 
 - Software and network technologies
 - Sensors and actuators
-- Human machine interfaces
+- Human-machine interfaces
 - Embedded systems
 - Smart homes.
 
