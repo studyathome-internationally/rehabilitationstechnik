@@ -37,22 +37,22 @@ It enables people to perform tasks that they were formerly unable to accomplish 
 The target groups for the application of Assistive Technologies are persons with physical or mental challenges or social handicaps.
 Thus, goals of Assistive Technologies are to overcome completely or partly those functional or social restrictions and/or to compensate effects of diseases and disabilities without necessarily changing the underlying causes themselves, thus creating a barrier-free environment.
 
-Figure 34: A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).
+![A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).](./pics/09/personal-assistive-tools.svg "personal-assistive-tools#A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).")
 
 1. Goal of Assistive Technology – Personal Approach
-   The first goal is to restore or improve an impaired function.
+   The first goal is _to restore or improve an impaired function_.
    This approach applies with incapacities/skill deficits.
    With an assistive device the functional restriction (disability) is compensated (producing activity), for example by a hearing aid.
-   This concept is represented in Figure 34 a), where the “H” stands for the helping tool.
+   This concept is represented in <<fig:personal-assistive-tools>> a), where the “H” stands for the helping tool.
 2. Goal of Assistive Technology – Communal Approach
-   With this approach the effects of impairment are overcome without any restoration or improvement of the function itself.
+   With this approach the _effects of impairment are overcome_ without any restoration or improvement of the function itself.
    This approach applies to the handicap.
    The functional restriction remains, but the person is again able to fulfil his or her role in society (producing participation).
-   This approach is depicted in Figure 34 b).
+   This approach is depicted in <<fig:personal-assistive-tools>> b).
 3. Goal of Assistive Technology – Design Approach
-   The third goal of Assistive Technology is to remove barriers or to avoid them from the start.
+   The third goal of Assistive Technology is to _remove barriers_ or to avoid them from the start.
    It applies to the design of the built environment by creating barrier-free environments, whereby barriers are to be seen in the broadest sense.
-   This concept is represented in Figure 34 c).
+   This concept is represented in <<fig:personal-assistive-tools>> c).
 
 ## Assistive Tools: A Matter of Design
 
@@ -64,7 +64,7 @@ Thus, this approach will be described more in detail, and principles of Universa
 As mentioned before in chapter 1.2 Disability as Difference between Personal Ability and Societal Demands the Gap Theory says that disability is the difference between the personal abilities and the demands which are posed to this person by society or environment.
 There are two directions to close the gap between abilities and demands – first, to increase the personal abilities, or second to decrease the demands of a product or the environment.
 
-Figure 35: Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design [@zagler:2013].
+![Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design.](./pics/09/narrowing-the-gap-between-personal-abilities-and-demands.svg "Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design [@zagler:2013].")
 
 In recent years, a few design philosophies have developed:
 
@@ -102,10 +102,10 @@ Pioneers in the topic “Universal Design” is the “Center for Universal Desi
 ### Augmentative Aids
 
 With an augmentative aid, a stimulus or an action is amplified in such a way that it becomes effective also for an organ with reduced functionality or capability.
-This amplification is represented in Figure 36 as a thickened arrow.
+This amplification is represented in <<fig:principle-of-augmentative-aids>> as a thickened arrow.
 Examples of augmentative aids are glasses, orthoses, hearing aids, or walking aids. [@zagler:2013]
 
-Figure 36: Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture) [@zagler:2013].
+![Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture).](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture) [@zagler:2013].")
 
 ### Substituting Aids
 
@@ -113,12 +113,12 @@ Substituting aid means that a stimulus is redirected to another sensory organ th
 The same applies if an action or an activity is executed by another motor organ than usual.
 With action or activity, a movement or the trigger for a movement is meant.
 In that way there is a substitution, what is called “Vikariat” in German or simply “substitute” in English.
-The principle of a substitute is represented in Figure 37, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
-These optical stimuli can be converted by an assistive tool (“H” – helping tool) into an acoustic stimulus which is then redirected to the person's organ of hearing (Figure 37, middle).
-Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (Figure 37, right).
+The principle of a substitute is represented in <<fig:principle-of-substituting-aids>>, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
+These optical stimuli can be converted by an assistive tool (“H” – helping tool) into an acoustic stimulus which is then redirected to the person's organ of hearing (<<fig:principle-of-substituting-aids>>, middle).
+Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (<<fig:principle-of-substituting-aids>>, right).
 Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where the eyes take over the task of the hearing sense. [@zagler:2013]
 
-Figure 37: Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense [@zagler:2013].
+![Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense.](./pics/09/principle-of-substituting-aids.svg "principle-of-substituting-aids#Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense [@zagler:2013].")
 
 If one sensory organ takes over the task from another sensory organ this is called “sensory substitution”.
 These substitutions are limited by the bandwidth of human senses, which are displayed in <<tab:bandwidth-human-organs>>.
@@ -132,22 +132,22 @@ Due to these bandwidths, one must expect limitations by using a substitute.
 | Smelling (Nose)        | < 10^1 bit/s       |
 | Tasting (Tongue)       | < 10^1 bit/s       |
 
-.bandwidth-human-organs#Bandwidths of human senses [@zagler:2013]
+.bandwidth-human-organs#Bandwidths of human senses [@zagler:2013].
 
 If an action is performed through a deputy, e.g. a device or robot, it is called “motor substitution”.
-The example displayed in Figure 38 shows a substitution for the action lifting which is done by a device.
+The example displayed in <<fig:principle-of-motor-substitution>> shows a substitution for the action lifting which is done by a device.
 If the lifting through the device is initiated by pressing a button, then “pressing the button” is the substitute for the motor function of the upper limbs. Otherwise, if the lifting through the device is initiated by voice control, then “speaking” is the substitute for the motor function of the upper limbs. [@zagler:2013]
 
-Figure 38: Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].
+![Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].")
 
 ### Bridging Aids
 
 The purpose of bridging aid is to replace or bridge an interrupted part of a (sensor or actuator) function chain.
 Thus, the stimulus is fed back to the original neural pathway or organ after bridging.
-The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (Figure 39).
+The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (<<fig:principle-of-bridging-aids>>).
 Examples of bridging aids are cochlea implants or retina implants. [@zagler:2013]
 
-Figure 39: Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].
+![Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].")
 
 ## Differentiation to Ambient Assisted Living
 
@@ -157,7 +157,7 @@ Furthermore, it enhances security and shall prevent social isolation by supporti
 In addition, the Concept of AAL is understood as supporting carers, families, and care organizations and as increasing the efficiency and productivity of resources used in the aging societies.
 Thus, AAL addresses, in particular, the issues affecting an aging population and targets the need of an individual and their caretakers, whereby two groups of persons are considered: elderly people and people with disabilities. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
 
-In contrast, assistive technologies enable persons regardless of age to perform a function that due to disability is difficult to perform.
+In contrast, assistive technologies enable persons **regardless of age** to perform a function that due to disability is difficult to perform.
 Some disabilities are associated with aging but aging itself is not a disability.
 Therefore, the relation of Ambient Assisted Living Technologies to Assistive Technologies (AT) is that AT is a part of AAL technologies. [@soprano:deliverable:1.1.2]
 
