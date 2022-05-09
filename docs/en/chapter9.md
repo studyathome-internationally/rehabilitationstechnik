@@ -43,7 +43,7 @@ Thus, goals of Assistive Technologies are to overcome completely or partly those
    The first goal is _to restore or improve an impaired function_.
    This approach applies with incapacities/skill deficits.
    With an assistive device the functional restriction (disability) is compensated (producing activity), for example by a hearing aid.
-   This concept is represented in <<fig:personal-assistive-tools>> a), where the “H” stands for the helping tool.
+   This concept is represented in <<fig:personal-assistive-tools>> a), where the “A” stands for the assistive tool.
 2. Goal of Assistive Technology – Communal Approach
    With this approach the _effects of impairment are overcome_ without any restoration or improvement of the function itself.
    This approach applies to the handicap.
@@ -105,7 +105,7 @@ With an augmentative aid, a stimulus or an action is amplified in such a way tha
 This amplification is represented in <<fig:principle-of-augmentative-aids>> as a thickened arrow.
 Examples of augmentative aids are glasses, orthoses, hearing aids, or walking aids. [@zagler:2013]
 
-![Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture).](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through a helping tool (“H”, right picture) [@zagler:2013].")
+![Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture).](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture) [@zagler:2013].")
 
 ### Substituting Aids
 
@@ -114,7 +114,7 @@ The same applies if an action or an activity is executed by another motor organ 
 With action or activity, a movement or the trigger for a movement is meant.
 In that way there is a substitution, what is called “Vikariat” in German or simply “substitute” in English.
 The principle of a substitute is represented in <<fig:principle-of-substituting-aids>>, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
-These optical stimuli can be converted by an assistive tool (“H” – helping tool) into an acoustic stimulus which is then redirected to the person's organ of hearing (<<fig:principle-of-substituting-aids>>, middle).
+These optical stimuli can be converted by an assistive tool (“A”) into an acoustic stimulus which is then redirected to the person's organ of hearing (<<fig:principle-of-substituting-aids>>, middle).
 Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (<<fig:principle-of-substituting-aids>>, right).
 Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where the eyes take over the task of the hearing sense. [@zagler:2013]
 
@@ -147,7 +147,7 @@ Thus, the stimulus is fed back to the original neural pathway or organ after bri
 The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (<<fig:principle-of-bridging-aids>>).
 Examples of bridging aids are cochlea implants or retina implants. [@zagler:2013]
 
-![Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Principle of a bridging aid: the assistive device (“H” – helping tool) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].")
+![Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].")
 
 ## Differentiation to Ambient Assisted Living
 
