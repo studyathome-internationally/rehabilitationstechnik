@@ -21,8 +21,7 @@ abbreviations:
 
 # Assistive Technology - Basics
 
-In the Assistive Technology Act of 2004 from USA Public Law [@assistive-technology-act:2004], the term “Assistive Technology”
-is defined as “technology designed to be utilized in an assistive device or assistive service”:
+In the _Assistive Technology Act_ of 2004 from USA Public Law [@assistive-technology-act:2004], the term “Assistive Technology” is defined as “technology designed to be utilized in an assistive device or assistive service”:
 
 - An Assistive Technology device is “…any item, piece of equipment, or product system, whether acquired commercially, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.”
 - Assistive technology service means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device.
@@ -60,6 +59,8 @@ To reach the already mentioned third goal of Assistive Technology barriers are r
 Thus, this approach will be described more in detail, and principles of Universal Design are presented.
 
 ### Narrowing the Gap
+
+<!-- FIXME: cross-reference -->
 
 As mentioned before in chapter 1.2 Disability as Difference between Personal Ability and Societal Demands the Gap Theory says that disability is the difference between the personal abilities and the demands which are posed to this person by society or environment.
 There are two directions to close the gap between abilities and demands – first, to increase the personal abilities, or second to decrease the demands of a product or the environment.
@@ -138,7 +139,7 @@ If an action is performed through a deputy, e.g. a device or robot, it is called
 The example displayed in <<fig:principle-of-motor-substitution>> shows a substitution for the action lifting which is done by a device.
 If the lifting through the device is initiated by pressing a button, then “pressing the button” is the substitute for the motor function of the upper limbs. Otherwise, if the lifting through the device is initiated by voice control, then “speaking” is the substitute for the motor function of the upper limbs. [@zagler:2013]
 
-![Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].")
+![Principle of a motor substitution: substation of lifting through pressing a button, or through voice control.](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].")
 
 ### Bridging Aids
 
@@ -168,6 +169,6 @@ Some examples of these technologies are as follows:
 - Sensors and actuators
 - Human-machine interfaces
 - Embedded systems
-- Smart homes.
+- Smart homes
 
 The products and services of these technologies enable persons to perform tasks or functions at a level similar to an earlier experience, leading to a lifestyle of independence. [@soprano:deliverable:1.1.2]
