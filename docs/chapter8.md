@@ -243,7 +243,7 @@ Daher entwickeln sich ihre sprachlichen Fähigkeiten in der Regel langsam.
 Verhaltensweisen, die auf eine Aufmerksamkeitsstörung (manchmal mit Hyperaktivität) hindeuten, sind in der Kindheit häufig zu beobachten.
 Bei Kindern mit Down-Syndrom besteht ein höheres Risiko für autistisches Verhalten, insbesondere bei Kindern mit schweren geistigen Behinderungen.
 Depressionen sind auch bei Erwachsenen weit verbreitet und können auch bei Kindern auftreten.
-Ein frühzeitiges Eingreifen mit pädagogischen und anderen Diensten verbessert die Funktionsfähigkeit von Kleinkindern mit Down-Syndrom. [@down-syndrom-education:2015]
+Ein frühzeitiges Eingreifen mit pädagogischen und anderen Diensten verbessert die Funktionsfähigkeit von Kleinkindern mit Down-Syndrom. [@down-syndrome-education:2015]
 
 Kinder mit Down-Syndrom haben oft Herzfehler.
 Sie sind schwerhörig und neigen zu wiederkehrenden Ohrinfektionen.
