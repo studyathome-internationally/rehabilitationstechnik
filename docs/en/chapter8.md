@@ -118,7 +118,7 @@ The most frequent anatomical lesions, also detectable in vivo through neuroimage
 
 In spastic diplegia, tone and motion disorders involve all four limbs, with more severe involvement of the lower limbs.
 This is the typical clinical picture of severe pre-term children, with a high incidence of periventricular leukomalacia.
-The type of motor damage is caused by the proximity of the malacic lesions to the course of the corticospinal pathways to the lower part of the body.
+The type of motor damage is caused by the proximity of the malacic lesions to the course of the corticospinal pathways (e.g. pyramidal pathways) to the lower part of the body.
 Hypertonia, mostly involving sural triceps and hip adductors, rarely becomes apparent before the third-fourth month after birth, and sometimes even later.
 Traditionally (but this term is no longer accepted, see chapter 3), the clinical history includes a “silent period” taking place after the acute stage of the cerebral damage and before tone disorders and motor development retardation become evident.
 Upper limb motricity is quite preserved; the prognosis for walking, even without walking supports, is usually favorable.
@@ -228,7 +228,8 @@ The kind of hearing impairment can often be diagnosed from the differently shape
   Impairments to the brain (body function) result in activity limitations and participation restrictions.
   Brain impairments associated with intellectual disability result in limitations in intellectual function. [@wehmeyer:2010]
 - Mental illness
-- Development disability
+
+An intellectual disability also belongs to the so-called category of developmental disability, which is a broad term that includes both physical and mental disabilities (e.g., conduct disorder, cerebral palsy, Down syndrome, ...). [@ICI]
 
 In the following, Trisomy 21/Down Syndrome will be explained in more detail, as this is a common cause of intellectual disabilities.
 

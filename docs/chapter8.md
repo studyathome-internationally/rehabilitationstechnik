@@ -117,7 +117,7 @@ Die häufigsten anatomischen Läsionen, die auch in vivo durch Neuroaufnahmen un
 
 Bei der spastischen Diplegie sind Tonus- und Bewegungsstörungen an allen vier Gliedmaßen vorhanden, wobei die unteren Gliedmaßen stärker betroffen sind.
 Dies ist das typische klinische Bild schwerer Frühgeborener mit einer hohen Inzidenz periventrikulärer Leukomalazie.
-Die Art der motorischen Schädigung wird durch die Nähe der malakalen Läsionen zum Verlauf der kortikospinalen Bahnen zum unteren Teil des Körpers verursacht.
+Die Art der motorischen Schädigung wird durch die Nähe der malakalen Läsionen zum Verlauf der kortikospinalen Bahnen (z.B. Pyramidenbahnen) zum unteren Teil des Körpers verursacht.
 Die Hypertonie, die vor allem den suralen Trizeps und die Hüftadduktoren betrifft, zeigt sich selten vor dem dritten bis vierten Monat nach der Geburt, manchmal sogar noch später.
 Traditionell (aber dieser Begriff wird nicht mehr akzeptiert, siehe Kapitel 3) umfasst die klinische Anamnese eine „stille Periode“, die nach dem akuten Stadium der Hirnschädigung und vor dem Auftreten von Tonusstörungen und motorischer Entwicklungsverzögerung stattfindet.
 Die Motricität der oberen Gliedmaßen ist recht gut erhalten; die Prognose für das Gehen, auch ohne Gehstützen, ist in der Regel günstig.
@@ -210,7 +210,7 @@ Mit der Reintonaudiometrie werden Hörschwellen ermittelt, die mit einem normale
 <!-- prettier-ignore -->
 ![Audiometrisches Messgerät, normale Hörschwellenkurven für Luftleitung (x) und Knochenleitung (\])](./pics/08/audiometric-measurement-device.svg "audiometric-measurement-device#Audiometrisches Messgerät, normale Hörschwellenkurven für Luftleitung (x) und Knochenleitung (]) [@zagler:2012].")
 
-Je nach Ausmaß des Hörverlusts klassifiziert die ICIDH folgende Stufen der Schwerhörigkeit: leichte Schwerhörigkeit (26-40 dB Dämpfung), mittelgradige Schwerhörigkeit (41-55 dB), mäßig schwere Schwerhörigkeit (56-70dB), hochgradige Schwerhörigkeit (71-91 dB), hochgradige Schwerhörigkeit (>91 dB) und Taubheit. [@zagler:2012]
+Je nach Ausmaß des Hörverlusts klassifiziert die ICIDH folgende Stufen der Schwerhörigkeit: leichte Schwerhörigkeit (26-40 dB Dämpfung), mittelgradige Schwerhörigkeit (41-55 dB), mäßig schwere Schwerhörigkeit (56-70dB), hochgradige Schwerhörigkeit (71-91 dB), an Taubheit grenzende Hörschädigung (>91 dB) und Gehörlosigkeit. [@zagler:2012]
 Die Art der Schwerhörigkeit lässt sich oft anhand der unterschiedlich geformten Kurven für Luft- und Knochenleitungspegel diagnostizieren:
 
 ![Verschiedene Arten von Hörverlust: Schallleitungsschwerhörigkeit (oben, links); Schallempfindungsschwerhörigkeit (oben, rechts); Lärmschwerhörigkeit (unten, links); altersbedingte Schwerhörigkeit, Presbyakusie (unten, rechts)](./pics/08/different-kinds-of-hearing-loss.svg "different-kinds-of-hearing-loss#Verschiedene Arten von Hörverlust: Schallleitungsschwerhörigkeit (oben, links); Schallempfindungsschwerhörigkeit (oben, rechts); Lärmschwerhörigkeit (unten, links); altersbedingte Schwerhörigkeit, Presbyakusie (unten, rechts) [@zagler:2012].")
@@ -222,7 +222,8 @@ Die Art der Schwerhörigkeit lässt sich oft anhand der unterschiedlich geformte
   Beeinträchtigungen des Gehirns (Körperfunktionen) führen zu Aktivitäts- und Teilhabeeinschränkungen.
   Hirnschädigungen, die mit geistiger Behinderung einhergehen, führen zu Einschränkungen der intellektuellen Funktion. [@wehmeyer:2010]
 - Psychische Erkrankung
-- Entwicklungsbehinderung
+
+Eine geistige Behinderung gehört auch zur sogenannten Kategorie der Entwicklungsstörung, welche ein breiter Begriff ist und sowohl körperliche, als auch geistige Behinderungen umfasst (z.B. Verhaltensstörungen, Zerebralparese, Down-Syndrom, ...). [@ICI]
 
 Im Folgenden wird das Trisomie 21/Down-Syndrom näher erläutert, da dies eine häufige Ursache für geistige Behinderungen ist.
 
@@ -252,6 +253,6 @@ Die Gelenke im Nacken können instabil sein, was zu Schwäche oder Lähmungen f�
 Viele Menschen mit Down-Syndrom entwickeln Schilddrüsenerkrankungen (z. B. Hypothyreose) und Diabetes.
 Sie haben auch ein höheres Risiko, an Infektionen und Leukämie zu erkranken.
 
-Zu den Hilfsmitteln, die Kindern/Menschen mit Down-Syndrom helfen können, gehören Computer mit Touchscreens und Kommunikationstafeln mit Symbolen oder Buchstaben (siehe Kapitel 8 Unterstützte Kommunikation), angepasste Gegenstände und Werkzeuge zur leichteren Handhabung (z. B. ein Löffel mit einem speziellen Griff), Beinschienen oder Gehhilfen, die der Person beim Gehen helfen.
+Zu den Hilfsmitteln, die Kindern/Menschen mit Down-Syndrom helfen können, gehören Computer mit Touchscreens und Kommunikationstafeln mit Symbolen oder Buchstaben, angepasste Gegenstände und Werkzeuge zur leichteren Handhabung (z. B. ein Löffel mit einem speziellen Griff), Beinschienen oder Gehhilfen, die der Person beim Gehen helfen.
 
 !!!include(general/attribution.md)!!!
