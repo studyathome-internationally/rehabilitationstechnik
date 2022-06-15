@@ -56,7 +56,7 @@ Bodil Jönsson (Certec, Universität Lund, Schweden) rät aus diesem Grund daher
 Sie spricht daher bewusst nicht von _„disabled”_ oder _„mentally retarded persons”_ sondern immer von _„differently abled persons”_ [@jönsson:1996] (<<fig:sichtweise-behinderung>>).
 
 Diese Sichtweise erscheint aus zwei Gründen vorteilhaft zu sein.
-Erstens trägt sie dazu bei, Vorurteilen entgegenzuwirken und somit gesellschaftliche Barrieren für die Integration behinderter Menschen anzubauen.
+Erstens trägt sie dazu bei, Vorurteilen entgegenzuwirken und somit gesellschaftliche Barrieren für die Integration behinderter Menschen abzubauen.
 Zweitens – und das ist für die Rehabilitationstechnik von entscheidender Bedeutung – lenkt sie den Blick verstärkt auf die einer Person trotz einer Behinderung verbliebenen Stärken und Fähigkeiten.
 Bei der Schaffung von technischen Hilfen für behinderte Menschen muss sich die Rehabilitationstechnik aber genau diese Fähigkeiten und Stärken zunutze machen, um einen Beitrag zur Kompensation von Schwächen und Mängeln leisten zu können.
 Techniker und Technikerinnen sind daher gut beraten, den Blick nicht auf die Mängel, sondern auf die Fähigkeiten einer behinderten Person zu richten, um so Ansatzpunkte für kreative Lösungen finden zu können.
