@@ -42,7 +42,7 @@ einstellungs- und umweltbedingten Barrieren resultiert, ist Behinderung kein Att
 <!-- FIXME - Psycho-soziales Modell in SVG umwandeln?
 -->
 
-![Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit.](./pics/02/bio-psycho-social-model-of-functioning-disability-health.svg "bio-psycho-social-model#Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit [@ICF:2001, @ICF-bio-psycho-social-model:2001].")
+![Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit.](./pics/02/bio-psycho-social-model-of-functioning-disability-health.svg "bio-psycho-social-model#Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit [@icf:2001, @icf:bio-psycho-social-model:2001].")
 
 ## Impairment – (gesundheitliche) Schädigung
 

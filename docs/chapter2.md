@@ -44,7 +44,7 @@ persons with disabilities on their full participation in society.
 <!-- FIXME - Psycho-soziales Modell in SVG umwandeln?
 -->
 
-![The Integrative Bio-psycho-social Model of Functioning, Disability and Health.](./pics/02/bio-psycho-social-model-of-functioning-disability-health.svg "bio-psycho-social-model#The Integrative Bio-psycho-social Model of Functioning, Disability and Health. [@ICF:2001, @ICF-bio-psycho-social-model:2001].")
+![The Integrative Bio-psycho-social Model of Functioning, Disability and Health.](./pics/02/bio-psycho-social-model-of-functioning-disability-health.svg "bio-psycho-social-model#The Integrative Bio-psycho-social Model of Functioning, Disability and Health. [@icf:2001, @icf:bio-psycho-social-model:2001].")
 
 ## Impairment – (Health) Damage
 
