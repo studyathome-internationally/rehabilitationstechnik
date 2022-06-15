@@ -14,4 +14,4 @@ export default defineClientAppEnhance(({ app, router, siteData }) => {
   app.component("BookUrl", BookUrl);
   app.component("ChapterUrl", ChapterUrl);
   app.component("MathML", MathML);
-})
+});

@@ -7,12 +7,13 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import { containerPlugin } from "@vuepress/plugin-container";
 import { imageComparatorPlugin } from "vuepress-plugin-image-comparator";
 
+const base = process.env.BASE ? process.env.BASE : "/";
 const bundler = process.env.BUNDLER ? process.env.BUNDLER : process.env.BUNDLER = '@vuepress/bundler-vite';
 
 export default defineUserConfig({
   // site config
   lang: "de-AT",
-  // base: "/next/",
+  base,
   // theme and its config
   theme: defaultTheme({
     logo: "/images/fhtw-logo.svg",
@@ -55,6 +56,14 @@ export default defineUserConfig({
             {
               text: "Medizinische Grundlagen - Teil II",
               link: "/chapter7.html"
+            },
+            {
+              text: "Die wichtigsten Arten von Behinderungen",
+              link: "/chapter8.html"
+            },
+            {
+              text: "Assistive Technologien - Grundlagen",
+              link: "/chapter9.html"
             }
           ]
         },
@@ -91,6 +100,14 @@ export default defineUserConfig({
             {
               text: "Medical Basics - Part II",
               link: "/en/chapter7.html"
+            },
+            {
+              text: "Major Types of Disability",
+              link: "/en/chapter8.html"
+            },
+            {
+              text: "Assistive Technology - Basics",
+              link: "/en/chapter9.html"
             }
           ]
         },
@@ -132,7 +149,7 @@ export default defineUserConfig({
     // }]
     imageComparatorPlugin({
       enable: true,
-      include: [{ path: /^.*/, files: [/^\.\/pics\/0[1234567].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
+      include: [{ path: /^.*/, files: [/^\.\/pics\/0[123456789].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
     }),
     mediumZoomPlugin({
       selector: ".theme-default-content figure img"
