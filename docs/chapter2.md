@@ -30,6 +30,19 @@ Damit sollen einerseits umfassendere Begriffe eingeführt werden, andererseits s
 Es wird abzuwarten bleiben, wie sich diese Begriffe in die gesamte Klassifikation einfügen.
 Hier wird noch mit den bisherigen Ausdrücken gearbeitet, die neuen Bezeichnungen werden als Kommentar danebengestellt.
 
+Nach der ICF werden Funktionsfähigkeit und Behinderung als dynamische Interaktion zwischen gesundheitlichen
+und kontextuellen Faktoren (sowohl persönlichen als auch umweltbedingten) gesehen (<<fig:bio-psycho-social-model>>),
+welche die Wechselwirkungen zwischen den Komponenten aufzeigt. Diese Interaktion wird auch als "bio-psycho-soziales Modell" bezeichnet, das einen Kompromiss zwischen medizinischen und sozialen Modellen darstellt, wobei
+Behinderung als Oberbegriff für Beeinträchtigungen, Aktivitäts- und Teilhabeeinschränkungen steht.
+Aufgrund der Definition von Behinderung in der UN-Konvention über die Rechte von Menschen mit Behinderungen
+(CRPD), die besagt, dass Behinderung das Ergebnis der Wechselwirkung zwischen Personen mit Beeinträchtigungen und
+einstellungs- und umweltbedingten Barrieren resultiert, ist Behinderung kein Attribut der Person. Daher können Fortschritte bei der Verbesserung der sozialen Teilhabe durch die Beseitigung oder Verringerung der Barrieren, die Menschen mit Behinderungen an ihrer vollen Teilhabe an der Gesellschaft hindern, erzielt werden.
+
+<!-- FIXME - Psycho-soziales Modell in SVG umwandeln? 
+-->
+
+![The Integrative Bio-psycho-social Model of Functioning, Disability and Health](https://www.icf-casestudies.org/images/intro/gfx/CS-Introduction_2015-03-04_03_DB_Seite_07.jpg "bio-psycho-social-model#The Integrative Bio-psycho-social Model of Functioning, Disability and Health. [@ICF:2001] [@ICF-bio-psycho-social-model:2001].")
+
 ## Impairment – (gesundheitliche) Schädigung
 
 Hiermit wird die Ebene der **Störung der biologischen und/oder psychischen Struktur und Funktion** angesprochen.
