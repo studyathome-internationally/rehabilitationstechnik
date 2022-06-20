@@ -25,10 +25,10 @@ While the English-language term “disability” can be understood as a comprehe
 In German, too, attempts have been made to introduce different terms, although the translation lacks the conciseness of the English terms for linguistic reasons [@matthesius:1995].
 
 The ICIDH has been thoroughly revised and is now available as ICF (_International Classification of Functioning_).
-An essential difference of this new edition will also be that for _disability_ and _handicap_ new terms will be coined.
-On the one hand, this is intended to introduce more comprehensive terms, and on the other hand, it is intended to direct the view from the disability to the abilities that exist (despite the disability).
+An essential difference of this new edition is that new terms were coined for _disability_ and _handicap_.
+On the one hand, this is to introduce more comprehensive terms, on the other hand, the view should be directed from the disability to the (despite disability) existing abilities.
 It remains to be seen how these terms will fit into the overall classification.
-Here we will still work with the previous terms, the new terms will be placed next to them as a comment.
+Here, for the sake of simplicity, the previous terms are still used, the new terms are placed next to them as a comment.
 
 ## Impairment – (Health) Damage
 
@@ -41,7 +41,7 @@ This is the level of impairment of the affected person's ability to perform purp
 
 Ability disorder is “any restriction or lack – resulting from an impairment – of the ability to perform an activity in the manner or within the range considered normal for a human being.”
 
-The ICF replaces the term disability with activities, including limitation of activities.
+The ICF replaces the term _disability_ by _activities_, i.e. also by the restriction of activities.
 
 ## Handicap – (Social) Impairment
 
@@ -49,12 +49,12 @@ This is the level of disturbance of the social position or role of the person co
 
 The ICIDH defines social impairment as “a disadvantage for a given individual, resulting from an impairment or a disability, that limits or prevents the fulfilment of role that is normal – depending on age, sex, and social and culture factors – for the individual.”
 
-In the ICF, instead of the term _handicap_, the term _participation_ is used, including exclusion from social participation.
+Instead of the term _handicap_, the ICF uses the term _participation_, i.e. also exclusion from social participation.
 
 ## Summary
 
 > “Social impairment (handicap) is therefore not a simple consequence of a physical or psychological damage and the resulting functional limitation, but is the result of the interaction between a disabled person's desire for inclusion and recognition and the attitudes and behavior of his environment.
-> It is only through experiences of rejection, distancing, disregard and social exclusion that the whole experience of being disabled arises for the disabled person, namely also as an experience of being hindered in one's own development and inclusion in society.” [@brockhaus:1994]
+> It is only through experiences of rejection, distancing, disregard and social exclusion that the whole experience of being disabled arises for the disabled person, namely, also as an experience of being disabled in one's own development and inclusion in society.” [@brockhaus:1994]
 
 For clarification, the three levels mentioned above are again summarized graphically here.
 As an underlying level (cause of impairment), disease or injury (_disease_) can be included in the scheme (<<fig:levels-of-disability>>).
