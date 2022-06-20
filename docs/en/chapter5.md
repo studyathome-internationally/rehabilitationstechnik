@@ -270,7 +270,7 @@ Examples of augmentative aids are hearing aids and eyeglasses.
 
 Substituting means aids with which a stimulus is diverted to other than the otherwise usual sensory organs.
 The same applies when an action (movement or triggering of a movement) is obtained from other than the otherwise usual actuatory organs.
-In this case, a substitution = vicariate occurs, see Chap. 6.3).
+In this case, a substitution = [vicariate](#the-vicariate) occurs.
 <<fig:function-wise-substiuating-aids>> shows a person in whom the perception of optical stimuli is not possible due to blindness.
 The aid A shown in the middle diagram suitably converts the optical stimulus into an acoustic stimulus and directs it to the hearing of the blind person.
 Similarly, the right plot of <<fig:function-wise-substiuating-aids>> shows the conversion to a tactilely perceptible stimulus.
