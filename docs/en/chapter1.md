@@ -15,8 +15,9 @@ abbreviations:
 
 <!-- prettier-ignore -->
 *[USA]: United States of America
-*[CERTEC]: Center of Rehabilitation Engineering Research
 *[WHO]: World Health Organization
+
+<!-- *[CERTEC]: Center of Rehabilitation Engineering Research -->
 
 # Definitions and Wording
 
@@ -33,7 +34,7 @@ However, in the text given here, it is a verbatim quote from the dictionary or W
 
 ## Disability: View and Use of Language
 
-Until recently, disabled people were viewed and classified exclusively according to a definition of deficiency.
+In the past, disabled people were viewed and classified exclusively according to a definition of deficiency.
 Society defines a certain “normality” and thus sets a bar on a one-dimensional scale below which a person is considered disabled.
 
 <!-- FIXME: not an “verbatim” quote -->
@@ -48,7 +49,7 @@ Thus, the substantive form “disabled persons” is generally rejected and shou
 This is not intended to deny or gloss over the fact of a disability.
 However, such a choice of words should and can help to break through the strict thinking in categories (pigeonholing) and to direct the view to the whole person.
 
-Bodil Jönsson (CERTEC, Lund University, Sweden) therefore strongly advises against thinking in one-dimensional scales.
+Bodil Jönsson (Certec, Lund University, Sweden) therefore strongly advises against thinking in one-dimensional scales.
 She therefore deliberately does not speak of _“disabled”_ or _“mentally retarded persons”_ but always of _“differently abled persons”_ [@jönsson:1996] (<<fig:sichtweise-behinderung>>).
 
 This view appears to be advantageous for two reasons.
