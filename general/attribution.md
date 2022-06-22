@@ -3,12 +3,12 @@
 Möchten Sie dieses Buch zitieren, teilen oder bearbeiten?
 Dieses Buch ist unter [Creative Commons Attribution-NonCommericial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) lizenziert.
 
-::: danger Achtung
+<!-- ::: danger Achtung -->
 
 Fremdes geistiges Eigentum ist entsprechend markiert bzw. zitiert und ist nicht Teil dieses Buches.
 Alle Angaben zur Attribuierung und Zitierung beziehen sich nur auf die Inhalte dieses Buches, die nicht aus fremden Quellen stammen.
 
-:::
+<!-- ::: -->
 
 ### Attribuierung
 
