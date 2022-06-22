@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
    sodipodi:docname="selektive-belichtung-rezeptives-feld.inkscape.svg"
    id="svg4189"
    version="1.2"
@@ -31,17 +31,17 @@
      fit-margin-right="5"
      fit-margin-left="5"
      fit-margin-top="5"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="2560"
-     inkscape:cy="150.56079"
-     inkscape:cx="271.19531"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:cy="150.74667"
+     inkscape:cx="271.56706"
      inkscape:zoom="2.6899433"
      showgrid="false"
      id="namedview4191"
-     inkscape:window-height="1403"
-     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-width="3440"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -64,7 +64,9 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     inkscape:snap-page="true" />
+     inkscape:snap-page="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs398">
     <g
@@ -2149,7 +2151,7 @@
        sodipodi:nodetypes="cc" />
     <path
        d="m 253.45768,106.40179 c 6.1394,3e-5 11.1162,1.6591 11.11578,3.70557 4.2e-4,2.04647 -4.97638,3.70554 -11.11578,3.70557 -6.1394,-3e-5 -11.11619,-1.6591 -11.11577,-3.70557 -4.2e-4,-2.04647 4.97637,-3.70554 11.11577,-3.70557 z"
-       style="display:inline;fill:#4d4d4d;stroke:#000000;stroke-width:0.361795px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#999999;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="path10184" />
     <path
        id="path1432"
