@@ -1,23 +1,26 @@
 .katex .katex-html, mjx-container {
-    border: 1px solid var(--c-brand-light);
+    // border: 1px solid var(--c-brand-light);
     color: var(--c-text);
-    padding: 1px;
+    // padding: 1px;
     font-size: 1rem;
+    font-weight: 500;
     font-family: var(--font-family);
 }
 
 mjx-container {
     white-space: nowrap;
     // margin-bottom: 0.2rem;
-    vertical-align: 2px;
+    vertical-align: 0px;
 }
 
 .katex {
+
     .katex-mathml {
         display: none;
     }
-    // .katex-html {
+    .katex-html {
         // font-family: var(--font-family) normal 1.21em KaTeX_Main, Times New Roman, serif;
-        // font-family: var(--font-family);
-    // }
+        font-family: var(--font-family);
+        // font-weight: normal;
+    }
 }
