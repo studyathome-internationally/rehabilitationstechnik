@@ -4,6 +4,9 @@ import { defaultTheme, viteBundler } from "vuepress";
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { mediumZoomPlugin } from "@vuepress/plugin-medium-zoom";
 import { searchPlugin } from "@vuepress/plugin-search";
+import { backToTopPlugin } from "@vuepress/plugin-back-to-top";
+import { pwaPlugin } from "@vuepress/plugin-pwa";
+import { gitPlugin } from "@vuepress/plugin-git";
 import { containerPlugin } from "@vuepress/plugin-container";
 import { imageComparatorPlugin } from "vuepress-plugin-image-comparator";
 
@@ -17,6 +20,10 @@ export default defineUserConfig({
   // theme and its config
   theme: defaultTheme({
     logo: "/images/fhtw-logo.svg",
+    // repo: "studyathome-internationally/rehabilitationstechnik",
+    repo: "https://github.com/studyathome-internationally/rehabilitationstechnik",
+    docsDir: "docs",
+    editLinkText: "Edit this page on GitHub",
     locales: {
       "/": {
         selectLanguageText: "Sprachen",
@@ -143,10 +150,6 @@ export default defineUserConfig({
     md.use(require("./markdown/math"));
   },
   plugins: [
-    // ["image-comparator", {
-    //   enable: true,
-    //   include: [{ path: /^.*/, files: [/^\.\/pics\/0[1234567].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
-    // }]
     imageComparatorPlugin({
       enable: true,
       include: [{ path: /^.*/, files: [/^\.\/pics\/0[123456789].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
@@ -155,6 +158,13 @@ export default defineUserConfig({
       selector: ".theme-default-content figure img"
     }),
     searchPlugin(),
+    backToTopPlugin(),
+    pwaPlugin({
+      skipWaiting: true,
+    }),
+    gitPlugin({
+      contributors: false
+    }),
     containerPlugin({
       type: 'post-it',
     }),
