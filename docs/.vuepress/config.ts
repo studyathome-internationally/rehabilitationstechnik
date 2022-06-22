@@ -145,7 +145,7 @@ export default defineUserConfig({
   },
   plugins: [
     imageComparatorPlugin({
-      enable: true,
+      enable: false,
       include: [{ path: /^.*/, files: [/^\.\/pics\/0[123456789].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
     }),
     mediumZoomPlugin({
