@@ -846,7 +846,7 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Wir sprechen hier von der passiven Wanderwelle.
    Sie hat die besondere Eigenschaft, dass sie sich nicht mit gleicher oder nur abnehmender Amplitude entlang der Schnecke ausbreitet, sondern dass sie je nach ihrer Frequenz an einer bestimmten Stelle der Schnecke zu einem Maximum anwächst und danach ziemlich abrupt abklingt (<<fig:wanderwelle-cochlaere-trennwand>>).
 
-   ![Darstellung der passiven Wanderwelle in der cochleären Trennwand](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Darstellung der passiven Wanderwelle in der cochleären Trennwand [@schmidt:1997].")
+   ![Darstellung der passiven Wanderwelle in der cochleären Trennwand](./pics/06/wanderwelle-cochlaere-trennwand.original.svg "wanderwelle-cochlaere-trennwand#Darstellung der passiven Wanderwelle in der cochleären Trennwand [@schmidt:1997].")
 
    Der Ort, an dem die Wanderwelle ihr Maximum erreicht, ist von der Frequenz der Erregung abhängig und für die Frequenzselektivität des Ohres von ausschlaggebender (aber nicht hinreichender) Bedeutung.
    Hohe Frequenzen erzeugen das Maximum in der Nähe der Schneckenbasis (beim Steigbügel bzw. beim ovalen und runden Fenster), tiefe Frequenzen an der Schneckenspitze (_Helicotrema_).

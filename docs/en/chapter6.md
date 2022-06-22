@@ -838,7 +838,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive traveling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
    Without this active amplification, excitation of the inner hair cells would occur only from $60\;\sf{dB}\,\sf{SPL}$ [@schmidt:1997].
 
-   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
+   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.original.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
 
 3. Frequency selectivity of the ear  
    The formation of the passive and also the active traveling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
