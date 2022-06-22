@@ -823,14 +823,14 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    We speak here of the passive traveling wave.
    It has the special property that it does not propagate along the screw with the same or only decreasing amplitude, but that, depending on its frequency, it increases to a maximum at a certain point of the screw and then decays rather abruptly (<<fig:travelling-wave-cochlear-partition>>).
 
-   ![Representation of the passive traveling wave in the cochlear partition.](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Representation of the passive traveling wave in the cochlear partition [@schmidt:1997].")
+   ![Representation of the passive traveling wave in the cochlear partition.](./../pics/06/wanderwelle-cochlaere-trennwand.original.svg "wanderwelle-cochlaere-trennwand#Representation of the passive traveling wave in the cochlear partition [@schmidt:1997].")
 
    The place where the traveling wave reaches its maximum depends on the frequency of the excitation and is of decisive (but not sufficient) importance for the frequency selectivity of the ear.
    High frequencies produce the maximum near the base of the snail (at the stapes or at the oval and round window), low frequencies at the tip of the snail (_helicotrema_).
    Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
    This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
 
-   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./../pics/06/lage-wanderwelle.original.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
+   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
 
    The formation of a vibration maximum by the passive traveling wave causes a first amplification effect in addition to the frequency selection.
    Originally, the ear was considered to be a purely passive sound sensor.
