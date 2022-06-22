@@ -830,7 +830,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
    This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
 
-   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
+   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./../pics/06/lage-wanderwelle.original.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
 
    The formation of a vibration maximum by the passive traveling wave causes a first amplification effect in addition to the frequency selection.
    Originally, the ear was considered to be a purely passive sound sensor.
@@ -838,7 +838,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive traveling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
    Without this active amplification, excitation of the inner hair cells would occur only from $60\;\sf{dB}\,\sf{SPL}$ [@schmidt:1997].
 
-   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.original.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
+   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
 
 3. Frequency selectivity of the ear  
    The formation of the passive and also the active traveling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
