@@ -39,10 +39,10 @@ Aufgrund der Definition von Behinderung in der UN-Konvention über die Rechte vo
 (CRPD), die besagt, dass Behinderung das Ergebnis der Wechselwirkung zwischen Personen mit Beeinträchtigungen und
 einstellungs- und umweltbedingten Barrieren resultiert, ist Behinderung kein Attribut der Person. Daher können Fortschritte bei der Verbesserung der sozialen Teilhabe durch die Beseitigung oder Verringerung der Barrieren, die Menschen mit Behinderungen an ihrer vollen Teilhabe an der Gesellschaft hindern, erzielt werden.
 
-<!-- FIXME - Psycho-soziales Modell in SVG umwandeln? 
+<!-- FIXME - Psycho-soziales Modell in SVG umwandeln?
 -->
 
-![The Integrative Bio-psycho-social Model of Functioning, Disability and Health](https://www.icf-casestudies.org/images/intro/gfx/CS-Introduction_2015-03-04_03_DB_Seite_07.jpg "bio-psycho-social-model#The Integrative Bio-psycho-social Model of Functioning, Disability and Health. [@ICF:2001] [@ICF-bio-psycho-social-model:2001].")
+![Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit.](./pics/02/bio-psycho-social-model-of-functioning-disability-health.svg "bio-psycho-social-model#Das integrative bio-psycho-soziale Modell von Funktionsfähigkeit, Behinderung und Gesundheit [@ICF:2001, @ICF-bio-psycho-social-model:2001].")
 
 ## Impairment – (gesundheitliche) Schädigung
 
