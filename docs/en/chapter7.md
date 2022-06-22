@@ -806,7 +806,7 @@ Therefore, the values given here can only represent a general trend line.
    The maximum diameter decreases continuously with age.
    Whereas the eye of a $20$-year-old person can be compared to a camera lens of luminous intensity $2$, the largest “aperture” of an $80$-year-old person is only $5.6$.
    This is a reduction of about $3$ f-stops, which is equivalent to reducing the amount of light falling on the retina by a factor of $8$.
-   This explains the significantly higher light demand in old age (<<tab:age-dependence-pupil-diameter>> and <<fig:dependence-pupil-diameter-from-age>>).
+   This explains the significantly higher light demand in old age (<<tab:age-dependence-pupil-diameter>> and <<fig:abhaengigkeit-pupillendurchmesser-vom-alter>>).
 
    <table>
      <col>

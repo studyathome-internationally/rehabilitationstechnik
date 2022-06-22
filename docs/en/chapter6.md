@@ -754,7 +754,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    The cochlea (_cochlea_) is a spiral duct embedded in the cranial bone, in which the two-part membranous cochlear duct (_scala media_ or _ductus cochlearis_) is vibrationally attached.
    Thus the cochlea consists of three fluid-filled ducts.
-   In the center the membranous cochlear duct, filled with endolymph[^13] and having a triangular cross-section, above it the atrial staircase (_scala vestibuli_) and below it the tympanic staircase (scala tympani).
+   In the center the membranous cochlear duct, filled with endolymph[^13] and having a triangular cross-section, above it the vestibular duct (_scala vestibuli_) and below it the tympanic duct (scala tympani).
    The latter two passages are filled with perilymph[^13].
    Just before the end of the scroll (_helicotrema_), the membranous scroll passage ends blindly, so that the two staircases merge there (<<fig:cochlea>> and <<fig:cross-cut-through-cochlea>>).
 
@@ -780,7 +780,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    1. Vestibular duct;
    2. Skin-like cochlear duct;
-   3. Ttympanic duct
+   3. Tympanic duct
       {.upper-alpha}
 
    </div>
@@ -801,9 +801,9 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 ### Physiology of the Ear
 
 1. Mechanical processes in the cochlea.  
-   After impedance conversion by the middle ear, the inner ear receives the sound signal via the vibrations of the stapes footplate in the oval window, which are transmitted to the fluid of the atrial staircase.
+   After impedance conversion by the middle ear, the inner ear receives the sound signal via the vibrations of the stapes footplate in the oval window, which are transmitted to the fluid of the vestibular duct.
    Because this fluid is incompressible, when the oval window moves inward (pressure increases), the membranous duct (also called the cochlear partition) beneath it must move downward.
-   This causes a pressure rise in the (underlying) tympanic staircase, which subsequently leads to a deflection of the round window at the end of the tympanic staircase.
+   This causes a pressure rise in the (underlying) tympanic duct, which subsequently leads to a deflection of the round window at the end of the tympanic duct.
    In the subsequent half-wave of the oscillation, the conditions are exactly reversed.
 
    This up-and-down movement of the cochlear partition results in a shearing motion between its individual components, and the displacement of the covering membrane (_membrana tectoria_; tectorial membrane) results in a bending of the sensory hairs of the hair cells of the organ of Corti (<<fig:cross-cut-through-cochlea>>).
@@ -817,31 +817,31 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    About $1\:800$ are efferent and are associated with the active processes in the cochlea described in the next section [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
    The local density of neurons is $1\:150$ ganglion cells/mm^2^ at the beginning of the cochlea (at the oval window) and decreases toward the helicotrema [@lindsay:1981].
 
-2. Formation of the traveling wave and cochlear amplifier.  
+2. Formation of the travelling wave and cochlear amplifier.  
    So far, the mechanics of the inner ear have been described only in principle.
-   More precisely, the vibration of the stapes footplate initially triggers a movement of the cochlear partition only at the beginning of the cochlea, which in the further course of time propagates as a traveling wave along the entire cochlea.
-   We speak here of the passive traveling wave.
-   It has the special property that it does not propagate along the screw with the same or only decreasing amplitude, but that, depending on its frequency, it increases to a maximum at a certain point of the screw and then decays rather abruptly (<<fig:travelling-wave-cochlear-partition>>).
+   More precisely, the vibration of the stapes footplate initially triggers a movement of the cochlear partition only at the beginning of the cochlea, which in the further course of time propagates as a travelling wave along the entire cochlea.
+   We speak here of the passive travelling wave.
+   It has the special property that it does not propagate along the screw with the same or only decreasing amplitude, but that, depending on its frequency, it increases to a maximum at a certain point of the screw and then decays rather abruptly (<<fig:wanderwelle-cochlaere-trennwand>>).
 
-   ![Representation of the passive traveling wave in the cochlear partition.](./../pics/06/wanderwelle-cochlaere-trennwand.original.svg "wanderwelle-cochlaere-trennwand#Representation of the passive traveling wave in the cochlear partition [@schmidt:1997].")
+   ![Representation of the passive travelling wave in the cochlear partition.](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Representation of the passive travelling wave in the cochlear partition [@schmidt:1997,@bell:2004].")
 
-   The place where the traveling wave reaches its maximum depends on the frequency of the excitation and is of decisive (but not sufficient) importance for the frequency selectivity of the ear.
+   The place where the travelling wave reaches its maximum depends on the frequency of the excitation and is of decisive (but not sufficient) importance for the frequency selectivity of the ear.
    High frequencies produce the maximum near the base of the snail (at the stapes or at the oval and round window), low frequencies at the tip of the snail (_helicotrema_).
    Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
    This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
 
-   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
+   ![Location of the envelope of passive travelling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive travelling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
 
-   The formation of a vibration maximum by the passive traveling wave causes a first amplification effect in addition to the frequency selection.
+   The formation of a vibration maximum by the passive travelling wave causes a first amplification effect in addition to the frequency selection.
    Originally, the ear was considered to be a purely passive sound sensor.
    Only recently have studies shown that the outer hair cells of the organ of Corti can generate micromechanical vibrations of up to $20\;\sf{kHz}$.
-   Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive traveling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
+   Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive travelling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
    Without this active amplification, excitation of the inner hair cells would occur only from $60\;\sf{dB}\,\sf{SPL}$ [@schmidt:1997].
 
    ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
 
 3. Frequency selectivity of the ear  
-   The formation of the passive and also the active traveling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
+   The formation of the passive and also the active travelling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
    On the one hand, this assumption is reached from measurements at medium sound pressure levels, at which almost all fibers of the auditory nerve are active and not only those that are characteristic for the respective frequency.
    Nevertheless, the auditory system is frequency selective even in this case.
    On the other hand, with single-channel cochlear implants (the nerve endings in the cochlea are stimulated by an electrode at only one location), it is possible to evoke the sensation of different frequencies.
@@ -900,7 +900,7 @@ The symbols shown in <<tab:audiogram-used-symbols>> are usually used:
 
 .audiogram-used-symbols#Symbols used in the audiogram.
 
-For example, for a person with approximately normal hearing, the result is a tone threshold audiogram for the left ear as shown in <<fig:tone-threshold-audiogram-normal>>.
+For example, for a person with approximately normal hearing, the result is a tone threshold audiogram for the left ear as shown in <<fig:tonschwellenaudiogramm-normal>>.
 The curves for air conduction and bone conduction are superimposed or nearly so.
 The deviations from the $0\;\sf{dB}\,\sf{HV}$ line in the example are at most $15\;\sf{dB}\,\sf{HV}$.
 
