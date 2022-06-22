@@ -5758,10 +5758,17 @@ vue@^3.2.36, vue@^3.2.37:
     "@vue/server-renderer" "3.2.37"
     "@vue/shared" "3.2.37"
 
-vuepress-plugin-image-comparator@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-image-comparator/-/vuepress-plugin-image-comparator-0.0.1.tgz#8f8eedc6fa2a49525ad5f0a07b6b396325c4abb7"
-  integrity sha512-jce/6EtpOCje7m0DR93gH69uzaG15r7qDj1w5sTJj1jovuiq9xPDqZNLHuAAv/L4z4bnXBLNsAaJSQkgUxllGA==
+vuepress-plugin-figure-wrapper@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-figure-wrapper/-/vuepress-plugin-figure-wrapper-0.0.4.tgz#6b4cc33426afc4ab08a8971b0a01cecdc1a0afb3"
+  integrity sha512-ZJoli7aNcjKTG/dcx5PQn4pTt4Ha26rDfjNMj4TeOpIDGLbNR2fTkvVT9pELo7OKjGIPCEhW9NtlzNW/ML4FPg==
+  dependencies:
+    "@vuepress/core" "^2.0.0-beta.48"
+
+vuepress-plugin-image-comparator@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-image-comparator/-/vuepress-plugin-image-comparator-0.0.3.tgz#c45a4af95a00fcab944575af3b4178fd9ec1cf08"
+  integrity sha512-U/UE0jAO1q7HmgNDaZjHoVGpW7haxHPp/Hfrc8ObmnJOw1hblBiC43VP2y8YkPUgyC8kN6S7AoRrANy4Sn4gHA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.1.1"
     "@fortawesome/free-solid-svg-icons" "^6.1.1"

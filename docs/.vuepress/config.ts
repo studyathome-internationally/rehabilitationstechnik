@@ -9,6 +9,7 @@ import { pwaPlugin } from "@vuepress/plugin-pwa";
 import { gitPlugin } from "@vuepress/plugin-git";
 import { containerPlugin } from "@vuepress/plugin-container";
 import { imageComparatorPlugin } from "vuepress-plugin-image-comparator";
+import { figureWrapperPlugin } from "vuepress-plugin-figure-wrapper";
 
 const base = process.env.BASE ? process.env.BASE : "/";
 const bundler = process.env.BUNDLER ? process.env.BUNDLER : process.env.BUNDLER = '@vuepress/bundler-vite';
@@ -142,11 +143,15 @@ export default defineUserConfig({
     md.use(require("./markdown/abbreviation"));
     md.use(require("./markdown/footnote"));
     md.use(require("./markdown/math"));
+    // md.use(require("vuepress-plugin-figure-wrapper/lib/node/markdown/wrapper.js").default, { enable: true })
   },
   plugins: [
     imageComparatorPlugin({
       enable: false,
       include: [{ path: /^.*/, files: [/^\.\/pics\/0[123456789].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
+    }),
+    figureWrapperPlugin({
+      enable: true
     }),
     mediumZoomPlugin({
       selector: ".theme-default-content figure img"
