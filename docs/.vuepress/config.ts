@@ -28,12 +28,6 @@ export default defineUserConfig({
       "/": {
         selectLanguageText: "Sprachen",
         selectLanguageName: "Deutsch",
-        navbar: [
-          {
-            text: "Anleitung",
-            link: "/guide/review.md"
-          }
-        ],
         sidebar: {
           "/": [
             {
