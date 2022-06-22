@@ -19,5 +19,8 @@ abbreviations:
 | Chapter 5         | [Classification of the Tools](chapter5.md)                                  |
 | Chapter 6         | [Medical Basics - Part I](chapter6.md)                                      |
 | Chapter 7         | [Medical Basics - Part II](chapter7.md)                                     |
+
+<!--
 | Chapter 8         | [Major Types of Disability](chapter8.md)                                    |
 | Chapter 9         | [Assistive Technology - Basics](chapter9.md)                                |
+-->

@@ -59,14 +59,14 @@ export default defineUserConfig({
               text: "Medizinische Grundlagen - Teil II",
               link: "/chapter7.html"
             },
-            {
-              text: "Die wichtigsten Arten von Behinderungen",
-              link: "/chapter8.html"
-            },
-            {
-              text: "Assistive Technologien - Grundlagen",
-              link: "/chapter9.html"
-            }
+            // {
+            //   text: "Die wichtigsten Arten von Behinderungen",
+            //   link: "/chapter8.html"
+            // },
+            // {
+            //   text: "Assistive Technologien - Grundlagen",
+            //   link: "/chapter9.html"
+            // }
           ]
         },
       },
@@ -103,14 +103,14 @@ export default defineUserConfig({
               text: "Medical Basics - Part II",
               link: "/en/chapter7.html"
             },
-            {
-              text: "Major Types of Disability",
-              link: "/en/chapter8.html"
-            },
-            {
-              text: "Assistive Technology - Basics",
-              link: "/en/chapter9.html"
-            }
+            // {
+            //   text: "Major Types of Disability",
+            //   link: "/en/chapter8.html"
+            // },
+            // {
+            //   text: "Assistive Technology - Basics",
+            //   link: "/en/chapter9.html"
+            // }
           ]
         },
       }
