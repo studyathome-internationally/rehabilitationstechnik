@@ -689,7 +689,7 @@ Sound impedance is the characteristic impedance (product of density and sound ve
 <!-- FIXME: Querverweis -->
 <!-- FIXME: Einheiten? -->
 
-For the evaluation of hearing performance or hearing loss in audiometry (see Chapter 7.4.5), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
+For the evaluation of hearing performance or hearing loss in audiometry (see Chapter [Determination of Hearing Ability - Audiometry](#determination-of-hearing-ability-audiometry)), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
 Hearing losses are expressed in dB HV or dB HL (suffix HV for hearing loss or HL for _Hearing Loss_ or _Hearing Level_, respectively) and indicate by how many dB the sound pressure must be raised above the normal hearing threshold in order for a hearing-impaired person to perceive a sound at a given frequency.
 
 To evaluate the perception of acoustic signals in the presence of noise, another ratio designated dB SL (suffix SL for Sensation Level) is used.
@@ -710,7 +710,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 2. Middle ear  
    Sound is transmitted in the middle ear (tympanic cavity) – between the tympanic membrane and the oval window – by the three articulating ossicles: Mallet (_Malleus_), Anvil (_Incus_), and Stapes.
    The diameter of the tympanic cavity (from the tympanic membrane to the inner wall) is only about $5\;\sf{mm}$.
-   The thickness of the tympanic membrane is $0.1\;\sf{mm}$ (<<fig:cut-through-ear>>).
+   The thickness of the tympanic membrane is $0.1\;\sf{mm}$ (<<fig:cutaway-through-ear>>).
 
    ![Cutaway through the ear](./pics/06/schnitt-durch-ohr.svg "cutaway-through-ear#Cutaway through the ear [@servier-medical-art:2019, @faller:1995].")
 
@@ -744,13 +744,13 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    <!-- FIXME: Querverweis -->
 
    The ossicles also cause the sound energy to be transmitted not to the entire inner ear, but only to the oval window.
-   The round window (the second connection point between the middle ear and the inner ear) can therefore oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter 7.4.4a).
+   The round window (the second connection point between the middle ear and the inner ear) can therefore oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter [Physiology of the Ear](#physiology-of-the-ear) point (a)).
 
    Finally, the middle ear also has a certain regulatory or protective function.
    The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ – $80\;\sf{dB}$ above the hearing threshold and have a damping effect on the transmission of lower frequencies.
 
 3. Inner ear  
-   The inner ear contains two sensory organs that perform completely different functions, but anatomically form a complex: The cochlea (_cochlea_), the hearing organ proper, and the vestibular apparatus, which forms the organ of balance (<<fig:cut-through-ear>>).
+   The inner ear contains two sensory organs that perform completely different functions, but anatomically form a complex: The cochlea (_cochlea_), the hearing organ proper, and the vestibular apparatus, which forms the organ of balance (<<fig:cutaway-through-ear>>).
 
    The cochlea (_cochlea_) is a spiral duct embedded in the cranial bone, in which the two-part membranous cochlear duct (_scala media_ or _ductus cochlearis_) is vibrationally attached.
    Thus the cochlea consists of three fluid-filled ducts.

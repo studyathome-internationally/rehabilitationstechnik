@@ -670,7 +670,8 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
 
    Beim Locked-in Syndrom sind die Patienten/innen bei Bewusstsein, aber ohne jegliche Bewegungsmöglichkeit.
    Bei der „klassischen“ Form, bleiben die vertikalen Augenbewegungen und der Lidschlag erhalten, und können mit geeigneten Interfaces für Kommunikationszwecke verwendet werden.
-   Beim „totalen“ Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist – wenn überhaupt – nur über die Auswertung des EEG (Brain Computer Interface – siehe Teil B, Kapitel 3.2.8) möglich.
+   Beim „totalen“ Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist – wenn überhaupt – nur über die Auswertung des EEG (Brain Computer Interface) möglich.
+   <!-- Beim „totalen“ Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist – wenn überhaupt – nur über die Auswertung des EEG (Brain Computer Interface – siehe Teil B, Kapitel 3.2.8) möglich. -->
 
    Als Ursachen für Locked-in Syndrom werden genannt: fortgeschrittene ALS, Hirnstamm Infarkt, Infarkt in der Brücke (_Pons_, Verbindung der beiden Gehirnhälften), beidseitiger Infarkt der inneren Kapsel (Capsula interna – tief liegender Teil des Gehirns), Tumoren, Enzephalitis (Entzündung des Gehirns) und Schädelhirntrauma [@kübler:2001:a, @kübler:2001:b].
 

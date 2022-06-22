@@ -663,7 +663,8 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
 
    In locked-in syndrome, patients are conscious but without any ability to move.
    In the “classic” form, vertical eye movements and blinking are preserved, and can be used for communication purposes with appropriate interfaces.
-   In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface – see Part B, Chapter 3.2.8).
+   In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface).
+   <!-- In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface – see Part B, Chapter 3.2.8). -->
 
    Causes for locked-in syndrome are: advanced ALS, brainstem infarction, infarction in the bridge (_pons_, connection of the two brain hemispheres), bilateral infarction of the internal capsule (capsula interna – deep lying part of the brain), tumors, encephalitis (inflammation of the brain) and craniocerebral trauma [@kübler:2001:a, @kübler:2001:b].
 
