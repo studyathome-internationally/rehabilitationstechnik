@@ -28,14 +28,15 @@ abbreviations:
 *[USA]: United States of America
 *[WWW]: World Wide Web
 *[z. B.]: zum Beispiel
-*[Z. B.]: Zum Beispiel
+
+<!-- *[Z. B.]: Zum Beispiel -->
 
 # Medizinische Grundlagen – Teil II
 
 ## Sprache und Sprechen
 
 Den gesprochenen (vokalisierten) Äußerungen eines Menschen liegt ein zweistufiger Prozess zugrunde, bei dem wir strikt zwischen den Elementen _Sprache_ (semantisches Repräsentationssystem) und _Sprechen_ (phonetisches Repräsentationssystem) unterscheiden müssen.
-Sprache ist die Codierung von abstrakten Denkmustern in eine Folge von Zeichen (z. B. Buchstaben) oder lautlichen Elementen (Phoneme).
+Sprache ist die Codierung von abstrakten Denkmustern in eine Folge von grafischen Zeichen (z. B. Buchstaben) oder lautlichen Elementen (Phoneme).
 Die Manifestierung von Schriftzeichen nennen wir „Schreiben“; die Realisierung von Lauten nennen wir „Sprechen“ [@dudel:1996, @böhme:1997, @pschyrembel:1989].
 
 Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen unterscheiden [@böhme:1997]:
@@ -59,7 +60,7 @@ Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen un
    > Der Mensch spricht (...) Wir sprechen, weil Sprechen uns natürlich ist (...) Man sagt, der Mensch habe die Sprache von Natur (...) Erst die Sprache befähigt den Menschen, dasjenige Lebewesen zu sein, das er als Mensch ist (...) Als der Sprechende ist der Mensch: Mensch.  
    > _Martin Heidegger_ [@heidegger:1959]
 
-   [^32]: Konventionell: hier im Sinne von „auf Konventionen beruhend“, vereinbart
+   [^32]: Konventionell: hier im Sinne von „auf Konventionen beruhend“, vereinbart.
 
    Unter Sprachproduktion wollen wir daher die Bildung und Verarbeitung mentaler Konzepte verstehen, wodurch unter Zugriff auf den erlernten aktiven Wortschatz und unter Anwendung der für die jeweilige Sprache gültigen syntaktischen Regeln eine Nachricht so aufbereitet wird, dass sie der vokalen Artikulation oder einer anderen geeigneten Modalität (Schrift, Gebärden, Körpersprache etc.) zugeführt werden kann.
    Manifestiert sich diese Sprache gleichzeitig in mehreren Modalitäten, dann sprechen wir von bimodaler[^33] oder multimodaler Kommunikation.
@@ -67,7 +68,7 @@ Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen un
    [^33]: Ein typisches Beispiel für eine bimodale Kommunikation ist die simultane Umsetzung eines sprachlichen Ausdruckes in gesprochene Sprache und Gebärdensprache durch die sprechende Person.
 
 2. Spracherwerb  
-   Nach Chomsky steht die Komplexität der menschlichen Sprache in Widerspruch zur Leichtigkeit, mit der Kinder Sprache erwerben.
+   Nach N. Chomsky steht die Komplexität der menschlichen Sprache in Widerspruch zur Leichtigkeit, mit der Kinder Sprache erwerben.
    Daher postuliert er mit dem „Principles and Parameters Model“, dass die allen Sprachen gemeinsamen Grundzüge bereits biologisch angelegt sind (angeborenes Wissen).
    Unter Verwendung dieser „universellen Prinzipien“ beschränkt sich der Erwerb der Muttersprache „nur“ auf die Erlernung jener grammatischen Parameter, die die syntaktischen Unterschiede der einzelnen Sprachen bestimmen.
 
@@ -99,13 +100,13 @@ Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen un
 
    Das sogenannte Wernicke-Zentrum[^35] ist die „sensorische“ Sprachregion im hinteren, oberen Teil des Schläfenlappens der jeweils dominanten Hemisphäre des Gehirns (bei $99\%$ der rechtshändigen und $60\%$ der linkshändigen Personen auf der linken Körperseite).
 
-   [^35]: Carl Wernicke, deutscher Neurologe und Psychiater, $1848-1905$
+   [^35]: Carl Wernicke, deutscher Neurologe und Psychiater, $1848-1905$.
 
    Schon früher konnte Broca[^36] in der unteren Windung des Stirnlappens der dominanten Hemisphäre die „motorische“ Sprachregion lokalisieren, die nach ihm als Broca-Zentrum benannt wird.
 
-   [^36]: Paul Broca, französischer Chirurg und Anthropologe, $1824-1880$
+   [^36]: Paul Broca, französischer Chirurg und Anthropologe, $1824-1880$.
 
-   Die beiden Bezeichnungen „sensorisches“ und „motorisches“ Zentrum erscheinen bei einer gesamten Betrachtung der sprachlichen Tätigkeit des Gehirns eher irreführen, zumal das „motorische Zentrum“ trotz seiner topografischen Nähe nichts mit dem für den Sprechvorgang verantwortlichen motorischen Cortex zu tun hat.
+   Die beiden Bezeichnungen „sensorisches“ und „motorisches“ Zentrum erscheinen bei einer gesamten Betrachtung der sprachlichen Tätigkeit des Gehirns eher irreführend, zumal das „motorische Zentrum“ trotz seiner topografischen Nähe nichts mit dem für den Sprechvorgang verantwortlichen motorischen Cortex zu tun hat.
 
    Versucht man die beiden Sprachzentren gemäß ihrer linguistischen Aufgabe zu benennen, dann stellt das Wernicke-Zentrum sozusagen das Lexikon dar, in dem die Begriffe und ihre Bedeutung (Semantik) gespeichert sind.
    Zusammen mit den im nahen Hinterhauptslappen lokalisierten Funktionen für Erinnerung und Zuordnung werden im Wernicke-Areal, so wird vermutet, aus abstrakten, noch nicht sprachlich gefassten Gedanken durch Suche nach den passenden Begriffen die Wörter für die spätere Satzbildung festgelegt.
@@ -124,7 +125,7 @@ Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen un
 
    Für die Grundfunktionen „Lexikon“, „Semantik“ und „Grammatik“ sind die Sprachzentren der dominanten Hirnhälfte (meistens links) verantwortlich.
    Das soll aber nicht darüber hinwegtäuschen, dass beim Verstehen und bei der Produktion von Sprache auch die nicht-dominante Gehirnhälfte eine wichtige Aufgabe zu erfüllen hat.
-   Fällt nämlich der Balken (Corpus callosum), die Verbindung zwischen den beiden Gehirn-Hemisphären aus (Verletzungen, Tumoren), verlieren Personen die Fähigkeit, Gefühlskomponenten in der Sprache zu unterscheiden (ärgerlich, ironisch, humorvoll etc.) oder bildhafte Sprache (Metaphern) anders als im rein wörtlichen Sinn zu verstehen [@eberhard:1994].
+   Fällt nämlich der Balken (Corpus callosum), die Verbindung zwischen den beiden Gehirn-Hemisphären aus (Verletzungen, Tumore), verlieren Personen die Fähigkeit, Gefühlskomponenten in der Sprache zu unterscheiden (ärgerlich, ironisch, humorvoll etc.) oder bildhafte Sprache (Metaphern) anders als im rein wörtlichen Sinn zu verstehen [@eberhard:1994].
 
 {.lower-alpha}
 
@@ -156,7 +157,7 @@ Beim Komplex „Sprache – Sprechen“ lassen sich vier linguistische Ebenen un
    1. bei ruhiger Atmung;
    2. bei forcierter Atmung;
    3. bei Stimmbildung;
-   4. bei Flüsterstimme
+   4. bei Flüsterstimme.
       {.lower-alpha}
 
    :::
@@ -301,7 +302,7 @@ Behinderungen der Sprache basieren immer auf Läsionen des Gehirns oder beruhen 
 5. Alexie, Dyslexie  
    Dyslexie wird als verallgemeinerter Begriff für eine Teilleistungsschwäche beim Lesen bei sonst normaler Gesamtintelligenz verwendet.
    Im deutschsprachigen Raum wird dafür meist die Bezeichnung _Legasthenie_ bzw. _Lese- und Rechtschreibstörung_ (LRS) verwendet.
-   Bei den betroffenen Kindern fallen etwa ab der zweiten Schulstufe Verwechslungen von Grafemen[^37], fehlerhafte Orthografie und vermindertes Leseverständnis auf.
+   Bei den betroffenen Kindern fallen etwa ab der zweiten Schulstufe Verwechslungen von Graphemen[^37], fehlerhafte Orthographie und vermindertes Leseverständnis auf.
    Von Legasthenie verschiedenen Grades sind zwischen $6$ und $10\%$ der Kinder betroffen [@pschyrembel:1989].
    Nach einer Umfrage unter den $700$ behinderten Studierenden der Universität Glasgow stellen Personen mit Dyslexie die größte Gruppe dar [@busse:1998].
    Die Gründe sind bis heute nicht geklärt, es werden jedoch sowohl genetische als auch soziale Einflussfaktoren vermutet [@pschyrembel:1989].
@@ -323,9 +324,9 @@ Behinderungen der Sprache basieren immer auf Läsionen des Gehirns oder beruhen 
    Eine Teilleistungsschwäche beim Umgang mit Zahlen wird als Dyskalkulie oder Arithmasthenie bezeichnet.
    Liegt eine gänzliche Unfähigkeit zu rechnen vor, spricht man von Akalkulie.
 
-7. Agrafie  
+7. Agraphie  
    Ähnlich wie das Lesen kann auch das Schreiben durch eine Teilleistungsschwäche betroffen sein.
-   Eine Unfähigkeit zu Schreiben bei intakter Handmotorik und normaler Intelligenz wird als Agrafie bezeichnet.
+   Eine Unfähigkeit zu Schreiben bei intakter Handmotorik und normaler Intelligenz wird als Agraphie bezeichnet.
 
 {.lower-alpha}
 
@@ -333,7 +334,8 @@ Behinderungen der Sprache basieren immer auf Läsionen des Gehirns oder beruhen 
 
 Ein schwaches respiratorisches System wirkt sich auf die Lautstärke und die Ausdauer der lautlichen Äußerungen aus.
 Störungen im Kehlkopfbereich verursachen hauchige, heisere, leise, flüsternde oder verlangsamte Aussprache.
-Fehlfunktionen des weichen Gaumens resultieren entweder in zu nasaler Artikulation oder im Fehlen von Nasallauten Ist das vordere Artikulationssystem (Zunge, Kiefer, Lippen) beeinträchtigt, kommt es zu verwaschener, langsamer, unpräziser oder unkoordinierter Aussprache.
+Fehlfunktionen des weichen Gaumens resultieren entweder in zu nasaler Artikulation oder im Fehlen von Nasallauten.
+Ist das vordere Artikulationssystem (Zunge, Kiefer, Lippen) beeinträchtigt, kommt es zu verwaschener, langsamer, unpräziser oder unkoordinierter Aussprache.
 Andere Artikulationsstörungen können zu unterschiedlichen Tonhöhen, schwankender Lautstärke, zu hoher Sprechgeschwindigkeit oder zu Störungen im Sprechrhythmus (Poltern, Stottern) führen.
 
 1. Dysarthrie, Anarthrie  
@@ -345,9 +347,9 @@ Andere Artikulationsstörungen können zu unterschiedlichen Tonhöhen, schwanken
    Zerebrale Schädigungen, die Dysarthrie oder Anarthrie hervorrufen, verursachen oft auch Bewegungsstörungen, die es verhindern, dass die betroffene Person kontrollierte Gesten ausführen kann.
    Das stellt ein zusätzliches Kommunikationshindernis dar [@strässle:1998].
 
-2. Aphonie, Dysfonie  
+2. Aphonie, Dysohonie  
    Das vollständige Versagen der Phonation (Stimmbildung) wird als Aphonie bezeichnet.
-   Stimmstörungen (heisere, belegte, raue Stimme) und Einschränkung der Stimmleistung wird Dysfonie genannt.
+   Stimmstörungen (heisere, belegte, raue Stimme) und Einschränkung der Stimmleistung wird Dysphonie genannt.
    Ursachen sind neben psychischen Einflüssen (Schock, Stress) verschiedene Anomalien und Erkrankungen des Kehlkopfes (auch zufolge Verletzung oder Intubation).
 
 {.lower-alpha}
@@ -445,12 +447,12 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
 1. Down-Syndrom  
    Das Down-Syndrom[^39] (auch Trisomie $21$ oder Morbus Langdon-Down)[^40] entsteht durch eine chromosomale Störung, bei der bei der Befruchtung oder einer der nachfolgenden Zellteilungen ein zusätzliches drittes Chromosom $21$ (daher Trisomie $21$)[^41] in den Körperzellen auftritt und von da an bei jeder weiteren Zellteilung weitergegeben wird[^42].
    Das Down Syndrom führt zu einer Fehlentwicklung fast sämtlicher Gewebe und Organe des heranreifenden Organismus.
-   Man unterscheidet drei Typen von Down-Syndrom:
+   Man unterscheidet zwei Typen von Down-Syndrom:
 
    [^39]: John L. Down, englischer Arzt, $1828-1896$.
    [^40]: Die frühere übliche Bezeichnung „Mongolismus“ gilt heute als diskriminierend und soll daher vermieden werden.
    [^41]: Neben der Trisomie $21$ sind noch andere autosomale Trisomien mit Beteiligung der Chromosomen $3$, $9$, $10$, $12$, $13$ und $18$ bekannt. Bei den Geschlechtschromosomen kann es zu genosomalen Trisomien (XXY und XYY) kommen.
-   [^42]: dass eine Chomosomenstörung die Ursache für das Down-Syndrom ist, wurde zwar schon um $1930$ vermutet, der Beweis dafür konnte aber erst $1959$ vom Franzosen Jérôme Lejeune erbracht werden.
+   [^42]: Dass eine Chomosomenstörung die Ursache für das Down-Syndrom ist, wurde zwar schon um $1930$ vermutet, der Beweis dafür konnte aber erst $1959$ vom Franzosen Jérôme Lejeune erbracht werden.
 
    - _Freie (vollständige) Trisomie $21$_  
      Das zusätzliche Chromosom $21$ existiert bereits als $24$.
@@ -468,7 +470,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
 
    Abgesehen von Deformationen und Veränderungen im Habitus sind folgende Symptome für das Down-Syndrom charakteristisch:
 
-   - Geistige Behinderung unterschiedlichen Ausmaße.
+   - Geistige Behinderung unterschiedlichen Ausmaßes.
    - Sprechstörung (hoher Gaumen, große Zunge, Zahnfehlstellungen).
    - Muskelhypotonie.
 
@@ -568,7 +570,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
    Die autonomen Funktionen des Hypothalamus und des Hirnstammes bleiben vollständig oder teilweise erhalten.
    Ein EEG ist vorhanden und im weiteren Verlauf normal.
    Allerdings fehlt bei visueller Stimulation die sonst übliche Blockierung der alpha Wellen.
-   Die Patienten weisen einen natürlichen Schlaf-Wach-Zyklus auf.
+   Die Patienten und Patientinnen weisen einen natürlichen Schlaf-Wach-Zyklus auf.
    Trotzdem gibt es keine Anzeichen eines reproduzierbaren, zielgerichteten oder willentlichen Verhaltens als Reaktion auf visuelle, taktile, auditive oder noxische Reize [@persistent-vegetative-state:1994:part-1].
 
    Das Wachkoma ist deutlich von verwandten Zuständen wie Locked-in Syndrom, Koma, Gehirntod oder schwerer Demenz zu unterscheiden (siehe dazu die auch Zusammenstellung in <<tab:wachkoma-und-verwandte-zustaende>>):
@@ -651,7 +653,7 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
 
    Bei den Ursachen, die zu einem Wachkoma führen können, unterscheidet man zunächst zwischen akuten Ursachen auf der einen und kongenitaler bzw. degenerativen Ursachen auf der anderen Seite [@persistent-vegetative-state:1994:part-1].
 
-   Die akuten Ursachen können sowohl einen traumatischen Hintergrund (Schädelhirntrauma z. B. durch Unfall oder Schussverletzung) als auch nicht traumatische Hintergründe (Hypoxie durch Kreislaufstillstand oder Ertrinken, Gehirnschlag, Meningitis, Tumoren oder Vergiftungen) haben.
+   Die akuten Ursachen können sowohl einen traumatischen Hintergrund (Schädelhirntrauma z. B. durch Unfall oder Schussverletzung) als auch nicht traumatische Hintergründe (Hypoxie durch Kreislaufstillstand oder Ertrinken, Gehirnschlag, Meningitis, Tumore oder Vergiftungen) haben.
    Die statistische Entwicklung von Patienten / Patientinnen mit PVS $12$ Monate nach einer akuten Ursache ist in <<fig:modell-produktion-gesprochene-sprache>> dargestellt.
    Zu beachten ist, dass die Prognosen sowohl zwischen traumatischen und nicht-traumatischen Auslösern als auch zwischen Erwachsenen und Kindern große Unterschiede aufweisen.
    <<fig:modell-produktion-gesprochene-sprache>> zeigt außerdem für jenen Teil der Personen, die innerhalb eines Jahres aus dem PVS erwachen, die Wahrscheinlichkeit und den Grad einer zu erwartenden Behinderung [@kinney:1994, @persistent-vegetative-state:1994:part-1].
@@ -668,12 +670,12 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
 
    <!-- FIXME: Querverweis -->
 
-   Beim Locked-in Syndrom sind die Patienten/innen bei Bewusstsein, aber ohne jegliche Bewegungsmöglichkeit.
+   Beim Locked-in Syndrom sind die Patientinnen und Patienten bei Bewusstsein, aber ohne jegliche Bewegungsmöglichkeit.
    Bei der „klassischen“ Form, bleiben die vertikalen Augenbewegungen und der Lidschlag erhalten, und können mit geeigneten Interfaces für Kommunikationszwecke verwendet werden.
    Beim „totalen“ Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist – wenn überhaupt – nur über die Auswertung des EEG (Brain Computer Interface) möglich.
    <!-- Beim „totalen“ Locked-in Syndrom fehlen auch diese Bewegungen und eine Kommunikation ist – wenn überhaupt – nur über die Auswertung des EEG (Brain Computer Interface – siehe Teil B, Kapitel 3.2.8) möglich. -->
 
-   Als Ursachen für Locked-in Syndrom werden genannt: fortgeschrittene ALS, Hirnstamm Infarkt, Infarkt in der Brücke (_Pons_, Verbindung der beiden Gehirnhälften), beidseitiger Infarkt der inneren Kapsel (Capsula interna – tief liegender Teil des Gehirns), Tumoren, Enzephalitis (Entzündung des Gehirns) und Schädelhirntrauma [@kübler:2001:a, @kübler:2001:b].
+   Als Ursachen für Locked-in Syndrom werden genannt: fortgeschrittene ALS, Hirnstamm Infarkt, Infarkt in der Brücke (_Pons_, Verbindung der beiden Gehirnhälften), beidseitiger Infarkt der inneren Kapsel (Capsula interna – tief liegender Teil des Gehirns), Tumore, Enzephalitis (Entzündung des Gehirns) und Schädelhirntrauma [@kübler:2001:a, @kübler:2001:b].
 
 {.lower-alpha}
 
@@ -688,7 +690,7 @@ Durch eine Klassifizierung alter Menschen allein aufgrund ihres Lebensalters (wi
 <!-- FIXME: missing bibliography entry: [PLO 98] -->
 
 Alter bedeutet zwar zunächst eine höhere Wahrscheinlichkeit, eine oder mehrere körperliche Beeinträchtigungen zu erleiden (<<fig:prozentueller-anteil-behinderungen-us>>), aber es darf dabei nicht vergessen werden, dass $84\%$ der Personen über $65$ keine fremde Hilfe bei der Verrichtung alltäglicher Aktivitäten benötigen.
-Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte oder Patienten und nicht als Konsumenten zu betrachten (<<fig:prozentueller-anteil-hilfestellungen-us>>) [@plo:1998, @yokoyama:1998, @charness:1998:b].
+Es wäre daher ein vollkommen falscher Blickwinkel, sie pauschal als Behinderte oder Patientinnen und Patienten und nicht als Konsumentinnen und Konsumenten zu betrachten (<<fig:prozentueller-anteil-hilfestellungen-us>>) [@plo:1998, @yokoyama:1998, @charness:1998:b].
 
 ![Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung](./pics/07/prozentueller-anteil-behinderungen-us.color.svg "prozentueller-anteil-behinderungen-us#Prozentualer Anteil der in Haushalten lebenden US-Bevölkerung (Quelle: US Census Bureau, nach [@zagler:2008, @mcneil:1995]).")
 
@@ -715,7 +717,7 @@ In einer $1982$ in den USA erstellten Studie wurde festgestellt, dass $36\%$ jen
 Für eine Reihe von Funktionen wurden die für den allgemeinen Alterungsprozess typischen Leistungsabnahmen analysiert.
 Sie werden in den nachfolgenden Punkten beschrieben.
 Es muss hier aber nochmals auf die besondere Heterogenität dieser Bevölkerungsschicht hingewiesen werden.
-Viele der nachfolgend ausgeführten Daten basieren auf Mittelwertbildungen und versuchen somit die typischen Leistungsdaten einer statistischen Person bestimmten Alters darzustellen, die es in der Realität kaum nicht gibt.
+Viele der nachfolgend ausgeführten Daten basieren auf Mittelwertbildungen und versuchen somit die typischen Leistungsdaten einer statistischen Person bestimmten Alters darzustellen, die es in der Realität nicht gibt.
 Vielmehr ist bekannt, dass in vielen Fällen die extremen Werte einer bestimmten Messskala wesentlich stärker besetzt sind als die Mitte [@harrington:1998].
 Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen.
 
@@ -760,12 +762,12 @@ Die hier genannten Werte können daher nur eine allgemeine Trendlinie darstellen
 
 2. Generelle Abnahme der Sehleistung (Visus)  
    Zu der mit dem Alter steigenden Wahrscheinlichkeit, krankheitsbedingt eine Sehschädigung zu erleiden, kommen noch zahlreiche degenerative Prozesse des Auges hinzu.
-   Aus <<fig:abnahme-sehleistung-im-alter>> ist ersichtlich, dass die Sehleistung (Sehschärfe, Visus) trotz Korrektur durch Brillen oder Kontaktlinsen statistisch beginnend mit dem $40.$ Lebensjahr pro Lebensjahrzehnt um rund $0.1\;\sf{V}$ abnimmt.
+   Aus <<fig:abnahme-sehleistung-im-alter>> ist ersichtlich, dass die Sehleistung (Sehschärfe, Visus, Abk.: V) trotz Korrektur durch Brillen oder Kontaktlinsen statistisch beginnend mit dem $40.$ Lebensjahr pro Lebensjahrzehnt um rund $0.1\;\sf{V}$ abnimmt.
    In der Altersgruppe $65-74$ Jahre besitzen $92\%$ der Personen einen Visus besser als $0.8$ (bei bestmöglicher Korrektur), für die Altersgruppe $75-84$ sinkt dieser Wert jedoch auf $69\%$ [@kahn:1977].
 
    <!-- FIXME: missing bibliography entry: [GIT 86] -->
 
-   ![Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter.](./pics/07/abnahme-sehleistung-im-alter.color.svg "abnahme-sehleistung-im-alter#Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter [@zagler:2008] [@fozard:1993] nach [@git:1986].")
+   ![Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter.](./pics/07/abnahme-sehleistung-im-alter.color.svg "abnahme-sehleistung-im-alter#Abnahme der korrigierten und unkorrigierten Sehleistung mit dem Alter, [@zagler:2008] [@fozard:1993] nach [@git:1986].")
 
 3. Verringerung des Akkommodationserfolges und der Akkommodationszeit  
    Unter dem Akkommodationserfolg wird die in Dioptrien (dpt) gemessene Brechkraft-Differenz verstanden, zu der die Augenlinse maximal fähig ist.
@@ -1084,7 +1086,7 @@ Das bedeutet nicht nur, dass ältere Menschen dadurch weniger Freude am Essen ha
     Mit Demenz wird eine progrediente (fortschreitende) degenerative Veränderung des Gehirns bezeichnet, die sich in drei Hauptbereichen auswirkt (andere Quellen bilden fünf Gruppen) [@riederer:1998:a, @mihailidis:2000]:
 
    - _Kognitive Beeinträchtigungen_: Störung des Gedächtnisses (vornehmlich des Kurzzeitgedächtnisses), Einschränkungen des abstrakten und rationalen Denkens und des Urteilsvermögens, Unfähigkeit bzw. Schwierigkeit sich an konkrete Abläufe zu erinnern (Reihenfolge beim Ankleiden), Probleme beim Sprechen und beim Benennen, Desorientierung in Bezug auf Datum, Zeit, Wohnort (Gefahr des „Wanderns“), räumliche Desorientierung (Unvermögen, einen bestimmten Raum zu finden – WC, Bad etc.).
-   - Emotionelle, verhaltensmäßige und auf das Persönlichkeitsbild wirkende Beeinträchtigungen: Depression, Angst, Streitsucht, Psychosen, Halluzinationen, Paranoia, Schlafstörungen.
+   - _Emotionelle, verhaltensmäßige und auf das Persönlichkeitsbild wirkende Beeinträchtigungen_: Depression, Angst, Streitsucht, Psychosen, Halluzinationen, Paranoia, Schlafstörungen.
    - _Physische Beeinträchtigungen_: Unsicherer Gang, Tendenz zum Fallen, Inkontinenz.
 
    Die am meisten verbreitete Ursache für Altersdemenz ist die Alzheimer-Krankheit.

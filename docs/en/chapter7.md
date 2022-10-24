@@ -26,7 +26,7 @@ abbreviations:
 ## Language and Speech
 
 The spoken (vocalized) utterances of a human being are based on a two-stage process in which we must strictly distinguish between the elements _language_ (semantic representation system) and _speaking_ (phonetic representation system).
-Language is the encoding of abstract patterns of thought into a sequence of characters (e.g., letters) or phonetic elements (phonemes).
+Language is the encoding of abstract patterns of thought into a sequence of graphic signs (e.g., letters) or phonetic elements (phonemes).
 We call the manifestation of characters “writing”; we call the realization of sounds “speaking” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
 
 In the complex “language – speaking” four linguistic levels can be distinguished [@böhme:1997]:
@@ -58,7 +58,7 @@ In the complex “language – speaking” four linguistic levels can be disting
    [^33]: A typical example of bimodal communication is the simultaneous conversion of a linguistic expression into spoken language and sign language by the person speaking.
 
 2. Language acquisition  
-   According to Chomsky, the complexity of human language conflicts with the ease with which children acquire language.
+   According to N. Chomsky, the complexity of human language conflicts with the ease with which children acquire language.
    Therefore, with the “Principles and Parameters Model”, he postulates that the basic features common to all languages are already biologically laid out (innate knowledge).
    Using these “universal principles”, the acquisition of the mother tongue is “only” limited to the learning of those grammatical parameters which determine the syntactic differences of each language.
 
@@ -96,7 +96,7 @@ In the complex “language – speaking” four linguistic levels can be disting
 
    [^36]: Paul Broca, French surgeon and anthropologist, $1824-1880$.
 
-   The two designations “sensory” and “motor” center seem rather misleading in an overall consideration of the brain's linguistic activity, especially since the “motor center”, despite its topographical proximity, has nothing to do with the motor cortex responsible for the speech process.
+   The two terms “sensory” and “motor” center seem rather misleading in an overall consideration of the brain's linguistic activity, especially since the “motor center”, despite its topographical proximity, has nothing to do with the motor cortex responsible for the speech process.
 
    If one tries to name the two language centers according to their linguistic task, then the Wernicke center represents, so to speak, the lexicon in which the terms and their meaning (semantics) are stored.
    Together with the functions for memory and assignment localized in the near occipital lobe, it is assumed that the words for the subsequent sentence formation are determined in the Wernicke area from abstract thoughts that have not yet been formulated in language by searching for the appropriate terms.
@@ -113,7 +113,7 @@ In the complex “language – speaking” four linguistic levels can be disting
    The Wernicke area also has tasks in recognizing heard words.
    Another center (optical speech center) is active during reading.
 
-   For the basic functions “lexicon”, “semantics” and “grammar” the language centers of the dominant brain hemisphere (mostly left) are responsible.
+   The language centers of the dominant brain hemisphere (mostly on the left) are responsible for the basic functions "lexicon", "semantics" and "grammar".
    However, this should not hide the fact that the non-dominant brain hemisphere also has an important task to fulfill in understanding and producing language.
    If the bar (corpus callosum), the connection between the two brain hemispheres, fails (injuries, tumors), persons lose the ability to distinguish emotional components in language (angry, ironic, humorous, etc.) or to understand figurative language (metaphors) other than in a purely literal sense [@eberhard:1994].
 
@@ -147,7 +147,7 @@ In the complex “language – speaking” four linguistic levels can be disting
    1. with quiet breathing;
    2. with forced breathing;
    3. in voice production;
-   4. with whispered voice
+   4. with whispered voice.
       {.lower-alpha}
 
    :::
@@ -326,7 +326,8 @@ Disabilities of language are always based on lesions of the brain or are due to 
 
 A weak respiratory system affects the loudness and persistence of vocal utterances.
 Laryngeal disorders cause breathy, hoarse, soft, whispery, or slowed pronunciation.
-Dysfunctions of the soft palate result in either overly nasal articulation or absence of nasal sounds If the anterior articulation system (tongue, jaw, lips) is impaired, the result is slurred, slow, imprecise, or uncoordinated pronunciation.
+Dysfunctions of the soft palate result in either overly nasal articulation or absence of nasal sounds.
+If the anterior articulation system (tongue, jaw, lips) is impaired, the result is slurred, slow, imprecise, or uncoordinated pronunciation.
 Other articulation disorders may result in varying pitch, fluctuating volume, excessive rate of speech, or disturbances in the rhythm of speech (poluttering, stuttering).
 
 1. Dysarthria, Anarthria  
@@ -438,7 +439,7 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
 1. Down syndrome  
    Down syndrome[^39] (also trisomy $21$ or Langdon-Down disease)[^40] results from a chromosomal disorder in which an extra third chromosome $21$ (hence trisomy $21$)[^41] appears in the body's cells at fertilization or one of the subsequent cell divisions and is passed on with each subsequent cell division from then on[^42].
    Down syndrome leads to maldevelopment of almost all tissues and organs of the maturing organism.
-   Three types of Down syndrome are distinguished:
+   Two types of Down syndrome are distinguished:
 
    [^39]: John L. Down, English physician, $1828-1896$.
    [^40]: The former common name “mongolism” is now considered discriminatory and should therefore be avoided.
@@ -708,7 +709,7 @@ In a $1982$ study conducted in the U.S., it was found that $36\%$ of those carin
 Declines in performance typical of the general aging process have been analyzed for a number of functions.
 They are described in the following points.
 However, it is important to reiterate here the particular heterogeneity of this population stratum.
-Many of the data presented below are based on averaging and thus attempt to represent the typical performance data of a statistical person of a certain age, which hardly exists in reality.
+Much of the data elaborated below is based on averaging and thus attempts to represent the typical performance data of a statistical person of a certain age that does not exist in reality.
 Rather, it is known that in many cases the extreme values of a given measurement scale are much more crowded than the middle [@harrington:1998].
 Therefore, the values given here can only represent a general trend line.
 
@@ -753,12 +754,12 @@ Therefore, the values given here can only represent a general trend line.
 
 2. General decrease in visual performance (visual acuity).  
    In addition to the increasing probability of suffering a visual impairment due to disease with age, there are numerous degenerative processes of the eye.
-   From <<fig:decrease-visual-performance-at-age>> it is evident that visual performance (visual acuity, visual acuity) statistically decreases by about $0.1\;\sf{V}$ per decade of life, starting with the $40th year of life, despite correction by glasses or contact lenses.
+   From <<fig:decrease-visual-performance-at-age>> it is evident that visual performance (visual acuity, V) statistically decreases by about $0.1\;\sf{V}$ per decade of life, starting with the $40th year of life, despite correction by glasses or contact lenses.
    In the age group $65-74$ years $92\%$ of the persons have a visual acuity better than $0.8$ (with best possible correction), but for the age group $75-84$ this value decreases to $69\%$ [@kahn:1977].
 
    <!-- FIXME: missing bibliography entry: [GIT 86] -->
 
-   ![Decrease in corrected and uncorrected visual performance with age.](./pics/07/abnahme-sehleistung-im-alter.color.svg "decrease-visual-performance-at-age#Decrease of corrected and uncorrected visual performance with age [@zagler:2008] [@fozard:1993] according to [@git:1986].")
+   ![Decrease in corrected and uncorrected visual performance with age.](./pics/07/abnahme-sehleistung-im-alter.color.svg "decrease-visual-performance-at-age#Decrease of corrected and uncorrected visual performance with age, [@zagler:2008] [@fozard:1993] according to [@git:1986].")
 
 3. Reduction of accommodation success and accommodation time.  
    Accommodation success is the difference in refractive power, measured in diopters (dpt), of which the crystalline lens is capable.
@@ -1012,7 +1013,7 @@ This not only means that older people enjoy eating less (the sense of smell play
 
    .walking-speed-age-persons#Walking speed of elderly persons – Healthy persons and persons using walking aids – Laboratory values of $55$ subjects [@virokannas:1998].
 
-   The walking speed of a person is proportional to the muscular strength available to him, whereby the stretching of the knee joint plays an essential role.
+   The walking speed of a person is proportional to the muscle power available to him, with the stretching of the knee joint playing an essential role.
 
    Compared with men of the same age, elderly women have substantially less muscle strength: $80$-year-old women $66\%$, $8$-year-old women $54\%$ [@fozard:1998].
    Thus, women tend to be more prone to mobility impairments in old age than men of the same age.
@@ -1076,7 +1077,7 @@ This not only means that older people enjoy eating less (the sense of smell play
     Dementia is the term used to describe a progressive (advancing) degenerative change in the brain that affects three main areas (other sources form five groups) [@riederer:1998:a, @mihailidis:2000]:
 
    - _Cognitive impairments_: disturbance of memory (mainly short-term memory), limitations of abstract and rational thinking and judgment, inability or difficulty to remember concrete sequences (order of dressing), problems with speaking and naming, disorientation with respect to date, time, place of residence (danger of “wandering”), spatial disorientation (inability to find a specific room – toilet, bathroom, etc.).
-   - Emotional, behavioral impairments affecting the personality picture: Depression, anxiety, quarrelsomeness, psychosis, hallucinations, paranoia, sleep disturbances.
+   - _Emotional, behavioral impairments affecting the personality picture_: Depression, anxiety, quarrelsomeness, psychosis, hallucinations, paranoia, sleep disturbances.
    - _Physical impairments_: unsteady gait, tendency to fall, incontinence.
 
    The most common cause of senile dementia is Alzheimer's disease.
