@@ -1,12 +1,14 @@
 import type MdIt from "markdown-it";
-import Token from "markdown-it/lib/token";
-import Core from "markdown-it/lib/parser_core";
-import StateCore from "markdown-it/lib/rules_core/state_core";
+import Token from "markdown-it/lib/token.js";
+import type Core from "markdown-it/lib/parser_core";
+import type StateCore from "markdown-it/lib/rules_core/state_core";
+
+import MdItAbbreviation from "markdown-it-abbr";
 
 const abbreviation = (md: MdIt) => {
-  md.use(require("markdown-it-abbr"));
-  md.core.ruler.after("abbr_replace", "list_of_abbreviations", list_of_abbreviations_rule())
-}
+  md.use(MdItAbbreviation);
+  md.core.ruler.after("abbr_replace", "list_of_abbreviations", list_of_abbreviations_rule());
+};
 
 function list_of_abbreviations_rule() {
   const list_of_abbreviations: Core.RuleCore = (state: StateCore) => {
@@ -75,7 +77,7 @@ function list_of_abbreviations_rule() {
     token = new Token("list_of_abbreviations_close", "dl", -1);
     token.block = true;
     tokens.push(token);
-  }
+  };
   return list_of_abbreviations;
 }
 

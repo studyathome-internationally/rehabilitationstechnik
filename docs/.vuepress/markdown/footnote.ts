@@ -1,14 +1,16 @@
 import type MdIt from "markdown-it";
-import Token from "markdown-it/lib/token";
-import Core from "markdown-it/lib/parser_core";
-import Renderer from "markdown-it/lib/renderer";
+import Token from "markdown-it/lib/token.js";
+import type Core from "markdown-it/lib/parser_core";
+import type Renderer from "markdown-it/lib/renderer";
 import type StateCore from "markdown-it/lib/rules_core/state_core";
 
+import MdItFootnote from "markdown-it-footnote";
+
 const footnote = (md: MdIt) => {
-  md.use(require("markdown-it-footnote"));
+  md.use(MdItFootnote);
   md.core.ruler.after("footnote_tail", "footnotes_heading", footnotes_heading_rule());
   md.renderer.rules.footnote_block_open = footnote_block_open_renderer;
-}
+};
 
 function footnotes_heading_rule() {
   const footnotes_heading: Core.RuleCore = (state: StateCore) => {
@@ -27,11 +29,17 @@ function footnotes_heading_rule() {
     token = new Token("heading_close", "h2", -1);
     heading.push(token);
     tokens.splice(index, 0, ...heading);
-  }
+  };
   return footnotes_heading;
 }
 
-function footnote_block_open_renderer (tokens: Token[], idx: number, options: MdIt.Options, env: any, self: Renderer) : string {
+function footnote_block_open_renderer(
+  tokens: Token[],
+  idx: number,
+  options: MdIt.Options,
+  env: any,
+  self: Renderer
+): string {
   return '<section class="footnotes">\n' + '<ol class="footnotes-list">\n';
 }
 

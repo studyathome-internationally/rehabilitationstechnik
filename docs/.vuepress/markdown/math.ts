@@ -10,7 +10,7 @@ for rendering output.
 /*jslint node: true */
 "use strict";
 
-var katex = require("katex");
+import katex from "katex";
 
 // Test if potential opening or closing delimieter
 // Assumes that there is a "$" at state.src[pos]
@@ -39,7 +39,7 @@ function isValidDelim(state, pos) {
 
   return {
     can_open: can_open,
-    can_close: can_close
+    can_close: can_close,
   };
 }
 
@@ -162,12 +162,7 @@ function math_block(state, start, end, silent) {
       break;
     }
 
-    if (
-      state.src
-        .slice(pos, max)
-        .trim()
-        .slice(-2) === "$$"
-    ) {
+    if (state.src.slice(pos, max).trim().slice(-2) === "$$") {
       lastPos = state.src.slice(0, max).lastIndexOf("$$");
       lastLine = state.src.slice(pos, lastPos);
       found = true;
@@ -202,7 +197,7 @@ module.exports = function math_plugin(md, options) {
   options = options || {};
 
   // set KaTeX as the renderer for markdown-it-simplemath
-  var katexInline = function(latex) {
+  var katexInline = function (latex) {
     options.displayMode = false;
     options.strict = "ignore";
     try {
@@ -211,9 +206,7 @@ module.exports = function math_plugin(md, options) {
       if (options.throwOnError) {
         console.log(error);
       }
-      return `<span v-pre class='katex-error' title='${escapeHtml(error.toString())}'>${escapeHtml(
-        latex
-      )}</span>`;
+      return `<span v-pre class='katex-error' title='${escapeHtml(error.toString())}'>${escapeHtml(latex)}</span>`;
     }
   };
 
@@ -221,7 +214,7 @@ module.exports = function math_plugin(md, options) {
     return katexInline(tokens[idx].content).replace(`<span class="katex">`, `<span v-pre class="katex">`);
   };
 
-  var katexBlock = function(latex) {
+  var katexBlock = function (latex) {
     options.displayMode = true;
     options.strict = "ignore";
     try {
@@ -230,19 +223,19 @@ module.exports = function math_plugin(md, options) {
       if (options.throwOnError) {
         console.log(error);
       }
-      return `<p v-pre class='katex-block katex-error' v-pre title='${escapeHtml(
-        error.toString()
-      )}'>${escapeHtml(latex)}</p>`;
+      return `<p v-pre class='katex-block katex-error' v-pre title='${escapeHtml(error.toString())}'>${escapeHtml(
+        latex
+      )}</p>`;
     }
   };
 
-  var blockRenderer = function(tokens, idx) {
+  var blockRenderer = function (tokens, idx) {
     return katexBlock(tokens[idx].content) + "\n";
   };
 
   md.inline.ruler.after("escape", "math_inline", math_inline);
   md.block.ruler.after("blockquote", "math_block", math_block, {
-    alt: ["paragraph", "reference", "blockquote", "list"]
+    alt: ["paragraph", "reference", "blockquote", "list"],
   });
   md.renderer.rules.math_inline = inlineRenderer;
   md.renderer.rules.math_block = blockRenderer;
