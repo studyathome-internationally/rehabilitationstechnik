@@ -81,7 +81,7 @@ Die Impulsfrequenz einer Nervenzelle im Ruhezustand liegt bei einem Impuls in me
 
 Vereinfacht kann man sich das Axon als einen an den Zellkörper angeschlossenen Schlauch vorstellen, der von einer wässerigen Salzlösung umgeben und ausgefüllt ist.
 In dieser Lösung kommen vor allem Chlorid-, Kalium-, Natrium- und Kalzium-Ionen (Cl-, K+, Na+ und Ca++) vor.
-Zufolge unterschiedlicher Ionenkonzentrationen innerhalb und außerhalb des Axons kommt es bei der ruhenden Zelle zu einem Potentialunterschied (Ruhepotential) von rund $70\;\sf{mV}$ (außen positiv).
+Zufolge unterschiedlicher Ionenkonzentrationen innerhalb und außerhalb des Axons kommt es bei der ruhenden Zelle zu einem Potentialunterschied (Ruhepotential) von rund $-70\;\sf{mV}$ (außen positiv).
 
 Die Membran, die die gesamte Nervenzelle, also auch das Axon, umgibt, weist eine äußerst komplexe Struktur mit Millionen von Poren auf.
 Das Besondere daran ist, dass es unterschiedliche Poren für den Transport der einzelnen in der wässerigen Lösung vorkommenden Ionen gibt (z. B. solche, die, wenn sie geöffnet werden, nur Na-Ionen durchlassen, während andere wiederum auf K- oder Ca-Ionen spezialisiert sind).
@@ -90,7 +90,7 @@ Diese Poren können nun nicht nur geöffnet oder geschlossen werden, sondern auc
 Durch die oben erwähnten Pumpen ist es nun möglich, Ionen einer bestimmten Art von einer Seite der Membran auf die andere zu befördern.
 In diesem ersten Schritt kommt es zwar nicht zur Bildung eines Potentialunterschiedes (denn für jedes nach außen transportierte Ion der einen Art, wird ein Ion der anderen Art nach innen befördert), jedoch zu einer Veränderung der Ionenkonzentrationen einer bestimmten Art zu beiden Seiten der Membran.
 Werden nun in einem zweiten Schritt Poren, die nur für eine bestimmte Ionenart durchlässig sind, geöffnet, werden Ionen dieser Art gemäß ihres Konzentrationsgefälles auf die andere Seite diffundieren, ohne dass andere Ladungsträger in die Gegenrichtung wandern können.
-Damit baut sich eine Potentialdifferenz auf, die der Ionenbewegung entgegenwirkt, bis das System aus Konzentrationsgefälle und Potentialdifferenz bei $70\;\sf{mV}$ in einen Gleichgewichtszustand eintritt[^6].
+Damit baut sich eine Potentialdifferenz auf, die der Ionenbewegung entgegenwirkt, bis das System aus Konzentrationsgefälle und Potentialdifferenz bei $-70\;\sf{mV}$ in einen Gleichgewichtszustand eintritt[^6].
 
 [^6]: In mancher Hinsicht erinnert das an die Verhältnisse an einer Halbleiter-Sperrschicht, nur dass hier nicht Elektronen und Löcher als Ladungsträger vorkommen, sondern verschiedene Arten von positiv geladenen Ionen, die sich in einem Konzentrationsgefälle bewegen und deren Bewegungen durch das Öffnen und Schließen selektiv wirkender Poren gesteuert werden können.
 
