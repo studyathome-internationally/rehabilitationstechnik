@@ -72,7 +72,7 @@ The pulse frequency of a nerve cell in the resting state is one pulse in several
 
 Simplified, the axon can be thought of as a tube connected to the cell body, surrounded and filled by an aqueous salt solution.
 In this solution, mainly chloride, potassium, sodium and calcium ions (Cl-, K+, Na+ and Ca++) are present.
-As a result of different ion concentrations inside and outside the axon, a potential difference (resting potential) of about $70\;\sf{mV}$ (outside positive) occurs in the resting cell.
+As a result of different ion concentrations inside and outside the axon, a potential difference (resting potential) of about $-70\;\sf{mV}$ (outside positive) occurs in the resting cell.
 
 The membrane that surrounds the entire nerve cell, including the axon, has an extremely complex structure with millions of pores.
 What is special about it is that there are different pores for the transport of the individual ions present in the aqueous solution (e.g., those that, when opened, allow only Na ions to pass through, while others are specialized for K or Ca ions).
@@ -81,7 +81,7 @@ These pores can now not only be opened or closed, but also function like pumps t
 Through the above-mentioned pumps, it is now possible to transport ions of a certain type from one side of the membrane to the other.
 Although this first step does not result in the formation of a potential difference (because for every ion of one type transported to the outside, an ion of the other type is transported to the inside), it does result in a change in the ion concentrations of a certain type on both sides of the membrane.
 If, in a second step, pores that are permeable only to a certain type of ion are opened, ions of this type will diffuse to the other side according to their concentration gradient, without other charge carriers being able to migrate in the opposite direction.
-Thus, a potential difference builds up which opposes the ionic motion until the system of concentration gradient and potential difference enters an equilibrium state at $70\;\sf{mV}$[^6].
+Thus, a potential difference builds up which opposes the ionic motion until the system of concentration gradient and potential difference enters an equilibrium state at $-70\;\sf{mV}$[^6].
 
 [^6]: In some respects, this is reminiscent of the conditions at a semiconductor junction, except that here the charge carriers are not electrons and holes, but various types of positively charged ions moving in a concentration gradient whose motions can be controlled by the opening and closing of selectively acting pores.
 
