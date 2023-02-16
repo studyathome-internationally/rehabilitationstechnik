@@ -1,10 +1,7 @@
 # Ignore
 node_modules/
-docs/.vuepress/.temp/
-docs/.vuepress/.cache/
-docs/.vuepress/dist/
-build/
-cache/
+docs/.vitepress/cache
+.env
 
 *.scaled.svg
 *.cache
