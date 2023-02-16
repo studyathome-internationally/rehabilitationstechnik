@@ -1,2 +1,26 @@
 hr.list-of-abbreviations, hr.list-of-figures, hr.list-of-tables, hr.bibliography
   display none
+
+ul.list-of-figures, ul.list-of-tables, ul.bibliography
+  padding-left unset
+  list-style-type none
+  overflow-x auto
+  padding-bottom 1rem
+  & li p
+    line-height 1.2rem
+    margin 0
+    white-space nowrap
+    text-overflow ellipsis
+
+#list-of-abbreviations + dl
+  dt, dd
+    display inline
+    margin 0
+  dt
+    display inline-block
+    font-weight bold
+    padding-right 0.5rem
+    min-width 8ex
+  dd::after
+    content '\A'
+    white-space pre
