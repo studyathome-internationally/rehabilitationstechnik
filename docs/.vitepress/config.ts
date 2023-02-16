@@ -76,32 +76,12 @@ function markdown() {
 function nav(lang) {
   return {
     en: [
-      {
-        text: "Contents",
-        items: [
-          { text: "Chapter 1 - Definitions and Wording", link: "/chapter1" },
-          { text: "Chapter 2 - The Levels of Disability According to WHO", link: "/chapter2" },
-          { text: "Chapter 3 - Disability as Difference Between Performance and Requirement", link: "/chapter3" },
-          { text: "Chapter 4 - Rehabilitation Technology", link: "/chapter4" },
-          { text: "Chapter 5 - Classification of the Tools", link: "/chapter5" },
-          { text: "Chapter 6 - Medical Basics (Part I)", link: "/chapter6" },
-          { text: "Chapter 7 - Medical Basics (Part II)", link: "/chapter7" },
-        ],
-      },
+      { text: "Legal Notice", link: "./legal-notice" },
+      { text: "Contact", link: "./contact" },
     ],
     de: [
-      {
-        text: "Inhalte",
-        items: [
-          { text: "Kapitel 1 - Definition und Wortwahl", link: "/de/chapter1" },
-          { text: "Kapitel 2 - Die Ebenen der Behinderung nach WHO", link: "/de/chapter2" },
-          { text: "Kapitel 3 - Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3" },
-          { text: "Kapitel 4 - Rehabilitationstechnik", link: "/de/chapter4" },
-          { text: "Kapitel 5 - Einteilung der Hilfsmittel", link: "/de/chapter5" },
-          { text: "Kapitel 6 - Medizinische Grundlagen (Teil I)", link: "/de/chapter6" },
-          { text: "Kapitel 7 - Medizinische Grundlagen (Teil II)", link: "/de/chapter7" },
-        ],
-      },
+      { text: "Impressum", link: "./legal-notice" },
+      { text: "Kontakt", link: "./contact" },
     ],
   }[lang];
 }
