@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
+    "@types/node": "^18.13.0",
     "juice": "^8.1.0",
     "katex": "^0.16.4",
     "markdown-it": "^13.0.1",
@@ -25,7 +26,6 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "mathjax-full": "^3.2.2",
-    "path": "^0.12.7",
     "vitepress": "1.0.0-alpha.46",
     "vue": "^3.2.47"
   },
