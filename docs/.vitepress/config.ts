@@ -25,7 +25,7 @@ export default defineConfig({
       title: "Rehabilitation Technology",
       description: "UAS Technikum Vienna",
       themeConfig: {
-        logo: "/images/fhtw-logo.svg",
+        logo: "/img/fhtw.svg",
         nav: nav("en"),
         sidebar: sidebar("en"),
         outlineTitle: "Table of Contents",
@@ -37,7 +37,7 @@ export default defineConfig({
       title: "Rehabilitationstechnik",
       description: "FH Technikum Wien",
       themeConfig: {
-        logo: "/images/fhtw-logo.svg",
+        logo: "/img/fhtw.svg",
         nav: nav("de"),
         sidebar: sidebar("de"),
         outlineTitle: "Inhaltsverzeichnis",
