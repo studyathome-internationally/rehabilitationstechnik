@@ -4,10 +4,10 @@ on:
   # schedule:
   #   - cron: "0 0 * * 0" # At 00:00 on Sunday (weekly)
 env:
-  BASE: /
+  BASE: /rehatec/
   USER: study
   SERVER: studyathome.technikum-wien.at
-  DEST: /var/www/html/asterics-web-devwindows/rehabilitationstechnik
+  DEST: /var/www/html/asterics-web-devwindows/rehatec
   SSH_OPTS: -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
 jobs:
   build:
