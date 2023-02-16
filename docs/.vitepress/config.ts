@@ -1,6 +1,8 @@
 import { join } from "path";
 import { defineConfig } from "vitepress";
 
+import base from "./config/base.js";
+
 import MdItListOfFigures from "markdown-it-list-of-figures";
 import MdItListOfTables from "markdown-it-list-of-tables";
 import MdItCite from "markdown-it-cite";
@@ -14,6 +16,7 @@ import MdItFootnote from "./config/plugins/footnote.ts";
 import MdItMath from "./config/plugins/math.ts";
 
 export default defineConfig({
+  base,
   markdown: markdown(),
   locales: {
     root: {
