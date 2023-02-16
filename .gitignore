@@ -1,6 +1,7 @@
 # Ignore
 node_modules/
 docs/.vitepress/cache
+docs/.vitepress/dist
 .env
 
 *.scaled.svg
