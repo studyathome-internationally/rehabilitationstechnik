@@ -5,22 +5,22 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[WHO]: World Health Organization (Weltgesundheitsorganisation)
+*[WHO]: World Health Organization
 
-# Open Educational Resource - Rehabilitationstechnik
+# Open Educational Resource - Rehabilitation Technology
 
 <!-- prettier-ignore -->
-| Inhaltsverzeichnis                                                                             ||
-| :----------------- | -------------------------------------------------------------------------- |
-| Kapitel 1          | [Definitionen und Wortwahl](chapter1.md)                                   |
-| Kapitel 2          | [Die Ebenen der Behinderung nach WHO](chapter2.md)                         |
-| Kapitel 3          | [Behinderung als Differenz zwischen Leistung und Anforderung](chapter3.md) |
-| Kapitel 4          | [Rehabilitationstechnik](chapter4.md)                                      |
-| Kapitel 5          | [Einteilung der Hilfsmittel](chapter5.md)                                  |
-| Kapitel 6          | [Medizinische Grundlagen - Teil I](chapter6.md)                            |
-| Kapitel 7          | [Medizinische Grundlagen - Teil II](chapter7.md)                           |
+| Table of Contents                                                                              ||
+| :---------------- | --------------------------------------------------------------------------- |
+| Chapter 1         | [Definitions and Wording](chapter1.md)                                      |
+| Chapter 2         | [The Levels of Disability According to WHO](chapter2.md)                    |
+| Chapter 3         | [Disability as Difference Between Performance and Requirement](chapter3.md) |
+| Chapter 4         | [Rehabilitation Technology](chapter4.md)                                    |
+| Chapter 5         | [Classification of the Tools](chapter5.md)                                  |
+| Chapter 6         | [Medical Basics - Part I](chapter6.md)                                      |
+| Chapter 7         | [Medical Basics - Part II](chapter7.md)                                     |
 
 <!--
-| Kapitel 8          | [Die wichtigsten Arten von Behinderungen](chapter8.md)                     |
-| Kapitel 9          | [Assistive Technologien - Grundlagen](chapter9.md)                         |
- -->
+| Chapter 8         | [Major Types of Disability](chapter8.md)                                    |
+| Chapter 9         | [Assistive Technology - Basics](chapter9.md)                                |
+-->
