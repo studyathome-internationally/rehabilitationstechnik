@@ -5,9 +5,9 @@
   "license": "GPL-3.0",
   "private": true,
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "devDependencies": {
     "@types/markdown-it": "^12.2.3",
@@ -26,7 +26,7 @@
     "markdown-it-sup": "^1.0.0",
     "mathjax-full": "^3.2.2",
     "path": "^0.12.7",
-    "vitepress": "1.0.0-alpha.45",
+    "vitepress": "1.0.0-alpha.46",
     "vue": "^3.2.47"
   },
   "pnpm": {
