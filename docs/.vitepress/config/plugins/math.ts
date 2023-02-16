@@ -191,7 +191,7 @@ function escapeHtml(unsafe) {
     .replace(/'/g, "&#039;");
 }
 
-module.exports = function math_plugin(md, options) {
+function math_plugin(md, options) {
   // Default options
 
   options = options || {};
@@ -239,4 +239,6 @@ module.exports = function math_plugin(md, options) {
   });
   md.renderer.rules.math_inline = inlineRenderer;
   md.renderer.rules.math_block = blockRenderer;
-};
+}
+
+export default math_plugin;

@@ -54,4 +54,4 @@ function frontmatter(state, key, alternative) {
     : alternative;
 }
 
-module.exports = footnote;
+export default footnote;

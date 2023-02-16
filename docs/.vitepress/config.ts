@@ -11,9 +11,9 @@ import MdItMultiMdTable from "markdown-it-multimd-table";
 import MdItSub from "markdown-it-sub";
 import MdItSup from "markdown-it-sup";
 import MdItInclude from "markdown-it-include";
-import MdItAbbreviation from "./config/plugins/abbreviation.ts";
-import MdItFootnote from "./config/plugins/footnote.ts";
-import MdItMath from "./config/plugins/math.ts";
+import MdItAbbreviation from "./config/plugins/abbreviation";
+import MdItFootnote from "./config/plugins/footnote";
+import MdItMath from "./config/plugins/math";
 
 export default defineConfig({
   base,
