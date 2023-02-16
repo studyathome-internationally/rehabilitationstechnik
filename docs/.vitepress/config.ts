@@ -20,31 +20,33 @@ export default defineConfig({
   markdown: markdown(),
   locales: {
     root: {
-      label: "Deutsch",
-      lang: "de-AT",
-      title: "Rehabilitationstechnik",
-      description: "FH Technikum Wien",
-      themeConfig: {
-        logo: "/images/fhtw-logo.svg",
-        nav: nav()["de"],
-        outlineTitle: "Inhaltsverzeichnis",
-        algolia: {
-          appId: "JI7BWPYEMW",
-          apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
-          indexName: "rehabilitationstechnik",
-        },
-      },
-    },
-    en: {
       label: "English",
       lang: "en-US",
       title: "Rehabilitation Technology",
       description: "UAS Technikum Vienna",
       themeConfig: {
         logo: "/images/fhtw-logo.svg",
-        nav: nav()["en"],
+        nav: nav("en"),
         outlineTitle: "Table of Contents",
       },
+    },
+    de: {
+      label: "Deutsch",
+      lang: "de-AT",
+      title: "Rehabilitationstechnik",
+      description: "FH Technikum Wien",
+      themeConfig: {
+        logo: "/images/fhtw-logo.svg",
+        nav: nav("de"),
+        outlineTitle: "Inhaltsverzeichnis",
+      },
+    },
+  },
+  themeConfig: {
+    algolia: {
+      appId: "JI7BWPYEMW",
+      apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
+      indexName: "rehabilitationstechnik",
     },
   },
 });
@@ -67,39 +69,35 @@ function markdown() {
   };
 }
 
-function nav() {
+function nav(lang) {
   return {
-    de: [
-      {
-        text: "Inhalte",
-        items: [
-          { text: "Kapitel 1 - Definition und Wortwahl", link: "/chapter1" },
-          { text: "Kapitel 2 - Die Ebenen der Behinderung nach WHO", link: "/chapter2" },
-          { text: "Kapitel 3 - Behinderung als Differenz zwischen Leistung und Anforderung", link: "/chapter3" },
-          { text: "Kapitel 4 - Rehabilitationstechnik", link: "/chapter4" },
-          { text: "Kapitel 5 - Einteilung der Hilfsmittel", link: "/chapter5" },
-          { text: "Kapitel 6 - Medizinische Grundlagen (Teil I)", link: "/chapter6" },
-          { text: "Kapitel 7 - Medizinische Grundlagen (Teil II)", link: "/chapter7" },
-        ],
-      },
-      {
-        text: "Anleitung",
-        link: "/guide/review.md",
-      },
-    ],
     en: [
       {
         text: "Contents",
         items: [
-          { text: "Chapter 1 - Definitions and Wording", link: "/en/chapter1" },
-          { text: "Chapter 2 - The Levels of Disability According to WHO", link: "/en/chapter2" },
-          { text: "Chapter 3 - Disability as Difference Between Performance and Requirement", link: "/en/chapter3" },
-          { text: "Chapter 4 - Rehabilitation Technology", link: "/en/chapter4" },
-          { text: "Chapter 5 - Classification of the Tools", link: "/en/chapter5" },
-          { text: "Chapter 6 - Medical Basics (Part I)", link: "/en/chapter6" },
-          { text: "Chapter 7 - Medical Basics (Part II)", link: "/en/chapter7" },
+          { text: "Chapter 1 - Definitions and Wording", link: "/chapter1" },
+          { text: "Chapter 2 - The Levels of Disability According to WHO", link: "/chapter2" },
+          { text: "Chapter 3 - Disability as Difference Between Performance and Requirement", link: "/chapter3" },
+          { text: "Chapter 4 - Rehabilitation Technology", link: "/chapter4" },
+          { text: "Chapter 5 - Classification of the Tools", link: "/chapter5" },
+          { text: "Chapter 6 - Medical Basics (Part I)", link: "/chapter6" },
+          { text: "Chapter 7 - Medical Basics (Part II)", link: "/chapter7" },
         ],
       },
     ],
-  };
+    de: [
+      {
+        text: "Inhalte",
+        items: [
+          { text: "Kapitel 1 - Definition und Wortwahl", link: "/de/chapter1" },
+          { text: "Kapitel 2 - Die Ebenen der Behinderung nach WHO", link: "/de/chapter2" },
+          { text: "Kapitel 3 - Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3" },
+          { text: "Kapitel 4 - Rehabilitationstechnik", link: "/de/chapter4" },
+          { text: "Kapitel 5 - Einteilung der Hilfsmittel", link: "/de/chapter5" },
+          { text: "Kapitel 6 - Medizinische Grundlagen (Teil I)", link: "/de/chapter6" },
+          { text: "Kapitel 7 - Medizinische Grundlagen (Teil II)", link: "/de/chapter7" },
+        ],
+      },
+    ],
+  }[lang];
 }
