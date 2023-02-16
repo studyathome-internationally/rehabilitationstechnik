@@ -28,6 +28,11 @@ export default defineConfig({
         logo: "/images/fhtw-logo.svg",
         nav: nav()["de"],
         outlineTitle: "Inhaltsverzeichnis",
+        algolia: {
+          appId: "JI7BWPYEMW",
+          apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
+          indexName: "rehabilitationstechnik",
+        },
       },
     },
     en: {
