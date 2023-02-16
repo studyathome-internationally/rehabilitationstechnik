@@ -26,6 +26,7 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "mathjax-full": "^3.2.2",
+    "stylus": "^0.59.0",
     "vitepress": "1.0.0-alpha.46",
     "vue": "^3.2.47"
   },
