@@ -1,7 +1,6 @@
-import { join } from "path";
+import { resolve, dirname } from "path";
+import { fileURLToPath } from "url";
 import { defineConfig } from "vitepress";
-
-import base from "./config/base.js";
 
 import MdItListOfFigures from "markdown-it-list-of-figures";
 import MdItListOfTables from "markdown-it-list-of-tables";
@@ -11,9 +10,12 @@ import MdItMultiMdTable from "markdown-it-multimd-table";
 import MdItSub from "markdown-it-sub";
 import MdItSup from "markdown-it-sup";
 import MdItInclude from "markdown-it-include";
+
 import MdItAbbreviation from "./config/plugins/abbreviation";
 import MdItFootnote from "./config/plugins/footnote";
 import MdItMath from "./config/plugins/math";
+
+import base from "./config/base.js";
 
 export default defineConfig({
   base,
@@ -58,7 +60,7 @@ function markdown() {
     config: (md) => {
       md.use(MdItListOfFigures);
       md.use(MdItListOfTables);
-      md.use(MdItCite, { sources: [join(__dirname, "literature.bib")] });
+      md.use(MdItCite, { sources: [resolve(dirname(fileURLToPath(import.meta.url)), "./literature.bib")] });
       md.use(MdItAttrs);
       md.use(MdItMultiMdTable, { rowspan: true });
       md.use(MdItSub);
