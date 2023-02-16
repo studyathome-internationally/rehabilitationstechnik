@@ -4,6 +4,7 @@ import { defaultTheme, viteBundler } from "vuepress";
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { mediumZoomPlugin } from "@vuepress/plugin-medium-zoom";
 import { searchPlugin } from "@vuepress/plugin-search";
+import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { backToTopPlugin } from "@vuepress/plugin-back-to-top";
 import { pwaPlugin } from "@vuepress/plugin-pwa";
 import { gitPlugin } from "@vuepress/plugin-git";
@@ -173,7 +174,31 @@ function plugins() {
     mediumZoomPlugin({
       selector: ".theme-default-content figure img",
     }),
-    searchPlugin(),
+    // searchPlugin(),
+    docsearchPlugin({
+      apiKey: "6f21760fe43094826741454e3c890b35",
+      indexName: "rehabilitationstechnik",
+      appId: "IDY8T2V8XA",
+      disableUserPersonalization: true,
+      locales: {
+        "/": {
+          placeholder: "Suche",
+          translations: {
+            button: {
+              buttonText: "Suche",
+            },
+          },
+        },
+        "/en/": {
+          placeholder: "Search",
+          translations: {
+            button: {
+              buttonText: "Search",
+            },
+          },
+        },
+      },
+    }),
     backToTopPlugin(),
     pwaPlugin({
       skipWaiting: true,
