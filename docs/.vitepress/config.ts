@@ -27,6 +27,7 @@ export default defineConfig({
       themeConfig: {
         logo: "/images/fhtw-logo.svg",
         nav: nav("en"),
+        sidebar: sidebar("en"),
         outlineTitle: "Table of Contents",
       },
     },
@@ -38,6 +39,7 @@ export default defineConfig({
       themeConfig: {
         logo: "/images/fhtw-logo.svg",
         nav: nav("de"),
+        sidebar: sidebar("de"),
         outlineTitle: "Inhaltsverzeichnis",
       },
     },
@@ -98,6 +100,29 @@ function nav(lang) {
           { text: "Kapitel 7 - Medizinische Grundlagen (Teil II)", link: "/de/chapter7" },
         ],
       },
+    ],
+  }[lang];
+}
+
+function sidebar(lang) {
+  return {
+    de: [
+      { text: "Definitionen und Wortwahl", link: "/de/chapter1.md" },
+      { text: "Die Ebenen der Behinderung nach WHO", link: "/de/chapter2.md" },
+      { text: "Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3.md" },
+      { text: "Rehabilitationstechnik", link: "/de/chapter4.md" },
+      { text: "Einteilung der Hilfsmittel", link: "/de/chapter5.md" },
+      { text: "Medizinische Grundlagen - Teil I", link: "/de/chapter6.md" },
+      { text: "Medizinische Grundlagen - Teil II", link: "/de/chapter7.md" },
+    ],
+    en: [
+      { text: "Definitions and Wording", link: "/chapter1.md" },
+      { text: "The Levels of Disability According to WHO", link: "/chapter2.md" },
+      { text: "Disability as Difference Between Performance and Requirement", link: "/chapter3.md" },
+      { text: "Rehabilitation Technology", link: "/chapter4.md" },
+      { text: "Classification of the Tools", link: "/chapter5.md" },
+      { text: "Medical Basics - Part I", link: "/chapter6.md" },
+      { text: "Medical Basics - Part II", link: "/chapter7.md" },
     ],
   }[lang];
 }
