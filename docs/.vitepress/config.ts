@@ -1,6 +1,6 @@
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
-import { defineConfig } from "vitepress";
+import { defineConfig, type HeadConfig } from "vitepress";
 
 import MdItListOfFigures from "markdown-it-list-of-figures";
 import MdItListOfTables from "markdown-it-list-of-tables";
@@ -19,6 +19,7 @@ import base from "./config/base.js";
 
 export default defineConfig({
   base,
+  head: head(),
   markdown: markdown(),
   locales: {
     root: {
@@ -27,7 +28,7 @@ export default defineConfig({
       title: "Rehabilitation Technology",
       description: "UAS Technikum Vienna",
       themeConfig: {
-        logo: "/img/fhtw.svg",
+        logo: "/img/studyathome-noir.svg",
         nav: nav("en"),
         sidebar: sidebar("en"),
         outlineTitle: "Table of Contents",
@@ -39,7 +40,7 @@ export default defineConfig({
       title: "Rehabilitationstechnik",
       description: "FH Technikum Wien",
       themeConfig: {
-        logo: "/img/fhtw.svg",
+        logo: "/img/studyathome-noir.svg",
         nav: nav("de"),
         sidebar: sidebar("de"),
         outlineTitle: "Inhaltsverzeichnis",
@@ -54,6 +55,20 @@ export default defineConfig({
     },
   },
 });
+
+function head(): HeadConfig[] {
+  return [
+    ["link", { rel: "apple-touch-icon", sizes: "180x180", href: base + "favicon/apple-touch-icon.png" }],
+    ["link", { rel: "icon", type: "image/png", sizes: "32x32", href: base + "favicon/favicon-32x32.png" }],
+    ["link", { rel: "icon", type: "image/png", sizes: "16x16", href: base + "favicon/favicon-16x16.png" }],
+    ["link", { rel: "manifest", href: base + "favicon/site.webmanifest" }],
+    ["link", { rel: "mask-icon", href: base + "favicon/safari-pinned-tab.svg", color: "#5bbad5" }],
+    ["link", { rel: "shortcut icon", href: base + "favicon/favicon.ico" }],
+    ["meta", { name: "msapplication-TileColor", content: "#2d89ef" }],
+    ["meta", { name: "msapplication-config", content: base + "favicon/browserconfig.xml" }],
+    ["meta", { name: "theme-color", content: "#ffffff" }],
+  ];
+}
 
 function markdown() {
   return {
