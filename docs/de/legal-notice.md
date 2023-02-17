@@ -51,3 +51,8 @@ Die Links zu externen Websites wurden sorgfältig ausgewählt. Da sie außerhalb
 Das Urheberrecht und die Nutzungsrechte für Texte, Grafiken, Design und Quellcode liegen bei der FH Technikum Wien, ebenso die Rechte an den Fotos, sofern sie nicht von externen Websites verlinkt sind. 
 
 Die Herausgabe, Nutzung und Weitergabe von Informationen zu nicht kommerziellen Zwecken ist erlaubt, solange der Inhalt unverändert bleibt und die Quelle angegeben wird (Quelle: FH Technikum Wien). Das Layout der Homepage, die verwendeten Grafiken und Bilder sowie die Sammlung der einzelnen Beiträge sind urheberrechtlich geschützt.
+
+<style lang="stylus">
+.prev-next
+  display none !important
+</style>

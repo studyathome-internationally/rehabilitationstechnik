@@ -51,3 +51,8 @@ Links to external websites have been chosen carefully. As they are outside the c
 Copyright and legal right of use for texts, graphics, design, und source code belong to the UAS Technikum Wien, so does the legal right for the photos, if not linked from external websites. 
 
 Issuing, usage and disclosure of information for not commercial reasons is enabled, as long as the content remains unchanged and the source is mentioned (Source: UAS Technikum Wien). The layout of the homepage, graphics and pictures used and the collection of individual contributions are protected by copyright.
+
+<style lang="stylus">
+.prev-next
+  display none !important
+</style>
