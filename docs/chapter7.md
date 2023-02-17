@@ -641,7 +641,7 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
      </tbody>
    </table>
 
-   .wakefulness-coma-and-related-states#Persistent vegetative state (PVS) and related conditions. [@persistent-vegetative-state:1994:part-1].
+   .wakefulness-coma-and-related-states#Persistent vegetative state (PVS) and related conditions [@persistent-vegetative-state:1994:part-1].
 
    Among the causes that can lead to a waking coma, a distinction is made between acute causes on the one hand and congenital or degenerative causes on the other [@persistent-vegetative-state:1994:part-1].
 

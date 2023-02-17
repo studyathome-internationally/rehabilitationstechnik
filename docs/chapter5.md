@@ -262,7 +262,7 @@ The incoming sensory stimulus can be perceived by the disabled person only in an
 The task of the aid marked A is to amplify the incoming stimulus in a suitable way so that it can be perceived with the same intensity as a non-disabled person would have perceived it.
 Examples of augmentative aids are hearing aids and eyeglasses.
 
-![Functionality of an augmentative (enhancing) aid..](./pics/05/funktionsweise-augmentative-hilfsmittel.svg "function-wise-augmentative-aids#Functionality of an augmentative (enhancing) aid. [@zagler:2008].")
+![Functionality of an augmentative (enhancing) aid.](./pics/05/funktionsweise-augmentative-hilfsmittel.svg "function-wise-augmentative-aids#Functionality of an augmentative (enhancing) aid [@zagler:2008].")
 
 ### Substituting (Replacing) Aids
 
@@ -322,6 +322,6 @@ Actuatory vicariate is effective in the opposite direction, i.e. from the person
 <<fig:mode-of-action-actuatory-vicariate>> shows this on the basis of damage (absence) of the upper extremities, according to which the person is not able to lift the weight.
 In this example, the assumed assistive device (aid) A receives voice commands and controls a lifting device.
 
-![Mode of action of an actuatory vicarage (replacement of lifting by speaking)..](./pics/05/wirkungsweise-aktuatorisches-vikariat.svg "mode-of-action-actuatory-vicariate#Mode of action of an actuatory vicarage (replacement of lifting by speaking). [@zagler:2008].")
+![Mode of action of an actuatory vicarage (replacement of lifting by speaking).](./pics/05/wirkungsweise-aktuatorisches-vikariat.svg "mode-of-action-actuatory-vicariate#Mode of action of an actuatory vicarage (replacement of lifting by speaking) [@zagler:2008].")
 
 !!!include(general/attribution.en.md)!!!

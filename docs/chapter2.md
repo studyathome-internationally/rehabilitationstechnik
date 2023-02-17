@@ -82,6 +82,6 @@ Accordingly, the WHO formulates: “The situation people find themselves in may 
 This is where both rehabilitation technology and society in general should and must start.
 If the medical means available to us do not succeed in curing the impairment (_impairment_), the impairment of ability (_disability_) can be overcome through targeted personal and technical assistance and the social impairment (_handicap_) can be eliminated or reduced through acceptance in society.
 
-![The levels of disability and the underlying cause.](./pics/02/ebenen-der-behinderung-und-ursachen.svg "levels-of-disability#The levels of disability and the underlying cause. [@zagler:2008].")
+![The levels of disability and the underlying cause.](./pics/02/ebenen-der-behinderung-und-ursachen.svg "levels-of-disability#The levels of disability and the underlying cause [@zagler:2008].")
 
 !!!include(general/attribution.en.md)!!!
