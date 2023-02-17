@@ -4,13 +4,8 @@
 
 <script setup lang="ts">
 import { ref } from "vue";
-// import { useSiteData } from "@vuepress/client";
-
-// const site = useSiteData();
-
 const name = ref("BookUrl");
-const url = "";
-// const url = ref(typeof window === "undefined" ? "" : window.location.origin + site.value.base);
+const url = ref(typeof window === "undefined" ? "" : window.location.origin + window.location.pathname);
 </script>
 
 <style scoped></style>
