@@ -1,0 +1,33 @@
+@media print
+  .VPSidebar, .VPNavBar .container .content, .VPLocalNav, .prev-next
+    display none !important
+  .VPNav
+    display none !important
+  // .VPNav
+  //   position unset !important
+  //   .title
+  //     display block
+  //     padding unset !important
+  //     font-size 8rem
+  //     width unset !important
+  //     height 20rem
+  .VPContent, .VPDoc, .VPDoc .container
+    &, & .container .content, & .container .content .content-container
+      max-width unset !important
+      padding 0 !important
+    .aside
+      display none !important
+  abbr
+    text-decoration unset
+  h2
+    page-break-before always
+  h2:first-of-type
+    page-break-before avoid
+  .vp-doc
+    h1, h2, h3, h4, h5, h6
+      margin auto !important
+
+// *
+//   -webkit-print-color-adjust exact !important /* Chrome, Safari 6 – 15.3, Edge */
+//   color-adjust exact !important /* Firefox 48 – 96 */
+//   print-color-adjust exact !important /* Firefox 97+, Safari 15.4+ */

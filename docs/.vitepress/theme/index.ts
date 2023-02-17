@@ -1,5 +1,5 @@
 import DefaultTheme from "vitepress/theme";
-import "./custom.stylus";
+import "./styles/index.styl";
 
 import BookUrl from "./components/BookUrl.vue";
 import ChapterUrl from "./components/ChapterUrl.vue";
