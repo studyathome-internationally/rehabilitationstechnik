@@ -4,7 +4,7 @@
 
 <script setup lang="ts">
 import { ref } from "vue";
-const name = ref("BookUrl");
+const name = ref("ChapterUrl");
 const url = ref(typeof window === "undefined" ? "" : window.location.origin + window.location.pathname);
 </script>
 
