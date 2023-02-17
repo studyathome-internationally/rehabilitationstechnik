@@ -1,9 +1,11 @@
+import { h } from "vue";
 import DefaultTheme from "vitepress/theme";
 import "./styles/index.styl";
 
 import BookUrl from "./components/BookUrl.vue";
 import ChapterUrl from "./components/ChapterUrl.vue";
 import MathML from "./components/MathML.vue";
+import ReloadPrompt from "./components/ReloadPrompt.vue";
 
 import mediumZoom from "medium-zoom";
 
@@ -12,6 +14,11 @@ import { inBrowser, useRoute } from "vitepress";
 
 export default {
   ...DefaultTheme,
+  Layout() {
+    return h(DefaultTheme.Layout, null, {
+      "layout-bottom": () => h(ReloadPrompt),
+    });
+  },
   enhanceApp(ctx) {
     DefaultTheme.enhanceApp(ctx);
     ctx.app.component("BookUrl", BookUrl);

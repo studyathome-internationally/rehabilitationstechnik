@@ -1,6 +1,7 @@
 import { resolve, dirname } from "path";
 import { fileURLToPath } from "url";
 import { defineConfig, type HeadConfig } from "vitepress";
+import { withPwa } from "@vite-pwa/vitepress";
 
 import MdItListOfFigures from "markdown-it-list-of-figures";
 import MdItListOfTables from "markdown-it-list-of-tables";
@@ -17,44 +18,60 @@ import MdItMath from "./config/plugins/math";
 
 import base from "./config/base.js";
 
-export default defineConfig({
-  base,
-  head: head(),
-  markdown: markdown(),
-  locales: {
-    root: {
-      label: "English",
-      lang: "en-US",
-      title: "Rehabilitation Technology",
-      description: "UAS Technikum Vienna",
-      themeConfig: {
-        logo: "/img/studyathome-noir.svg",
-        nav: nav("en"),
-        sidebar: sidebar("en"),
-        outlineTitle: "Table of Contents",
+export default withPwa(
+  defineConfig({
+    base,
+    head: head(),
+    markdown: markdown(),
+    locales: {
+      root: {
+        label: "English",
+        lang: "en-US",
+        title: "Rehabilitation Technology",
+        description: "UAS Technikum Vienna",
+        themeConfig: {
+          logo: "/img/studyathome-noir.svg",
+          nav: nav("en"),
+          sidebar: sidebar("en"),
+          outlineTitle: "Table of Contents",
+        },
+      },
+      de: {
+        label: "Deutsch",
+        lang: "de-AT",
+        title: "Rehabilitationstechnik",
+        description: "FH Technikum Wien",
+        themeConfig: {
+          logo: "/img/studyathome-noir.svg",
+          nav: nav("de"),
+          sidebar: sidebar("de"),
+          outlineTitle: "Inhaltsverzeichnis",
+        },
       },
     },
-    de: {
-      label: "Deutsch",
-      lang: "de-AT",
-      title: "Rehabilitationstechnik",
-      description: "FH Technikum Wien",
-      themeConfig: {
-        logo: "/img/studyathome-noir.svg",
-        nav: nav("de"),
-        sidebar: sidebar("de"),
-        outlineTitle: "Inhaltsverzeichnis",
+    themeConfig: {
+      algolia: {
+        appId: "JI7BWPYEMW",
+        apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
+        indexName: "rehabilitationstechnik",
       },
     },
-  },
-  themeConfig: {
-    algolia: {
-      appId: "JI7BWPYEMW",
-      apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
-      indexName: "rehabilitationstechnik",
+    pwa: {
+      // https://github.com/vite-pwa/vitepress/blob/main/examples/pwa-prompt/.vitepress/config.ts#L35
+      mode: "development",
+      base,
+      scope: base,
+      includeAssets: ["favicon.svg"],
+      workbox: {
+        globPatterns: ["**/*.{css,js,html,svg,png,ico,txt,woff2}"],
+      },
+      devOptions: {
+        enabled: true,
+        navigateFallback: "/",
+      },
     },
-  },
-});
+  })
+);
 
 function head(): HeadConfig[] {
   return [
