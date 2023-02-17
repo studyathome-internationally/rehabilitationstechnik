@@ -4,8 +4,10 @@
 
 <script setup lang="ts">
 import { ref } from "vue";
+import { useData } from "vitepress";
+const { site } = useData();
 const name = ref("BookUrl");
-const url = ref(typeof window === "undefined" ? "" : window.location.origin + window.location.pathname);
+const url = ref(typeof window === "undefined" ? "" : window.location.origin + site.value.base);
 </script>
 
 <style scoped></style>
