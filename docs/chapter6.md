@@ -88,9 +88,9 @@ Das Besondere daran ist, dass es unterschiedliche Poren für den Transport der e
 Diese Poren können nun nicht nur geöffnet oder geschlossen werden, sondern auch wie Pumpen funktionieren, die eine bestimmte Art von Ionen von einer Seite der Membran auf die andere transportieren können.
 
 Durch die oben erwähnten Pumpen ist es nun möglich, Ionen einer bestimmten Art von einer Seite der Membran auf die andere zu befördern.
-In diesem ersten Schritt kommt es zwar nicht zur Bildung eines Potentialunterschiedes (denn für jedes nach außen transportierte Ion der einen Art, wird ein Ion der anderen Art nach innen befördert), jedoch zu einer Veränderung der Ionenkonzentrationen einer bestimmten Art zu beiden Seiten der Membran.
+In diesem ersten Schritt kommt es zwar nicht zur Bildung eines Potenzialunterschiedes (denn für jedes nach außen transportierte Ion der einen Art, wird ein Ion der anderen Art nach innen befördert), jedoch zu einer Veränderung der Ionenkonzentrationen einer bestimmten Art zu beiden Seiten der Membran.
 Werden nun in einem zweiten Schritt Poren, die nur für eine bestimmte Ionenart durchlässig sind, geöffnet, werden Ionen dieser Art gemäß ihres Konzentrationsgefälles auf die andere Seite diffundieren, ohne dass andere Ladungsträger in die Gegenrichtung wandern können.
-Damit baut sich eine Potentialdifferenz auf, die der Ionenbewegung entgegenwirkt, bis das System aus Konzentrationsgefälle und Potentialdifferenz bei $70\;\sf{mV}$ in einen Gleichgewichtszustand eintritt[^6].
+Damit baut sich eine Potenzialdifferenz auf, die der Ionenbewegung entgegenwirkt, bis das System aus Konzentrationsgefälle und Potenzialdifferenz bei $70\;\sf{mV}$ in einen Gleichgewichtszustand eintritt[^6].
 
 [^6]: In mancher Hinsicht erinnert das an die Verhältnisse an einer Halbleiter-Sperrschicht, nur dass hier nicht Elektronen und Löcher als Ladungsträger vorkommen, sondern verschiedene Arten von positiv geladenen Ionen, die sich in einem Konzentrationsgefälle bewegen und deren Bewegungen durch das Öffnen und Schließen selektiv wirkender Poren gesteuert werden können.
 
@@ -99,12 +99,12 @@ Das bewirkt daher, dass Kalium-Ionen solange von innen nach außen diffundieren,
 
 Die Signalübertragung entlang eines Axons durch ein Aktionspotential beginnt damit, dass an einer Stelle des Axons plötzlich die Natrium-Poren geöffnet werden.
 Da die Natrium-Ionen Konzentration außen höher ist als innen, wandern zahlreiche Natrium-Ionen in das Innere der Nervenzelle, sodass
-sich an dieser Stelle die Potentialverhältnisse umkehren, also die Innenseite positiv gegenüber der Außenseite wird – die Membran „depolarisiert“.
+sich an dieser Stelle die Potenzialverhältnisse umkehren, also die Innenseite positiv gegenüber der Außenseite wird – die Membran „depolarisiert“.
 Innerhalb von $10^{-3}\;\sf{s}$ werden durch Schließen der Natrium-Poren und verstärktem Öffnen der Kalium-Poren die ursprünglichen Verhältnisse (außen positiv) wieder hergestellt (<<fig:reizleitung-axon>>).
 
 ![Reizleitung im Axon, Bildung des Aktionspotentials](./pics/06/reizleitung-axon.svg "reizleitung-axon#Reizleitung im Axon, Bildung des Aktionspotentials [@hubel:1989]")
 
-Ohne jetzt zu sehr ins Detail zu gehen, ist zum Verständnis der Informationsweiterleitung im Axon noch wichtig anzumerken, dass es erstens eine Rückwirkung der Potentialverhältnisse auf das Öffnen und Schließen der verschiedenen Arten von Poren gibt (die Depolarisation bewirkt das Öffnen von Poren, wobei sich allerdings die Natrium-Poren von selbst wieder schließen) und dass sich zweitens die Natrium-Poren nach einer erfolgten Depolarisation nicht sofort wieder öffnen können (Sperrzeit von etwa $1\;\sf{ms}$).
+Ohne jetzt zu sehr ins Detail zu gehen, ist zum Verständnis der Informationsweiterleitung im Axon noch wichtig anzumerken, dass es erstens eine Rückwirkung der Potenzialverhältnisse auf das Öffnen und Schließen der verschiedenen Arten von Poren gibt (die Depolarisation bewirkt das Öffnen von Poren, wobei sich allerdings die Natrium-Poren von selbst wieder schließen) und dass sich zweitens die Natrium-Poren nach einer erfolgten Depolarisation nicht sofort wieder öffnen können (Sperrzeit von etwa $1\;\sf{ms}$).
 Beide Effekte zusammen bewirken, dass beim Auftreten einer Depolarisation das Aktionspotential (beginnend vom Zellkörper) das Axon in einer vorgegebenen Richtung entlangläuft, und zwar mit einer Geschwindigkeit, die zwischen $0.1$ bis $10\;\sf{m/s}$ liegt.
 Schnell leitende Nervenfasern sind zur Herabsetzung der Kapazitäten von einer Myelinscheide umgeben, die in Abständen von ca. $1\;\sf{mm}$ durch die sogenannten Ranvier-Schnürringe unterbrochen ist (siehe auch <<fig:aufbau-nervenzelle>>).
 Dabei springt die Depolarisation von Schnürring zu Schnürring und kann sich dadurch schneller ausbreiten.
@@ -176,8 +176,6 @@ Diese aus Konvergenz und Divergenz gebildete Vernetzung macht die enorme Fähigk
 Im Bereich des Kopfes zweigen aus dem Zentralnervensystem (ZNS) $12$ Hirnnerven (-paare) ab, die in der medizinischen Literatur üblicherweise mit römischen Ziffern bezeichnet werden.
 In <<tab:namen-funktionen-hirnnerven>> sind die Namen und die wichtigsten Versorgungsgebiete bzw. Funktionen der Hirnnerven zusammengefasst.
 
-<!-- FIXME: check V, V1,V2,V3 -->
-
 <table>
     <thead>
         <tr>
@@ -234,7 +232,7 @@ In <<tab:namen-funktionen-hirnnerven>> sind die Namen und die wichtigsten Versor
         </td>
         <td>
             <ul class="no-bullets no-ident no-padding">
-                <li>u. a. Stirn, Oberlid, Nasenrücken</li>
+                <li>u. a. Stirn, Oberlid, Nasenräcken</li>
                 <li>u. a. Unterlid, Wange, Oberlippe</li>
                 <li>u. a. Zunge, Unterlippe, Kinn</li>
             </ul>
@@ -310,10 +308,8 @@ Die innerste, auf dem Glaskörper aufliegende Augenhaut ist die Netzhaut (Retina
 
 ### Die Netzhaut
 
-Die Netzhaut ist sowohl Träger der Fotorezeptoren als auch mehrerer Nervenschichten, die eine erste Verarbeitung der visuellen Reize vornehmen.
+Die Netzhaut ist sowohl Träger der Fotorezeptoren als auch mehrere Nervenschichten, die eine erste Verarbeitung der visuellen Reize vornehmen.
 Sie ermöglicht die Wahrnehmung von Intensität, Wellenlänge und räumlicher Zuordnung einfallender optischer Reize.
-
-<!-- FIXME: schwarz/weiß (hell/dunkel) -->
 
 Die Erfassung der optischen Reize beginnt in der dem Licht abgewandten Schicht der Netzhaut, die die Fotorezeptoren trägt („inverses“ Auge).
 Die ca. $120\;\sf{Mio.}$ Stäbchen (engl. rods) ermöglichen das schwarz/weiß (hell/dunkel) Sehen, während die auf drei unterschiedliche Wellenlängen ausgelegten
@@ -404,7 +400,7 @@ Bei geringen Leuchtdichten (Dämmerung) liefern die Zäpfchen daher keinen Beitr
 .empfindlichkeit-staebchen-zaepfchen#Absolute Empfindlichkeit von Stäbchen und Zäpfchen [@zagler:1997].
 
 Fehlen durch eine Schädigung des Auges die Stäbchen[^8], ist nur Tagessehen (mesopisches und photopisches Sehen) möglich und es kommt zur Nachtblindheit (kein skotopisches Sehen).
-Das Auge ist mit einer absoluten Intensitätsschwelle von $8\cdot10^{-18}\;\sf{W/cm^2}$ im Vergleich zum Ohr um den Faktor $10$ empfindlicher.
+Das Auge ist mit einer absoluten Intensitätsschwelle von $8\cdot10-18\;\sf{W/cm^2}$ im Vergleich zum Ohr um den Faktor $10$ empfindlicher.
 
 [^8]: Da im peripheren Bereich der Retina fast ausschließlich Stäbchen vorkommen, führt ein Ausfall dieses Rezeptortyps neben der Nachtblindheit auch zum Verlust des peripheren Gesichtsfeldes, es kommt zum sogenannten Tunnelblick.
 
@@ -416,9 +412,9 @@ Hier sind die sonst über den Rezeptoren liegenden Nervenbahnen zum Rand der Mak
 Die Makula weist daher hohe räumliche Auflösung und gutes Farberkennen auf.
 Wegen des Fehlens von Stäbchen ist skotopisches Sehen im Bereich der Fovea nicht möglich (die Fovea ist sozusagen „nachtblind“), weil aber die Zäpfchen nicht von andren Zellen bedeckt sind, ist die photopische Empfindlichkeit innerhalb der Fovea größer als an anderen Stellen der Netzhaut.
 
-Eine Strecke von $1\,\sf{mm}$ auf der Netzhaut deckt ein Gesichtsfeld von $3.5\degree$ ab.
-Im Bereich der Fovea centralis können Objekte im Abstand von $0.5$ bis $1$ Bogenminuten diskriminiert werden, was einem Abstand auf der Netzhaut von $2.5$ bis $5.0\,\sf{\mu}m$ entspricht.
-Außerhalb der Fovea centralis beträgt die Auflösung nur rund $1\degree$ (entsprechend einer Strecke von $0.3\,\sf{mm}$).
+Eine Strecke von $1\sf{mm}$ auf der Netzhaut deckt ein Gesichtsfeld von $3.5\degree$ ab.
+Im Bereich der Fovea centralis können Objekte im Abstand von $0.5$ bis $1$ Bogenminuten diskriminiert werden, was einem Abstand auf der Netzhaut von $2.5$ bis $5.0\sf{\mu}m$ entspricht.
+Außerhalb der Fovea centralis beträgt die Auflösung nur rund $1\degree$ (entsprechend einer Strecke von $0.3\sf{mm}$).
 
 ### Akkommodation (Scharfstellung)
 
@@ -493,7 +489,7 @@ Anders ausgedrückt, verzeichnen wir zwischen Rezeptoren und Sehnerv eine Konver
 
 Untersuchungen über die Zusammenhänge zwischen optischen Reizen und der von der Retina entfalteten neuralen Aktivität lieferten bis zur Mitte des $20.$ Jahrhunderts eher verwirrende und unerklärbare Ergebnisse.
 Das vollkommener Dunkelheit ausgesetzte Auge zeigte entgegen den Erwartungen eine mäßige neurale Aktivität („spontanes Feuern“), die jedoch bei der Belichtung mit diffusem Licht nicht signifikant zunahm.
-<<fig:gleichfoermige-belichtung-rezeptives-feld>> zeigt schematisch den Versuchsaufbau, bei dem ein rezeptives Feld diffus beleuchtet wird.
+<<fig:gleichfoermige-belichtung-rezeptives-feld>> zeigt das schematisch den Versuchsaufbau, bei dem ein rezeptives Feld diffus beleuchtet wird.
 Die Ableitung des Aktionspotentials erfolgt am Axon der Ganglienzelle (Sehnerv).
 
 ![Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "gleichfoermige-belichtung-rezeptives-feld#Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes [@lindsay:1981].")
@@ -501,8 +497,6 @@ Die Ableitung des Aktionspotentials erfolgt am Axon der Ganglienzelle (Sehnerv).
 Erst $1950$ konnte Stephen Kuffler zeigen, dass die Ganglienzellen der Netzhaut nicht auf eine diffuse Beleuchtung schlechthin, sondern nur auf lokale Beleuchtungskontraste reagieren.
 Eine punktförmige Belichtung an oder in der Nähe jener Stelle (= Zentrum des rezeptiven Feldes), von der die Ableitung vorgenommen wurde, führt zu einer deutlichen Erhöhung der Impulsrate (<<fig:selektive-belichtung-rezeptives-feld>> – links).
 Die Belichtung einer ringförmigen Zone (= Umfeld des rezeptiven Feldes) um die Ableitungsstelle wirkt inhibitorisch, sodass sogar das spontane Feuern verschwindet (<<fig:selektive-belichtung-rezeptives-feld>> – rechts).
-
-<!-- FIXME: grau? -->
 
 ![Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes.](./pics/06/selektive-belichtung-rezeptives-feld.svg "selektive-belichtung-rezeptives-feld#Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes [@lindsay:1981].")
 
@@ -533,8 +527,6 @@ Zum Lesen einer Zeitung ist ein Visus von mindestens $0.4$ erforderlich.
 
 ![Snellen-Tafel.](./pics/06/snellen-tafel.svg "snellen-tafel#Snellen-Tafel [@hubel:1989].")
 
-<!-- FIXME: Maßstab Landoltringe? -->
-
 ![Landolt-Ringe.](./pics/06/landolt-ringe.svg "landolt-ringe#Landolt-Ringe [@hubel:1989].")
 
 <!--
@@ -559,12 +551,10 @@ Diese Wertung gilt bei optimaler optischer Korrektur (Brille, Kontaktlinsen) fü
 
 ### Ursachen für Sehbehinderungen
 
-<!-- FIXME: Abbildungsverweis?? -->
-<!-- FIXME: "des Raumes" entfernt -->
-<!-- FIXME: "leidet"?? -->
+<!-- FIXME: Abbildungsverweis -->
 
 Nachfolgend werden einige der (in westlichen Ländern) am häufigsten auftretenden Augenerkrankungen und deren Auswirkungen auf das Sehvermögen der betroffenen Person beschrieben.
-Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](chapter1.html#sichtweise-behinderung)).
+Zur Illustration wird in der zugehörigen Abbildungen die Ansicht eines Raumes wiedergegeben, wie dieser von einer Person wahrgenommen wird, die unter der betreffenden Augenerkrankung leidet ([Definitionen und Wortwahl – Abb. 1](chapter1.html#figure-1)).
 
 ![Normalsicht](./pics/06/normalsicht.svg "normalsicht#Normalsicht [@frederiksen:1989].")
 
@@ -573,11 +563,11 @@ Gesichtsfeldausfälle lassen sich nicht einfach durch schwarze Flächen nachbild
 Hier wurde bewusst ein neutrales Grau gewählt, das einer nicht vorhandenen Wahrnehmung noch am nächsten kommt.
 
 Selbst wenn es gelingen würde, ein optisch getreues Bild einer Sehschädigung zu zeichnen, bliebe auch diese Darstellung nur an der Oberfläche, da jede Art von Behinderung die betroffene Person nicht nur funktionell einschränkt, sondern auch tief in der Persönlichkeit und im Vorstellungsvermögen prägt.
-Wenn jemand beispielsweise glaubt, Blindheit durch Tragen einer Augenbinde zu verstehen, unterliegt einem gewaltigen Irrtum.
+Wer jemand beispielsweise glaubt, Blindheit durch Tragen einer Augenbinde zu verstehen, unterliegt einem gewaltigen Irrtum.
 
 ### Refraktionsanomalien – Brechungsfehler des Auges
 
-Stimmt die Brechkraft der optischen Elemente des Auges (Hornhaut, Linse, und Glaskörper) nicht mit der Länge des Augapfels überein, kann auf der Netzhaut kein scharfes Bild entstehen.
+Stimmt die Brechkraft der optischen Elemente des Auges (Hornhaut und Linse) nicht mit der Länge des Augapfels überein, kann auf der Netzhaut kein scharfes Bild entstehen.
 Durch Brillen und Kontaktlinsen können $90\%$ der Refraktionsanomalien ausgeglichen werden.
 Bei den Refraktionsanomalien unterscheiden wir:
 
@@ -595,8 +585,6 @@ Bei den Refraktionsanomalien unterscheiden wir:
    Bei Weitsichtigkeit (Hyperopie oder Hypermetropie, engl. hyperopia, hypermetropia) ist die Brechkraft des Auges zu niedrig (Brennweite zu lang) bzw. der Augapfel ist zu kurz.
    Die Schärfenebene (insbesondere von nahen Objekten) liegt hinter der Netzhaut.
    Abhilfe schafft eine Brille oder Kontaktlinse mit sammelnder Wirkung (<<fig:strahlengang-hyperopie>>).
-
-   <!-- FIXME: b>a? b=a -> Brille/Linse korrigiert -->
 
    ![Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut](./pics/06/strahlengang-hyperopie.svg "strahlengang-hyperopie#Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut [@mörike:1981].")
 
@@ -653,8 +641,8 @@ In späteren Stadien führt Retinopathia pigmentosa zum „Tunnelblick“ (ein b
 
 ### Hemianopie (Hemianopsie)
 
-Als Hemianopie (Hemianopsie) wird ein halbseitiger Ausfall des Gesichtsfeldes bezeichnet.
-Bei der in <<fig:hemianopie>> gezeigten homonymen Hemianopie ist auf beiden Augen die gleiche Gesichtsfeldhälfte betroffen.
+Unter Hemianopie (Hemianopsie) wird ein halbseitiger Ausfall des Gesichtsfeldes bezeichnet.
+Bei der in <<fig:hemianopie>> gezeigten homonymen Hemianopie, ist auf beiden Augen die gleiche Gesichtsfeldhälfte betroffen.
 Die Ursache dafür sind Schädigungen (z. B. Tumore, Schädelhirntrauma) der Sehbahn ab der Sehnervenkreuzung (Sehstrang, seitlicher Kniehöcker, Sehstrahlung und visueller Cortex), also in jenen Gebieten, in denen das halbe Gesichtsfeld beider Augen weitergeleitet und verarbeitet wird.
 Die Unterbrechung der Hemianopie in der Gesichtsfeldmitte rührt daher, dass in der Sehnervenkreuzung aus der Fovea stammende Nervenfasern sowohl in die eine wie auch in die andere Hemisphäre geleitet werden.
 Somit sind an der Verarbeitung des fovealen Bereiches beide Hemisphären beteiligt [@betz:1991].
@@ -670,9 +658,9 @@ Das Ohr dient der Wahrnehmung von Schallwellen, worunter Dichteschwingungen eine
 Für das Ohr sind das üblicherweise Druckschwankungen der umgebenden Luft.
 Die physikalische Beschreibung des Schalls wird Akustik genannt, während man die anatomischen und physiologischen Vorgänge der Schallwahrnehmung als auditiv bezeichnet.
 
-Als **Ton** wird eine Sinusschwingung mit _einer_ bestimmten Frequenz bezeichnet.
-Die Überlagerung endlich vieler Töne und deren Obertöne nennt man **Klang**.
-Ein **Geräusch** besteht aus der Überlagerung unendlich vieler Töne.
+Als Ton wird eine Sinusschwingung mit einer bestimmten Frequenz bezeichnet.
+Die Überlagerung endlich vieler Töne und deren Obertöne nennt man Klang.
+Ein Geräusch besteht aus der Überlagerung unendlich vieler Töne.
 Den zur Wahrnehmung eines Tones mindestens erforderlichen Schalldruck bezeichnet man als Hörschwelle.
 
 ### Messgrößen
@@ -698,7 +686,7 @@ Die Isophone ist die Menge aller gleich laut empfundenen Töne.
 
 ::: figcaption
 
-Die dargestellten Kurven (Isophone) geben gleich laut empfundene Lautstärke in Phon an; schattiert: Hauptsprachbereich [@betz:1991, @schmidt:1997].
+Die Kurven geben gleich laut empfundene Lautstärke in Phon an (Isophone); schattiert: Hauptsprachbereich [@betz:1991, @schmidt:1997].
 Der für Telefon angegebene Frequenzbereich bezieht sich auf die Bandbreiten analoger Telefonsysteme [^12].
 
 :::
@@ -830,15 +818,15 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Durch diese Auf- und Abbewegung der cochleären Trennwand kommt es zu einer Scherbewegung zwischen ihren einzelnen Bestandteilen und durch die Verschiebung der Deckmembran (_Membrana tectoria_; Tektorialmembran) zu einer Verbiegung der Sinneshärchen der Haarzellen des Cortischen Organs (<<fig:querschnitt-durch-schnecke>>).
 
    Die Haarzellen sind entlang der Cochlea in zwei parallel verlaufenden Gruppen angeordnet.
-   Die etwa $8\:000$ inneren Haarzellen (IHC = _inner hair cells_) sind in _einer_ Reihe angeordnet, die rund $14\:000$ äußeren Haarzellen (OHC = _outer hair cells_) bilden drei bis fünf Reihen.
+   Die etwa $8\:000$ inneren Haarzellen (IHC = _inner hair cells_) sind in einer Reihe angeordnet, die rund $14\:000$ äußeren Haarzellen (OHC = _outer hair cells_) bilden drei bis fünf Reihen.
    Jede dieser Haarzellen trägt $60$ – $100$ Sinneshärchen (_Stereozilien_).
    Trotz ihrer wesentlich größeren Zahl enden nur $5$ bis $10\%$ der Nervenfasern des Hörnervs an den OHC (hohe Konvergenz).
    Die wesentlich größere Zahl der $30\:000$ bis $40\:000$ Nervenfasern innerviert die IHC.
    Nicht alle Nervenfasern des Hörnervs sind afferent (verlaufen also von den Haarzellen zum ZNS).
    Etwa $1\:800$ sind efferent und stehen in Verbindung mit den im nächsten Abschnitt beschriebenen aktiven Vorgängen in der Cochlea [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
-   Die örtliche Dichte der Neuronen beträgt am Beginn der Cochlea (beim ovalen Fenster) $1\:150$ Ganglienzellen/mm^2^ und nimmt zum Helicotrema hin ab [@lindsay:1981].
+   Die örtliche Dichte der Neuronen beträgt am Beginn der Cochlea (beim ovalen Fenster) $1\:150$ Ganglienzellen/mm und nimmt zum Helicotrema hin ab [@lindsay:1981].
 
-   <!-- FIXME: Steigbügel-Fußplatte? -->
+<!-- FIXME: Steigbügel-Fußplatte? -->
 
 2. Ausbildung der Wanderwelle und cochleärer Verstärker  
    Bisher wurde die Mechanik des Innenohres nur dem Prinzip nach geschildert.
@@ -853,13 +841,13 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    Frequenzgemische (Klänge, Geräusche) erzeugen mehrere Maxima entlang der Basilarmembran.
    Diese Betrachtungsweise liegt der Ortstheorie (tonotopischen Theorie) zugrunde (<<fig:lage-wanderwelle>>).
 
-   ![Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier ausgerollt ](./pics/06/lage-wanderwelle.svg "lage-wanderwelle#Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier ausgerollt dargestellt [@zenner:1994:a].")
+   ![Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier aufgerollt ](./pics/06/lage-wanderwelle.svg "lage-wanderwelle#Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier aufgerollt dargestellt [@zenner:1994:a].")
 
    <!-- FIXME: aufgesteilt? -->
 
    Die Ausbildung eines Schwingungsmaximums durch die passive Wanderwelle bewirkt neben der Frequenzselektion einen ersten Verstärkungseffekt.
    Ursprünglich hat man das Ohr als einen rein passiven Schallsensor betrachtet.
-   Erst in neuerer Zeit haben Untersuchungen gezeigt, dass die äußeren Haarzellen des Cortischen Organs mikromechanische Schwingungen von bis zu $20\;\sf{kHz}$ erzeugen können.
+   Erst in neuester Zeit haben Untersuchungen gezeigt, dass die äußeren Haarzellen des Cortischen Organs mikromechanische Schwingungen von bis zu $20\;\sf{kHz}$ erzeugen können.
    Durch die frequenz- und ortsselektive Anregung der äußeren Haarzellen wird die passive Wanderwelle an einem eng umschriebenen Ort bis zum Faktor $1\:000$ verstärkt und aufgesteilt [@zenner:1994:a] (<<fig:verstaerkung-wanderwelle>>).
    Ohne diese aktive Verstärkung würde eine Anregung der inneren Haarzellen erst ab $60\;\sf{dB}\,\sf{SPL}$ erfolgen [@schmidt:1997].
 
@@ -883,15 +871,13 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    {.lower-alpha}
 
-### Bestimmung des Hörvermögens - Audiometrie
+### Bestimmung des Hörvermögens – Audiometrie
 
 Das Verfahren zur Bestimmung des Hörvermögens wird Audiometrie genannt.
-Neben der Feststellung des Grades eines Hörverlustes und der betroffenen Frequenzen ist es die Aufgabe der Audiometrie, auch den Ort, an dem der Hörverlust auftritt, zu lokalisieren und zwischen Schallleitungsschwerhörigkeit (Konduktionsschwerhörigkeit, engl. _conductive hearing loss_) und Schallempfindungsschwerhörigkeit (Perzeptionsschwerhörigkeit, engl. _sensorineural hearing loss_) zu unterscheiden.
+Neben der Feststellung des Grades eines Hörverlustes und der betroffenen Frequenzen ist es die Aufgabe der Audiometrie, auch den Ort, an dem der Hörverlust auftritt, zu lokalisieren und zwischen Schallleitungsschwerhörigkeit (_conductive hearing loss_) und Schallempfindungsschwerhörigkeit (_sensorineural hearing loss_) zu unterscheiden.
 
-<!-- FIXME: "sog. Luftleitung" - Position? -->
-
-Das wichtigste Verfahren zur Überprüfung des Gehörs ist die Tonschwellenaudiometrie bzw. das Tonschwellenaudiogramm, also die Messung der persönlichen Hörschwelle.
-In einem schallisolierten Raum werden über Kopfhörer Töne (reine Sinusschwingungen) unterschiedlicher Intensität und Frequenz angeboten (sog. Luftleitung).
+Das wichtigste Verfahren zur Überprüfung des Gehörs ist das Tonschwellenaudiogramm, also die Messung der persönlichen Hörschwelle.
+In einem schallisolierten Raum werden über Kopfhörer Töne (reine Sinusschwingungen) unterschiedlicher Intensität und Frequenz angeboten.
 Die untersuchte Person muss angeben, ob ein dargebotener Ton wahrgenommen werden konnte oder nicht.
 
 Außer der Darbietung der Töne über Kopfhörer wird in einer getrennten Versuchsreihe auch eine Einkopplung über den Körperschall (Knochenleitung) mittels eines hinter dem Ohr am Schädelknochen angesetzten Vibrators vorgenommen.
@@ -941,8 +927,6 @@ Die Abweichungen von der $0\;\sf{dB}\,\sf{HV}$ Linie betragen im Beispiel maxima
 
 Die ICIDH unterscheidet sechs Grade der Hörschädigung (<<tab:kategorien-hoerschaedigung-nach-icidh>>):
 
-<!-- FIXME: hochgradige Hörschädigung (90 vs. 91dB) -->
-
 | Bezeichnung nach ICIDH                   | Hörverlust \[in dB HV\]    |
 | ---------------------------------------- | -------------------------- |
 | geringe Hörschädigung                    | $26-40\;\sf{dB}\,\sf{HV}$  |
@@ -964,19 +948,19 @@ Die ICIDH unterscheidet sechs Grade der Hörschädigung (<<tab:kategorien-hoersc
 
 Der Begriff gehörlos sollte nur für Personen benutzt werden, deren Hörschädigung so hochgradig ist, dass sie unfähig sind, aus einer Verstärkung einen Nutzen zu ziehen.
 Der Nutzen, mittels einer Angabe in dB HV eine stichhaltige Trennungslinie zwischen schwerhörig und gehörlos zu ziehen, erscheint gering.
-Wesentlich wichtiger ist es die Funktionalität des Gehörs in Bezug auf die sozial bedeutendste Aufgabe, das Hören und Verstehen gesprochener Sprache, zu bewerten.
-In diesem Sinn wird von Praktikerinnen und Praktikern vorgeschlagen, die Trennung dort zu ziehen, wo das auditive Kommunizieren trotz verstärkender Hilfsmittel scheitert [@dotter:1996].
+Wesentlich wichtiger ist die Funktionalität des Gehörs in Bezug auf die sozial bedeutendste Aufgabe, das Hören und Verstehen gesprochener Sprache, zu bewerten.
+In diesem Sinn wird von Praktikern vorgeschlagen, die Trennung dort zu ziehen, wo das auditive Kommunizieren trotz verstärkender Hilfsmittel scheitert [@dotter:1996].
 
 Bei der Klassifizierung von Hörschädigungen wird in erster Linie unterschieden, ob die Reduktion der Hörleistung durch eine verringerte Leitung des Schalls bis zu den Rezeptoren (Haarzellen) des Innenohrs bedingt ist oder ob eine Schädigung der Cochlea oder der nachfolgenden Nervenbahnen (Hörbahn) vorliegt.
 Nach dieser generellen Unterscheidung werden noch einige typische Formen der Schwerhörigkeit besprochen
 
 1. Schallleitungsschwerhörigkeit (generell)  
-   Bei der Schallleitungsschwerhörigkeit (Konduktionsschwerhörigkeit, engl. _conductive hearing loss_) liegen die Ursachen in einer Störung im äußeren Gehörgang (z. B. Pfropfen), im Trommelfell oder im Mittelohr (z. B. Versteifung der Gehörknöchelchen).
+   Bei der Schallleitungsschwerhörigkeit (Konduktionsschwerhörigkeit, conductive hearing loss) liegen die Ursachen in einer Störung im äußeren Gehörgang (z. B. Pfropfen), im Trommelfell oder im Mittelohr (z. B. Versteifung der Gehörknöchelchen).
    Das Hörvermögen ist vermindert, nie jedoch völlig verloren.
 
    <!-- FIXME: Querverweis -->
 
-   Im Tonschwellenaudiogramm (siehe [Bestimmung des Hörvermögens – Audiometrie](#bestimmung-des-horvermogens-audiometrie)) äußert sich eine Schallleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normal hörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
+   Im Tonschwellenaudiogramm (siehe dazu Kapitel 7.4.5) äußert sich eine Schallleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normal hörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
    Man spricht hier vom Auftreten einer „KL-LL-Differenz“ oder „air-bone-gap“).
 
    <!-- prettier-ignore -->
@@ -997,17 +981,17 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
 
 3. Kombinierte Schallleitungs- und Schallempfindungsschwerhörigkeit (generell)  
    Als dritte mögliche generelle Hörschädigung soll noch die kombinierte Schallleitungs- und Schallempfindungsschwerhörigkeit im Tonschwellenaudiogramm vorgestellt werden.
-   Wegen der Schallempfindungsschwerhörigkeit sinken die LL- und die KL-Kurven gemeinsam ab.
+   Wegen der Schallempfindungsschwerhörigkeit sinken die LL- als und die KL-Kurven gemeinsam ab.
    Die zusätzliche Schallleitungsschwerhörigkeit bedingt ein weiteres Absinken der LL-Kurve (<<fig:tonschwellenaudiogramm-schallempfindung>>).
 
    <!-- prettier-ignore -->
    ![Tonschwellenaudiogramm bei kombinierter Schallleitungs- und Schallempfindungsschwerhörigkeit – beide Kurven tiefer, aber die Luftleitungskurve (x) liegt noch weiter unter der Knochenleitungskurve (\])](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Tonschwellenaudiogramm bei kombinierter Schallleitungs- und Schallempfindungsschwerhörigkeit – beide Kurven tiefer, aber die Luftleitungskurve (x) liegt noch weiter unter der Knochenleitungskurve (]) [@hellbrück:1993].")
 
 4. Lärmschwerhörigkeit  
-   Jede Belastung des Gehörs mit hohen Schalldruckpegeln führt zu einer Verschiebung der Hörschwelle nach oben.
+    Jede Belastung des Gehörs mit hohen Schalldruckpegeln führt zu einer Verschiebung der Hörschwelle nach oben.
    Ist die Belastung kurz oder werden dabei Schalldruckpegel von $90\;\sf{dB}\,\sf{SPL}$ nicht überschritten, kommt es zwar zu einer bei allen Sinnesorganen vorkommenden Adaptation, aber die Hörschwelle sinkt nach einer Erholungszeit wieder auf die Werte vor der Schallbelastung.
 
-   Lang andauernde Schallbelastungen, insbesondere dann, wenn sie $90\;\sf{dB}\,\sf{SPL}$ überschreiten, stellen eine ernsthafte Gefährdung des Ohres dar.
+   Lang andauernde Schallbelastung, insbesondere dann, wenn sie $90\;\sf{dB}\,\sf{SPL}$ überschreiten, stellen eine ernsthafte Gefährdung des Ohres dar.
    Dabei können drei Mechanismen zum Tragen kommen.
    Zum einen können durch die Schallbelastung (z. B. $15$ Minuten bei $95\;\sf{dB}\,\sf{SPL}$ oder $30$ Sekunden bei $115\;\sf{dB}\,\sf{SPL}$) Haarzellen mechanisch beschädigt werden (Abknicken oder Verschmelzen der Stereozilien).
    Zweitens haben Haarzellen bei Erregung einen erhöhten Energiebedarf, der bei lang anhaltender Stimulation nicht mehr gedeckt werden kann.
@@ -1058,7 +1042,7 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
     FIXME: Quelle [HEL 93]?
    -->
 
-   Von einer „echten“ Presbyakusis kann streng genommen nur dann gesprochen werden, wenn der Hörverlust symmetrisch auf beiden Ohren auftritt und wenn außerdem sichergestellt ist, dass nicht auch andere Faktoren zu einem Hochtonverlust geführt haben.
+   Von einer „echten“ Presbyakusis kann streng genommen nur dann gesprochen werden, der Hörverlust symmetrisch auf beiden Ohren auftritt und wenn außerdem sichergestellt ist, dass nicht auch andere Faktoren zu einem Hochtonverlust geführt haben.
    In den meisten Fällen wird man es mit einer Mischung aus Alterseffekten und Langzeitfolgen von Lärmbelastung und Medikamentenschädigungen (ototoxische Wirkung von Medikamenten) zu tun haben, die sich nicht voneinander trennen lassen[^17].
 
    [^17]:
@@ -1069,14 +1053,11 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
 
 ### Tinnitus – Ohrgeräusche
 
-<!-- FIXME: "sensorineuralem" -->
-<!-- FIXME: "Schallempfindungsschwerhörigkeit" - Schallleitungsschwerhörigkeit? -->
-
 Mit Tinnitus werden Töne und Geräusche bezeichnet, die von der betroffenen Person wahrgenommen, aber durch keine äußere Schallquelle verursacht werden.
 Etwa $32\%$ der erwachsenen Bevölkerung ist durch Tinnitus betroffen, $20\%$ geben an, dass sie davon so schwer betroffen sind, dass sich die Ohrgeräusche störend bemerkbar machen.
 Tinnitus ist in den meisten Fällen eine Begleiterscheinung von Schwerhörigkeit.
-Die meisten Patientinnen und Patienten mit sensorineuralem Hörverlust klagen über Ohrgeräusche im hohen Frequenzbereich, während Schallempfindungsschwerhörigkeit in der Regel zu Tinnitus im unteren Frequenzbereich führt.
-Otosklerose kann ebenso wie die Meniere-Krankheit zu Tinnitus im tiefen Frequenzbereich führen [@troost:1998].
+Die meisten Patienten mit sensorineuralem Hörverlust klagen über Ohrgeräusche im hohen Frequenzbereich, während Schallempfindungsschwerhörigkeit in der Regel zu Tinnitus im unteren Frequenzbereich führt.
+Otosklerose kann zu ebenso wie die Meniere-Krankheit zu Tinnitus im tiefen Frequenzbereich führen [@troost:1998].
 
 Pulssynchrone Ohrgeräusche haben ihre Ursache in Durchblutungsstörungen oder werden durch Hypertonie (erhöhten Blutdruck hervorgerufen).
 Unter Tinnitus versteht man allgemein die nicht-pulsierenden Ohrgeräusche, die sich bei Erkrankungen des Mittelohrs als Sausen, Brummen oder Rauschen, bei Schädigungen des Innenohres als Zischen oder Pfeifen manifestiert [@pschyrembel:1989].
@@ -1120,7 +1101,7 @@ Die von diesen Sinneszellen vermittelten Empfindungen können in drei Bereiche e
 - Schadensempfindung, sog. nozizeptive Empfindung – Schmerz, Jucken.
 
 Eine strenge Zuordnung unterschiedlicher Reizwahrnehmungen zu bestimmten Typen von Rezeptoren ist dabei nicht möglich.
-Für einige Rezeptortypen gibt es nur _einen_ adäquaten Reiz, während andere auf mehrere verschiedene Reize ansprechen.
+Für einige Rezeptortypen gibt es nur einen adäquaten Reiz, während andere auf mehrere verschiedene Reize ansprechen.
 Taktile Wahrnehmung, insbesondere das Erkennen einer Oberflächentextur, stellt eine multimodale Aufgabe dar, bei der die Informationen verschiedenster Rezeptoren verwertet werden.
 Neben den eigentlichen taktilen Reizen werden auch thermische Reize (Temperatur, Wärmeleitfähigkeit und Wärmekapazität) und, wenn vorhanden, auch visuelle und mit der Berührung verbundene akustische Reize zu einem Gesamtbild vereinigt [@lederman:1982].
 
@@ -1131,16 +1112,14 @@ Direkte elektrische Reizung ist möglich, bedarf aber sorgfältiger Regelung des
 
 ### Druckempfindlichkeit
 
-<!-- FIXME: Footnote at Reference -->
-
 Der Tastsinn nimmt seinen Ursprung in den Rezeptorzellen (Mechanorezeptoren) der Haut, die auf mechanische Reize, also auf Verformung der Hautoberfläche reagieren.
 Es werden außer freien Nervenendungen vier verschiedene Rezeptoren unterschieden, von denen zwei auf statische Reize (absolute Verformung der Hautoberfläche) und zwei auf dynamische Reize (Veränderung der Verformung) reagieren.
 In diesem Sinn wird von langsam adaptierenden (_slowly adapting_ = SA) und schnell adaptierenden (_rapidly adapting_ = RA) Zellen gesprochen [@lederman:1982, @betz:1991, @dudel:1996[^18]].
 
 [^18]: Die Art der jeweils adäquaten Reize wird in der Literatur nicht einheitlich angegeben. Die medizinische Literatur [@betz:1991, @dudel:1996] spricht neben der Reaktion auf Druckänderungen ($\sf{dp/dt}$ – also eine Geschwindigkeit) bei Vater-Pacini-Körperchen auch von der Reaktion auf eine Änderung der Geschwindigkeit ($\sf{dp/dt^2}$ – also eine Beschleunigung), ohne den Vorgang jedoch näher zu erklären.
 
-_Freie Nervenendungen_ liegen in geschichteten Epithelien der Haut und reichen bis in die verhornten Schichten.
-Sie reagieren auf Druck aber auch auf thermische Reize.
+_Freie Nervenendungen_, die in geschichteten Epithelien der Haut liegen und bis in die verhornten Schichten reichen.
+Sie reagieren auf Druck aber auch thermische Reize.
 Bei Verletzung lösen sie Schmerz aus (Nozizeption).
 Auch die Haarbälge können von freien Nervenänderungen umgeben sein.
 
@@ -1160,9 +1139,9 @@ Die tiefer im Unterhautbindegewebe befindlichen _Vater-Pacini-Körperchen_ (PC =
 Sie können bis zu $4\;\sf{mm}$ lang und $1\;\sf{mm}$ dick werden und weisen eine geschichtete Struktur ähnlich einer Zwiebel auf (<<fig:schnitt-durch-vater-pacini-koerperchen>>).
 Manche Literaturangaben schreiben ihnen Reaktion auf Beschleunigungen zu.
 
-![Schnitt durch ein Vater-Pacini-Körperchen](./pics/06/schnitt-durch-vater-pacini-koerperchen.svg "schnitt-durch-vater-pacini-koerperchen#Schnitt durch ein Vater-Pacini-Körperchen [@rhodes:2018, @betz:1991].")
-
 Die Lage der Mechanorezeptoren in der menschlichen Fingerkuppe ist in <<fig:mechanorezeptoren>> dargestellt.
+
+![Schnitt durch ein Vater-Pacini-Körperchen](./pics/06/schnitt-durch-vater-pacini-koerperchen.svg "schnitt-durch-vater-pacini-koerperchen#Schnitt durch ein Vater-Pacini-Körperchen [@rhodes:2018, @betz:1991].")
 
 ![Mechanorezeptoren der menschlichen Haut: a: freie Nervenendigungen; b: Merkel-Zelle; c: Ruffini-Körperchen; d: Meissner-Körperchen; e: Vater-Pacini-Körperchen.](./pics/06/mechanorezeptoren.svg "mechanorezeptoren#Mechanorezeptoren der menschlichen Haut [@servier-medical-art:2019, @dudel:1996]")
 
@@ -1181,8 +1160,6 @@ Wie alle Rezeptoren weisen auch Mechanorezeptoren bei Dauerreizung Adaptation au
 Die _Meißner-Körperchen_ (RA) reagieren auf eine Druckänderung, sie sind also _Geschwindigkeitssensoren_ und sind bei Reizfrequenzen zwischen $5\;\sf{Hz}$ bis $40\;\sf{Hz}$ dominant.
 Die _Vater-Pacini-Körperchen_ (PC) hingegen reagieren nur auf Vibrationen im Bereich von $40\;\sf{Hz}$ bis $400\;\sf{Hz}$ [@lederman:1982, @foulke:1986, @betz:1991, @fricke:1994, @dudel:1996].
 Einen zusammenfassenden Überblick gibt (<<tab:typen-mechanorezeptoren>>).
-
-<!-- FIXME: Fragezeichen in Tabelle -->
 
 | Typ                              | adäquater Reiz                                                                                   | Besonderheit                                                                                         |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -1212,8 +1189,9 @@ Die Leistung des Tastsinns ist von der Hauttemperatur abhängig.
 Die kalte Haut ist weniger elastisch und kann dynamischen mechanischen Verformungen daher nicht so schnell folgen.
 Auch sinkt die Leistungsfähigkeit der Rezeptoren mit der Temperatur, sodass Oberflächen bei Kälte glatter wirken als bei normaler Temperatur (z. B. $32\degree\sf{C}$ für die typische Hauttemperatur der Hand).
 
-Neben den hier beschriebenen Mechanorezeptoren in der Haut verfügt der Körper noch über zahlreiche andere druckempfindliche Sensoren, die z. B. den Blutdruck regulieren oder für die Steuerung von Abläufen im Verdauungstrakt verantwortlich sind.
-Ihre Signale dringen nicht oder nur bei besonders starker Reizung der Rezeptoren in das Bewusstsein.
+Neben den hier beschriebenen Mechanorezeptoren in der Haut verfügt der Körper noch über
+zahlreiche andere druckempfindliche Sensoren, die z. B. den Blutdruck regulieren oder für die Steuerung von Abläufen im Verdauungstrakt verantwortlich sind.
+Ihre Signale dringe nicht oder nur bei besonders starker Reizung der Rezeptoren in das Bewusstsein.
 
 ### Räumliche Diskriminierung
 
@@ -1239,9 +1217,9 @@ Für die Zweipunktunterscheidung (Zweipunktdiskriminierung) an verschiedenen Kö
 Die feinste Diskriminierung ermöglicht also die Zunge, gefolgt von den Fingerbeeren.
 Gerade die großen Hautpartien, die sich hinsichtlich ihrer Fläche für die taktile Wahrnehmung von Bildern anbieten würden, schneiden bei der räumlichen Reizdiskriminierung äußerst schlecht ab.
 Zusätzlich muss unterschieden werden, ob beide taktilen Stimuli gleichzeitig (simultan) oder nacheinander (sukzessiv) präsentiert werden.
-Da auch die Haut sogenannte rezeptive Felder kennt (Näheres dazu siehe [Die rezeptiven Felder](#die-rezeptiven-felder)), die von Feldern mit lateraler Inhibition umgeben sind, ist die Diskriminierung bei simultanen Zweipunktreizen (der zweite Reiz fällt in das inhibierende Gebiet) geringer als bei der sukzessiven Präsentation.
+Da auch die Haut sogenannte rezeptive Felder kennt (Näheres dazu siehe im Kapitel 7.2.8), die von Feldern mit lateraler Inhibition umgeben sind, ist die Diskriminierung bei simultanen Zweipunktreizen (der zweite Reiz fällt in das inhibierende Gebiet) geringer als bei der sukzessiven Präsentation.
 
-Für die statische taktile Wahrnehmbarkeit an der Fingerspitze muss eine taktile Information demnach eine räumliche Auflösung von mehr als $2.5\;\sf{mm}$ für voneinander zu unterscheidende Reize aufweisen.
+Für die statische Wahrnehmbarkeit muss eine taktile Information demnach eine räumliche Auflösung von mehr als $2.5\;\sf{mm}$ für voneinander zu unterscheidende Reize aufweisen.
 Für die Darstellung einer aus Punkten gebildeten Linie, die als einigermaßen kontinuierlich empfundenen werden soll, dürfen die einzelnen Punkte einen Abstand von $1\;\sf{mm}$ nicht überschreiten (diese Angabe gilt für den bewegten Finger).
 
 ## Rückenmark, Bewegungsapparat und Muskulatur
@@ -1249,7 +1227,7 @@ Für die Darstellung einer aus Punkten gebildeten Linie, die als einigermaßen k
 <!-- FIXME: Querverweis -->
 
 In diesem Kapitel wird gemeinsam mit der Besprechung von Muskulatur und Bewegungsapparat auch das Rückenmark besprochen, weil alle motorischen Befehle, durch die periphere Muskel angeregt werden können, über diese Verbindung vom Zentralnervensystem (ZNS) her angesprochen werden.
-Dabei ist es wichtig, zu unterscheiden, welche Muskeln über eine direkte Verbindung vom Gehirn aus versorgt werden (Hirnnerven, siehe [Die Hirnnerven](#die-hirnnerven)) und welche über das Rückenmark laufen und daher bei Verletzungen der Wirbelsäule in Mitleidenschaft gezogen werden können.
+Dabei ist es wichtig zu unterscheiden, welche Muskeln über eine direkte Verbindung vom Gehirn aus versorgt werden (Hirnnerven, siehe Kapitel 7.1.5) und welche über das Rückenmark laufen und daher bei Verletzungen der Wirbelsäule in Mitleidenschaft gezogen werden können.
 
 ### Das Rückenmark
 
@@ -1282,9 +1260,9 @@ Ein Defekt, der auf das pyramidale System beschränkt ist, verursacht eine schla
 Alle anderen motorischen Bahnen werden unter dem Begriff extrapyramidal-motorische Bahnen zusammengefasst.
 Symptome, die bei einer Schädigung des extrapyramidalen Systems auftreten können, sind u. a.: Störung automatischer Bewegungsabläufe und der Regulation des Muskeltonus (Tremor, Spasmus, Rigor etc.).
 
-Die Segmente des Rückenmarks (d. s. Abschnitte, die zu einem Paar Spinalnerven gehören) erhalten ihre Bezeichnung nach dem Wirbel, _unter_ dem sie austreten.
+Die Segmente des Rückenmarks (d. s. Abschnitte, die zu einem Paar Spinalnerven gehören) erhalten ihre Bezeichnung nach dem Wirbel, unter dem sie austreten.
 Eine Ausnahme stellt die Benennung in der Halsregion dar: Der $1.$ Halsnerv ist jener, der zwischen Hinterhaupt und Atlas (oberste Wirbelkörper, siehe <<fig:wirbelsaeule>>) austritt.
-Die weiteren Halsnerven liegen _über_ den jeweiligen Halswirbeln.
+Die weiteren Halsnerven liegen über den jeweiligen Halswirbeln.
 Zwischen $\sf{C}7$ und $\sf{Th}1$ liegt der $8.$ Halsnerv.
 Somit ergeben sich $8$ Hals-, $12$ Brust-, $5$ Lenden-, $5$ Kreuzbein- und $1$-$2$ Steißbeinsegmente [@mörike:1981].
 
@@ -1294,9 +1272,9 @@ Muskel sind Bündel aus kontraktilen Proteinfäden.
 An der Muskelkontraktion sind die Eiweiß-Stoffe Actin und Myosin beteiligt.
 Sie bilden Filamente (Fasern, fadenförmige Strukturen), die sich gegeneinander verschieben können.
 Die Erregung der Muskel erfolgt über die sogenannten motorischen Endplatten (Endverzweigungen des Axons, die in Rillen der Muskelfasern liegen) der Motoneuronen (<<fig:motorische-endplatte>>).
-Eine Freisetzung von Acetylcholin an der motorischen Endplatte bewirkt eine lokale Depolarisation, durch die es zur Ausschüttung von Ca^++^-Ionen kommt.
+Eine Freisetzung von Acetylcholin an der motorischen Endplatte bewirkt eine lokale Depolarisation, durch die es zur Ausschüttung von Ca++-Ionen kommt.
 
-![Motorische Endplatte](./pics/06/motorische-endplatte.svg "motorische-endplatte#Motorische Endplatte [@servier-medical-art:2019, @mörike:1981].")
+![Motorische Endplatte](./pics/06/motorische-endplatte.svg "motor-endplate#Motorische Endplatte [@servier-medical-art:2019, @mörike:1981].")
 
 ::: figcaption
 
@@ -1313,13 +1291,11 @@ Die quergestreifte Muskulatur erlaubt rasche willkürliche Bewegungen, die an ke
 Die Fasern der quergestreiften Muskulatur bestehen nicht aus Einzelzellen, sondern aus bis zu $12\;\sf{cm}$ langen Fasern, die einige hundert Zellkerne enthalten können.
 Der Durchmesser einer einzelnen Muskelfaser beträgt nur $10$ bis $200\;\sf{\mu~m}$.
 
-<!-- FIXME: Fehlermarkierung im Review? -->
-
 Die quergestreifte Muskulatur wird zur Ausführung von willkürlichen Bewegungen von zwei hintereinandergeschalteten Neuronen, den sogenannten Motoneuronen, mit den erforderlichen Impulsen versorgt.
 Das erste Motoneuron liegt im motorischen Cortex, der für das Planen einer Bewegung zuständig ist.
 Das zweite Motoneuron befindet sich (vorwiegend) in den Vorderhörnern des Rückenmarks (Vorderhornzellen, siehe <<fig:rueckenmark>>), von wo aus die Skelettmuskulatur innerviert wird.
 Ein Teil der _Motoneuronen_, von dem u. a. die Sprech-, Kau- und Schluckmuskulatur innerviert wird, entspringt dem Hirnstamm (Bulbus)[^20].
-Schädigungen im Hirnstamm können zum Untergang des _ersten Motoneurons_ führen, Schädigungen im Bereich des Rückenmarks zum Untergang des _zweiten Motoneurons_.
+Schädigungen im Hirnstamm können zum Untergang des ersten Motoneurons führen, Schädigungen im Bereich des Rückenmarks zum Untergang des _zweiten Motoneurons_.
 Auf beiden Ebenen können Schädigungen zu Lähmungserscheinungen und Muskelschwund führen.
 Bei Beteiligung des ersten Motoneurons kommt Spastik hinzu [@deutsche-gesellschaft-muskelkranke:1998].
 
@@ -1346,9 +1322,7 @@ So wie bei den Nerven können die Aktionspotentiale, die mit der Erregung von Mu
     My- bzw. Myo- als Wortteil bezeichnet den Zusammenhang mit Muskeln.
     Elektromyografie ist demnach die Aufzeichnung der elektrischen Muskelaktivität.
 
-<!-- FIXME: Fehlermarkierung im Review? -->
-
-Grenzwert der Verkürzung einer (in vitro präparierten) Muskelfaser liegt bei $1:8$, was aber im lebenden Organismus nicht vorkommt.
+Grenzwert der Verkürzung einer (in vitro präparierten) liegt bei $1:8$, was aber im lebenden Organismus nicht vorkommt.
 Hier treten Verkürzungen auf $50\%$ der Länge auf, was auch dem optimalen Arbeitsbereich entspricht [@mörike:1981].
 Die Kraft, die ein Muskel aufbringen kann, hängt im Wesentlichen vom seinem Querschnitt ab[^23].
 Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
@@ -1364,17 +1338,14 @@ Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
    Im Zusammenhang mit der Rehabilitationstechnik interessieren uns in erster Linie jene Störungen, die Auswirkungen auf die Beweglichkeit der Extremitäten haben.
    Bewegungen von Kopf und Rumpf sowie die Bewegungen innerer Organe (z. B. Herz, Atmung) werden hier nicht behandelt.
 
-   Die oberen Extremitäten, Arme und Hände, dienen in erster Linie der mechanischen Interaktion mit unserer Umwelt, also dem Greifen und Bewegen von Gegenständen, dem Betätigen von Schaltern und Hebeln, dem Führen von Schreibgeräten usw..
-   Alle diese Tätigkeiten wollen wir unter dem Begriff des Manipulierens zusammenfassen und daher diesen Teil der motorischen Behinderungen als Manipulationsbehinderungen bezeichnen.
+   Die oberen Extremitäten, Arme und Hände, dienen in erster Linie der mechanischen Interaktion mit unserer Umwelt, also dem Greifen und Bewegen von Gegenständen, dem Betätigen von Schaltern und Hebeln, dem Führen von Schreibgeräten usw. Alle diese Tätigkeiten wollen wir unter dem Begriff des Manipulierens zusammenfassen und daher diesen Teil der motorischen Behinderungen als Manipulationsbehinderungen bezeichnen.
 
    Die unteren Extremitäten, Beine und Füße, dienen in erster Linie der Fortbewegung, also der Mobilität eines Menschen.
    Behinderungen, durch die die Bewegungen der unteren Extremitäten beeinträchtigt sind, fassen wir daher unter dem Begriff Mobilitätsbehinderungen zusammen.
 
 2. Motorische Lähmungen  
    Unter einer Lähmung wird die Minderung oder der Ausfall der Funktion eines Organs oder Körperteils verstanden.
-   Im neurologischen Sinn ist damit eine Minderung der motorischen oder sensorischen Funktionen eines Nervs gemeint.
-
-   <!-- FIXME: Fehlermarkierung im Review? -->
+   Im neurologischen Sinn ist damit eine Minderung der motorischen oder sensiblen Funktionen eines Nervs gemeint.
 
    Strenggenommen wird mit Plegie eine allgemeine Lähmung bezeichnet.
    Für unvollständige Lähmungen wird der Begriff Parese verwendet, während eine vollständige Lähmung Paralyse genannt wird[^24].
@@ -1496,8 +1467,6 @@ Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
 
 ### Fehlen und Fehlbildungen von Gliedmaßen
 
-<!-- FIXME: Fehlermarkierung im Review? -->
-
 1. Angeborene Dysmelien  
    Für die Entwicklung der Extremitäten ist die Zeit zwischen der fünften und der siebenten Schwangerschaftswoche entscheidend.
    Sauerstoffmangel oder die Einwirkung von Medikamenten (Thalidomid[^25], z. B. in Contergan) können unter anderem zu einer Missbildung von Gliedmaßen führen, die mit dem Sammelbegriff Dysmelie bezeichnet werden.
@@ -1539,8 +1508,6 @@ Als Faustregel gilt $80-100\;\sf{N/cm^2}$.
    Dabei wird zwischen der spontanen (traumatischen) Amputation durch ein Unfallgeschehen und der operativen Amputation unterschieden.
    Letztere kann bei irreparablen Durchblutungsstörungen, Tumorerkrankungen oder nach schwerwiegenden Verletzungen erforderlich werden.
 
-<!-- FIXME: Fehlermarkierung im Review? -->
-
 3. Erworbene Schädigungen des Skeletts  
    Verglichen mit bekannten technischen Werkstoffen weisen Knochen eine Kombination erstaunlicher Leistungsmerkmale auf [@brockhaus:1994]: Elastizität wie Eichenholz, Zugfestigkeit wie Kupfer, Druckfestigkeit größer als Sandstein und Biegefestigkeit vergleichbar mit Flussstahl.
    Daraus lässt sich ermessen, welche hohen Leistungsanforderungen an die Knochen gestellt werden können und wie leicht Störungen der Struktur die Leistung des Skeletts in Bezug auf Stütz- und Bewegungsfunktion vermindern.
@@ -1580,8 +1547,6 @@ Zu den am häufigsten vorkommenden Erkrankungen im Bereich der Gelenke (grie.: A
    Es kommt dabei zur Erosion von Gelenksknorpeln bis hin zum vollständigen Abschliff.
    Die Symptome reichen von anfänglicher Steifigkeit über Bewegungsschmerz bis hin zu Dauerschmerzen und reduzierter Beweglichkeit.
 
-<!-- FIXME: Fehlermarkierung im Review? -->
-
 3. Morbus Bechterew  
    Morbus Bechterew ist eine Autoimmunkrankheit[^28], bei der Gelenke, aber auch Bänder, Muskeln und Knochen angegriffen werden.
    Die genaue Ursache ist unbekannt, Vererbung spielt jedoch eine Rolle.
@@ -1601,14 +1566,14 @@ Aus diesem Grund werden bei der Behandlung von Muskelerkrankungen meistens die e
 
 Wegen der viel breiteren Betrachtungsweise von motorischen Störungen werden hier diese beiden Kategorien getrennt behandelt.
 Die neurogenen (sekundären) Myopathien finden sich daher in diesem Kapitel.
-Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [Muskuläre Ursachen](#muskulare-ursachen) gewidmet.
+Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel 7.8.5 gewidmet.
 
-  <!-- FIXME: Querverweis? -->
+  <!-- FIXME: Querverweis -->
 
 1. Angeborene Schädigungen
 
    - _Infantile Zerebralparese_ (CP)  
-     Infantile Zerebralparese (_infantile cerebral palsy_, auch zerebrale Kinderlähmung genannt – nicht zu verwechseln mit Poliomyelitis – epidemische spinale Kinderlähmung, siehe Punkt (b)) ist die allgemeine Bezeichnung für Folgen eines frühkindlichen, nicht progressiven Hirnschadens (des sich entwickelnden Gehirns, $6.$ Schwangerschaftsmonat bis $6.$ Lebensjahr), wobei es zur Beschädigung motorischer Gehirnregionen kommt.
+     Infantile Zerebralparese (_infantile cerebral palsy_, auch zerebrale Kinderlähmung genannt – nicht zu verwechseln mit Poliomyelitis – epidemische spinale Kinderlähmung)7.8.4b) ist die allgemeine Bezeichnung für Folgen eines frühkindlichen, nicht progressiven Hirnschadens (des sich entwickelnden Gehirns, $6.$ Schwangerschaftsmonat bis $6.$ Lebensjahr), wobei es zur Beschädigung motorischer Gehirnregionen kommt.
      Als Ursache kommen Hypoxie während der Schwangerschaft (in utero) oder bei der Geburt, Infektionen, Gehirnblutungen, Gelbsucht (Kernikterus), Fetopathien und Trauma infrage.
 
      Neben eventuellen Intelligenzminderungen und Verzögerung in der Sprachentwicklung treten vornehmlich spastische Lähmungserscheinungen auf.
@@ -1618,7 +1583,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
      Man unterscheidet die Typen spastisch, athetotisch und ataxisch (Beschreibung siehe [Grundlagen und Systematik](chapter6.html#grundlagen-und-systematik) (c)), die aber auch in Kombinationen auftreten können [@prentke:1993, @trace-center:1999].
 
    - _Minimale zerebrale Dysfunktion_ (MCD)  
-     Minimale zerebrale Dysfunktion (_minimal cerebral dysfunction_; MCD) ist die Folge von sich nur geringfügig auswirkenden frühkindlichen Hirnschäden (MCP – Minimale Zerebralparese).
+     Minimale zerebrale Dysfunktion (_minimal cerebral dysfunction_; MCD) ist die Folge für sich nur geringfügig auswirkende frühkindliche Hirnschäden (MCP – Minimale Zerebralparese).
      Häufige Ursache ist Hypoxie während der Schwangerschaft oder während des Geburtsvorganges.
      Auftreten einer Unreife bei der Organisation von Bewegungen (zögernd, unbeholfen, schwerfällig).
      Zusätzlich kann Sprechen, Wahrnehmung und Intellekt betroffen sein, allerdings bei normaler Intelligenz, sondern nur was die Planung und das Organisieren anbelangt.
@@ -1654,7 +1619,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
      Die Symptome sind äußerst vielfältig.
      Es können praktisch alle zerebralen und spinalen Symptome auftreten, insbesondere spastische Lähmungen (Paresen bis Querschnittlähmung), Sensibilitätsstörungen, Nystagmus, Intentionstremor, Ataxie, Augenmuskellähmungen, Sprechbehinderung (Dysarthrie, skandierende Sprache) sowie psychische Auswirkungen.
 
-   - _Amyotrophe Lateralsklerose_ (ALS)  
+   - Amyotrophe Lateralsklerose (ALS)  
      Bei der amyotrophen Lateralsklerose (abk.: ALS; Lou Gehrig‘s Disease; alte Bezeichnung: Charcot Krankheit, wie bei MS) kommt es durch Zerstörung von zentralen (Gehirn, Hirnstamm) und peripheren (Vorderhornzellen) Motoneuronen und deren Axonen zum Verlust von Muskelsubstanz.
      ALS wird daher zu den sekundären Muskelerkrankungen gezählt.
      Die Ätiologie ist unsicher, es werden toxische, infektiöse oder erbliche Ursachen vermutet.
@@ -1664,9 +1629,9 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
 
 3. Läsionen des Gehirns, Schlaganfall, Schädelhirntrauma
 
-   - _Hirntumore_  
+   - _Hirntumoren_  
      Unter einem Tumor (engl. _tumour_) wird im engeren Sinn jede pathologische Neubildung von Gewebe bezeichnet, die einen spontanen, autonomen und irreversiblen Charakter aufweist.
-     Tumore können im Gehirn aus dem Nervengewebe selbst entstehen oder sich als Metastase eines Tumors in anderen Körperregionen bilden.
+     Tumoren können im Gehirn aus dem Nervengewebe selbst entstehen oder sich als Metastase eines Tumors in anderen Körperregionen bilden.
 
      Die Lokalisation des Tumors bestimmt die resultierende Symptomatik.
      Zu den wichtigsten Symptomen zählen u. a. alle sogenannten Herdsymptome (Symptome, die aus einer umschriebenen Schädigung des Gehirns resultieren), die je nach betroffener Gehirnregion zu Symptom-Komplexen (=hirnlokale Syndromen) zusammengefasst werden können (<<tab:herdsymptome-laesionen-gehirn>>).
@@ -1725,7 +1690,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
      Hypoxie während der Schwangerschaft (in utero) oder während des Geburtsvorganges kann z. B. zu frühkindlichen Hirnschäden und in der Folge davon zu minimalen zerebralen Dysfunktionen führen.
 
 4. Läsionen des Rückenmarkes und von Nervenbahnen – Querschnittlähmung  
-   Querschnittläsionen (_transverse lesion_, _spinal cord injury_) sind vollständige oder teilweise Schädigungen des Rückenmarks nach Wirbelbrüchen, Bandscheibenvorfall, Tumoren u. a..
+   Querschnittläsionen (_transverse lesion_, _spinal cord injury_) sind vollständige oder teilweise Schädigungen des Rückenmarks nach Wirbelbrüchen, Bandscheibenvorfall, Tumoren u. a.
    Läsionen des Rückenmarks oberhalb von $\sf{Th}1$ führen zu Tetraparesen, unterhalb von $\sf{Th}1$ zu Paraparesen, es sind also nur die unteren Extremitäten betroffen (siehe dazu <<fig:wirbelsaeule>> und <<tab:klassifizierung-laehmungen>>) [@pschyrembel:1989].
    Die typischen Zusammenhänge zwischen der Höhe der Läsion und den daraus resultierenden funktionalen Konsequenzen zeigt <<tab:auswirkungen-querschnittlaesionen>>; nach [@müller:1994].
 
@@ -1734,8 +1699,6 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
    Daher wird von manchen Autoren die Grenze zwischen Tetraplegie und Paraplegie zwischen $\sf{C}5$ und $\sf{C}6$ angesetzt [@american-paralysis-association:1998].
 
    {.lower-alpha}
-
-<!-- FIXME: Fehlermarkierung im Review? -->
 
 | Klasse      | Ort                           | Auswirkung bei komplettem motorischem Ausfall                                                                                                                                                   |
 | ----------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1759,15 +1722,13 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
 <!-- FIXME: Querverweis -->
 
 In diesem Abschnitt werden die Muskelerkrankungen im engeren Sinn (primäre Myopathien) behandelt.
-Dazu gehören alle Krankheiten, bei denen die Muskelfasern direkt von einem Krankheitsprozess betroffen sind [@deutsche-gesellschaft-muskelkranke:1998].
-Die sekundären oder auch neurogenen Myopathien finden sich im Kapitel [Schädigungen des Nervensystems](#schadigungen-des-nervensystems).
+Dazu gehören alle Krankheiten, bei denen die Muskelfasern direkt von einem Krankheitsprozeß betroffen sind [@deutsche-gesellschaft-muskelkranke:1998].
+Die sekundären oder auch neurogenen Myopathien finden sich im Kapitel 7.8.4.
 Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, Emotionen und Affekt nicht eingeschränkt, Sinnesorgane nicht betroffen.
 
 1. Progressive Muskeldystrophien  
    Bei progressiven Muskeldystrophien (fortschreitendes Muskel-Fehlwachstum; Dystrophia musculorum progressiva) gehen fortschreitend Muskelfasern zugrunde und werden durch Fett oder Bindegewebe ersetzt.
    Zur Gruppe der Dystrophien gehören etwa $17$ verschiedene Muskelkrankheiten, von denen hier nur die wichtigsten besprochen werden.
-
-   <!-- FIXME: Fehlermarkierung im Review? -->
 
    - _Duchenne-Muskeldystrophie_  
      Die Duchenne-Muskeldystrophie (auch bösartige Beckengürtelform) ist die häufigste Form progressiver Dystrophien des Kindesalters (Manifestation im $2.$ bis $5.$ Lebensjahr).
@@ -1811,7 +1772,7 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
 <!-- FIXME: Querverweis -->
 
 2. Myasthenien  
-   Unter Myasthenien (Muskelschwächen) wird eine Gruppe von nicht erblichen Autoimmunkrankheiten[^28] verstanden, bei denen die Übertragung neuraler Reize von den motorischen Nerven auf das Muskelgewebe zufolge Blockade von Acetylcholinrezeptoren der motorischen Endplatten gestört ist (siehe Kapitel [Muskulatur](#muskulatur)).
+   Unter Myasthenien (Muskelschwächen) wird eine Gruppe von nicht erblichen Autoimmunkrankheiten[^31] verstanden, bei denen die Übertragung neuraler Reize von den motorischen Nerven auf das Muskelgewebe zufolge Blockade von Acetylcholinrezeptoren der motorischen Endplatten gestört ist (siehe Kapitel 7.7.2).
 
    - _Myasthenia gravis_  
      Es kommt zu einer belastungsabhängigen abnorm raschen Ermüdung der quergestreiften Muskulatur, von der in typischer Folge besonders die Augenmuskulatur (Sehen von Doppelbildern – Diplopie), die Kau- und Schluckmuskeln, die Halsmuskulatur und die Oberarme betroffen sind.
@@ -1819,7 +1780,7 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
 
     <!-- FIXME: Fußnote/Verweis -->
 
-   <!-- [^31]: siehe Fußnote 28 auf Seite 54 -->
+   [^31]: siehe Fußnote 28 auf Seite 54
 
 {.lower-alpha}
 

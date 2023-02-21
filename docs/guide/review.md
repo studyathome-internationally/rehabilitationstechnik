@@ -128,7 +128,7 @@ Die Markdown Datei wird dann zu einem `HTML` Dokument umgewandelt
 ```
 
 Die Markdown Dateien aus diesem Repository werden mit der Software [`markdown-it`](https://github.com/markdown-it/markdown-it) zu `HTML` umgewandelt.
-`markdown-it` unterstützt eine grundlegende Markdown Syntax (spezifiziert als [CommonMark Spec](https://spec.commonmark.org/)), bietet aber jedoch auch zahlreiche Erweiterungen an.
+`markdown-it` unterstützt die eine grundlegende Markdown Syntax (spezifiziert als [CommonMark Spec](https://spec.commonmark.org/)), bietet aber jedoch auch zahlreiche Erweiterungen an.
 
 Eine umfangreich Demonstration sowie Testumgebung befindet sich unter: [https://markdown-it.github.io/](https://markdown-it.github.io/)
 

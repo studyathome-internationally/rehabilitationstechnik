@@ -266,11 +266,13 @@ Beispiele für augmentative Hilfsmittel sind Hörgeräte und Brillen.
 
 ### Substituierende (ersetzende) Hilfsmittel
 
+<!-- FIXME: Verweis -->
+
 Substituierend werden Hilfsmittel bezeichnet, mit denen ein Reiz auf andere als die sonst üblichen Sinnesorgane umgeleitet wird.
 Das gleiche gilt auch dann, wenn eine Aktion (Bewegung oder Auslösung einer Bewegung) von anderen als den sonst üblichen aktuatorischen Organen gewonnen wird.
-Es kommt dabei zu einer Stellvertretung = [Vikariat](#das-vikariat)).
+Es kommt dabei zu einer Stellvertretung = Vikariat, siehe Kap. 6.3).
 <<fig:funktionsweise-substiuierende-hilfsmittel>> zeigt eine Person, bei der die Wahrnehmung von optischen Reizen zufolge Blindheit nicht möglich ist.
-Das in der mittleren Grafik dargestellte Hilfsmittel H wandelt den optischen Reiz in geeigneter Weise in einen akustischen Reiz um und leitet ihn zum Gehör der blinden Person.
+Das in der mittleren Graphik dargestellte Hilfsmittel H wandelt den optischen Reiz in geeigneter Weise in einen akustischen Reiz um und leitet ihn zum Gehör der blinden Person.
 In ähnlicher Weise zeigt die rechte Darstellung von <<fig:funktionsweise-substiuierende-hilfsmittel>> die Umsetzung in einen taktil wahrnehmbaren Reiz.
 Beispiele für substituierende Hilfsmittel sind die Verwendung von Blindenschrift, die anstelle der Augen mit den Fingerspitzen gelesen wird und das Lippenlesen, bei dem die Augen Aufgaben übernehmen, die in der Regel von den Ohren wahrgenommen werden.
 
@@ -279,8 +281,8 @@ Beispiele für substituierende Hilfsmittel sind die Verwendung von Blindenschrif
 ### Inserierende (einfügende) Hilfsmittel
 
 Darunter wollen wir Hilfsmittel verstehen, die einen unterbrochenen Teil einer Funktionskette ersetzen bzw. überbrücken, den Reiz (die Aktion) jedoch wieder dem ursprünglichen Organ bzw. dessen Nervenbahnen zuleiten.
-Die Grafik in <<fig:funktionsweise-inserierende-hilfsmittel>> stellt eine Person dar, die wegen eines vollständigen Funktionsausfalles des betreffenden Sinnesorgans nicht in der Lage ist, einen Reiz wahrzunehmen, egal ob dieser in üblicher oder in verstärkter Weise angeboten wird.
-Die Aufgabe des Hilfsmittel H ist es, den Reiz um die defekte Stelle so herumzuleiten, dass durch eine Stimulation der später liegenden Nervenbahnen ein Eindruck hervorgerufen wird, der den Auswirkungen des ursprünglichen Reizes möglichst nahe kommt.
+Die Graphik in <<fig:funktionsweise-inserierende-hilfsmittel>> stellt eine Person dar, die wegen eines vollständigen Funktionsausfalles des betreffenden Sinnesorgans nicht in der Lage ist, einen Reiz wahrzunehmen, egal ob dieser in üblicher oder in verstärkter Weise angeboten wird.
+Die Aufgabe des Hilfsmittel H ist es, den Reiz um die defekte Stelle so herumzuleiten, daß durch eine Stimulation der später liegenden Nervenbahnen ein Eindruck hervorgerufen wird, der den Auswirkungen des ursprünglichen Reizes möglichst nahe kommt.
 Beispiele für inserierende Hilfsmittel sind Cochlearimplantate und funktionelle Elektrostimulation.
 
 ![Funktionsweise eines inserierenden (einfügenden) Hilfsmittels.](./pics/05/funktionsweise-inserierende-hilfsmittel.svg "funktionsweise-inserierende-hilfsmittel#Funktionsweise eines inserierenden (einfügenden) Hilfsmittels [@zagler:2008].")
