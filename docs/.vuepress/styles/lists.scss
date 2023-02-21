@@ -14,3 +14,24 @@
         margin-block-end: 0;
     }
 }
+
+$width: 6em;
+
+#list-of-abbreviations + dl {
+    display: flex;
+    flex-wrap: wrap;
+
+    dt, dd {
+        margin-bottom: 0.5em;
+    }
+
+    dt {
+        font-weight: 500;
+        width: $width;
+    }
+
+    dd {
+        margin-left: auto;
+        width: calc(100% - $width);
+    }
+}

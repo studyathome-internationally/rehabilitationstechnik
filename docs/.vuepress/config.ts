@@ -1,29 +1,21 @@
 import { join } from "path";
 import { defineUserConfig } from "@vuepress/cli";
-import type { DefaultThemeOptions } from "@vuepress/theme-default";
-import type { ViteBundlerOptions } from "@vuepress/bundler-vite";
+import { defaultTheme, viteBundler } from "vuepress";
+import { webpackBundler } from "@vuepress/bundler-webpack";
+import { mediumZoomPlugin } from "@vuepress/plugin-medium-zoom";
+import { searchPlugin } from "@vuepress/plugin-search";
+import { containerPlugin } from "@vuepress/plugin-container";
+import { imageComparatorPlugin } from "vuepress-plugin-image-comparator";
 
+const base = process.env.BASE ? process.env.BASE : "/";
 const bundler = process.env.BUNDLER ? process.env.BUNDLER : process.env.BUNDLER = '@vuepress/bundler-vite';
 
-export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
+export default defineUserConfig({
   // site config
   lang: "de-AT",
-  // base: "/next/",
+  base,
   // theme and its config
-  theme: "@vuepress/theme-default",
-  locales: {
-    "/": {
-      lang: "de-DE",
-      title: "Rehabilitationstechnik",
-      description: "FH Technikum Wien"
-    },
-    "/en/": {
-      lang: "en-US",
-      title: "Rehabilitation Technology",
-      description: "UAS Technikum Vienna"
-    }
-  },
-  themeConfig: {
+  theme: defaultTheme({
     logo: "/images/fhtw-logo.svg",
     locales: {
       "/": {
@@ -64,6 +56,14 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             {
               text: "Medizinische Grundlagen - Teil II",
               link: "/chapter7.html"
+            },
+            {
+              text: "Die wichtigsten Arten von Behinderungen",
+              link: "/chapter8.html"
+            },
+            {
+              text: "Assistive Technologien - Grundlagen",
+              link: "/chapter9.html"
             }
           ]
         },
@@ -100,10 +100,30 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
             {
               text: "Medical Basics - Part II",
               link: "/en/chapter7.html"
+            },
+            {
+              text: "Major Types of Disability",
+              link: "/en/chapter8.html"
+            },
+            {
+              text: "Assistive Technology - Basics",
+              link: "/en/chapter9.html"
             }
           ]
         },
       }
+    }
+  }),
+  locales: {
+    "/": {
+      lang: "de-DE",
+      title: "Rehabilitationstechnik",
+      description: "FH Technikum Wien"
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "Rehabilitation Technology",
+      description: "UAS Technikum Vienna"
     }
   },
   extendsMarkdown: (md) => {
@@ -123,22 +143,26 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
     md.use(require("./markdown/math"));
   },
   plugins: [
-    ["image-comparator", {
+    // ["image-comparator", {
+    //   enable: true,
+    //   include: [{ path: /^.*/, files: [/^\.\/pics\/0[1234567].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
+    // }]
+    imageComparatorPlugin({
       enable: true,
-      include: [{ path: /^.*/, files: [/^\.\/pics\/0[1234567].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
-    }],
-    ["@vuepress/medium-zoom", {
+      include: [{ path: /^.*/, files: [/^\.\/pics\/0[123456789].*(?<!\d)\.svg$/], from: /\.svg$/, to: ".original.svg" }]
+    }),
+    mediumZoomPlugin({
       selector: ".theme-default-content figure img"
-    }],
-    "@vuepress/search",
-    ["@vuepress/container", {
+    }),
+    searchPlugin(),
+    containerPlugin({
       type: 'post-it',
-    }]
+    }),
   ],
-  bundler,
+  bundler: bundler === "@vuepress/bundler-vite" ? viteBundler() : webpackBundler(),
   head: [
-    ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
+    // ["script", { src: "https://polyfill.io/v3/polyfill.min.js?features=es6" }],
     // ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" }],
-    ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" }],
+    // ["script", { id: "MathJax-script", async: true, src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" }],
   ]
 })

@@ -223,9 +223,9 @@ In <<tab:names-functions-cranial-nerves>>, the names and major supply areas or f
         </td>
         <td>
             <ul class="no-bullets no-ident no-padding">
-                <li>among other things, forehead, upper eyelid, corners of the nose</li>
-                <li>u.a. lower eyelid, cheek, upper lip</li>
-                <li>u.a. tongue, lower lip, chin</li>
+                <li>among other things, forehead, upper eyelid, nasal bridge</li>
+                <li>among other things, lower eyelid, cheek, upper lip</li>
+                <li>among other things, tongue, lower lip, chin</li>
             </ul>
         </td>
     </tr>
@@ -299,7 +299,7 @@ The innermost eye skin resting on the vitreous body is the retina, which in turn
 
 ### The Retina
 
-The retina is both a carrier of photoreceptors and several layers of nerves that perform initial processing of visual stimuli.
+The retina is the carrier of photoreceptors as well as several layers of nerves that perform initial processing of visual stimuli.
 It enables the perception of intensity, wavelength and spatial allocation of incident optical stimuli.
 
 The detection of optical stimuli begins in the layer of the retina facing away from the light, which carries the photoreceptors (“inverse” eye).
@@ -391,7 +391,7 @@ At low luminances (twilight), therefore, the cones make no contribution, with th
 .sensitivity-rod-cone#Absolute sensitivity of rods and cones [@zagler:1997].
 
 If the rods[^8] are missing due to a damage of the eye, only day vision (mesopic and photopic vision) is possible and night blindness occurs (no scotopic vision).
-The eye, with an absolute intensity threshold of $8\cdot10-18\;\sf{W/cm^2}$, is more sensitive by a factor of $10$ compared to the ear.
+The eye, with an absolute intensity threshold of $8\cdot10^{-18}\;\sf{W/cm^2}$, is more sensitive by a factor of $10$ compared to the ear.
 
 [^8]: Since the peripheral area of the retina is almost exclusively occupied by rods, a failure of this receptor type leads not only to night blindness but also to a loss of the peripheral visual field, resulting in so-called tunnel vision.
 
@@ -403,9 +403,9 @@ Here, the nerve tracts that otherwise overlie the receptors are shifted toward t
 The macula therefore exhibits high spatial resolution and good color recognition.
 Because of the absence of rods, scotopic vision is not possible in the foveal region (the fovea is “night blind” so to speak), but because the cones are not covered by other cells, photopic sensitivity is greater within the fovea than elsewhere in the retina.
 
-A distance of $1\sf{mm}$ on the retina covers a visual field of $3.5\degree$.
-Within the fovea centralis, objects can be discriminated at a distance of $0.5$ to $1$ arcminutes, corresponding to a distance on the retina of $2.5$ to $5.0\sf{\mu}m$.
-Outside the fovea centralis, the resolution is only around $1\degree$ (corresponding to a distance of $0.3\sf{mm}$).
+A distance of $1\,\sf{mm}$ on the retina covers a visual field of $3.5\degree$.
+Within the fovea centralis, objects can be discriminated at a distance of $0.5$ to $1$ arcminutes, corresponding to a distance on the retina of $2.5$ to $5.0\,\sf{\mu}m$.
+Outside the fovea centralis, the resolution is only around $1\degree$ (corresponding to a distance of $0.3\,\sf{mm}$).
 
 ### Accommodation (Focusing)
 
@@ -480,7 +480,7 @@ In other words, we register a convergence of $125:1$ between receptors and optic
 
 Studies of the relationships between optical stimuli and neural activity deployed by the retina yielded rather puzzling and inexplicable results until the middle of the $20.$ century.
 The eye exposed to complete darkness showed moderate neural activity (“spontaneous firing”), contrary to expectations, but this did not increase significantly when exposed to diffuse light.
-<<fig:equal-exposure-receptive-field>> shows the schematic of the experimental setup in which a receptive field is diffusely illuminated.
+<<fig:equal-exposure-receptive-field>> schematically shows the experimental setup in which a receptive field is diffusely illuminated
 The action potential is derived at the ganglion cell (optic nerve) axon.
 
 ![Uniform (diffuse) exposure of a receptive field.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "equal-exposure-receptive-field#Uniform (diffuse) exposure of a receptive field [@lindsay:1981].")
@@ -545,7 +545,7 @@ This rating is valid with optimal optical correction (glasses, contact lenses) f
 <!-- FIXME: Abbildungsverweis -->
 
 Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
-For illustration purposes, the associated figures reproduce the view of a room as perceived by a person suffering from the eye disease in question ([Definitions and wording – Fig. 1](chapter1.html#figure-1)).
+For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
 
 ![NormNormal visionalsicht](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
 
@@ -554,11 +554,11 @@ Visual field defects cannot simply be simulated by black areas, although this is
 Here, a neutral gray was deliberately chosen, which still comes closest to a non-existent perception.
 
 Even if it were possible to draw a visually faithful picture of a visual impairment, even this representation would only remain on the surface, since any kind of disability not only restricts the affected person functionally, but also deeply shapes his or her personality and imagination.
-Anyone who believes, for example, that blindness can be understood by wearing a blindfold is subject to a huge error.
+For example, if someone thinks he or she understands blindness by wearing a blindfold, he or she is subject to a huge error.
 
 ### Refractive Anomalies – Refractive Errors of the Eye
 
-If the refractive power of the optical elements of the eye (cornea and lens) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
+If the refractive power of the optical elements of the eye (cornea, lens, and vitreous body) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
 Eyeglasses and contact lenses can compensate for $90\%$ of refractive anomalies.
 In refractive anomalies we distinguish:
 
@@ -632,7 +632,7 @@ In later stages, retinopathy pigmentosa leads to “tunnel vision” (a visual f
 
 ### Hemianopia (Hemianopsia)
 
-Hemianopia (hemianopsia) refers to a hemifacial loss of the visual field.
+Hemianopia (hemianopsia)is a hemifacial loss of the visual field.
 In homonymous hemianopia shown in <<fig:hemianopia>>, the same half of the visual field is affected in both eyes.
 This is caused by damage (e.g., tumors, traumatic brain injury) to the visual pathway starting at the optic nerve junction (optic cord, lateral malleolus, optic radiation, and visual cortex), the areas where half the visual field of both eyes is transmitted and processed.
 The interruption of hemianopia in the center of the visual field results from the fact that in the optic nerve junction, nerve fibers originating from the fovea are conducted to both the one and the other hemisphere.
@@ -649,9 +649,9 @@ The ear is used to perceive sound waves, which are density vibrations of an elas
 For the ear, these are usually pressure fluctuations of the surrounding air.
 The physical description of sound is called acoustics, while the anatomical and physiological processes of sound perception are called auditory.
 
-A tone is defined as a sinusoidal oscillation with a certain frequency.
-The superposition of finitely many tones and their overtones is called sound.
-A sound consists of the superposition of an infinite number of tones.
+A **tone** is defined as a sinusoidal oscillation with _a certain_ frequency.
+The superposition of finitely many tones and their overtones is called **sound**.
+A **noise** consists of the superposition of an infinite number of tones.
 The minimum sound pressure required to perceive a tone is called the hearing threshold.
 
 ### Measured quantities
@@ -677,7 +677,7 @@ The isophone is the set of all equally loud perceived tones.
 
 ::: figcaption
 
-Curves indicate equally loud perceived volume in phon (isophones); shaded: Main speech range [@betz:1991, @schmidt:1997].
+The curves shown (isophones) indicate equally loud perceived volume in phon; shaded: Main speech range [@betz:1991, @schmidt:1997].
 The frequency range given for telephone refers to the bandwidths of analog telephone systems [^12].
 
 :::
@@ -809,13 +809,13 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    This up-and-down movement of the cochlear partition results in a shearing motion between its individual components, and the displacement of the covering membrane (_membrana tectoria_; tectorial membrane) results in a bending of the sensory hairs of the hair cells of the organ of Corti (<<fig:cross-cut-through-cochlea>>).
 
    The hair cells are arranged along the cochlea in two parallel groups.
-   The approximately $8\:000$ inner hair cells (IHC = _inner hair cells_) are arranged in one row, and the approximately $14\:000$ outer hair cells (OHC = _outer hair cells_) form three to five rows.
+   The approximately $8\:000$ inner hair cells (IHC = _inner hair cells_) are arranged in _one_ row, and the approximately $14\:000$ outer hair cells (OHC = _outer hair cells_) form three to five rows.
    Each of these hair cells carries $60$ – $100$ sensory hairs (_stereocilia_).
    Despite their much larger number, only $5$ to $10\%$ of the auditory nerve fibers terminate at the OHC (high convergence).
    The much larger number of $30\:000$ to $40\:000$ nerve fibers innervate the IHC.
    Not all auditory nerve fibers are afferent (i.e., run from the hair cells to the CNS).
    About $1\:800$ are efferent and are associated with the active processes in the cochlea described in the next section [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
-   The local density of neurons is $1\:150$ ganglion cells/mm at the beginning of the cochlea (at the oval window) and decreases toward the helicotrema [@lindsay:1981].
+   The local density of neurons is $1\:150$ ganglion cells/mm^2^ at the beginning of the cochlea (at the oval window) and decreases toward the helicotrema [@lindsay:1981].
 
 2. Formation of the traveling wave and cochlear amplifier.  
    So far, the mechanics of the inner ear have been described only in principle.
@@ -830,7 +830,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
    This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
 
-   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled up here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled up here [@zenner:1994:a].")
+   ![Location of the envelope of passive traveling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive traveling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
 
    The formation of a vibration maximum by the passive traveling wave causes a first amplification effect in addition to the frequency selection.
    Originally, the ear was considered to be a purely passive sound sensor.
@@ -856,13 +856,13 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    {.lower-alpha}
 
-### Determination of Hearing Ability – Audiometry
+### Determination of Hearing Ability - Audiometry
 
 The procedure for determining hearing is called audiometry.
-In addition to determining the degree of hearing loss and the frequencies affected, the purpose of audiometry is also to locate the place where the hearing loss occurs and to distinguish between conductive hearing loss and sensorineural hearing loss.
+In addition to determining the degree of hearing loss and the frequencies affected, the purpose of audiometry is also to locate the place where the hearing loss occurs and to distinguish between conductive hearing loss (conductive hearing loss) and sensorineural hearing loss (perceptual hearing loss).
 
-The most important procedure for testing hearing is the sound threshold audiogram, i.e. the measurement of the personal hearing threshold.
-In a soundproof room, tones (pure sine waves) of varying intensity and frequency are offered through headphones.
+The most important procedure for testing hearing is sound threshold audiometry or the sound threshold audiogram, i.e. the measurement of the personal hearing threshold.
+In a soundproof room, tones (pure sinusoidal oscillations) of different intensity and frequency are offered through headphones (so-called air conduction).
 The person examined must indicate whether a presented tone could be perceived or not.
 
 In addition to the presentation of the tones via headphones, a coupling via structure-borne sound (bone conduction) is also performed in a separate series of experiments by means of a vibrator attached to the skull bone behind the ear.
@@ -912,6 +912,8 @@ The deviations from the $0\;\sf{dB}\,\sf{HV}$ line in the example are at most $1
 
 The ICIDH distinguishes six degrees of hearing impairment (<<tab:categories-hearing-impairment-according-to-icidh>>):
 
+<!-- FIXME: Profound hearing loss (90 vs. 91dB) -->
+
 | Designation According to ICIDH          | Hearing Loss [in dB HV\]   |
 | --------------------------------------- | -------------------------- |
 | Mild hearing loss                       | $26-40\;\sf{dB}\,\sf{HV}$  |
@@ -935,8 +937,8 @@ The ICIDH distinguishes six degrees of hearing impairment (<<tab:categories-hear
 
 The term deaf should be used only for persons whose hearing impairment is so severe that they are incapable of deriving any benefit from amplification.
 The usefulness of drawing a valid line of demarcation between hard of hearing and deaf by means of an indication in dB HV seems to be small.
-It is much more important to evaluate the functionality of hearing in relation to the most socially significant task, hearing and understanding spoken language.
-In this sense, practitioners suggest drawing the distinction where auditory communication fails despite amplifying aids [@dotter:1996].
+It is much more important to evaluate the functionality of the auditory system in relation to the most socially significant task, the hearing and understanding of spoken language.
+With this in mind, practitioners suggest drawing the line where auditory communication fails despite amplifying aids [@dotter:1996].
 
 In classifying hearing impairment, the primary distinction is whether the reduction in auditory performance is due to reduced conduction of sound to the receptors (hair cells) of the inner ear or whether there is damage to the cochlea or downstream neural pathways (auditory pathway).
 After this general distinction, some more typical forms of hearing loss will be discussed
@@ -947,7 +949,7 @@ After this general distinction, some more typical forms of hearing loss will be 
 
    <!-- FIXME: Cross reference -->
 
-   In the sound-threshold audiogram (see Chapter 7.4.5 for details), a conductive hearing loss is expressed by a drop in the air-conduction curve (LL curve), while the bone-conduction curve (KL curve) remains unchanged in that range that is the norm for persons with normal hearing (<<fig:sound-threshold-audiogram-sound-conduction>>, for the symbols used see <<tab:audiogram-used-symbols>>).
+   In the sound-threshold audiogram (see [Determination of Hearing Ability - Audiometry](#determination-of-hearing-ability-audiometry) for details), a conductive hearing loss is expressed by a drop in the air-conduction curve (LL curve), while the bone-conduction curve (KL curve) remains unchanged in that range that is the norm for persons with normal hearing (<<fig:sound-threshold-audiogram-sound-conduction>>, for the symbols used see <<tab:audiogram-used-symbols>>).
    This is referred to as the occurrence of a “KL-LL difference” or “air-bone gap”).
 
    <!-- prettier-ignore -->
@@ -975,10 +977,10 @@ After this general distinction, some more typical forms of hearing loss will be 
    ![Sound threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (\]).](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Sound threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (]) [@hellbrück:1993].")
 
 4. Noise-induced hearing loss  
-    Any exposure of the auditory system to high sound pressure levels leads to an upward shift of the hearing threshold.
+   Any exposure of the auditory system to high sound pressure levels leads to an upward shift of the hearing threshold.
    If the exposure is short or if it does not exceed sound pressure levels of $90\;\sf{dB}\,\sf{SPL}$, adaptation, which occurs in all sensory organs, occurs, but the hearing threshold drops back to the values before the sound exposure after a recovery period.
 
-   Prolonged sound exposure, especially when it exceeds $90\;\sf{dB}\,\sf{SPL}$, poses a serious threat to the ear.
+   Prolonged exposure to sound, especially when it exceeds $90\;\sf{dB}\,\sf{SPL}$, poses a serious threat to the ear.
    Three mechanisms may come into play.
    First, sound exposure (e.g., $15$ minutes at $95\;\sf{dB}\,\sf{SPL}$ or $30$ seconds at $115\;\sf{dB}\,\sf{SPL}$) can mechanically damage hair cells (kinking or fusing of stereocilia).
    Second, hair cells have an increased energy demand during excitation that cannot be met during prolonged stimulation.
@@ -1043,8 +1045,8 @@ After this general distinction, some more typical forms of hearing loss will be 
 Tinnitus refers to sounds and noises that are perceived by the affected person but are not caused by any external sound source.
 Approximately $32\%$ of the adult population is affected by tinnitus, with $20\%$ reporting that it affects them so severely that the ringing in the ears is bothersome.
 In most cases, tinnitus is a concomitant of hearing loss.
-Most patients with sensorineural hearing loss complain of ringing in the high frequency range, while sensorineural hearing loss usually tinnitus in the lower frequency range.
-Otosclerosis can lead to low frequency tinnitus as does Meniere's disease [@troost:1998].
+Most patients with sensorineural hearing loss complain of tinnitus in the high frequency range, while sensorineural hearing loss usually leads to tinnitus in the low frequency range.
+Otosclerosis, like Meniere's disease, can lead to tinnitus in the low frequency range [@troost:1998].
 
 Pulse-synchronous ear noises have their cause in circulatory disturbances or are caused by hypertension (increased blood pressure).
 Tinnitus is generally understood to be the non-pulsating ear noises that manifest themselves as buzzing, humming or noise in the case of diseases of the middle ear, and as hissing or whistling in the case of damage to the inner ear [@pschyrembel:1989].
@@ -1099,13 +1101,15 @@ Direct electrical stimulation is possible, but requires careful regulation of th
 
 ### Pressure Sensitivity
 
+<!-- FIXME: Footnote at Reference -->
+
 The sense of touch takes its origin in the receptor cells (mechanoreceptors) of the skin, which react to mechanical stimuli, i.e. to deformation of the skin surface.
 Apart from free nerve endings, four different receptors are distinguished, two of which react to static stimuli (absolute deformation of the skin surface) and two to dynamic stimuli (change in deformation).
 In this sense, we speak of slow adapting (_slowly adapting_ = SA) and fast adapting (_rapidly adapting_ = RA) cells [@lederman:1982, @betz:1991, @dudel:1996[^18]].
 
 [^18]: The nature of the adequate stimuli in each case is not uniformly stated in the literature. The medical literature [@betz:1991, @dudel:1996] speaks not only of the response to changes in pressure ($\sf{dp/dt}$ – i.e., a velocity) in Vater-Pacini bodies but also of the response to a change in velocity ($\sf{dp/dt^2}$ – i.e., an acceleration), but without explaining the process in more detail.
 
-_Free nerve endings_ located in stratified epithelia of the skin and extending into the keratinized layers.
+_Free nerve endings_ lie in stratified epithelia of the skin and extend into the keratinized layers.
 They respond to pressure but also to thermal stimuli.
 When injured, they cause pain (nociception).
 The hair follicles may also be surrounded by free nerve changes.
@@ -1126,9 +1130,9 @@ The _Pacinian corpuscle_ (PC = _Pacini corpuscles_; also called Pacini corpuscle
 They can grow up to $4\;\sf{mm}$ long and $1\;\sf{mm}$ thick and have a layered structure similar to an onion (<<fig:section-through-a-pacinian-corpuscle>>).
 Some literature references attribute response to accelerations to them.
 
-The location of mechanoreceptors in the human fingertip is shown in <<fig:mechanoreceptors>>.
-
 ![Section through a Pacinian corpuscle](./pics/06/schnitt-durch-vater-pacini-koerperchen.svg "section-through-a-pacinian-corpuscle#Section through a Pacinian corpuscle [@rhodes:2018, @betz:1991].")
+
+The location of mechanoreceptors in the human fingertip is shown in <<fig:mechanoreceptors>>.
 
 ![Mechanoreceptors of the human skin.](./pics/06/mechanorezeptoren.svg "mechanoreceptors#Mechanoreceptors of the human skin [@servier-medical-art:2019, @dudel:1996]")
 
@@ -1147,6 +1151,8 @@ Like all receptors, mechanoreceptors exhibit adaptation (i.e., they respond only
 The _Meissner corpuscles_ (RA) respond to a change in pressure, so they are _velocity sensors_ and are dominant at stimulus frequencies between $5\;\sf{Hz}$ to $40\;\sf{Hz}$.
 In contrast, the _Pacinian corpuscles_ (PCs) respond only to vibrations in the range of $40\;\sf{Hz}$ to $400\;\sf{Hz}$ [@lederman:1982, @foulke:1986, @betz:1991, @fricke:1994, @dudel:1996].
 A summary overview is given by (<<tab:types-mechanoreceptors>>).
+
+<!-- FIXME: Fragezeichen in Tabelle -->
 
 | Type                           | Adequate stimulus                                                                     | Feature                                                                                    |
 | ------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -1176,7 +1182,6 @@ The performance of the sense of touch depends on the temperature of the skin.
 Cold skin is less elastic and therefore cannot follow dynamic mechanical deformations as quickly.
 Also, the performance of the receptors decreases with temperature, so that surfaces appear smoother at cold than at normal temperature (e.g., $32\degree\sf{C}$ for the typical skin temperature of the hand).
 
-In addition to the mechanoreceptors in the skin described here, the body also has
 In addition to the mechanoreceptors in the skin described here, the body has numerous other pressure-sensitive sensors that regulate blood pressure, for example, or are responsible for controlling processes in the digestive tract.
 Their signals do not penetrate into the consciousness or only when the receptors are particularly strongly irritated.
 
@@ -1204,9 +1209,9 @@ For two-point discrimination (two-point discrimination) at different body sites,
 Thus, the tongue enables the finest discrimination, followed by the fingertips.
 Especially the large skin areas, which would lend themselves to the tactile perception of images in terms of their surface area, perform extremely poorly in spatial stimulus discrimination.
 In addition, it must be distinguished whether both tactile stimuli are presented simultaneously (simultaneous) or successively (successive).
-Since the skin also knows so-called receptive fields (for more details see chapter 7.2.8), which are surrounded by fields with lateral inhibition, discrimination is lower for simultaneous two-point stimuli (the second stimulus falls into the inhibitory area) than for successive presentation.
+Since the skin also knows so-called receptive fields (for more details see [The Receptive Fields](#the-receptive-fields)), which are surrounded by fields with lateral inhibition, discrimination is lower for simultaneous two-point stimuli (the second stimulus falls into the inhibitory area) than for successive presentation.
 
-Thus, for static perceptual discrimination, tactile information must have a spatial resolution greater than $2.5\;\sf{mm}$ for stimuli to be discriminated from each other.
+Thus, for static tactile perceptibility at the fingertip, tactile information must have a spatial resolution of more than $2.5\;\sf{mm}$ for stimuli to be distinguished from each other.
 For the presentation of a line formed by dots, which should be perceived as reasonably continuous, the individual dots must not exceed a distance of $1\;\sf{mm}$ (this specification applies to the moving finger).
 
 ## Spinal Cord, Musculoskeletal System and Musculature
@@ -1214,7 +1219,7 @@ For the presentation of a line formed by dots, which should be perceived as reas
 <!-- FIXME: Querverweis -->
 
 In this chapter, together with the discussion of musculature and musculoskeletal system, the spinal cord is also discussed because all motor commands by which peripheral muscle can be stimulated are addressed via this connection from the central nervous system (CNS).
-It is important to distinguish which muscles are supplied via a direct connection from the brain (cranial nerves, see Chapter 7.1.5) and which run via the spinal cord and can therefore be affected by spinal injuries.
+It is important to distinguish which muscles are supplied via a direct connection from the brain (cranial nerves, see [The Cranial Nerves](#the-cranial-nerves)) and which run via the spinal cord and can therefore be affected by spinal injuries.
 
 ### The Spinal Cord
 
@@ -1247,9 +1252,9 @@ A defect confined to the pyramidal system causes flaccid paralysis.
 All other motor pathways are grouped under the term extrapyramidal motor pathways.
 Symptoms that may occur with damage to the extrapyramidal system include: Disruption of automatic movement and regulation of muscle tone (tremor, spasm, rigor, etc.).
 
-The segments of the spinal cord (i.e., sections belonging to a pair of spinal nerves) are given their names according to the vertebra under which they emerge.
+The segments of the spinal cord (i.e., sections belonging to a pair of spinal nerves) are given their names according to the vertebra _under_ which they emerge.
 Naming in the cervical region is an exception: The $1.$ cervical nerve is that which exits between the occiput and the atlas (uppermost vertebral body, see <<fig:vertebral-column>>).
-The other cervical nerves lie above the respective cervical vertebrae.
+The other cervical nerves lie _above_ the respective cervical vertebrae.
 Between $\sf{C}7$ and $\sf{Th}1$ lies the $8.$ cervical nerve.
 Thus, $8$ cervical, $12$ thoracic, $5$ lumbar, $5$ sacral, and $1$-$2$ coccygeal segments result [@mörike:1981].
 
@@ -1261,7 +1266,7 @@ Muscle are bundles of contractile protein filaments.
 The protein substances involved in muscle contraction are actin and myosin are involved.
 They form filaments (fibers, thread-like structures) that can move against each other.
 Muscle excitation occurs via the so-called neuromuscular junction (terminal branches of the axon located in grooves of the muscle fibers) of the motoneurons (<<fig:neuromuscular-junction>>).
-A release of acetylcholine at the neuromuscular junction causes local depolarization, resulting in the release of Ca++ ions.
+A release of acetylcholine at the neuromuscular junction causes local depolarization, resulting in the release of Ca^++^ ions.
 
 ![Neuromuscular junction](./pics/06/motorische-endplatte.svg "neuromuscular-junction#Neuromuscular junction [@servier-medical-art:2019, @mörike:1981].")
 
@@ -1284,7 +1289,7 @@ To execute voluntary movements, the striated muscles are supplied with the neces
 The first motoneuron is located in the motor cortex, which is responsible for planning a movement.
 The second motoneuron is located (predominantly) in the anterior gray horns of the spinal cord (anterior gray horn cells, see <<fig:spinal-cord>>), from where skeletal muscles are innervated.
 A portion of the _motoneurons_, from which, among other things, the speech, chewing, and swallowing muscles are innervated, originates in the brainstem (bulb)[^20].
-Damage in the brainstem can lead to the loss of the first motoneuron, and damage in the spinal cord can lead to the loss of the _second motoneuron_.
+Damage to the brainstem can lead to the demise of the _first motoneuron_, and damage to the spinal cord can lead to the demise of the _second motoneuron_.
 At both levels, damage can lead to paralysis and muscle wasting.
 If the first motoneuron is involved, spasticity is added [@deutsche-gesellschaft-muskelkranke:1998].
 
@@ -1327,7 +1332,8 @@ As a rule of thumb, $80-100\;\sf{N/cm^2}$.
    In the context of rehabilitation technology, we are primarily interested in those disorders that affect the mobility of the extremities.
    Movements of the head and trunk, as well as movements of internal organs (e.g., heart, respiration) are not addressed here.
 
-   The upper extremities, arms and hands, are primarily used for mechanical interaction with our environment, i.e. grasping and moving objects, operating switches and levers, guiding writing instruments, etc. We want to include all these activities under the term manipulation and therefore refer to this part of motor disabilities as manipulation disabilities.
+   The upper extremities, arms and hands, are primarily used for mechanical interaction with our environment, i.e. grasping and moving objects, operating switches and levers, guiding writing instruments, etc.
+   We want to include all these activities under the term manipulation and therefore refer to this part of motor disabilities as manipulation disabilities.
 
    The lower extremities, legs and feet, are primarily used for locomotion, i.e., a person's mobility.
    We therefore group disabilities by which the movements of the lower extremities are impaired under the term mobility disabilities.
@@ -1527,16 +1533,16 @@ As a rule of thumb, $80-100\;\sf{N/cm^2}$.
 
 The most common diseases in the area of the joints (grie.: arthron) include osteoarthritis and ankylosing spondylitis, in addition to the entire arthritic complex.
 
-1. arthritis  
+1. Arthritis  
    Arthritis is defined as an infectious, rheumatic or metabolic acute or chronic inflammation of the joints.
    The symptoms associated with arthritis are: Joint pain, misalignment of limbs, and restriction of range of motion to immobility.
 
-2. arthrosis  
+2. Arthrosis  
    Degenerative joint disease caused by overuse (heavy work, sports, overweight), metabolic disorders, aging or by already congenital malposition of joints.
    It results in the erosion of joint cartilage to the point of complete abrasion.
    Symptoms range from initial stiffness and pain on movement to permanent pain and reduced mobility.
 
-3. ankylosing spondylitis  
+3. Ankylosing spondylitis  
    Ankylosing spondylitis is an autoimmune disease[^28] that affects joints, as well as ligaments, muscles, and bones.
    The exact cause is unknown, but heredity plays a role.
    Symptoms include: Rheumatoid manifestations (see above), inflammation, swelling, restricted movement, stiffening and curvature of the spine.
@@ -1555,14 +1561,14 @@ For this reason, in the treatment of muscle diseases, the actual muscle diseases
 
 Because of the much broader view of motor disorders, these two categories are treated separately here.
 The neurogenic (secondary) myopathies are therefore found in this chapter.
-Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neuropathies).
+Chapter [Muscular Causes](#muscular-causes) is devoted to muscle disorders in the narrower sense (primary neuropathies).
 
   <!-- FIXME: Cross-reference -->
 
 1. Congenital lesions
 
    - _Infantile cerebral palsy_ (CP)  
-     Infantile cerebral palsy (_infantile cerebral palsy_, also called cerebral palsy – not to be confused with poliomyelitis – epidemic spinal polio)7.8.4b) is the general term for consequences of early childhood, non-progressive brain damage (of the developing brain, $6.$ month of gestation to $6.$ year of life), resulting in damage to motor brain regions.
+     Infantile cerebral palsy (not to be confused with poliomyelitis – epidemic spinal polio), see point (b)) is the general term for consequences of early childhood, non-progressive brain damage (of the developing brain, $6.$ month of gestation to $6.$ year of life), resulting in damage to motor brain regions.
      Causes include hypoxia during pregnancy (in utero) or at birth, infections, cerebral hemorrhage, jaundice (kernicterus), fetopathies, and trauma.
 
      In addition to possible intelligence deficits and delay in language development, spastic paralysis symptoms are the most common.
@@ -1572,7 +1578,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      A distinction is made between the types spastic, athetotic, and ataxic (for description see [basics-and-systematics](chapter6.html#basics-and-systematics) (c)), but these can also occur in combinations [@prentke:1993, @trace-center:1999].
 
    - _Minimal cerebral dysfunction_ (MCD)  
-     Minimal cerebral dysfunction (_minimal cerebral dysfunction_; MCD) is the consequence for only slightly affecting early brain damage (MCP – minimal cerebral palsy).
+     Minimal cerebral dysfunction (MCD) is the result of early childhood brain damage (MCP – minimal cerebral palsy) that has only a minor effect.
      Common cause is hypoxia during pregnancy or during the birth process.
      Appearance of immaturity in organizing movements (hesitant, awkward, clumsy).
      In addition, speech, perception and intellect may be affected, but with normal intelligence, but only in terms of planning and organizing.
@@ -1610,7 +1616,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      Symptoms are extremely varied.
      Virtually all cerebral and spinal symptoms may occur, especially spastic paralysis (paresis to paraplegia), sensory disturbances, nystagmus, intention tremor, ataxia, eye muscle paralysis, speech impairment (dysarthria, scant speech), and psychological effects.
 
-   - Amyotrophic lateral sclerosis (ALS).  
+   - _Amyotrophic lateral sclerosis_ (ALS)  
      In amyotrophic lateral sclerosis (abbreviation: ALS; Lou Gehrig's Disease; old name: Charcot disease, as in MS), destruction of central (brain, brainstem) and peripheral (anterior horn cells) motor neurons and their axons leads to loss of muscle substance.
      ALS is therefore classified as a secondary muscle disease.
      The etiology is uncertain; toxic, infectious, or hereditary causes are suspected.
@@ -1680,7 +1686,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
      A lack of oxygen supply to the brain can lead to permanent brain damage.
      Hypoxia during pregnancy (in utero) or during the birth process, for example, can lead to early brain damage and, as a consequence, to minimal cerebral dysfunction.
 
-4. lesions of the spinal cord and nerve tracts – paraplegia  
+4. Lesions of the spinal cord and nerve tracts – paraplegia  
    Transverse lesions (_transverse lesion_, _spinal cord injury_) are complete or partial damage to the spinal cord following vertebral fractures, disc herniation, tumors, and others.
    Lesions of the spinal cord above $\sf{Th}1$ lead to tetraparesis, below $\sf{Th}1$ to paraparesis, thus only the lower extremities are affected (see <<fig:vertebral-column>> and <<tab:classification-paralysis>>) [@pschyrembel:1989].
    The typical relationships between the level of the lesion and the resulting functional consequences are shown in <<tab:effects-cross-sectional-lesions>>; after [@müller:1994].
@@ -1714,7 +1720,7 @@ Chapter 7.8.5 is devoted to muscle disorders in the narrower sense (primary neur
 
 This section deals with muscle diseases in the narrower sense (primary myopathies).
 These include all diseases in which the muscle fibers are directly affected by a disease process [@deutsche-gesellschaft-muskelkranke:1998].
-The secondary or neurogenic myopathies can be found in chapter 7.8.4.
+The secondary or neurogenic myopathies can be found in chapter [Damages of the Nervous System](#damages-of-the-nervous-system).
 Most neuromuscular diseases are genetic, intelligence, emotions and affect are not impaired, sensory organs are not affected.
 
 1. Progressive muscular dystrophies  
@@ -1763,15 +1769,15 @@ Most neuromuscular diseases are genetic, intelligence, emotions and affect are n
 <!-- FIXME: cross reference -->
 
 2. Myasthenias  
-   Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^31] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter 7.7.2).
+   Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^28] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter [Musculature](#musculature)).
 
    - _Myasthenia gravis_  
      There is a load-dependent, abnormally rapid fatigue of the striated muscles, which typically affects the eye muscles (double vision – diplopia), the chewing and swallowing muscles, the neck muscles and the upper arms.
      Danger to life exists in crisis situations when paralysis symptoms spread to the swallowing and breathing muscles.
 
-    <!-- FIXME: footnote/reference -->
+   <!-- FIXME: footnote/reference -->
 
-   [^31]: see footnote 28 on page 54.
+   <!-- [^31]: see footnote 28 on page 54. -->
 
 {.lower-alpha}
 
