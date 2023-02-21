@@ -306,9 +306,9 @@ Auch thermische Reize liefern nur geringe Bandbreiten.
 
 | Sinnesorgan       | Bandbreite in $\sf{bit/s}$ |
 | ----------------- | -------------------------- |
-| Sehen (Auge)      | $106\;\sf{bit/s}$          |
-| Hören (Ohr)       | $104\;\sf{bit/s}$          |
-| Tasten (Haut)     | $102\;\sf{bit/s}$          |
+| Sehen (Auge)      | $10^{6}\;\sf{bit/s}$       |
+| Hören (Ohr)       | $10^{4}\;\sf{bit/s}$       |
+| Tasten (Haut)     | $10^{2}\;\sf{bit/s}$       |
 | Riechen (Nase)    | $\lt10\;\sf{bit/s}$        |
 | Schmecken (Zunge) | $\lt10\;\sf{bit/s}$        |
 

@@ -23,8 +23,8 @@ abbreviations:
 
 Based on the “_Nordic Classification System for Aids for Disabled Persons_”, a comprehensive internationally valid classification system for technical aids for disabled persons was created by the standard ISO $9999$ “_Technical aids for disabled persons – Classification_” (adopted into the European body of standards under EN ISO $9999$).
 The ISO $9999$ standard divides aids into three hierarchical levels: _Classes_, _Subclasses_ and _Divisions_.
-On the top hierarchy, $10$ classes (_Classes_) are distinguished and assigned a code.
-To have place for later additions, so far only every third code was assigned (<<tab:classes-iso-9999>>).
+On the top hierarchy, $10$ classes (_Classes_) are distinguished and assigned to a code.
+To have space for later additions, so far only every third code was assigned (<<tab:classes-iso-9999>>).
 
 | Class | Designation                                                               |
 | ----- | ------------------------------------------------------------------------- |
@@ -254,9 +254,9 @@ It is described in more detail in <<tab:example-technical-classification-iso-999
 
 ## Classification According to the Mode of Action
 
-### Augmentative (Reinforcing) Aids
+### Augmentative (Enhancing) Aids
 
-By this we mean aids that amplify a stimulus (an action) in such a way that it can also be perceived (performed) by an organ whose performance is reduced.
+By this we mean aids that enhance a stimulus (an action) in such a way that it can also be perceived (performed) by an organ whose performance is reduced.
 <<fig:function-wise-augmentative-aids>> clarifies the mode of operation with an example.
 The incoming sensory stimulus can be perceived by the disabled person only in an attenuated form because of damage to the sensory organ in question.
 The task of the aid marked A is to amplify the incoming stimulus in a suitable way so that it can be perceived with the same intensity as a non-disabled person would have perceived it.
@@ -268,28 +268,28 @@ Examples of augmentative aids are hearing aids and eyeglasses.
 
 <!-- FIXME: Verweis -->
 
-Substituting means aids with which a stimulus is diverted to other than the otherwise usual sensory organs.
-The same applies when an action (movement or triggering of a movement) is obtained from other than the otherwise usual actuatory organs.
+Substituting means aids with which a stimulus is diverted to another than the usual sensory organ.
+The same applies when an action (movement or triggering of a movement) is obtained from another than the usual actuatory organ.
 In this case, a substitution = [vicariate](#the-vicariate) occurs.
 <<fig:function-wise-substiuating-aids>> shows a person in whom the perception of optical stimuli is not possible due to blindness.
 The aid A shown in the middle diagram suitably converts the optical stimulus into an acoustic stimulus and directs it to the hearing of the blind person.
-Similarly, the right plot of <<fig:function-wise-substiuating-aids>> shows the conversion to a tactilely perceptible stimulus.
+Similarly, the right plot of <<fig:function-wise-substiuating-aids>> shows the conversion to a tactile stimulus.
 Examples of substituting aids include the use of Braille, which is read with the fingertips instead of the eyes, and lip-reading, in which the eyes perform tasks that are usually performed by the ears.
 
 ![Mode of operation of a substituting (replacement) aid.](./pics/05/funktionsweise-substituierende-hilfsmittel.svg "function-wise-substiuating-aids#Mode of operation of a substituting (replacement) aid [@zagler:2008].")
 
-### Inserting Tools
+### Bypassing (Bridging) Tools
 
 By this we mean aids that replace or bridge an interrupted part of a functional chain, but return the stimulus (action) to the original organ or its neural pathways.
 The graphic in <<fig:functionally-inserting-auxiliary-aids>> represents a person who, because of a complete functional failure of the sensory organ in question, is unable to perceive a stimulus, whether it is offered in the usual way or in an amplified way.
 The function of the aid A is to guide the stimulus around the defective area in such a way that, by stimulating the nerve pathways lying later, an impression is produced which is as close as possible to the effects of the original stimulus.
-Examples of inserting aids are cochlear implants and functional electrical stimulation.
+Examples of bypassing aids are cochlear implants and functional electrical stimulation.
 
 ![Functionality of an inserting aid.](./pics/05/funktionsweise-inserierende-hilfsmittel.svg "functionally-inserting-auxiliary-aids#Functionality of an inserting aid [@zagler:2008].")
 
 ## The Vicariate
 
-By a vicariate (substitution) we mean all measures in which a function that has failed due to damage is replaced by another.
+By a vicariate (substitution, proxy) we mean all measures in which a function that has failed due to damage is replaced by another.
 In this case, the tool has the task of executing the appropriate transformation as an interface to the environment.
 
 ### Sensory Vicariate
@@ -298,19 +298,19 @@ Sensory vicariance is the replacement of one failed sensory organ by another.
 <<fig:mode-of-action-sensory-vicariate>> illustrates this by means of damage to the eyes, as a result of which visual stimuli can no longer be perceived.
 The aid marked “A” in the picture has the task of converting the visual stimulus (the optical signal from the environment) into a tactile stimulus (accessible to the sense of touch).
 
-![Mode of action of a sensory vicariate (substitution of vision by touch).](./pics/05/wirkungsweise-sensorisches-vikariat.svg "mode-of-action-sensory-vicariate#Mode of action of a sensory vicariate (substitution of vision by touch) [@zagler:2008].")
+![Mode of action of a sensory vicariate (substitution of vision by the sense of touch).](./pics/05/wirkungsweise-sensorisches-vikariat.svg "mode-of-action-sensory-vicariate#Mode of action of a sensory vicariate (substitution of vision by the sense of touch) [@zagler:2008].")
 
-Since the performance of the individual sense organs (the bandwidth in the broadest sense) and also the type of perception that takes place via them varies greatly, the tool must attempt to convey as much relevant information as possible.
-<<tab:bandwidths-human-sense-organs>> shows a comparison of the “bandwidths” of the individual sense organs.
+Since the performance of the individual sensory organs (the bandwidth in the broadest sense) and also the type of perception that takes place via them varies greatly, the tool (_aid_) must attempt to convey as much relevant information as possible.
+<<tab:bandwidths-human-sense-organs>> shows a comparison of the “bandwidths” of the individual sensory organs.
 From this it can be seen what limitations must be expected in the use of vicariates.
-Smell and taste are therefore not considered for vicariates.
+Smell and taste are, therefore, not considered for vicariates.
 Thermal stimuli also provide only small bandwidths.
 
 | Sense Organ    | Bandwidth in $\sf{bit/s}$ |
 | -------------- | ------------------------- |
-| Vision (Eye)   | $106\;\sf{bit/s}$         |
-| Hearing (Ear)  | $104\;\sf{bit/s}$         |
-| Touch (Skin)   | $102\;\sf{bit/s}$         |
+| Vision (Eye)   | $10^{6}\;\sf{bit/s}$      |
+| Hearing (Ear)  | $10^{4}\;\sf{bit/s}$      |
+| Touch (Skin)   | $10^{2}\;\sf{bit/s}$      |
 | Smell (Nose)   | $\lt10\;\sf{bit/s}$       |
 | Taste (Tongue) | $\lt10\;\sf{bit/s}$       |
 
@@ -318,7 +318,7 @@ Thermal stimuli also provide only small bandwidths.
 
 ### Actuatory Vicariate
 
-Actuatory vicariate is effective in the opposite direction, i.e. from the person to the environment.
+An actuatory vicariate is effective in the opposite direction, i.e. from the person to the environment.
 <<fig:mode-of-action-actuatory-vicariate>> shows this on the basis of damage (absence) of the upper extremities, according to which the person is not able to lift the weight.
 In this example, the assumed assistive device (aid) A receives voice commands and controls a lifting device.
 
