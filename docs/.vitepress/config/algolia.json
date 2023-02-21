@@ -1,6 +1,6 @@
 {
   "index_name": "rehabilitationstechnik",
-  "start_urls": ["https://oer.studyathome.technikum-wien.at/rehatec/"],
+  "start_urls": ["https://rehatec.studyathome.technikum-wien.at/"],
   "stop_urls": [],
   "selectors": {
     "lvl0": {

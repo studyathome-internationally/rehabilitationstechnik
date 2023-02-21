@@ -4,7 +4,7 @@ on:
   # schedule:
   #   - cron: "0 0 * * 0" # At 00:00 on Sunday (weekly)
 env:
-  BASE: /rehatec/
+  BASE: /
   USER: study
   SERVER: studyathome.technikum-wien.at
   DEST: /var/www/html/asterics-web-devwindows/rehatec
