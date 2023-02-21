@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="sichtweise-auf-behinderung.color.inkscape.svg"
    id="svg6646"
    version="1.2"
@@ -30,9 +30,9 @@
      inkscape:current-layer="svg6646"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
-     inkscape:window-x="2560"
-     inkscape:cy="110.31069"
-     inkscape:cx="195.33181"
+     inkscape:window-x="7280"
+     inkscape:cy="110.7924"
+     inkscape:cx="175.58187"
      inkscape:zoom="4.1519094"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -40,8 +40,8 @@
      fit-margin-top="0"
      showgrid="false"
      id="namedview6648"
-     inkscape:window-height="1403"
-     inkscape:window-width="2560"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -58,7 +58,9 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true">
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid651"
@@ -67,107 +69,133 @@
     <sodipodi:guide
        position="55.520512,116.78711"
        orientation="1,0"
-       id="guide653" />
+       id="guide653"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,116.78711"
        orientation="1,0"
-       id="guide655" />
+       id="guide655"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="85.520511,116.78711"
        orientation="1,0"
-       id="guide657" />
+       id="guide657"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="193.47917,116.78711"
        orientation="0,-1"
-       id="guide659" />
+       id="guide659"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,139.28711"
        orientation="0,-1"
-       id="guide661" />
+       id="guide661"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="100.52051,116.78711"
        orientation="1,0"
-       id="guide663" />
+       id="guide663"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="115.52051,116.78711"
        orientation="1,0"
-       id="guide665" />
+       id="guide665"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="130.52051,116.78711"
        orientation="1,0"
-       id="guide667" />
+       id="guide667"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="145.52051,116.78711"
        orientation="1,0"
-       id="guide669" />
+       id="guide669"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="160.52051,116.78711"
        orientation="1,0"
-       id="guide671" />
+       id="guide671"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,94.287114"
        orientation="0,-1"
-       id="guide1556" />
+       id="guide1556"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,71.787115"
        orientation="0,-1"
-       id="guide1558" />
+       id="guide1558"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,49.287114"
        orientation="0,-1"
-       id="guide1560" />
+       id="guide1560"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,26.787114"
        orientation="0,-1"
-       id="guide1562" />
+       id="guide1562"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="70.520511,161.78711"
        orientation="0,-1"
-       id="guide2146" />
+       id="guide2146"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="175.52051,116.78711"
        orientation="1,0"
-       id="guide2221" />
+       id="guide2221"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="190.52051,116.78711"
        orientation="1,0"
-       id="guide2223" />
+       id="guide2223"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="205.52051,116.78711"
        orientation="1,0"
-       id="guide2225" />
+       id="guide2225"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="220.52051,116.78711"
        orientation="1,0"
-       id="guide2227" />
+       id="guide2227"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="235.52051,116.78711"
        orientation="1,0"
-       id="guide2229" />
+       id="guide2229"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="250.52051,116.78711"
        orientation="1,0"
-       id="guide2231" />
+       id="guide2231"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="265.52051,116.78711"
        orientation="1,0"
-       id="guide2233" />
+       id="guide2233"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="213.02051,105.53711"
        orientation="0,-1"
-       id="guide2529" />
+       id="guide2529"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="40.520512,116.78711"
        orientation="1,0"
-       id="guide6625" />
+       id="guide6625"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="25.520502,116.78711"
        orientation="1,0"
-       id="guide6627" />
+       id="guide6627"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="40.520512,11.787114"
        orientation="0,-1"
-       id="guide17847" />
+       id="guide17847"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs807">
@@ -3250,7 +3278,7 @@
        id="tspan4843"
        style="font-size:10px;stroke-width:0.75"
        x="62.235352"
-       y="50.961166">normality limit</tspan></text>
+       y="50.961166">normality threshold</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
