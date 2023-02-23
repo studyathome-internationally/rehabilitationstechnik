@@ -39,7 +39,7 @@ module.exports = [
   // [800, join(__dirname, "./../docs/de/pics/06/katarakt.svg")],
   [800, join(__dirname, "./../docs/de/pics/06/lage-wanderwelle.svg")],
   [800, join(__dirname, "./../docs/de/pics/06/medizintechnik-rehabilitationstechnik-wirkungskette.svg")],
-  // [800, join(__dirname, "./../docs/de/pics/06/myopie.svg")],
+  [800, join(__dirname, "./../docs/de/pics/06/myopie.svg")],
   [800, join(__dirname, "./../docs/de/pics/06/normalsicht.svg")],
   [1000, join(__dirname, "./../docs/de/pics/06/querschnitt-durch-schnecke.svg")],
   [800, join(__dirname, "./../docs/de/pics/06/reizleitung-axon.svg")],
