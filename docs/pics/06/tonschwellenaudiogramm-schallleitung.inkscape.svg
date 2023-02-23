@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
-   sodipodi:docname="tonschwellenaudiogramm-schallleitung.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
+   sodipodi:docname="tonschwellenaudiogramm-schallleitung.inkscape.svg"
    id="svg4736"
    version="1.2"
    viewBox="0 0 319.36003 210.40088"
@@ -27,12 +27,12 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      inkscape:window-maximized="0"
-     inkscape:window-y="27"
-     inkscape:window-x="4924"
-     inkscape:cy="287.41649"
-     inkscape:cx="194.08946"
+     inkscape:window-y="18"
+     inkscape:window-x="2560"
+     inkscape:cy="287.92927"
+     inkscape:cx="130.7604"
      inkscape:zoom="1.9501317"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -51,7 +51,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="pt" />
+     inkscape:document-units="pt"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs523">
     <g
@@ -2098,7 +2100,7 @@
          style="font-size:8px;stroke-width:0.75"
          x="-2.302705"
          y="-18.405121"
-         dx="0 0 1.5909904">dbHV</tspan></text>
+         dx="0 0 1.5909904">dbHL</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

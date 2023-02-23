@@ -476,7 +476,7 @@ Die Linse wird zufolge ihrer Elastizität dicker, die Brechkraft wird erhöht un
 ### Lidschlag
 
 Das Augenlid dient dem Schutz und der Befeuchtung des Augapfels.
-Der Lidschlag (Schießen des Oberlids) erfolgt entweder unwillkürlich-periodisch, willkürlich oder reflexartig.
+Der Lidschlag (Schließen des Oberlids) erfolgt entweder unwillkürlich-periodisch, willkürlich oder reflexartig.
 Die Frequenz mit der der unwillkürliche Lidschlag erfolgt ist stark von der Person abhängig.
 Als durchschnittlicher Richtwert gelten $15$ bis $16$ Lidschläge/min [@wilson:1996:a].
 Die Lidschlagfrequenz nimmt bei lang andauernden Tätigkeiten mit hoher Sehanforderung zu und kann dann Werte bis über $70$ Lidschläge / min erreichen [@methling:1996].
@@ -486,7 +486,7 @@ Die Dauer eines Lidschlags (Zeit, in der das Auge verschlossen bleibt) wird in d
 ### Vorverarbeitung und Informationsverdichtung in der Retina
 
 Außer den Rezeptorzellen (rechts in <<fig:schnitt-netzhaut>>) befinden sich in der Retina noch vier weitere Schichten von Neuronen, die bereits innerhalb der Netzhaut für eine „Verschaltung“ der Signale sorgen und somit einen wesentlichen Beitrag zur Bildvorverarbeitung leisten.
-Die Leistungsfähigkeit dieser Schichten ist schon allein aus der Tatsache ersichtlich, dass $125$ Millionen Rezeptoren (Summe aus rund $120$ Millionen Stäbchen und $6$ Millionen Zäpfchen) lediglich $1$ Million Nervenfasern (Axone der Ganglienzellen, siehe unten) im Sehnerv gegenüberstehen.
+Die Leistungsfähigkeit dieser Schichten ist schon allein aus der Tatsache ersichtlich, dass $125$ Millionen Rezeptoren (Summe aus rund $120$ Millionen Stäbchen und $6$ Millionen Zäpfchen) lediglich $1$ Million Nervenfasern (Axone der Ganglienzellen) im Sehnerv gegenüberstehen.
 Anders ausgedrückt, verzeichnen wir zwischen Rezeptoren und Sehnerv eine Konvergenz von $125:1$, ohne dass jedoch bei diesem Schritt vom Auge aufgenommene Information einfach verloren geht.
 
 ### Die rezeptiven Felder
@@ -737,8 +737,8 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    ::: figcaption
 
-   1. Äußerer Gehörgang;
-   2. Ohrläppchen;
+   1. Ohrmuschel;
+   2. Äußerer Gehörgang;
    3. Trommelfell;
    4. Hammer;
    5. Paukenhöhle;
@@ -789,6 +789,7 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
    2. Beginn der Vorhoftreppe;
    3. häutiger Schneckengang;
    4. rundes Fenster am Ende der Paukentreppe;
+   5. Helicotrema
       {.lower-alpha}
 
    :::
@@ -799,21 +800,21 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    <div>
 
-   1. Vorhoftreppe;
-   2. häutiger Schneckengang;
-   3. Paukentreppe
+   6. Vorhoftreppe;
+   7. häutiger Schneckengang;
+   8. Paukentreppe
       {.upper-alpha}
 
    </div>
    <div>
 
-   1. Reissnersche Membran;
-   2. Deckmembran;
-   3. Basilarmembran;
-   4. Cortisches Organ;
-   5. äußere Haarzellen;
-   6. innere Haarzellen
-      {.lower-alpha}
+   9. Reissnersche Membran;
+   10. Deckmembran;
+   11. Basilarmembran;
+   12. Cortisches Organ;
+   13. äußere Haarzellen;
+   14. innere Haarzellen
+       {.lower-alpha}
 
    </div>
 

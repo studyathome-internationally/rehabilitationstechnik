@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="medizintechnik-rehabilitationstechnik-wirkungskette.inkscape.svg"
    id="svg5887"
    version="1.2"
@@ -33,15 +33,15 @@
      fit-margin-top="5"
      inkscape:current-layer="svg5887"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="0"
-     inkscape:cy="122.55583"
-     inkscape:cx="437.40636"
+     inkscape:window-y="0"
+     inkscape:window-x="7280"
+     inkscape:cy="123.06861"
+     inkscape:cx="327.15739"
      inkscape:zoom="0.97506585"
      showgrid="false"
      id="namedview5889"
-     inkscape:window-height="1376"
-     inkscape:window-width="2560"
+     inkscape:window-height="1043"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -63,7 +63,9 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true">
+     inkscape:snap-center="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1582"
@@ -2659,91 +2661,92 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="15.348154"
+     x="21.578192"
      y="17.364248"
      id="text1580"><tspan
        sodipodi:role="line"
        id="tspan1578"
-       x="15.348154"
+       x="21.578192"
        y="17.364248"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Disease</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="131.0639"
+     x="153.22952"
      y="17.364248"
      id="text1588"><tspan
        sodipodi:role="line"
        id="tspan1586"
-       x="131.0639"
-       y="17.364248"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Damage</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="253.66248"
-     y="17.364248"
-     id="text1594"><tspan
-       sodipodi:role="line"
-       id="tspan1592"
-       x="253.66248"
-       y="17.364248"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Ability Disorder</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="440.76889"
-     y="17.364248"
-     id="text1600"><tspan
-       sodipodi:role="line"
-       id="tspan1598"
-       x="440.76889"
+       x="153.22952"
        y="17.364248"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Impairment</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="29.979767"
+     x="316.28717"
+     y="17.364248"
+     id="text1594"><tspan
+       sodipodi:role="line"
+       id="tspan1592"
+       x="316.28717"
+       y="17.364248"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Disability</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="460.0401"
+     y="17.364248"
+     id="text1600"><tspan
+       sodipodi:role="line"
+       id="tspan1598"
+       x="460.0401"
+       y="17.364248"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Handicap</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     x="51.830383"
      y="48.17049"
      id="text1604"><tspan
        sodipodi:role="line"
        id="tspan1602"
-       x="29.979767"
+       x="51.830383"
        y="48.17049"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Medical Technology</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-     x="295.6907"
+     x="318.02957"
      y="48.17049"
      id="text1608"><tspan
        sodipodi:role="line"
        id="tspan1606"
-       x="295.6907"
+       x="318.02957"
        y="48.17049"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.75">Rehabilitation Technology</tspan></text>
   <path
      style="fill:none;stroke:#000000;stroke-width:2.12598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotS);marker-end:url(#marker1922)"
-     d="M 7.4519689,24.293991 H 209.95198"
-     id="path1610" />
+     d="m 7.4519689,24.293991 246.2012411,0"
+     id="path1610"
+     sodipodi:nodetypes="cc" />
   <path
      style="fill:none;stroke:#000000;stroke-width:2.12598;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1976);marker-end:url(#marker1986)"
-     d="M 243.70198,24.293991 H 554.95199"
+     d="m 288.3797,24.293991 266.57229,0"
      id="path1972"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 91.234399,9.5106306 H 106.2344 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 H 90.109399 Z"
+     d="m 108.36974,9.5106306 h 15 l 0.74999,-3.75 5.99997,6.0000004 -8.24996,5.25 0.75001,-3.75 h -15.37501 z"
      id="path1584"
      sodipodi:nodetypes="cccccccc" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 217.41109,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
+     d="m 260.61558,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
      id="path1590"
      sodipodi:nodetypes="cccccccc" />
   <path
      style="fill:#ffffff;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 392.48622,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
+     d="m 415.18027,9.5106306 h 15 l 0.75,-3.75 6,6.0000004 -8.25,5.25 0.75001,-3.75 h -15.37501 z"
      id="path1596"
      sodipodi:nodetypes="cccccccc" />
 </svg>

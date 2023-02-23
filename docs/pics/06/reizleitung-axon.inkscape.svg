@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="reizleitung-axon.inkscape.svg"
    id="svg8529"
    version="1.2"
@@ -29,10 +29,10 @@
   <sodipodi:namedview
      inkscape:current-layer="svg8529"
      inkscape:window-maximized="1"
-     inkscape:window-y="0"
-     inkscape:window-x="2560"
-     inkscape:cy="92.630984"
-     inkscape:cx="438.40618"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:cy="92.807759"
+     inkscape:cx="324.56199"
      inkscape:zoom="2.8284273"
      fit-margin-bottom="5"
      fit-margin-right="5"
@@ -40,7 +40,7 @@
      fit-margin-top="5"
      showgrid="false"
      id="namedview8531"
-     inkscape:window-height="1403"
+     inkscape:window-height="1376"
      inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -64,7 +64,9 @@
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="pt">
+     inkscape:document-units="pt"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1271"
@@ -2653,12 +2655,12 @@
        x="250.94629"
        y="148.29492"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.75"
-       id="tspan2912">in activated</tspan><tspan
+       id="tspan2912">in activated,</tspan><tspan
        sodipodi:role="line"
        x="250.94629"
        y="160.79492"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.75"
-       id="tspan10974">state</tspan><tspan
+       id="tspan10974">depolarized, state</tspan><tspan
        sodipodi:role="line"
        x="250.94629"
        y="173.29492"
