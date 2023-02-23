@@ -14,161 +14,139 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[AAL]: Ambient Assisted Living (or Active Assisted Living)
-*[AsTeRICS]: Assistive Technology Rapid Integration & Construction Set
-*[AT]: Assistive Technology
-*[USA]: United States of America
+*[AC]: Air conduction
+*[ALS]: Amyotrophic lateral sclerosis
+*[BC]: Bone conduction
+*[CNS]: Central Nervous System
+*[CP]: Cerebral palsy
+*[CVA]: Cerebral vascular accident
+*[IHC]: Inner hair cells
+*[MCD]: Minimal cerebral dysfunction
+*[MCP]: Minimal cerebral palsy
+*[MS]: Multiple Sklerose
+*[OHC]: Outer hair cells
+*[PAL]: Phase Alternating Line
+*[PC]: Pacini corpuscles
+*[RA]: rapidly adapting
+*[RP]: Retinopathia pigmentosa
+*[SA]: slowly adapting
+*[SPL]: Sound Pressure Level
+*[TBI]: Traumatic brain injury
 
-# Assistive Technology - Basics
+# Visual Disabilities
 
-In the _Assistive Technology Act_ of 2004 from USA Public Law [@assistive-technology-act:2004], the term “Assistive Technology” is defined as “technology designed to be utilized in an assistive device or assistive service”:
+## Classification of Visual Impairment
 
-- An Assistive Technology device is “…any item, piece of equipment, or product system, whether acquired commercially, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.”
-- Assistive technology service means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device.
+Visual impairment is usually classified according to <<tab:classification-visual-impairment>>.
+This rating is valid with optimal optical correction (glasses, contact lenses) for the better eye.
 
-This means that the term Assistive Technology (AT) includes assistive, adaptive, and rehabilitative technologies and devices as well as the process used in selecting, locating and using them.
-Thus, AT products help people with disabilities in performing daily living tasks, communication, education, or work.
-They give these people alternative access to advanced electronic devices like computers or mobile phones and help them to achieve greater independence and improve their quality of life.
-It enables people to perform tasks that they were formerly unable to accomplish or had great difficulties with accomplishing what means greater independence. [@asterics:deliverable:2.4, @soprano:deliverable:1.1.2]
+| Designation              | Visual Acuity |
+| ------------------------ | ------------- |
+| Visual Impairment        | $\lt~0.3$     |
+| Severe visual impairment | $\lt~0.05$    |
+| Legally blind            | $\lt~0.02$    |
 
-## Goals and Target Group
+.classification-visual-impairment#classification of visual impairments.
 
-The target groups for the application of Assistive Technologies are persons with physical or mental challenges or social handicaps.
-Thus, goals of Assistive Technologies are to overcome completely or partly those functional or social restrictions and/or to compensate effects of diseases and disabilities without necessarily changing the underlying causes themselves, thus creating a barrier-free environment.
+## Causes of Visual Impairments
 
-![A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).](./pics/09/personal-assistive-tools.svg "personal-assistive-tools#A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).")
+<!-- FIXME: Abbildungsverweis -->
 
-1. Goal of Assistive Technology – Personal Approach
-   The first goal is _to restore or improve an impaired function_.
-   This approach applies with incapacities/skill deficits.
-   With an assistive device the functional restriction (disability) is compensated (producing activity), for example by a hearing aid.
-   This concept is represented in <<fig:personal-assistive-tools>> a), where the “A” stands for the assistive tool.
-2. Goal of Assistive Technology – Communal Approach
-   With this approach the _effects of impairment are overcome_ without any restoration or improvement of the function itself.
-   This approach applies to the handicap.
-   The functional restriction remains, but the person is again able to fulfil his or her role in society (producing participation).
-   This approach is depicted in <<fig:personal-assistive-tools>> b).
-3. Goal of Assistive Technology – Design Approach
-   The third goal of Assistive Technology is to _remove barriers_ or to avoid them from the start.
-   It applies to the design of the built environment by creating barrier-free environments, whereby barriers are to be seen in the broadest sense.
-   This concept is represented in <<fig:personal-assistive-tools>> c).
+Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
+For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
 
-## Assistive Tools: A Matter of Design
+![NormNormal visionalsicht](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
 
-To reach the already mentioned third goal of Assistive Technology barriers are removed by the right design.
-Thus, this approach will be described more in detail, and principles of Universal Design are presented.
+It must be pointed out that this illustration as well as all simulations of visual impairments are only very rough approximations of the actual situation.
+Visual field defects cannot simply be simulated by black areas, although this is often done in illustrations.
+Here, a neutral gray was deliberately chosen, which still comes closest to a non-existent perception.
 
-### Narrowing the Gap
+Even if it were possible to draw a visually faithful picture of a visual impairment, this representation would only remain on the surface, since any kind of disability not only restricts the affected person functionally, but also deeply shapes his or her personality and imagination.
+For example, if someone thinks he or she understands blindness by wearing a blindfold, he or she is subject to a huge error.
 
-<!-- FIXME: cross-reference -->
+## Refractive Anomalies – Refractive Errors of the Eye
 
-As mentioned before in chapter 1.2 Disability as Difference between Personal Ability and Societal Demands the Gap Theory says that disability is the difference between the personal abilities and the demands which are posed to this person by society or environment.
-There are two directions to close the gap between abilities and demands – first, to increase the personal abilities, or second to decrease the demands of a product or the environment.
+If the refractive power of the optical elements of the eye (cornea, lens, and vitreous body) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
+Eyeglasses and contact lenses can compensate for $90\%$ of refractive anomalies.
+In refractive anomalies we distinguish:
 
-![Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design.](./pics/09/narrowing-the-gap-between-personal-abilities-and-demands.svg "Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design [@zagler:2013].")
+1. Myopia  
+   In myopia, the refractive power of the eye is too high (focal length too short) or the eyeball is too long.
+   The plane of focus (especially of distant objects) is in front of the retina.
+   The remedy is glasses or contact lenses with a dispersing effect (<<fig:ray-tracing-myopia>>).
+   The effects of myopia are shown in <<fig:myopia>>.
 
-In recent years, a few design philosophies have developed:
+   ![Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina](./pics/06/strahlengang-myopie.svg "ray-tracing-myopia#Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina [@mörike:1981].")
 
-- Barrier-free Design
-- Adaptable Design
-- Design-for-All
-- Universal Design
+   ![Myopia](./pics/06/myopie.svg "myopia#Myopia [@frederiksen:1989].")
 
-Even if each philosophy has its definition and its approach, they all have one goal – to narrow the gap between the demands from the environment and the abilities of a person by reducing the demands.
-Nevertheless, the term “Universal Design” has become the most preferable.
+2. Hyperopia (farsightedness)  
+   In farsightedness (hyperopia, hypermetropia) the refractive power of the eye is too low (focal length too long) or the eyeball is too short.
+   The plane of focus (especially of close objects) is behind the retina.
+   The remedy is a pair of glasses or contact lens with collecting effect (<<fig:ray-trace-hyperopia>>).
 
-### Principles of Universal Design
+   ![Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina](./pics/06/strahlengang-hyperopie.svg "ray-trace-hyperopia#Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina [@mörike:1981].")
 
-Pioneers in the topic “Universal Design” is the “Center for Universal Design” at the North Carolina State University where the seven principles of Universal Design were developed [@zagler:2013], which are
+3. Presbyopia  
+   The so-called presbyopia has similar effects as hyperopia, but the cause is a reduced elasticity of the eye lens with increasing age (see also <<fig:eye-lens-and-accommodation>>).
+   As a result, near accommodation becomes limited and the near point moves more and more into the distance.
+   Presbyopia is said to occur when the range of accommodation (the so-called accommodation success) has decreased to values below $4\;\sf{dpt}$ (values in youth are around $12\;\sf{dpt}$).
 
-1. Principle: Equitable Use  
-   The design is useful and marketable to people with diverse abilities
-2. Principle: Flexibility in Use  
-   The design accommodates a wide range of individual preferences and abilities
-3. Principle: Simple and Intuitive Use  
-   The use of the design is easy to understand, regardless of the user’s experience, knowledge,
-   language skills, or current concentration level.
-4. Principle: Perceptible Information  
-   The design communicates necessary information effectively to the user, regardless of
-   ambient conditions of the user’s sensory abilities.
-5. Principle: Tolerance for Error  
-   The design minimizes hazards and adverse consequences of accidental or unintended actions.
-6. Principle: Low Physical Effort  
-   The design can be used efficiently and comfortably and with a minimum of fatigue.
-7. Principle: Size and Space for Approach and Use  
-   Appropriate size and space are provided for approach, reach, manipulation, and use regardless of the user’s body size, posture, or mobility. [@connell:1997]
+   Reading glasses (glasses with converging lenses worn when looking at near objects) or glasses with multifocal or progressive lenses provide a remedy.
+   With multifocal lenses, there is a zone of higher refractive power in the lower part of the lens.
+   When the gaze is lowered for reading, the visual axis passes through this part of the lens and near accommodation is supported.
+   The progressive lens works on the same principle, but the transition from the upper, lower refractive part to the lower, higher refractive part is stepless.
+   {.lower-alpha}
 
-## Classification of Technical Aids
+## Glaucoma
 
-### Augmentative Aids
+Glaucoma is caused by increased intraocular pressure, i.e. by an excess of aqueous humor.
+In most cases, there is an obstruction of the outflow pathways of the aqueous humor.
+Overproduction of aqueous humor, on the other hand, is rare.
+Normal intraocular pressure is $13$ to $28\sf{mbar}$; in glaucoma, it increases to values between $50$ to $80\sf{mbar}$.
 
-With an augmentative aid, a stimulus or an action is amplified in such a way that it becomes effective also for an organ with reduced functionality or capability.
-This amplification is represented in <<fig:principle-of-augmentative-aids>> as a thickened arrow.
-Examples of augmentative aids are glasses, orthoses, hearing aids, or walking aids. [@zagler:2013]
+The increased intraocular pressure can cause damage to the optic nerve papilla (at the blind spot where the optic nerve leaves the eyeball) within hours (!), which leads to the progessive mutilation of nerve cells due to the interruption of blood supply and thus to irreversible visual field loss (<<fig:glaucoma>>).
 
-![Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture).](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture) [@zagler:2013].")
+If the rising intraocular pressure, which becomes noticeable through color perception and “fog”, is detected in time, it can be counteracted with medication.
+In rare cases, surgical intervention is required.
+Glaucoma is the most common cause of blindness worldwide.
 
-### Substituting Aids
+![Glaucoma](./pics/06/glaukom.svg "glaucoma#Glaucoma [@frederiksen:1989].")
 
-Substituting aid means that a stimulus is redirected to another sensory organ that is normally not used for that purpose.
-The same applies if an action or an activity is executed by another motor organ than usual.
-With action or activity, a movement or the trigger for a movement is meant.
-In that way there is a substitution, what is called “Vikariat” in German or simply “substitute” in English.
-The principle of a substitute is represented in <<fig:principle-of-substituting-aids>>, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
-These optical stimuli can be converted by an assistive tool (“A”) into an acoustic stimulus which is then redirected to the person's organ of hearing (<<fig:principle-of-substituting-aids>>, middle).
-Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (<<fig:principle-of-substituting-aids>>, right).
-Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where the eyes take over the task of the hearing sense. [@zagler:2013]
+## Cataract
 
-![Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense.](./pics/09/principle-of-substituting-aids.svg "principle-of-substituting-aids#Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense [@zagler:2013].")
+Various reasons such as injuries (_cataracta traumatica_), diabetes (_cataracta diabetica_), heat effects (_cataracta calorica_, in foundrymen and glassblowers), radiation damage (_cataracta e radiatione_), electrical accidents, poisoning, viral infections during pregnancy (_embryopathia rubeolosa_[^11]) as well as the aging process can lead to opacification of the eye lens.
+As a result, vision is reduced by clouding of the image, but also by glare due to light scattering, which may go as far as restriction to light/dark perception (<<fig:cataract>>).
 
-If one sensory organ takes over the task from another sensory organ this is called “sensory substitution”.
-These substitutions are limited by the bandwidth of human senses, which are displayed in <<tab:bandwidth-human-organs>>.
-Due to these bandwidths, one must expect limitations by using a substitute.
+[^11]: Rubella infection of the mother mainly in the first month of pregnancy.
 
-| Sensory Organ          | Bandwidth in bit/s |
-| ---------------------- | ------------------ |
-| Vision (Eye)           | 10^6 bit/s         |
-| Hearing (Ear)          | 10^4 bit/s         |
-| Tactile Sensing (Skin) | 10^2 bit/s         |
-| Smelling (Nose)        | < 10^1 bit/s       |
-| Tasting (Tongue)       | < 10^1 bit/s       |
+![Cataract](./pics/06/katarakt.svg "cataract#Cataract [@frederiksen:1989].")
 
-.bandwidth-human-organs#Bandwidths of human senses [@zagler:2013].
+Cataract is relatively easy to correct surgically by surgical removal of the lens.
+The refractive power of the lens lost as a result can be replaced either by cataract glasses ($+12\;\sf{dpt}$) or by implantation of a plastic lens.
+In the absence of adequate medical care, cataracts are a common cause of blindness in developing countries.
 
-If an action is performed through a deputy, e.g. a device or robot, it is called “motor substitution”.
-The example displayed in <<fig:principle-of-motor-substitution>> shows a substitution for the action lifting which is done by a device.
-If the lifting through the device is initiated by pressing a button, then “pressing the button” is the substitute for the motor function of the upper limbs. Otherwise, if the lifting through the device is initiated by voice control, then “speaking” is the substitute for the motor function of the upper limbs. [@zagler:2013]
+## Retinopathy pigmentosa (Retinitis pigmentosa) (RP)
 
-![Principle of a motor substitution: substation of lifting through pressing a button, or through voice control.](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].")
+Retinopathia pigmentosa (tapetoretinal degeneration; usually incorrectly called retinitis pigmentosa, as it is not an inflammation) is the most common degenerative retinal disease.
+It is usually hereditary; less commonly, it can be triggered by infectious diseases or poisoning.
+It is caused by a metabolic disorder of an enzyme.
+Already in childhood, poor vision in twilight occurs (night blindness due to failure of the rods required for scotopic vision).
 
-### Bridging Aids
+Later, a ring-shaped visual field loss (annular scotoma) also occurs during the day, leaving only a visual field of $10\degree$ to $15\degree$.
+In later stages, retinopathy pigmentosa leads to “tunnel vision” (a visual field reduced to a few degrees) and thus to practical blindness, although central vision (visual acuity) may still be quite good (<<fig:retinopathia-pigmentosa>>).
 
-The purpose of bridging aid is to replace or bridge an interrupted part of a (sensor or actuator) function chain.
-Thus, the stimulus is fed back to the original neural pathway or organ after bridging.
-The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (<<fig:principle-of-bridging-aids>>).
-Examples of bridging aids are cochlea implants or retina implants. [@zagler:2013]
+![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
 
-![Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].")
+## Hemianopia (Hemianopsia)
 
-## Differentiation to Ambient Assisted Living
+Hemianopia (hemianopsia) is a hemifacial loss of the visual field.
+In homonymous hemianopia shown in <<fig:hemianopia>>, the same half of the visual field is affected in both eyes.
+This is caused by damage (e.g., tumors, traumatic brain injury) to the visual pathway starting at the optic nerve junction (optic cord, lateral malleolus, optic radiation, and visual cortex), the areas where half the visual field of both eyes is transmitted and processed.
+The interruption of hemianopia in the center of the visual field results from the fact that in the optic nerve junction, nerve fibers originating from the fovea are conducted to both the one and the other hemisphere.
+Thus, both hemispheres are involved in the processing of the foveal area [@betz:1991].
+Therefore, in case of damage in one occipital lobe, stimuli from the entire fovea can still be perceived [@wilson:1996:a].
 
-Ambient Assisted Living (or Active Assisted Living), in short AAL, means extending the time people can live independently in their preferred environment by increasing their autonomy, self-confidence, and mobility.
-It aims to monitor and care for, to support maintaining the health and functional capability of the elderly individuals.
-Furthermore, it enhances security and shall prevent social isolation by supporting maintaining the multifunctional network around the individual.
-In addition, the Concept of AAL is understood as supporting carers, families, and care organizations and as increasing the efficiency and productivity of resources used in the aging societies.
-Thus, AAL addresses, in particular, the issues affecting an aging population and targets the need of an individual and their caretakers, whereby two groups of persons are considered: elderly people and people with disabilities. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
+![Hemianopia](./pics/06/hemianopie.svg "hemianopia#Hemianopia; according [@frederiksen:1989].")
 
-In contrast, assistive technologies enable persons **regardless of age** to perform a function that due to disability is difficult to perform.
-Some disabilities are associated with aging but aging itself is not a disability.
-Therefore, the relation of Ambient Assisted Living Technologies to Assistive Technologies (AT) is that AT is a part of AAL technologies. [@soprano:deliverable:1.1.2]
-
-AAL is described more as philosophy than technology, nevertheless different technologies will be needed for AAL solutions.
-Some examples of these technologies are as follows:
-
-- Software and network technologies
-- Sensors and actuators
-- Human-machine interfaces
-- Embedded systems
-- Smart homes
-
-The products and services of these technologies enable persons to perform tasks or functions at a level similar to an earlier experience, leading to a lifestyle of independence. [@soprano:deliverable:1.1.2]
+!!!include(general/attribution.en.md)!!!

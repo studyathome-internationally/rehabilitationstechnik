@@ -139,8 +139,57 @@ function sidebar(lang) {
         { text: "Disability as Difference Between Performance and Requirement", link: "/chapter3.md" },
         { text: "Rehabilitation Technology", link: "/chapter4.md" },
         { text: "Classification of the Tools", link: "/chapter5.md" },
-        { text: "Medical Basics - Part I", link: "/chapter6.md" },
-        { text: "Medical Basics - Part II", link: "/chapter7.md" },
+        { text: "Medical Basics", link: "/chapter6.md" },
+        { text: "Neurobiology", collapsed: false, items: [{ text: "The Nervous System", link: "/chapter7.md" }] },
+        {
+          text: "Vision",
+          collapsed: false,
+          items: [
+            { text: "Eye and Visual Perception", link: "/chapter8.md" },
+            { text: "Visual Disabilities", link: "/chapter9.md" },
+          ],
+        },
+        {
+          text: "Hearing",
+          collapsed: false,
+          items: [
+            { text: "Ear and Auditory Perception", link: "/chapter10.md" },
+            { text: "Auditory Disabilities", link: "/chapter11.md" },
+          ],
+        },
+        {
+          text: "Touch",
+          collapsed: false,
+          items: [{ text: "Skin and Tactile Perception", link: "/chapter12.md" }],
+        },
+        {
+          text: "Movement",
+          collapsed: false,
+          items: [
+            { text: "Spinal Cord, Musculoskeletal System and Musculature", link: "/chapter13.md" },
+            { text: "Motor Disabilities", link: "/chapter14.md" },
+          ],
+        },
+        {
+          text: "Communication",
+          collapsed: false,
+          items: [
+            { text: "Language and Speech", link: "/chapter15.md" },
+            { text: "Verbal and Vocal Disabilities", link: "/chapter16.md" },
+          ],
+        },
+        {
+          text: "Complex Disabilities",
+          collapsed: false,
+          items: [{ text: "Multiple Disabilities, Syndromes", link: "/chapter17.md" }],
+        },
+        {
+          text: "Geriatric Syndromes",
+          collapsed: false,
+          items: [{ text: "Age-Related Functional Limitations", link: "/chapter18.md" }],
+        },
+        // { text: "Major Types of Disability", link: "/chapter19.md" },
+        // { text: "Assistive Technology - Basics", link: "/chapter20.md" },
       ],
     },
   }[lang];
