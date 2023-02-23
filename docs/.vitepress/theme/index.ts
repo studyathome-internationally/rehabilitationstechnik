@@ -1,6 +1,7 @@
 import { h } from "vue";
 import DefaultTheme from "vitepress/theme";
 import "./styles/index.styl";
+import "katex/dist/katex.min.css";
 
 import BookUrl from "./components/BookUrl.vue";
 import ChapterUrl from "./components/ChapterUrl.vue";
