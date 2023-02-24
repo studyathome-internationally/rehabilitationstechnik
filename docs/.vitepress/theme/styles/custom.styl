@@ -4,5 +4,9 @@
 
 
 .medium-zoom-overlay
+  background-color var(--vp-c-bg)
   &, & + img
     z-index calc(var(--vp-z-index-footer) + 10)
+
+.dark .medium-zoom-overlay
+  background darken(white, 5%) !important
