@@ -60,7 +60,7 @@ After this general distinction, some more typical forms of hearing loss will be 
 
    <!-- FIXME: Cross reference -->
 
-   In the bone-threshold audiogram (see [Determination of Hearing Ability - Audiometry](#determination-of-hearing-ability-audiometry) for details), a conductive hearing loss is expressed by a drop in the air-conduction curve (AC curve), while the bone-conduction curve (BC curve) remains unchanged in that range that is the norm for persons with normal hearing (<<fig:tone-threshold-audiogram-sound-conduction>>, for the symbols used see <<tab:audiogram-used-symbols>>).
+   In the bone-threshold audiogram (see [Determination of Hearing Ability - Audiometry](./chapter10.html#determination-of-hearing-ability-audiometry) for details), a conductive hearing loss is expressed by a drop in the air-conduction curve (AC curve), while the bone-conduction curve (BC curve) remains unchanged in that range that is the norm for persons with normal hearing (<<fig:tone-threshold-audiogram-sound-conduction>>, for the symbols used see <<tab:audiogram-used-symbols>>).
    This is referred to as the occurrence of a “AC-BC difference” or “air-bone gap”).
 
    <!-- prettier-ignore -->

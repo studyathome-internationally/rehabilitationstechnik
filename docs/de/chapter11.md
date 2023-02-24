@@ -58,7 +58,7 @@ Nach dieser generellen Unterscheidung werden noch einige typische Formen der Sch
 
    <!-- FIXME: Querverweis -->
 
-   Im Tonschwellenaudiogramm (siehe [Bestimmung des Hörvermögens – Audiometrie](#bestimmung-des-horvermogens-audiometrie)) äußert sich eine Schallleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normal hörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
+   Im Tonschwellenaudiogramm (siehe [Bestimmung des Hörvermögens – Audiometrie](./chapter10.html#bestimmung-des-horvermogens-audiometrie)) äußert sich eine Schallleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normal hörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
    Man spricht hier vom Auftreten einer „KL-LL-Differenz“ oder „air-bone-gap“).
 
    <!-- prettier-ignore -->

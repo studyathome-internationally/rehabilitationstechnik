@@ -25,7 +25,7 @@ abbreviations:
 <!-- FIXME: Querverweis -->
 
 In diesem Kapitel wird gemeinsam mit der Besprechung von Muskulatur und Bewegungsapparat auch das Rückenmark besprochen, weil alle motorischen Befehle, durch die periphere Muskel angeregt werden können, über diese Verbindung vom Zentralnervensystem (ZNS) her angesprochen werden.
-Dabei ist es wichtig, zu unterscheiden, welche Muskeln über eine direkte Verbindung vom Gehirn aus versorgt werden (Hirnnerven, siehe [Die Hirnnerven](#die-hirnnerven)) und welche über das Rückenmark laufen und daher bei Verletzungen der Wirbelsäule in Mitleidenschaft gezogen werden können.
+Dabei ist es wichtig, zu unterscheiden, welche Muskeln über eine direkte Verbindung vom Gehirn aus versorgt werden (Hirnnerven, siehe [Die Hirnnerven](./chapter7.html#die-hirnnerven)) und welche über das Rückenmark laufen und daher bei Verletzungen der Wirbelsäule in Mitleidenschaft gezogen werden können.
 
 ## Das Rückenmark
 

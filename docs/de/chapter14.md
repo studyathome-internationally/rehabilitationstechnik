@@ -275,7 +275,7 @@ Aus diesem Grund werden bei der Behandlung von Muskelerkrankungen meistens die e
 
 Wegen der viel breiteren Betrachtungsweise von motorischen Störungen werden hier diese beiden Kategorien getrennt behandelt.
 Die neurogenen (sekundären) Myopathien finden sich daher in diesem Kapitel.
-Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [Muskuläre Ursachen](#muskulare-ursachen) gewidmet.
+Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [Muskuläre Ursachen](./chapter14.html#muskulare-ursachen) gewidmet.
 
   <!-- FIXME: Querverweis? -->
 
@@ -434,7 +434,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
 
 In diesem Abschnitt werden die Muskelerkrankungen im engeren Sinn (primäre Myopathien) behandelt.
 Dazu gehören alle Krankheiten, bei denen die Muskelfasern direkt von einem Krankheitsprozess betroffen sind [@deutsche-gesellschaft-muskelkranke:1998].
-Die sekundären oder auch neurogenen Myopathien finden sich im Kapitel [Schädigungen des Nervensystems](#schadigungen-des-nervensystems).
+Die sekundären oder auch neurogenen Myopathien finden sich im Kapitel [Schädigungen des Nervensystems](./chapter14.html#schadigungen-des-nervensystems).
 Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, Emotionen und Affekt nicht eingeschränkt, Sinnesorgane nicht betroffen.
 
 1. Progressive Muskeldystrophien  
@@ -485,7 +485,7 @@ Die meisten neuromuskulären Erkrankungen sind genetisch bedingt, Intelligenz, E
 <!-- FIXME: Querverweis -->
 
 2. Myasthenien  
-   Unter Myasthenien (Muskelschwächen) wird eine Gruppe von nicht erblichen Autoimmunkrankheiten[^28] verstanden, bei denen die Übertragung neuraler Reize von den motorischen Nerven auf das Muskelgewebe zufolge Blockade von Acetylcholinrezeptoren der motorischen Endplatten gestört ist (siehe Kapitel [Muskulatur](#muskulatur)).
+   Unter Myasthenien (Muskelschwächen) wird eine Gruppe von nicht erblichen Autoimmunkrankheiten[^28] verstanden, bei denen die Übertragung neuraler Reize von den motorischen Nerven auf das Muskelgewebe zufolge Blockade von Acetylcholinrezeptoren der motorischen Endplatten gestört ist (siehe Kapitel [Muskulatur](./chapter13.html#muskulatur)).
 
    - _Myasthenia gravis_  
      Es kommt zu einer belastungsabhängigen abnorm raschen Ermüdung der quergestreiften Muskulatur, von der in typischer Folge besonders die Augenmuskulatur (Sehen von Doppelbildern – Diplopie), die Kau- und Schluckmuskeln, die Halsmuskulatur und die Oberarme betroffen sind.

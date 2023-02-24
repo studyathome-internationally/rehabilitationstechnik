@@ -268,7 +268,7 @@ Beispiele für augmentative Hilfsmittel sind Hörgeräte und Brillen.
 
 Substituierend werden Hilfsmittel bezeichnet, mit denen ein Reiz auf andere als die sonst üblichen Sinnesorgane umgeleitet wird.
 Das gleiche gilt auch dann, wenn eine Aktion (Bewegung oder Auslösung einer Bewegung) von anderen als den sonst üblichen aktuatorischen Organen gewonnen wird.
-Es kommt dabei zu einer Stellvertretung = [Vikariat](#das-vikariat)).
+Es kommt dabei zu einer Stellvertretung = [Vikariat](./chapter5.html#das-vikariat)).
 <<fig:funktionsweise-substiuierende-hilfsmittel>> zeigt eine Person, bei der die Wahrnehmung von optischen Reizen zufolge Blindheit nicht möglich ist.
 Das in der mittleren Grafik dargestellte Hilfsmittel H wandelt den optischen Reiz in geeigneter Weise in einen akustischen Reiz um und leitet ihn zum Gehör der blinden Person.
 In ähnlicher Weise zeigt die rechte Darstellung von <<fig:funktionsweise-substiuierende-hilfsmittel>> die Umsetzung in einen taktil wahrnehmbaren Reiz.
