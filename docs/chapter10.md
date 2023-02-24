@@ -159,21 +159,21 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
 
    <div>
 
-   6. Vestibular duct;
-   7. Skin-like cochlear duct;
-   8. Tympanic duct
+   1. Vestibular duct;
+   2. Skin-like cochlear duct;
+   3. Tympanic duct
       {.upper-alpha}
 
    </div>
    <div>
 
-   9. Reissner's membrane;
-   10. Tectorial membrane;
-   11. Basilar membrane;
-   12. Organ of Corti;
-   13. Outer hair cells;
-   14. Inner hair cells
-       {.lower-alpha}
+   1. Reissner's membrane;
+   2. Tectorial membrane;
+   3. Basilar membrane;
+   4. Organ of Corti;
+   5. Outer hair cells;
+   6. Inner hair cells
+      {.lower-alpha}
 
    </div>
 

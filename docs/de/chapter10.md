@@ -158,21 +158,21 @@ Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrü
 
    <div>
 
-   6. Vorhoftreppe;
-   7. häutiger Schneckengang;
-   8. Paukentreppe
+   1. Vorhoftreppe;
+   2. häutiger Schneckengang;
+   3. Paukentreppe
       {.upper-alpha}
 
    </div>
    <div>
 
-   9. Reissnersche Membran;
-   10. Deckmembran;
-   11. Basilarmembran;
-   12. Cortisches Organ;
-   13. äußere Haarzellen;
-   14. innere Haarzellen
-       {.lower-alpha}
+   1. Reissnersche Membran;
+   2. Deckmembran;
+   3. Basilarmembran;
+   4. Cortisches Organ;
+   5. äußere Haarzellen;
+   6. innere Haarzellen
+      {.lower-alpha}
 
    </div>
 
