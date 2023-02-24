@@ -14,11 +14,11 @@ Alle Angaben zur Attribuierung und Zitierung beziehen sich nur auf die Inhalte d
 
 Wenn Sie dieses Buch bearbeitet oder unbearbeitet in gedruckter Form veröffentlichen bzw. verteilen wollen, muss auf jeder physischen Seite die folgende Attribuierung angegeben werden:
 
-Kostenlos abrufbar unter <BookUrl/>
+Kostenlos abrufbar unter <BookUrl/>.
 
 Wenn Sie dieses Buch bearbeitet oder unbearbeitet in digitaler Form veröffentlichen bzw. verteilen wollen, muss auf jeder digitalen Seitenansicht die folgende Attribuierung angegeben werden:
 
-Kostenlos abrufbar unter <BookUrl/>
+Kostenlos abrufbar unter <BookUrl/>.
 
 ### Zitierung
 

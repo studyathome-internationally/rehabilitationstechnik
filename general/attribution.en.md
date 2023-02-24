@@ -14,7 +14,7 @@ Available for free at <BookUrl/>.
 
 If you wish to publish or distribute this book edited or unedited in digital form, the following attribution must be included on each digital page:
 
-Available for free at <BookUrl/>
+Available for free at <BookUrl/>.
 
 ### Citation
 
