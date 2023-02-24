@@ -14,23 +14,13 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[AC]: Air conduction
 *[ALS]: Amyotrophic lateral sclerosis
-*[BC]: Bone conduction
 *[CNS]: Central Nervous System
 *[CP]: Cerebral palsy
 *[CVA]: Cerebral vascular accident
-*[IHC]: Inner hair cells
 *[MCD]: Minimal cerebral dysfunction
 *[MCP]: Minimal cerebral palsy
-*[MS]: Multiple Sklerose
-*[OHC]: Outer hair cells
-*[PAL]: Phase Alternating Line
-*[PC]: Pacini corpuscles
-*[RA]: rapidly adapting
-*[RP]: Retinopathia pigmentosa
-*[SA]: slowly adapting
-*[SPL]: Sound Pressure Level
+*[MS]: Multiple sclerosis
 *[TBI]: Traumatic brain injury
 
 # Motor Disabilities

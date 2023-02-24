@@ -14,9 +14,6 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[PET]: Positron emission tomography
-*[PVS]: Persistent vegetative state
-*[RS]: Rett syndrome
 *[U.S.]: United States
 *[USA]: United States of America
 *[WWW]: World Wide Web
