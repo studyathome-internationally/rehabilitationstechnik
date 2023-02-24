@@ -108,12 +108,12 @@ function markdown() {
 function nav(lang) {
   return {
     en: [
-      { text: "Legal Notice", link: "./legal-notice" },
-      { text: "Contact", link: "./contact" },
+      { text: "Legal Notice", link: "/legal-notice" },
+      { text: "Contact", link: "/contact" },
     ],
     de: [
-      { text: "Impressum", link: "./legal-notice" },
-      { text: "Kontakt", link: "./contact" },
+      { text: "Impressum", link: "/de/legal-notice" },
+      { text: "Kontakt", link: "/de/contact" },
     ],
   }[lang];
 }
