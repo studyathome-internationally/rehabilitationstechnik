@@ -14,30 +14,8 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[ALS]: Amyotrophic lateral sclerosis
-*[CP]: Cerebral palsy
-*[CVA]: Cerebral vascular accident
-*[d. h.]: das heißt
-*[d. s.]: das sind
 *[engl.]: englisch
-*[grie.]: griechisch
-*[IHC]: Inner hair cells
-*[MCD]: Minimal cerebral dysfunction
-*[MCP]: Minimal cerebral palsy
-*[MS]: Multiple Sklerose
-*[lat.]: lateinisch
-*[OHC]: Outer hair cells
-*[PC]: Pacini corpuscles
-*[PKW]: Personenkraftwagen
-*[RA]: rapidly adapting
-*[RP]: Retinopathia pigmentosa
-*[SA]: slowly adapting
-*[SHT]: Schädelhirntrauma
-*[SPL]: Sound Pressure Level
-*[TBI]: Traumatic brain injury
-*[u. a.]: unter anderem
 *[z. B.]: zum Beispiel
-*[ZNS]: Zentralnervensystem
 
 # Auditive Behinderungen
 

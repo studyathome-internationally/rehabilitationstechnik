@@ -17,16 +17,10 @@ abbreviations:
 *[ALS]: Amyotrophe Lateralsklerose
 *[EEG]: Elektroenzephalographie
 *[EW]: Einwohner
-*[LRS]: Lese- und Rechtschreibstörung
 *[PET]: Positronen-Emissions-Tomographie
 *[PVS]: Persistent Vegetative State
 *[RS]: Rett-Syndrom
-*[SLI]: Specific language impairment
-*[u. a.]: unter anderem
-*[u. a.]: unter anderem
-*[U.S.]: United States
-*[USA]: United States of America
-*[WWW]: World Wide Web
+*[ZNS]: Zentralnervensystem
 *[z. B.]: zum Beispiel
 
 <!-- *[Z. B.]: Zum Beispiel -->
