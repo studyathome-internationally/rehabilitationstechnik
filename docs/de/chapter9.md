@@ -14,162 +14,149 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[AAL]: Ambient Assisted Living (or Active Assisted Living)
-*[AsTeRICS]: Assistive Technology Rapid Integration & Construction Set
-*[AT]: Assistive Technologien
-*[USA]: United States of America
+*[ALS]: Amyotrophic lateral sclerosis
+*[CP]: Cerebral palsy
+*[CVA]: Cerebral vascular accident
+*[d. h.]: das heißt
+*[d. s.]: das sind
+*[engl.]: englisch
+*[grie.]: griechisch
+*[IHC]: Inner hair cells
+*[MCD]: Minimal cerebral dysfunction
+*[MCP]: Minimal cerebral palsy
+*[MS]: Multiple Sklerose
+*[lat.]: lateinisch
+*[OHC]: Outer hair cells
+*[PC]: Pacini corpuscles
+*[PKW]: Personenkraftwagen
+*[RA]: rapidly adapting
+*[RP]: Retinopathia pigmentosa
+*[SA]: slowly adapting
+*[SHT]: Schädelhirntrauma
+*[SPL]: Sound Pressure Level
+*[TBI]: Traumatic brain injury
+*[u. a.]: unter anderem
 *[z. B.]: zum Beispiel
+*[ZNS]: Zentralnervensystem
 
-# Assistive Technologien - Grundlagen
+# Visuelle Behinderungen
 
-Im _Assistive Technology Act_ von 2004 aus dem öffentlichen Recht der USA [@assistive-technology-act:2004] wird der Begriff „Assistive Technology“ definiert als „Technologie, die für den Einsatz in einem Hilfsgerät oder einer Hilfsdienstleistung vorgesehen ist“:
+## Klassifikation von Sehschädigungen
 
-- Ein Hilfsmittel ist „... jeder Gegenstand, jedes Gerät oder Produktsystem, unabhängig davon, ob es kommerziell erworben, modifiziert oder angepasst wurde, das dazu dient, die funktionalen Fähigkeiten von Menschen mit Behinderungen zu erhöhen, zu erhalten oder zu verbessern“.
-- Als Hilfsmitteldienstleistung gilt jede Dienstleistung, die eine Person mit einer Behinderung bei der Auswahl, dem Erwerb oder der Verwendung eines Hilfsmittels direkt unterstützt.
+Sehschädigungen werden üblicherweise gemäß <<tab:klassifikation-sehschaedigung>> klassifiziert.
+Diese Wertung gilt bei optimaler optischer Korrektur (Brille, Kontaktlinsen) für das bessere Auge.
 
-Das bedeutet, dass der Begriff Assistive Technologien (AT) sowohl unterstützende, adaptive und rehabilitative Technologien und Geräte als auch den Prozess der Auswahl, des Auffindens und der Nutzung derselben umfasst.
-AT-Produkte helfen also Menschen mit Behinderungen bei der Bewältigung von Aufgaben des täglichen Lebens, der Kommunikation, der Bildung oder der Arbeit.
-Sie ermöglichen diesen Menschen einen alternativen Zugang zu modernen elektronischen Geräten wie Computern oder Mobiltelefonen und verhelfen ihnen zu größerer Unabhängigkeit und besserer Lebensqualität.
-Sie ermöglichen es den Menschen, Aufgaben auszuführen, die sie früher nicht oder nur unter großen Schwierigkeiten bewältigen konnten, was eine größere Unabhängigkeit bedeutet. [@asterics:deliverable:2.4, @soprano:deliverable:1.1.2]
+| Bezeichnung                | Visus      |
+| -------------------------- | ---------- |
+| Sehbehinderung             | $\lt~0.3$  |
+| Hochgradige Sehbehinderung | $\lt~0.05$ |
+| Blind (vor dem Gesetz)     | $\lt~0.02$ |
 
-## Ziele und Zielgruppe
+.klassifikation-sehschaedigung#Klassifikation von Sehschädigungen.
 
-Die Zielgruppen für den Einsatz von Assistiven Technologien sind Menschen mit körperlichen, geistigen oder sozialen Behinderungen.
-Ziel der Assistiven Technologien ist es also, diese funktionalen oder sozialen Einschränkungen ganz oder teilweise zu überwinden und/oder Auswirkungen von Krankheiten und Behinderungen zu kompensieren, ohne notwendigerweise die zugrundeliegenden Ursachen selbst zu verändern, und so eine barrierefreie Umgebung zu schaffen.
+## Ursachen für Sehbehinderungen
 
-![Ein persönliches Hilfsmittel zur Wiederherstellung einer Funktion (a), kommunale Hilfsmittel zur Überwindung einer Barriere (b) und ein barrierefreies Design zur Beseitigung oder Vermeidung möglicher Barrieren (c).](./pics/09/personal-assistive-tools.svg "personal-assistive-tools#Ein persönliches Hilfsmittel zur Wiederherstellung einer Funktion (a), kommunale Hilfsmittel zur Überwindung einer Barriere (b) und ein barrierefreies Design zur Beseitigung oder Vermeidung möglicher Barrieren (c).")
+<!-- FIXME: Abbildungsverweis?? -->
+<!-- FIXME: "des Raumes" entfernt -->
+<!-- FIXME: "leidet"?? -->
 
-1. Ziel der unterstützenden Technologie - Persönlicher Ansatz
-   Das erste Ziel ist _die Wiederherstellung oder Verbesserung einer beeinträchtigten Funktion_.
-   Dieser Ansatz gilt bei Unfähigkeiten/Fähigkeitsdefiziten.
-   Mit einem Hilfsmittel wird die Funktionseinschränkung (Behinderung) kompensiert (Aktivität erzeugt), zum Beispiel durch ein Hörgerät.
-   Dieses Konzept ist in <<fig:personal-assistive-tools>> a) dargestellt, wobei das „H“ für das Hilfsmittel steht.
-2. Ziel von Assistive Technology - Kommunaler Ansatz
-   Bei diesem Ansatz werden die _Auswirkungen der Beeinträchtigung überwunden_, ohne dass die Funktion selbst wiederhergestellt oder verbessert wird.
-   Dieser Ansatz bezieht sich auf das Handicap.
-   Die Funktionseinschränkung bleibt bestehen, aber die Person ist wieder in der Lage, ihre Rolle in der Gesellschaft zu erfüllen (Herstellung von Teilhabe).
-   Dieser Ansatz ist in <<fig:personal-assistive-tools>> b) abgebildet.
-3. Ziel von Assistive Technology - Design-Ansatz
-   Das dritte Ziel von Assistiver Technologie ist es, Barrieren zu _beseitigen_ oder sie von vornherein zu vermeiden.
-   Es bezieht sich auf die Gestaltung der gebauten Umwelt durch die Schaffung barrierefreier Umgebungen, wobei Barrieren im weitesten Sinne zu verstehen sind.
-   Dieses Konzept ist in <<fig:personal-assistive-tools>> c) dargestellt.
+Nachfolgend werden einige der (in westlichen Ländern) am häufigsten auftretenden Augenerkrankungen und deren Auswirkungen auf das Sehvermögen der betroffenen Person beschrieben.
+Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](chapter1.html#sichtweise-behinderung)).
 
-## Assistive Hilfsmittel: Eine Frage des Designs
+![Normalsicht](./pics/06/normalsicht.svg "normalsicht#Normalsicht [@frederiksen:1989].")
 
-Um das bereits erwähnte dritte Ziel von Assistive Technology zu erreichen, werden Barrieren durch das richtige Design beseitigt.
-Daher wird dieser Ansatz näher beschrieben und die Prinzipien des Universellen Designs werden vorgestellt.
+Es muss darauf hingewiesen werden, dass diese Darstellung sowie alle Simulationen von Sehbehinderungen nur sehr grobe Näherungen des tatsächlichen Sachverhaltes darstellen.
+Gesichtsfeldausfälle lassen sich nicht einfach durch schwarze Flächen nachbilden, obwohl das oft in Illustrationen gemacht wird.
+Hier wurde bewusst ein neutrales Grau gewählt, das einer nicht vorhandenen Wahrnehmung noch am nächsten kommt.
 
-### Die Lücke verkleinern
+Selbst wenn es gelingen würde, ein optisch getreues Bild einer Sehschädigung zu zeichnen, bliebe auch diese Darstellung nur an der Oberfläche, da jede Art von Behinderung die betroffene Person nicht nur funktionell einschränkt, sondern auch tief in der Persönlichkeit und im Vorstellungsvermögen prägt.
+Wenn jemand beispielsweise glaubt, Blindheit durch Tragen einer Augenbinde zu verstehen, unterliegt einem gewaltigen Irrtum.
 
-<!-- FIXME: Querverweis -->
+## Refraktionsanomalien – Brechungsfehler des Auges
 
-Wie bereits in Kapitel 1.2 Behinderung als Differenz zwischen persönlichen Fähigkeiten und gesellschaftlichen Anforderungen erwähnt, besagt die Gap-Theorie, dass Behinderung die Differenz zwischen den persönlichen Fähigkeiten und den Anforderungen ist, die von der Gesellschaft oder der Umwelt an diese Person gestellt werden.
-Es gibt zwei Richtungen, um die Lücke zwischen Fähigkeiten und Anforderungen zu schließen - erstens, um die persönlichen Fähigkeiten zu erhöhen, oder zweitens, um die Anforderungen eines Produkts oder der Umwelt zu verringern.
+Stimmt die Brechkraft der optischen Elemente des Auges (Hornhaut, Linse, und Glaskörper) nicht mit der Länge des Augapfels überein, kann auf der Netzhaut kein scharfes Bild entstehen.
+Durch Brillen und Kontaktlinsen können $90\%$ der Refraktionsanomalien ausgeglichen werden.
+Bei den Refraktionsanomalien unterscheiden wir:
 
-![Verkleinerung der Lücke zwischen persönlichen Fähigkeiten und Anforderungen, entweder durch Erhöhung der Fähigkeiten mit Hilfsmitteln oder durch Verringerung der Anforderungen mit Hilfe von (universellem) Design.](./pics/09/narrowing-the-gap-between-personal-abilities-and-demands.svg "Verkleinerung der Lücke zwischen persönlichen Fähigkeiten und Anforderungen, entweder durch Erhöhung der Fähigkeiten mit Hilfsmitteln oder durch Verringerung der Anforderungen mit Hilfe von (universellem) Design [@zagler:2013].")
+1. Kurzsichtigkeit  
+   Bei Kurzsichtigkeit (Myopie, myopia) ist die Brechkraft des Auges zu hoch (Brennweite zu kurz) bzw. der Augapfel ist zu lang.
+   Die Schärfenebene (insbesondere von entfernten Objekten) liegt vor der Netzhaut.
+   Abhilfe schafft eine Brille oder Kontaktlinse mit zerstreuender Wirkung (<<fig:strahlengang-myopie>>).
+   Die Auswirkungen von Myopie sind in <<fig:myopie>> dargestellt.
 
-In den letzten Jahren haben sich einige Designphilosophien entwickelt:
+   ![Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut](./pics/06/strahlengang-myopie.svg "strahlengang-myopie#Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut [@mörike:1981].")
 
-- Barrierefreies Design
-- Anpassungsfähiges Design
-- Design-für-alle
-- Universelles Design
+   ![Myopie](./pics/06/myopie.svg "myopie#Myopie [@frederiksen:1989].")
 
-Auch wenn jede Philosophie ihre eigene Definition und ihren eigenen Ansatz hat, so haben sie doch alle ein Ziel: die Lücke zwischen den Anforderungen der Umwelt und den Fähigkeiten einer Person zu verringern, indem die Anforderungen reduziert werden.
-Dennoch hat sich der Begriff „Universelles Design“ als der bevorzugte durchgesetzt.
+2. Weitsichtigkeit  
+   Bei Weitsichtigkeit (Hyperopie oder Hypermetropie, engl. hyperopia, hypermetropia) ist die Brechkraft des Auges zu niedrig (Brennweite zu lang) bzw. der Augapfel ist zu kurz.
+   Die Schärfenebene (insbesondere von nahen Objekten) liegt hinter der Netzhaut.
+   Abhilfe schafft eine Brille oder Kontaktlinse mit sammelnder Wirkung (<<fig:strahlengang-hyperopie>>).
 
-## Prinzipien des Universellen Designs
+   <!-- FIXME: b>a? b=a -> Brille/Linse korrigiert -->
 
-Vorreiter beim Thema „Universal Design“ ist das „Center for Universal Design“ an der North Carolina State University, wo die sieben Prinzipien des Universal Design entwickelt wurden [@zagler:2013], die da sind
+   ![Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut](./pics/06/strahlengang-hyperopie.svg "strahlengang-hyperopie#Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut [@mörike:1981].")
 
-1. Prinzip: Gleichberechtigte Nutzung  
-   Das Design ist nützlich und marktfähig für Menschen mit unterschiedlichen Fähigkeiten
-2. Prinzip: Flexibilität in der Nutzung  
-   Der Entwurf berücksichtigt ein breites Spektrum individueller Vorlieben und Fähigkeiten
-3. Prinzip: Einfache und intuitive Nutzung  
-   Die Nutzung des Designs ist leicht zu verstehen, unabhängig von der Erfahrung, den Kenntnissen
-   Sprachkenntnissen oder dem aktuellen Konzentrationsgrad.
-4. Grundsatz: Wahrnehmbare Informationen  
-   Das Geschmacksmuster vermittelt dem Nutzer die notwendigen Informationen auf wirksame Weise, unabhängig von den
-   Umgebungsbedingungen und den sensorischen Fähigkeiten des Benutzers.
-5. Prinzip: Fehlertoleranz  
-   Der Entwurf minimiert die Gefahren und nachteiligen Folgen versehentlicher oder unbeabsichtigter Handlungen.
-6. Prinzip: Geringe körperliche Anstrengung  
-   Das Design kann effizient und bequem und mit einem Minimum an Ermüdung genutzt werden.
-7. Prinzip: Größe und Raum für Annäherung und Benutzung  
-   Angemessene Größe und Raum für Annäherung, Erreichen, Handhabung und Benutzung unabhängig von der Körpergröße, Haltung oder Mobilität des Benutzers. [@connell:1997]
+3. Alterssichtigkeit  
+   Die sogenannte Alterssichtigkeit (Presbyopie, presbyopia) hat ähnliche Auswirkungen wie die Hyperopie, jedoch liegt hier die Ursache in einer mit zunehmendem Alter verringerte Elastizität der Augen-Linse (siehe auch <<fig:augenlinse-und-akkommodation>>).
+   Dadurch wird die Nahakkommodation eingeschränkt und der Nahpunkt rückt immer mehr in die Ferne.
+   Von Presbyopie wird gesprochen, wenn der Akkommodationsbereich (der sog. Akkommodationserfolg) auf Werte unter $4\;\sf{dpt}$ gesunken ist (Werte in der Jugend liegen bei $12\;\sf{dpt}$).
 
-## Klassifizierung von technischen Hilfsmitteln
+   Abhilfe schaffen Lesebrillen (Brillen mit Sammellinsen, die bei Betrachtung von nahen Gegenständen getragen werden) bzw. Brillen mit Mehrstärken- oder Gleitsichtgläsern.
+   Beim Mehrstärkenglas befindet sich im unteren Teil des Brillenglases eine Zone mit höherer Brechkraft.
+   Wird der Blick zum Lesen gesenkt, verläuft die Blickachse durch diesen Teil des Brillenglases und die Nahakkommodation wird unterstützt.
+   Das Gleitsichtglas arbeitet nach dem selben Prinzip, jedoch erfolgt der Übergang vom oberen, niedriger brechenden Teil zum unteren, höher brechenden Teil stufenlos.
+   {.lower-alpha}
 
-### Unterstützende Hilfsmittel
+## Glaukom – Grüner Star
 
-Bei einem augmentativen Hilfsmittel wird ein Reiz oder eine Handlung so verstärkt, dass sie auch für ein Organ mit eingeschränkter Funktionalität oder Fähigkeit wirksam wird.
-Diese Verstärkung wird in <<fig:principle-of-augmentative-aids>> als verdickter Pfeil dargestellt.
-Beispiele für augmentative Hilfsmittel sind Brillen, Orthesen, Hörhilfen oder Gehhilfen. [@zagler:2013]
+Der Grüne Star (Glaukom, _glaucoma_) wird durch erhöhten Augeninnendruck, also durch eine Übermenge an Kammerwasser, hervorgerufen.
+In den meisten Fällen liegt eine Verlegung der Abflusswege des Kammerwassers vor.
+Überproduktion von Kammerwasser hingegen ist selten.
+Der normale Augeninnendruck beträgt $13$ bis $28\sf{mbar}$; bei Glaukom steigt er auf Werte zwischen $50$ bis $80\sf{mbar}$.
 
-![Prinzip eines Hilfsmittels: Der Input oder Stimulus (linkes Bild, linker Pfeil) wird durch ein Hilfsmittel („H“, rechtes Bild) verstärkt.](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Prinzip eines Hilfsmittels: Der Input oder Stimulus (linkes Bild, linker Pfeil) wird durch ein Hilfsmittel („H“, rechtes Bild) verstärkt [@zagler:2013].")
+Durch den erhöhten Augeninnendruck kann es binnen Stunden(!) zu einer Aushöhlung des Sehnervenkopfes (blinder Fleck) kommen, was wegen der Unterbrechung der Blutversorgung zu einem Absterben von Nervenzellen und somit zu irreversiblen Gesichtsfeldausfällen führt (<<fig:glaukom>>).
 
-### Ersetzende Hilfsmittel
+Bei rechtzeitigem Erkennen des ansteigenden Augeninnendruckes, der sich durch Farbwahrnehmungen und „Nebel“ bemerkbar macht, kann medikamentös entgegengewirkt werden.
+In seltenen Fällen ist ein chirurgischer Eingriff erforderlich.
+Der Grüne Star ist weltweit die häufigste Erblindungsursache.
 
-Substituierende Hilfe bedeutet, dass ein Reiz auf ein anderes Sinnesorgan umgelenkt wird, das normalerweise nicht für diesen Zweck verwendet wird.
-Das Gleiche gilt, wenn eine Handlung oder Aktivität von einem anderen motorischen Organ als gewöhnlich ausgeführt wird.
-Mit Handlung oder Aktivität ist eine Bewegung oder der Auslöser für eine Bewegung gemeint.
-Auf diese Weise kommt es zu einer Substitution, was im Deutschen „Vikariat“ oder im Englischen einfach „substitute“ genannt wird.
-Das Prinzip einer Substitution ist in <<fig:Prinzip der Substitutionshilfen>> dargestellt, links, wo eine Person mit Sehbehinderung die Reize (Pfeil) aufgrund ihrer Beeinträchtigung nicht wahrnehmen kann.
-Diese optischen Reize können durch ein Hilfsmittel („H“) in einen akustischen Reiz umgewandelt werden, der dann an das Hörorgan der Person weitergeleitet wird (<<fig:principle-of-substituting-aids>>, Mitte).
-In ähnlicher Weise können optische Reize in taktile Reize umgewandelt werden, die von der Person wahrgenommen werden können (<<fig:principle-of-substituting-aids>>, rechts).
-Zwei sehr verbreitete Beispiele sind zum einen die Brailleschrift, bei der die Person mit den Fingerspitzen „liest“, anstatt mit den Augen zu lesen, und zum anderen das Lippenlesen, bei dem die Augen die Aufgabe des Hörsinns übernehmen. [@zagler:2013]
+![Glaukom](./pics/06/glaukom.svg "glaukom#Glaukom [@frederiksen:1989].")
 
-![Prinzip der Substitutionshilfen: Der Reiz (Pfeil, links) wird umgewandelt und auf andere Sinnesorgane umgelenkt, z. B. in akustische Reize umgewandelt und auf den Hörsinn (Mitte) oder in taktile Reize umgewandelt und auf den Tastsinn umgelenkt.](./pics/09/principle-of-substituting-aids.svg "principle-of-substituting-aids#Prinzip der Substitutionshilfen: Der Reiz (Pfeil, links) wird umgewandelt und auf andere Sinnesorgane umgelenkt, z. B. in akustische Reize umgewandelt und auf den Hörsinn (Mitte) oder in taktile Reize umgewandelt und auf den Tastsinn umgelenkt [@zagler:2013].")
+## Katarakt – Grauer Star
 
-Wenn ein Sinnesorgan die Aufgabe eines anderen Sinnesorgans übernimmt, nennt man dies „sensorische Substitution“.
-Diese Substitutionen sind durch die Bandbreiten der menschlichen Sinne begrenzt, die in <<tab:bandwidth-human-organs>> angegeben sind.
-Aufgrund dieser Bandbreiten muss man bei der Verwendung eines Substituts mit Einschränkungen rechnen.
+Verschiedene Gründe wie Verletzungen (_Cataracta traumatica_), Diabetes (_Cataracta diabetica_), Hitzeeinwirkungen (_Cataracta calorica_, bei Gießern und Glasbläsern), Strahlenschäden (_Cataracta e radiatione_), Elektrounfälle, Vergiftungen, Virusinfekte während der Schwangerschaft (_Embryopathia rubeolosa_[^11]) sowie der Alterungsprozess können zu einer Trübung der Augenlinse führen.
+Dadurch wird das Sehvermögen durch Trübung des Bildes, aber auch durch Blendwirkung zufolge von Lichtstreuung herabgesetzt, was bis zur Einschränkung auf hell/dunkel Wahrnehmung gehen kann (<<fig:katarakt>>).
 
-| Sinnesorgan               | Bandbreite in bit/s |
-| ------------------------- | ------------------- |
-| Sehen (Auge)              | 10^6 bit/s          |
-| Gehör (Ohr)               | 10^4 bit/s          |
-| Taktiles Empfinden (Haut) | 10^2 bit/s          |
-| Riechen (Nase)            | < 10^1 bit/s        |
-| Schmecken (Zunge)         | < 10^1 bit/s        |
+[^11]: Rötelninfektion der Mutter vornehmlich im ersten Schwangerschaftsmonat.
 
-.bandwidth-human-organs#Bandbreiten der menschlichen Sinnesorgane [@zagler:2013].
+![Katarakt](./pics/06/katarakt.svg "katarakt#Katarakt [@frederiksen:1989].")
 
-Wird eine Handlung durch einen Stellvertreter, z. B. ein Gerät oder einen Roboter, ausgeführt, spricht man von „motorischer Substitution“.
-Das in <<fig:principle-of-motor-substitution>> dargestellte Beispiel zeigt eine Substitution für die Aktion Heben, die durch ein Gerät ausgeführt wird.
-Wenn das Heben durch das Gerät durch Drücken eines Knopfes ausgelöst wird, dann ist das „Drücken des Knopfes“ der Ersatz für die motorische Funktion der oberen Gliedmaßen. Wird das Heben durch das Gerät durch eine Sprachsteuerung ausgelöst, so ist „Sprechen“ der Ersatz für die Motorik der oberen Gliedmaßen. [@zagler:2013]
+Der Graue Star ist durch die operative Entfernung der Linse relativ einfach chirurgisch zu beheben.
+Die dadurch verloren gegangene Brechkraft der Linse kann entweder durch eine Starbrille ($+12\;\sf{dpt}$) oder durch Implantation einer Kunststofflinse ersetzt werden.
+Mangels ausreichender medizinischer Versorgung ist der Graue Star in Entwicklungsländern eine häufige Erblindungsursache.
 
-![Prinzip eines Motorersatzes: Substation des Hebens durch Knopfdruck oder durch Sprachsteuerung.](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#PPrinzip eines Motorersatzes: Substation des Hebens durch Knopfdruck oder durch Sprachsteuerung, nach [@zagler:2013].")
+## Retinopathia pigmentosa (Retinitis pigmentosa) (RP)
 
-### Überbrückende Hilfsmittel
+Retinopathia pigmentosa (tapetoretinale Degeneration; meistens fälschlich als Retinitis Pigmentosa bezeichnet, da es sich um keine Entzündung handelt) ist die häufigste degenerative Netzhauterkrankung.
+Sie ist meist erblich bedingt, seltener kann sie durch Infektionskrankheiten oder Vergiftungen ausgelöst werden.
+Sie entsteht durch eine Stoffwechselstörung eines Enzyms.
+Bereits in der Kindheit kommt es zu schlechtem Sehen in der Dämmerung (Nachtblindheit durch Ausfall der für das skotopische Sehen erforderlichen Stäbchen).
 
-Der Zweck der Überbrückungshilfe besteht darin, einen unterbrochenen Teil einer Funktionskette (Sensor oder Aktor) zu ersetzen oder zu überbrücken.
-So wird der Reiz nach der Überbrückung an die ursprüngliche Nervenbahn oder das Organ zurückgegeben.
-Das Hilfsmittel überbrückt die unterbrochene Funktionskette dadurch, dass Nervenbahnen hinter dem unterbrochenen Teil so stimuliert werden, dass der Reiz dem ursprünglichen Reiz ähnlich ist (<<fig:principle-of-bridging-aids>>).
-Beispiele für Überbrückungshilfen sind Cochlea-Implantate oder Retina-Implantate. [@zagler:2013]
+Später kommt es auch am Tag zu einem ringförmigen Gesichtsfeldausfall (ringförmiges Skotom), sodass nur mehr ein Gesichtsfeld von $10\degree$ bis $15\degree$ verbleibt.
+In späteren Stadien führt Retinopathia pigmentosa zum „Tunnelblick“ (ein bis auf wenige Grad eingeschränktes Gesichtsfeld) und somit zur praktischen Erblindung, obwohl das zentrale Sehvermögen (Sehschärfe) noch recht gut sein kann (<<fig:retinopathia-pigmentosa>>).
 
-![Prinzip einer Überbrückungshilfe: Das Hilfsmittel („H“) überbrückt den unterbrochenen Sinneskanal so, dass der Reiz (Pfeil) in die ursprüngliche Nervenbahn zurückgeführt wird.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Prinzip einer Überbrückungshilfe: Das Hilfsmittel („H“) überbrückt den unterbrochenen Sinneskanal so, dass der Reiz (Pfeil) in die ursprüngliche Nervenbahn zurückgeführt wird. [@zagler:2013].")
+![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
 
-## Abgrenzung zum Ambient Assisted Living
+## Hemianopie (Hemianopsie)
 
-Ambient Assisted Living (oder Active Assisted Living), kurz AAL, bedeutet die Verlängerung der Zeit, in der Menschen unabhängig in ihrer bevorzugten Umgebung leben können, indem ihre Autonomie, ihr Selbstvertrauen und ihre Mobilität erhöht werden.
-Es zielt darauf ab, die Gesundheit und die Funktionsfähigkeit älterer Menschen zu überwachen, zu pflegen und zu erhalten.
-Darüber hinaus erhöht es die Sicherheit und soll soziale Isolation verhindern, indem es die Aufrechterhaltung des multifunktionalen Netzwerks um den Einzelnen herum unterstützt.
-Darüber hinaus wird das AAL-Konzept so verstanden, dass es Pflegekräfte, Familien und Pflegeorganisationen unterstützt und die Effizienz und Produktivität der in der alternden Gesellschaft eingesetzten Ressourcen erhöht.
-Somit befasst sich AAL insbesondere mit den Problemen, die eine alternde Bevölkerung betreffen, und zielt auf die Bedürfnisse des Einzelnen und seiner Betreuer ab, wobei zwei Personengruppen betrachtet werden: ältere Menschen und Menschen mit Behinderungen. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
+Als Hemianopie (Hemianopsie) wird ein halbseitiger Ausfall des Gesichtsfeldes bezeichnet.
+Bei der in <<fig:hemianopie>> gezeigten homonymen Hemianopie ist auf beiden Augen die gleiche Gesichtsfeldhälfte betroffen.
+Die Ursache dafür sind Schädigungen (z. B. Tumore, Schädelhirntrauma) der Sehbahn ab der Sehnervenkreuzung (Sehstrang, seitlicher Kniehöcker, Sehstrahlung und visueller Cortex), also in jenen Gebieten, in denen das halbe Gesichtsfeld beider Augen weitergeleitet und verarbeitet wird.
+Die Unterbrechung der Hemianopie in der Gesichtsfeldmitte rührt daher, dass in der Sehnervenkreuzung aus der Fovea stammende Nervenfasern sowohl in die eine wie auch in die andere Hemisphäre geleitet werden.
+Somit sind an der Verarbeitung des fovealen Bereiches beide Hemisphären beteiligt [@betz:1991].
+Bei einer Schädigung im Bereich eines Okzipitallappens können daher trotzdem Reize aus des gesamten Fovea wahrgenommen werden [@wilson:1996:a].
 
-Im Gegensatz dazu befähigen assistive Technologien Personen **unabhängig von ihrem Alter**, eine Funktion auszuführen, die aufgrund einer Behinderung nur schwer zu erfüllen ist.
-Einige Behinderungen sind mit dem Älterwerden verbunden, aber das Älterwerden selbst ist keine Behinderung.
-Daher ist die Beziehung von Ambient Assisted Living Technologien zu Assistive Technologien (AT), dass AT ein Teil von AAL Technologien ist. [@soprano:deliverable:1.1.2]
+![Hemianopie](./pics/06/hemianopie.svg "hemianopie#Hemianopie; nach [@frederiksen:1989].")
 
-AAL wird eher als Philosophie denn als Technologie beschrieben, dennoch werden verschiedene Technologien für AAL-Lösungen benötigt.
-Einige Beispiele für diese Technologien sind die folgenden
-
-- Software- und Netzwerktechnologien
-- Sensoren und Aktoren
-- Mensch-Maschine-Schnittstellen
-- Embedded Systems (Eingebettete Systeme)
-- Smart Homes
-
-Die Produkte und Dienstleistungen dieser Technologien ermöglichen es den Menschen, Aufgaben oder Funktionen auf einem Niveau auszuführen, das mit früheren Erfahrungen vergleichbar ist und zu einem unabhängigen Lebensstil führt. [@soprano:deliverable:1.1.2]
+!!!include(general/attribution.md)!!!

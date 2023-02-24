@@ -14,245 +14,285 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[ICIDH]: International Classification of Impairments, Disabilities and Handicaps
-*[IQ]: Intelligenzquotient
-*[MRT]: Magnetresonanztomographie
+*[ALS]: Amyotrophic lateral sclerosis
+*[CP]: Cerebral palsy
+*[CVA]: Cerebral vascular accident
+*[d. h.]: das heißt
+*[d. s.]: das sind
+*[engl.]: englisch
+*[grie.]: griechisch
+*[IHC]: Inner hair cells
+*[MCD]: Minimal cerebral dysfunction
+*[MCP]: Minimal cerebral palsy
+*[MS]: Multiple Sklerose
+*[lat.]: lateinisch
+*[OHC]: Outer hair cells
+*[PC]: Pacini corpuscles
+*[PKW]: Personenkraftwagen
+*[RA]: rapidly adapting
+*[RP]: Retinopathia pigmentosa
+*[SA]: slowly adapting
+*[SHT]: Schädelhirntrauma
+*[SPL]: Sound Pressure Level
+*[TBI]: Traumatic brain injury
+*[u. a.]: unter anderem
+*[z. B.]: zum Beispiel
 *[ZNS]: Zentralnervensystem
 
-# Hauptarten von Behinderungen
+# Auge und visuelle Wahrnehmung
 
-## Ursachen von Behinderungen
+## Aufbau des Auges
 
-Die Ursachen von Behinderungen können wie folgt klassifiziert werden [@koutoukidis:2008]:
+Das Sinnesorgan zur Wahrnehmung optischer Reize ist das Auge.
+Der menschliche Augapfel (Bulbus) ist kugelförmig und hat einen Durchmesser von ca. $25\;\sf{mm}$.
+Der aus einer durchsichtigen, gallertartigen Substanz bestehende Glaskörper (Corpus vitreum), der den gesamten Innenraum ausfüllt, wird von drei Hautschichten umgeben und in seiner Form gehalten (<<fig:schnitt-menschliches-auge>>).
 
-- Vererbt: genetisch übertragen
-- Angeboren: infolge einer Infektion während der Schwangerschaft der Mutter oder einer Verletzung während oder kurz nach der Geburt (z. B. zerebrale Lähmung)
-- Erworben: als Folge eines Unfalls, einer absichtlichen Verletzung, eines Substanzmissbrauchs oder einer Krankheit im Laufe des Lebens (z. B. Amputation aufgrund einer Verletzung bei einem Autounfall oder aufgrund der Auswirkungen von Diabetes)
-- Unbekannter Ursprung
+Die äußerste Augenhaut, die Lederhaut (Sclera), weist nur geringe Elastizität auf und ist für die Formgebung verantwortlich.
+Im vorderen Teil des Auges geht die Lederhaut vor der Linse in die durchsichtige Hornhaut (Cornea) über.
 
-Je nach der konkreten physiologischen oder geistigen Auswirkung einer Behinderung können die folgenden Hauptformen unterschieden werden:
+Die mittlere Schicht setzt sich aus drei Abschnitten zusammen.
+Drei Viertel des Augapfels umschließt die von zahlreichen Gefäßen durchzogene Aderhaut (Choroidea).
+Vorne, um die Linse herum, geht die Aderhaut in den Strahlenkörper (Corpus ciliare) über, der den Ziliarmuskel enthält, welcher durch Veränderung der Krümmung der Linse für die Akkommodation (Scharfstellung) sorgt.
+Im Strahlenkörper wird auch das Kammerwasser gebildet.
+Das Verhältnis aus Produktion und Resorption des Kammerwassers bestimmt den Augeninnendruck.
+Noch weiter vorne schließt sich die Regenbogenhaut (Iris) an, die durch Veränderung des Sehlochs (Pupille; lat. Pupilla) die in das Auge einfallende Lichtmenge bestimmt („Irisblende“ in der Fotografie).
 
-- Körperbehinderung
-- Sinnesbehinderung
-- Geistige Behinderung
+Die innerste, auf dem Glaskörper aufliegende Augenhaut ist die Netzhaut (Retina), die wiederum aus mehreren Schichten besteht.
 
-## Körperliche Behinderung
+![Schnitt durch das menschliche Auge.](./pics/06/schnitt-menschliches-auge.svg "schnitt-menschliches-auge#Schnitt durch das menschliche Auge [@servier-medical-art:2019].")
 
-Körperliche Behinderungen umfassen mehrere schwerwiegende, meist lebenslange Behinderungen, die den Menschen vor allem in seinen motorischen Fähigkeiten einschränken.
-Die häufigsten Erscheinungsformen sind:
+## Die Netzhaut
 
-- Schädigung des zentralen Nervensystems
-  - Querschnittslähmung
-  - Zentralmotorische Bewegungsstörung als Folge von Unfällen oder Verletzungen
-  - Multiple Sklerose
-  - Spina bifida
-  - Parkinsonsche Krankheit
-  - Zerebrale Lähmung
-- Schädigung des Skelettsystems
-  - Verformung der Wirbelsäule (Skoliose, Lordose, Kyphose)
-  - Osteogenesis imperfecta (Glasknochenkrankheit)
-  - Gelenkfehlbildungen (Luxation)
-  - Fehlbildungen des Skelettsystems
-    - Dysmelie (Entwicklungsstörungen der Extremitäten)
-    - Spaltbildung von Hand oder Fuß (z. B. Klumpfuß)
-- Amputationen
-- Muskelstörungen (Muskelatrophie, Muskeldystrophie)
-- Entzündliche Erkrankungen der Knochen und Gelenke (Arthritis)
+Die Netzhaut ist sowohl Träger der Fotorezeptoren als auch mehrerer Nervenschichten, die eine erste Verarbeitung der visuellen Reize vornehmen.
+Sie ermöglicht die Wahrnehmung von Intensität, Wellenlänge und räumlicher Zuordnung einfallender optischer Reize.
 
-Eine körperliche Behinderung ist keine statische Situation.
-Sie kann, wie bereits erwähnt, erblich bedingt sein, aber auch durch Unfälle oder Krankheiten erworben werden.
-Durch medizinische Behandlung oder medizinische Hilfsmittel kann die Behinderung geheilt oder gemildert werden.
-Behinderung ist also immer ein komplexer Prozess aus Ursachen und Folgen, direkten Auswirkungen, individuellen Schicksalen und gesellschaftlichen Konsequenzen [@fürstler:2000].
+<!-- FIXME: schwarz/weiß (hell/dunkel) -->
 
-Im Folgenden werden zwei häufige Formen von Körperbehinderungen näher vorgestellt: _Querschnittslähmung_/_Rückenmarksverletzung_ und _Zerebralparese_.
+Die Erfassung der optischen Reize beginnt in der dem Licht abgewandten Schicht der Netzhaut, die die Fotorezeptoren trägt („inverses“ Auge).
+Die ca. $120\;\sf{Mio.}$ Stäbchen (engl. rods) ermöglichen das schwarz/weiß (hell/dunkel) Sehen, während die auf drei unterschiedliche Wellenlängen ausgelegten
+$6\;\sf{Mio.}$ Zäpfchen (engl. cones) der Farbwahrnehmung dienen (<<fig:schnitt-netzhaut>>).
 
-### Querschnittslähmung und Rückenmarksverletzungen
+![Schnitt durch die Netzhaut – Lichteinfall von links; Reizleitungsrichtung von rechts nach links](./pics/06/schnitt-netzhaut.svg "schnitt-netzhaut#Schnitt durch die Netzhaut – Lichteinfall von links; Reizleitungsrichtung von rechts nach links [@mörike:1981].")
 
-Je nach den gelähmten Regionen des Patienten sind verschiedene Begriffe gebräuchlich.
-Von Paraplegie spricht man, wenn die unteren Extremitäten oder der Rumpf gelähmt sind (motorischer oder sensorischer Verlust).
-Die Tetraplegie beschreibt die Lähmung aller vier Extremitäten, während die Hemiplegie die Hälfte des durch die Sagittalebene geteilten Körpers umfasst.
-Bei einer Rückenmarksverletzung hängt die klinische Klassifizierung von mehreren Kriterien ab, wie sensorische/motorische Beeinträchtigung, vollständige oder unvollständige Rückenmarksverletzung, Schwere der Verletzung und Grad der Rückenmarksläsion.
-Der Grad der Rückenmarksläsion unterteilt das Rückenmark in einen oberen Teil, in dem die motorischen und sensorischen Funktionen intakt sind, und einen unteren Teil, in dem dies nicht der Fall ist.
-Siehe <<fig:spinal-cord-and-sensory-skin-nerves>> für die vier bestehenden Gruppen von Ebenen, die zervikal (C2 - C8), thorakal (T1 - T12), lumbal (L1 - L5) und sakral (S1 - S5) sind. [@keller:2002, S. 34-37]
+Der vom Auge abgedeckte Spektralbereich reicht von $350\;\sf{nm}$ (blau) bis $750\;\sf{nm}$ (rot), mit einer maximalen Gesamt-Empfindlichkeit bei $560\;\sf{nm}$ (grün).
+Die Maxima der spektralen Empfindlichkeiten für die drei Typen von Zäpfchen liegen bei $560\;\sf{nm}$ (gelb-grün), $530\;\sf{nm}$ (blau-grün) und $430\;\sf{nm}$ (violett).
+Vereinfacht wird oft von „blauen“, „grünen“ und „roten“ Zäpfchen gesprochen.
+Von allen in der Netzhaut vorkommenden Zäpfchen sind rund $46\%$ rot, $46\%$ grün, aber nur $8\%$ blau [@bright:1997].
+Die Stäbchen erreichen ihr spektrales Maximum bei $510\;\sf{nm}$ und leisten keinen Beitrag zur Farbwahrnehmung (<<fig:spektrales-verhalten-zaepfchen>>).
 
-<!-- FIXME: check translation -->
+![Spektrales Verhalten der Zäpfchen: Absorption in % der gesamten einfallenden Lichtmenge](./pics/06/spektrales-verhalten-zaepfchen.svg "spektrales-verhalten-zaepfchen#Spektrales Verhalten der Zäpfchen: Absorption in $\\%$ der gesamten einfallenden Lichtmenge [@lindsay:1981].")
 
-![Die am Rückenmark dargestellten Ebenengruppen, Abschnitte des Rückenmark (Mitte), Seitenansicht (links) und die Regionen der sensorischen Hautnerven (rechts)](./pics/08/spinal-cord-and-sensory-skin-nerves.svg "spinal-cord-and-sensory-skin-nerves#Die am Rückenmark dargestellten Ebenengruppen, Seitenansicht (links), Schnitte durch das Rückenmark (Mitte) und die Regionen der sensorischen Hautnerven (rechts) [@servier-medical-art:2019, @popovic:2000].")
+## Intensitätsbereich und Adaptation
 
-Das Ausmaß des Funktionsverlustes der oberen Extremität variiert je nach Höhe der Läsion und umfasst den Verlust von Finger-, Hand-, Arm- und Schulterfunktionen.
-Außerdem können motorische und sensorische Funktionen einzeln oder zusammen beeinträchtigt sein. [@keller:2002, S. 34-37]
+Der Intensitätsbereich, in dem das Auge Reize verarbeiten kann, erstreckt sich über einen Bereich von $1:10^{12}$ (<<tab:empfindlichkeit-staebchen-zaepfchen>>) und wird durch verschiedene Mechanismen der Adaptation bewältigt:
 
-### Zerebralparese
+- Verwendung von zwei unterschiedlich empfindlichen Rezeptor-Typen (Stäbchen und Zäpfchen)
+- Veränderung der einfallenden Lichtmenge durch die Pupille (Verhältnis $1:16$ – schneller Vorgang[^7])
+- Aufbau und Abbau von Sehfarbstoff in den Rezeptoren (langsam)
+- Adaptive räumliche und zeitliche Reizintegration in der Netzhaut.
 
-Zerebralparese ist eine Schädigung des unreifen Gehirns, die bei Kindern zu dauerhaften motorischen Beeinträchtigungen (Lähmungen) führt.
-Sie beschreibt eine Gruppe von Störungen der Bewegungs- und Haltungsentwicklung, die zu einer Einschränkung der Aktivitäten führen.
-Die motorischen Störungen bei der Zerebralparese können mit Störungen der Empfindung, der Kognition, der Kommunikation, der Wahrnehmung, des Verhaltens bzw. mit Anfallsleiden einhergehen.
-Das ursächliche Ereignis bei der Zerebralparese tritt in der frühen Kindheit auf, d. h. im Alter von weniger als 2 Jahren.
-Die Gründe für die Läsion können ein Entwicklungsfehler (z. B. Lissencephalie), ein Infarkt (z. B. Verschluss der mittleren Hirnarterie bei einem Neugeborenen) oder ein Trauma während oder nach der Geburt sein.
-Da es sich bei der Zerebralparese um eine anhaltende, aber nicht unveränderliche Bewegungs- und Haltungsstörung handelt, ist sie in gewisser Weise eine stabile und endgültige Situation.
-„Nicht unveränderlich“ bedeutet jedoch, dass sich motorische und nicht-motorische Störungen, die durch die Zerebralparese hervorgerufen werden, spontan oder durch Behandlung verbessern oder verschlechtern können.
-Diese Veränderungen sind auf die Plastizität des ZNS, seine kompensatorischen Fähigkeiten und die Möglichkeit, durch Erfahrung zu lernen, zurückzuführen. [@ferrari:2010, @miller:2005]
+[^7]: Dieser Wert bezieht sich auf das jugendliche Auge; für die Verhältnisse im Alter siehe später.
 
-Die wichtigsten Klassifizierungen der Zerebralparese basieren auf
+Die Empfindlichkeit der Stäbchen ist etwa $2\:000$ mal höher als die der Zäpfchen.
+Bei geringen Leuchtdichten (Dämmerung) liefern die Zäpfchen daher keinen Beitrag, was zur Folge hat, dass die Farbwahrnehmung nur bei ausreichender Beleuchtung möglich ist.
 
-- Muskeltonusanomalien wie Hypertonie oder Dystonie,
-- der Art des vorherrschenden neurologischen Symptoms wie Ataxie oder Choreoathetose und
-- seiner somatischen Lokalisation, z. B. Diplegie, Tetraplegie, Hemiplegie. [@cioni:2010]
+<table>
+  <thead>
+    <tr>
+      <th scope="row">Beleuchtungsstärke [lx]</th>
+      <td style="padding: 2px 6px;"><MathML formula="10^{-5}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{-4}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{-3}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{-2}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{-1}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{0}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{1}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{2}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{3}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{4}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{5}"/></td>
+      <td style="padding: 2px 6px;"><MathML formula="10^{6}"/></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Stäbchen</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+    </tr>
+    <tr>
+      <th scope="row">Zäpfchen</th>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+      <td style="background-color: black;"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Bereich</th>
+      <td colspan="3">skotopisch</td>
+      <td colspan="4">mesopisch</td>
+      <td colspan="5">photopisch</td>
+    </tr>
+  </tbody>
+</table>
 
-Um eine Vorstellung von den klinischen Syndromen der Zerebralparese zu bekommen, folgt ein Auszug aus [@cioni:2010] - Traditionelle klinische Syndrome wie spastische Tetraparese, spastische Diplegie, spastische Hemiplegie, ataktische Form, dystonische Form und athetische (oder choreo-athetische) Form der Zerebralparese.
+.empfindlichkeit-staebchen-zaepfchen#Absolute Empfindlichkeit von Stäbchen und Zäpfchen [@zagler:1997].
 
-#### Spastische Tetraparese
+Fehlen durch eine Schädigung des Auges die Stäbchen[^8], ist nur Tagessehen (mesopisches und photopisches Sehen) möglich und es kommt zur Nachtblindheit (kein skotopisches Sehen).
+Das Auge ist mit einer absoluten Intensitätsschwelle von $8\cdot10^{-18}\;\sf{W/cm^2}$ im Vergleich zum Ohr um den Faktor $10$ empfindlicher.
 
-Bei der Tetraparese sind Tonus- und Bewegungsstörungen in der Regel schwerwiegend, selten symmetrisch, betreffen „gleichermaßen“ die oberen und unteren Gliedmaßen und zeigen sich im Allgemeinen von Geburt an.
-Die Entwicklung der Körpermotorik ist stark verzögert; die Prognose für autonomes Gehen und Manipulation ist ungünstig.
-Sehstörungen (visuelle Agnosie, Blicklähmung, Strabismus, Verringerung der Sehschärfe usw.) und Hörstörungen sind häufig.
-Epilepsie ist sehr häufig vorhanden, meist in einer sekundär generalisierten Form (infantile Spasmen, Lennox-Gastaut-Syndrom usw.).
-Häufig kommt es zu geistigem Versagen, das sowohl auf die kortikale neuropathologische Schädigung als auch auf eine frühe motorische Störung zurückzuführen ist, die den Erwerb der grundlegenden Phasen der körperlichen Entwicklung beeinträchtigt.
-Infolge der Spastizität leiden die Patienten unter weit verbreiteten Muskelkontrakturen und Gelenk- und Skelettdeformationen.
-Die häufigsten anatomischen Läsionen, die auch in vivo durch Neuroaufnahmen und insbesondere durch Magnetresonanztomographie (MRT) nachweisbar sind, sind diffuse periventrikuläre Leukomalazien oder multizystische Schäden mit schwerer Hirnatrophie.
+[^8]: Da im peripheren Bereich der Retina fast ausschließlich Stäbchen vorkommen, führt ein Ausfall dieses Rezeptortyps neben der Nachtblindheit auch zum Verlust des peripheren Gesichtsfeldes, es kommt zum sogenannten Tunnelblick.
 
-#### Spastische Diplegie
+## Räumliches Auflösungsvermögen
 
-<!-- FIXME: Querverweis -->
+In einem Bereich von rund $\pm~1\degree$ Grad um jenen Punkt, an dem die optische Achse des Auges die Netzhaut trifft, liegt innerhalb des Gelben Flecks (Makula; lat. Macula) die Sehgrube (Fovea centralis; Fovea: lat. Grube).
+In dieser Zone des schärfsten Sehens befinden sich fast nur Zäpfchen mit einer Dichte von $400\:000\sf{/mm^{2}}$ (Zum Vergleich: Ein Standard TV-Bild hat $520\:000$ Bildpunkte).
+Hier sind die sonst über den Rezeptoren liegenden Nervenbahnen zum Rand der Makula hin verschoben und bilden den Makulawall, sodass das Licht direkt auf die Zäpfchen fallen kann.
+Die Makula weist daher hohe räumliche Auflösung und gutes Farberkennen auf.
+Wegen des Fehlens von Stäbchen ist skotopisches Sehen im Bereich der Fovea nicht möglich (die Fovea ist sozusagen „nachtblind“), weil aber die Zäpfchen nicht von andren Zellen bedeckt sind, ist die photopische Empfindlichkeit innerhalb der Fovea größer als an anderen Stellen der Netzhaut.
 
-Bei der spastischen Diplegie sind Tonus- und Bewegungsstörungen an allen vier Gliedmaßen vorhanden, wobei die unteren Gliedmaßen stärker betroffen sind.
-Dies ist das typische klinische Bild schwerer Frühgeborener mit einer hohen Inzidenz periventrikulärer Leukomalazie.
-Die Art der motorischen Schädigung wird durch die Nähe der malakalen Läsionen zum Verlauf der kortikospinalen Bahnen (z.B. Pyramidenbahnen) zum unteren Teil des Körpers verursacht.
-Die Hypertonie, die vor allem den suralen Trizeps und die Hüftadduktoren betrifft, zeigt sich selten vor dem dritten bis vierten Monat nach der Geburt, manchmal sogar noch später.
-Traditionell (aber dieser Begriff wird nicht mehr akzeptiert, siehe Kapitel 3) umfasst die klinische Anamnese eine „stille Periode“, die nach dem akuten Stadium der Hirnschädigung und vor dem Auftreten von Tonusstörungen und motorischer Entwicklungsverzögerung stattfindet.
-Die Motricität der oberen Gliedmaßen ist recht gut erhalten; die Prognose für das Gehen, auch ohne Gehstützen, ist in der Regel günstig.
-Eine Beteiligung der Hirnnerven ist häufig, ebenso wie Schielen.
-Intelligenz und Sprachentwicklung sind in der Regel nicht beeinträchtigt.
-Epilepsie ist selten.
-Muskelkontrakturen und Gelenkverformungen der unteren Gliedmaßen sind häufig.
+Eine Strecke von $1\,\sf{mm}$ auf der Netzhaut deckt ein Gesichtsfeld von $3.5\degree$ ab.
+Im Bereich der Fovea centralis können Objekte im Abstand von $0.5$ bis $1$ Bogenminuten diskriminiert werden, was einem Abstand auf der Netzhaut von $2.5$ bis $5.0\,\sf{\mu}m$ entspricht.
+Außerhalb der Fovea centralis beträgt die Auflösung nur rund $1\degree$ (entsprechend einer Strecke von $0.3\,\sf{mm}$).
 
-#### Spastische Hemiplegie
+## Akkommodation (Scharfstellung)
 
-Störungen des Muskeltonus und der Willkürbewegungen betreffen nur eine Körperseite.
-Die obere oder die untere Extremität kann stärker betroffen sein, oft hauptsächlich distal, manchmal aber auch proximal.
-Die Prognose für autonomes Gehen ist fast immer günstig.
-Die Patienten präsentieren sich häufig mit Krampfanfällen und Anzeichen einer partiellen Epilepsie.
-Veränderungen des Körperschemas und der praxeologischen und gnostischen Organisation sind häufig.
-Die Entwicklung der Intelligenz kann beeinträchtigt sein; wenn die paretische Seite der dominanten Hemisphäre entspricht, kann eine Verzögerung der Sprachentwicklung auftreten.
-Muskelkontrakturen und Gelenkdeformitäten entwickeln sich in der Regel auf der paretischen Seite, auch in einem frühen Stadium; die Muskel- und Knochentrophik ist in der Regel reduziert.
-Das anatomische und neuroradiologische Korrelat besteht meist aus isolierten porencephalen Zysten, Läsionen der inneren Kapsel oder auch periventrikulären Läsionen, auch bilateral, oder aus diffuseren Schädigungen einer Hirnhemisphäre.
+Die Scharfstellung des Auges (Akkommodation) erfolgt durch die Veränderung der Brechkraft der Linse.
+Das fernakkommodierte Auge (Einstellung auf unendlich) hat eine Brechkraft von rund $60$ Dioptrien[^9] ($=17\sf{mm}$ Brennweite).
+Bei maximaler Nahakkommodation (Einstellung auf $10\sf{cm}$) erhöht sich die Brechkraft um rund $12$ Dioptrien[^10].
+Die genauen Werte für das sogenannte emmetrope (normalsichtige) Auge werden in der Literatur wie folgt angegeben (<<tab:brechkraft-emmetropes-auge>>):
 
-#### Ataktische Form
+[^9]: Dioptrie = Reziprokwert der (vorderen) Brennweite in Meter; Abkürzung dpt
+[^10]: Gilt für das jugendliche Auge und ist stark vom Alter abhängig.
 
-Sie ist die bei weitem seltenste Form der Zerebralparese.
-Es überwiegen Störungen der Bewegungskoordination (Zittern, Dissymmetrie, Adiadochokinese usw.) und Gleichgewichtsstörungen (Ataxie).
-In den ersten Lebensmonaten ist sie durch das Vorhandensein einer ausgeprägten Hypotonie gekennzeichnet, die in der Regel auch im späteren Leben bestehen bleibt; die psychomotorische Entwicklung ist in der Regel verzögert; häufig ist ein zerebellärer Augennystagmus vorhanden.
-Manchmal kann es mit Symptomen pyramidalen Ursprungs verbunden sein.
-Die Sprache ist durch eine verzögerte Entwicklung gekennzeichnet, die manchmal sogar schwerwiegend sein kann, und die Wörter werden abgetastet.
-Geistige Defizite sind häufig vorhanden.
-Anatomisch gesehen sind diese Formen mit einer Schädigung des Kleinhirns und/oder einer Schädigung der dem Kleinhirn nachgelagerten Bahnen verbunden, in der Regel aufgrund von Fehlbildungen, strukturellen Wachstumsstörungen oder Infektionskrankheiten.
-In seltenen Fällen kann sie auf eine perinatale hypoxisch-ischämische hämorrhagische Schädigung zurückgehen.
+<table>
+  <thead>
+    <tr>
+      <th>Zustand</th>
+      <th>Ort</th>
+      <th>Brechkraft [dpt]</th>
+      <th>Brennweite [mm]</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">Akkommodationsruhe</td>
+      <td>Hornhaut und Vorderkammer</td>
+      <td><MathML formula="43.05\;\sf{dpt}"/></td>
+      <td><MathML formula="23.23\;\sf{mm}"/></td>
+    </tr>
+    <tr>
+      <td>Linse und Glaskörper</td>
+      <td><MathML formula="19.11\;\sf{dpt}"/></td>
+      <td><MathML formula="52.33\;\sf{mm}"/></td>
+    </tr>
+    <tr>
+      <td>Gesamt (äquivalentes System)</td>
+      <td><MathML formula="58.64\;\sf{dpt}"/></td>
+      <td><MathML formula="17.05\;\sf{mm}"/></td>
+    </tr>
+    <tr>
+      <td>Max. Akkommodation</td>
+      <td>Gesamt (äquivalentes System)</td>
+      <td><MathML formula="70.57\;\sf{dpt}"/></td>
+      <td><MathML formula="14.15\;\sf{mm}"/></td>
+    </tr>
+  </tbody>
+</table>
 
-#### Dystonische Form
+.brechkraft-emmetropes-auge#Brechkraft des emmetropen Auges [@methling:1996].
 
-Motorische Störungen resultieren aus einer Dysfunktion des extrapyramidalen Systems, gefolgt von einer Veränderung der Tonusregulation.
-Der zugrundeliegende Muskeltonus ist in Ruhe reduziert, während er unter Stimulation und motorischer Einschränkung durchweg ansteigt, was zu Körperhaltungen führt, die sich mit den bei spastischen Syndromen beobachteten völlig überschneiden.
-Schnelle und unkoordinierte unwillkürliche hyperkinetische Syndrome sind ständig vorhanden, insbesondere im Gesicht und im Mund.
-Klinische Anzeichen vom Pyramidentyp sind manchmal assoziiert (Mischformen).
-Die ständige Tonusvariabilität wirkt sich auch auf die Mund- und Sprachmuskulatur aus, was zu einer beeinträchtigten Stimmabgabe mit sehr schneller und oft unverständlicher Sprache führt.
-Die kognitive Entwicklung ist nur selten beeinträchtigt.
-Auf der Ebene des Gehirns wird die Läsion in den Basalkernen vermutet; wenn sie schwerwiegend ist, kann sie als so genannter „Status marmoratus“ identifiziert werden.
-Früher wurde diese Form der Zerebralparese meist mit einer Neugeborenengelbsucht aufgrund einer Mutter-Fötus-Inkompatibilität in Verbindung gebracht, heute ist sie meist die Folge einer schweren perinatalen Asphyxie bei Termingeborenen.
+Die gesamte Brechkraft wird also etwa zu $2/3$ von Hornhaut und Vorderkammer und zu $1/3$ von Linse und Glaskörper aufgebracht.
+Durch eine Kontraktion des Ziliarmuskels werden die Zonulafasern entspannt.
+Die Linse wird zufolge ihrer Elastizität dicker, die Brechkraft wird erhöht und das Auge akkommodiert auf die Nähe (<<fig:augenlinse-und-akkommodation>>).
 
-#### Athetotische (oder choreathetische) Form
+![Augenlinse und Akkommodation](./pics/06/augenlinse-und-akkommodation.svg "augenlinse-und-akkommodation#Augenlinse und Akkommodation [@servier-medical-art:2019, @mörike:1981]")
 
-Auch bei dieser Form sind die Symptome die Folge einer Funktionsstörung des extrapyramidalen Systems, wobei der Schwerpunkt im Caudat und Putamen liegt.
-Das klinische Bild ist durch Hypotonie und das Vorhandensein von langsamen, arrhythmischen und kontinuierlichen polypoiden Bewegungen gekennzeichnet, die in der Regel in den ersten Monaten nach der Geburt auftreten, sowie häufig durch schnelle, proximale, chorische Bewegungen, die das Gesicht, die Zunge und den distalen Teil der Gliedmaßen betreffen.
-Pyramidale Symptome können gleichzeitig auftreten.
-Die Entwicklung der Intelligenz ist in der Regel nicht stark beeinträchtigt, und die Sprache ist dysarthrisch.
-Wenn sie durch Hyperbilirubinämie verursacht wird, ist sie oft mit einer perzeptiven Taubheit verbunden. [@cioni:2010]
+## Lidschlag
 
-Kinder mit Zerebralparese sind jedoch in vielerlei Hinsicht normale Kinder mit besonderen Bedürfnissen.
-Das übergeordnete langfristige Ziel für Kinder mit Zerebralparese ist es, wie für alle anderen Kinder auch, zu wachsen und sich so weit zu entwickeln, dass sie als Mitglieder der Gesellschaft erfolgreich sein können. [@ferrari:2010]
+Das Augenlid dient dem Schutz und der Befeuchtung des Augapfels.
+Der Lidschlag (Schließen des Oberlids) erfolgt entweder unwillkürlich-periodisch, willkürlich oder reflexartig.
+Die Frequenz mit der der unwillkürliche Lidschlag erfolgt ist stark von der Person abhängig.
+Als durchschnittlicher Richtwert gelten $15$ bis $16$ Lidschläge/min [@wilson:1996:a].
+Die Lidschlagfrequenz nimmt bei lang andauernden Tätigkeiten mit hoher Sehanforderung zu und kann dann Werte bis über $70$ Lidschläge / min erreichen [@methling:1996].
 
-## Sinnesbehinderungen
+Die Dauer eines Lidschlags (Zeit, in der das Auge verschlossen bleibt) wird in der Literatur für unwillkürliche Lidschläge mit kleiner als $100\sf{ms}$, für willkürliche Lidschläge jedoch mit größer als $250\sf{ms}$ angegeben [@lauruska:1996].
 
-Sinnesbehinderungen können einen oder mehrere Sinne betreffen, obwohl der Begriff hauptsächlich für Seh- und Hörbehinderungen verwendet wird
+## Vorverarbeitung und Informationsverdichtung in der Retina
 
-- Sehbehinderung
-- Beeinträchtigung des Gehörs
-- Beeinträchtigung des Geruchs- und Geschmackssinns
-- Somatosensorische Beeinträchtigung (Beeinträchtigung des Tastsinns)
-- Gleichgewichtsstörung (Beeinträchtigung des vestibulären Systems)
+Außer den Rezeptorzellen (rechts in <<fig:schnitt-netzhaut>>) befinden sich in der Retina noch vier weitere Schichten von Neuronen, die bereits innerhalb der Netzhaut für eine „Verschaltung“ der Signale sorgen und somit einen wesentlichen Beitrag zur Bildvorverarbeitung leisten.
+Die Leistungsfähigkeit dieser Schichten ist schon allein aus der Tatsache ersichtlich, dass $125$ Millionen Rezeptoren (Summe aus rund $120$ Millionen Stäbchen und $6$ Millionen Zäpfchen) lediglich $1$ Million Nervenfasern (Axone der Ganglienzellen) im Sehnerv gegenüberstehen.
+Anders ausgedrückt, verzeichnen wir zwischen Rezeptoren und Sehnerv eine Konvergenz von $125:1$, ohne dass jedoch bei diesem Schritt vom Auge aufgenommene Information einfach verloren geht.
 
-Im Folgenden werden die wichtigsten Formen von Seh- und Hörbehinderungen näher erläutert.
+## Die rezeptiven Felder
 
-### Sehbehinderung
+Untersuchungen über die Zusammenhänge zwischen optischen Reizen und der von der Retina entfalteten neuralen Aktivität lieferten bis zur Mitte des $20.$ Jahrhunderts eher verwirrende und unerklärbare Ergebnisse.
+Das vollkommener Dunkelheit ausgesetzte Auge zeigte entgegen den Erwartungen eine mäßige neurale Aktivität („spontanes Feuern“), die jedoch bei der Belichtung mit diffusem Licht nicht signifikant zunahm.
+<<fig:gleichfoermige-belichtung-rezeptives-feld>> zeigt schematisch den Versuchsaufbau, bei dem ein rezeptives Feld diffus beleuchtet wird.
+Die Ableitung des Aktionspotentials erfolgt am Axon der Ganglienzelle (Sehnerv).
 
-Weltweit sind etwa 135 Millionen Menschen sehbehindert oder blind - und Millionen von Menschen leiden im Alter unter Sehbehinderungen. [@robitaille:2010]
-Die Arten von Sehbehinderungen sind vielfältig - sie umfassen
+![Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "gleichfoermige-belichtung-rezeptives-feld#Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes [@lindsay:1981].")
 
-- Brechungsfehler (Myopie - Kurzsichtigkeit, Hyperopie - Weitsichtigkeit, Presbyopie)
-- Glaukom (Schädigung des Sehnervs durch hohen Augeninnendruck)
-- Katarakt (Trübung der Linse, kann durch Diabetes, Infektionskrankheiten oder Alter verursacht werden)
-- Retinopathia pigmentosa (Degeneration der Sehstäbchen, erblich bedingt oder durch eine Infektion verursacht)
-- Hemianopie (halbseitiger Sehverlust, verursacht durch Tumore, traumatische Hirnverletzungen oder Schlaganfall)
-- Schädigungen des Nervensystems, des Sehnervs oder der Netzhaut führen zur Erblindung. [@zagler:2012]
+Erst $1950$ konnte Stephen Kuffler zeigen, dass die Ganglienzellen der Netzhaut nicht auf eine diffuse Beleuchtung schlechthin, sondern nur auf lokale Beleuchtungskontraste reagieren.
+Eine punktförmige Belichtung an oder in der Nähe jener Stelle (= Zentrum des rezeptiven Feldes), von der die Ableitung vorgenommen wurde, führt zu einer deutlichen Erhöhung der Impulsrate (<<fig:selektive-belichtung-rezeptives-feld>> – links).
+Die Belichtung einer ringförmigen Zone (= Umfeld des rezeptiven Feldes) um die Ableitungsstelle wirkt inhibitorisch, sodass sogar das spontane Feuern verschwindet (<<fig:selektive-belichtung-rezeptives-feld>> – rechts).
 
-![Auswirkungen verschiedener Arten von Sehbehinderungen (Glaukom: oben, links; Katarakt: oben, rechts; Retinopathia pigmentosa: unten, links; Hemianopie: unten, rechts)](./pics/08/effects-of-different-types-of-visual-disabilities.svg "effects-of-different-types-of-visual-disabilities#Auswirkungen verschiedener Arten von Sehbehinderungen (Glaukom: oben, links; Katarakt: oben, rechts; Retinopathia pigmentosa: unten, links; Hemianopie: unten, rechts) [@zagler:2012].")
+<!-- FIXME: grau? -->
 
-### Hörbehinderung
+![Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes.](./pics/06/selektive-belichtung-rezeptives-feld.svg "selektive-belichtung-rezeptives-feld#Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes [@lindsay:1981].")
 
-Hörstörungen können verschiedene physiologische und anatomische Ursachen haben, die von mechanischen Defekten im Außen- oder Mittelohrbereich (Trommelfell, Hammer, Amboss und Steigbügel, ovales und rundes Fenster) bis hin zu Problemen im Innenohr (Cochlea) oder Defekten bei der elektrischen Weiterleitung von Hörreizen über Nervenzellen in den basalen Regionen des Gehirns reichen. [@zagler:2012]
+Genauere Untersuchungen zeigten, dass es zwei Typen von Ganglienzellen gibt, die sich nach der Art, wie sie auf Belichtung ihres rezeptiven Feldes antworten, unterscheiden.
+In beiden Fällen muss zwischen dem kreisförmigen Zentrum des jeweiligen rezeptiven Feldes und einem antagonistisch wirkenden ringförmigen Umfeld unterschieden werden.
+Durch dieses als laterale Hemmung (laterale Inhibition) bezeichnete Prinzip wird eine Steigerung der Bildschärfe erzielt.
 
-Unter Tinnitus versteht man die Wahrnehmung von Geräuschen im menschlichen Ohr in Abwesenheit eines entsprechenden Außengeräusches.
-Er lässt sich in subjektiven Tinnitus (für den es keinen offensichtlichen physischen Grund gibt) und objektiven Tinnitus (bei dem die Geräuschproduktion durch ein Problem im Innenohr verursacht wird) einteilen.
-Nur ein winziger Bruchteil aller Tinnitusfälle ist objektiv.
-Hörstörungen werden in der Regel durch einen audiometrischen Hörtest diagnostiziert.
-Mit der Reintonaudiometrie werden Hörschwellen ermittelt, die mit einem normalen (physiologischen) Hörvermögen verglichen werden können. [@zagler:2012]
+## Messung der Sehschärfe
 
-<!-- FIXME: check license rights of "audiometric measurement device" -->
-<!-- prettier-ignore -->
-![Audiometrisches Messgerät, normale Hörschwellenkurven für Luftleitung (x) und Knochenleitung (\])](./pics/08/audiometric-measurement-device.svg "audiometric-measurement-device#Audiometrisches Messgerät, normale Hörschwellenkurven für Luftleitung (x) und Knochenleitung (]) [@zagler:2012].")
+Die Sehleistung des Auges wird durch den Visus angegeben, der ein Maß für die Sehschärfe bzw. genauer gesagt für das Auflösungsvermögen des Auges ist.
+Der Visus (V) ist der Reziprokwert des kleinsten Winkels (W~min~ in Bogenminuten), unter dem zwei Punkte noch getrennt wahrgenommen werden können.
 
-Je nach Ausmaß des Hörverlusts klassifiziert die ICIDH folgende Stufen der Schwerhörigkeit: leichte Schwerhörigkeit (26-40 dB Dämpfung), mittelgradige Schwerhörigkeit (41-55 dB), mäßig schwere Schwerhörigkeit (56-70dB), hochgradige Schwerhörigkeit (71-91 dB), an Taubheit grenzende Hörschädigung (>91 dB) und Gehörlosigkeit. [@zagler:2012]
-Die Art der Schwerhörigkeit lässt sich oft anhand der unterschiedlich geformten Kurven für Luft- und Knochenleitungspegel diagnostizieren:
+$$
+\sf{V}=1\sf{/W_{min}}
+$$
 
-![Verschiedene Arten von Hörverlust: Schallleitungsschwerhörigkeit (oben, links); Schallempfindungsschwerhörigkeit (oben, rechts); Lärmschwerhörigkeit (unten, links); altersbedingte Schwerhörigkeit, Presbyakusie (unten, rechts)](./pics/08/different-kinds-of-hearing-loss.svg "different-kinds-of-hearing-loss#Verschiedene Arten von Hörverlust: Schallleitungsschwerhörigkeit (oben, links); Schallempfindungsschwerhörigkeit (oben, rechts); Lärmschwerhörigkeit (unten, links); altersbedingte Schwerhörigkeit, Presbyakusie (unten, rechts) [@zagler:2012].")
+Unter guten Lichtverhältnissen kann ein normalsichtiges Auge zwei Punkte gerade noch auseinanderhalten, wenn diese unter einem Winkel von $1$ Bogenminute ($1'$) erscheinen.
 
-## Geistige Behinderung
+Der Visus ist dann $V=1/1=1$.
 
-- Geistige Behinderung: Geistige Behinderungen sind durch erhebliche Einschränkungen sowohl der intellektuellen Fähigkeiten als auch des adaptiven Verhaltens gekennzeichnet, das viele alltägliche soziale und praktische Fähigkeiten umfasst.
-  Diese Behinderungen entstehen vor dem 18. Lebensjahr. [@american-association-on-intellectual-and-development-disabilities:2013]
-  Beeinträchtigungen des Gehirns (Körperfunktionen) führen zu Aktivitäts- und Teilhabeeinschränkungen.
-  Hirnschädigungen, die mit geistiger Behinderung einhergehen, führen zu Einschränkungen der intellektuellen Funktion. [@wehmeyer:2010]
-- Psychische Erkrankung
+Zur Bestimmung des Visus (Sehschärfeprüfung) eignen sich im Prinzip alle Objekte, bei denen ein signifikantes Detail aus der jeweils angegebenen Entfernung unter dem Winkel von $1'$ erscheint (Optotypen).
+Dazu können z. B. Sehprobentafeln mit Buchstaben (Snellen-Tafel, <<fig:snellen-tafel>>) oder Ringen (Landolt-Ringe, <<fig:landolt-ringe>>) verwendet werden.
+Die Öffnung der Ringe wird aus der „Soll-Entfernung“ unter $1'$ gesehen.
+Die Sehleistung errechnet sich aus dem Quotienten aus Ist-Entfernung durch Soll-Entfernung.
+Kann z. B. die Lage des Spaltes eines Landolt-Ringes für eine Soll-Entfernung von $8.5\sf{m}$ erst bei einer Annäherung auf $3.3\sf{m}$ erkannt werden, ist der Visus $3.3/8.5=0.39$.
+Der Visus einer normal sehenden Person beträgt $V=1\ldots1.2$.
+Zum Lesen einer Zeitung ist ein Visus von mindestens $0.4$ erforderlich.
 
-Eine geistige Behinderung gehört auch zur sogenannten Kategorie der Entwicklungsstörung, welche ein breiter Begriff ist und sowohl körperliche, als auch geistige Behinderungen umfasst (z.B. Verhaltensstörungen, Zerebralparese, Down-Syndrom, ...). [@ICI]
+![Snellen-Tafel.](./pics/06/snellen-tafel.svg "snellen-tafel#Snellen-Tafel [@hubel:1989].")
 
-Im Folgenden wird das Trisomie 21/Down-Syndrom näher erläutert, da dies eine häufige Ursache für geistige Behinderungen ist.
+<!-- FIXME: Maßstab Landoltringe? -->
 
-### Trisomie 21 - „Down-Syndrom“
+![Landolt-Ringe.](./pics/06/landolt-ringe.svg "landolt-ringe#Landolt-Ringe [@hubel:1989].")
 
-Trisomie 21 (auch bekannt als „Down-Syndrom“) ist eine der häufigsten Chromosomenanomalien beim Menschen und tritt bei etwa einem von 1000 Babys pro Jahr auf.
-Die genetische Ursache des Down-Syndroms - eine zusätzliche Kopie des Chromosoms 21 - wurde 1959 von französischen Forschern entdeckt.
-Es geht in der Regel mit körperlichen Wachstumsverzögerungen, charakteristischen Gesichtszügen und einer leichten bis mittleren geistigen Behinderung einher. [@weijerman:2010, @hickey:2012]
-
-![Karyotyp für das Trisomie-Down-Syndrom: Beachten Sie die drei Kopien von Chromosom 21](./pics/08/karyotype-of-trisomy-down-syndrome.svg "karyotype-of-trisomy-down-syndrome#Karyotyp für das Trisomie-Down-Syndrom: Beachten Sie die drei Kopien von Chromosom 21 [@servier-medical-art:2019, @human-genome-project:2013].")
-
-Beim Down-Syndrom ist die körperliche und geistige Entwicklung typischerweise verzögert.
-Säuglinge neigen dazu, ruhig und passiv zu sein und schreien nicht so oft wie erwartet.
-Der Intelligenzquotient (IQ) von Kindern mit Down-Syndrom variiert, liegt aber im Durchschnitt bei etwa 50, verglichen mit normalen Kindern, deren durchschnittlicher IQ bei 100 liegt. [@weijerman:2010]
-
-Kinder mit Down-Syndrom haben bessere visuell-motorische Fähigkeiten (z. B. Zeichnen) als Fähigkeiten, die das Zuhören erfordern.
-Daher entwickeln sich ihre sprachlichen Fähigkeiten in der Regel langsam.
-Verhaltensweisen, die auf eine Aufmerksamkeitsstörung (manchmal mit Hyperaktivität) hindeuten, sind in der Kindheit häufig zu beobachten.
-Bei Kindern mit Down-Syndrom besteht ein höheres Risiko für autistisches Verhalten, insbesondere bei Kindern mit schweren geistigen Behinderungen.
-Depressionen sind auch bei Erwachsenen weit verbreitet und können auch bei Kindern auftreten.
-Ein frühzeitiges Eingreifen mit pädagogischen und anderen Diensten verbessert die Funktionsfähigkeit von Kleinkindern mit Down-Syndrom. [@down-syndrome-education:2015]
-
-Kinder mit Down-Syndrom haben oft Herzfehler.
-Sie sind schwerhörig und neigen zu wiederkehrenden Ohrinfektionen.
-Aufgrund von Problemen mit der Hornhaut und den Linsen neigen sie auch zu Sehstörungen.
-Die Gelenke im Nacken können instabil sein, was zu Schwäche oder Lähmungen führen kann.
-Viele Menschen mit Down-Syndrom entwickeln Schilddrüsenerkrankungen (z. B. Hypothyreose) und Diabetes.
-Sie haben auch ein höheres Risiko, an Infektionen und Leukämie zu erkranken.
-
-Zu den Hilfsmitteln, die Kindern/Menschen mit Down-Syndrom helfen können, gehören Computer mit Touchscreens und Kommunikationstafeln mit Symbolen oder Buchstaben, angepasste Gegenstände und Werkzeuge zur leichteren Handhabung (z. B. ein Löffel mit einem speziellen Griff), Beinschienen oder Gehhilfen, die der Person beim Gehen helfen.
+<!--
+ Bild: Hub 89, linker Teil dazugezeichnet
+ FIXME: Bildquelle
+-->
 
 !!!include(general/attribution.md)!!!

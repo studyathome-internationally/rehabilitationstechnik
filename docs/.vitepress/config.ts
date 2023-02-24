@@ -127,8 +127,61 @@ function sidebar(lang) {
         { text: "Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3.md" },
         { text: "Rehabilitationstechnik", link: "/de/chapter4.md" },
         { text: "Einteilung der Hilfsmittel", link: "/de/chapter5.md" },
-        { text: "Medizinische Grundlagen - Teil I", link: "/de/chapter6.md" },
-        { text: "Medizinische Grundlagen - Teil II", link: "/de/chapter7.md" },
+        { text: "Medizinische Grundlagen", link: "/de/chapter6.md" },
+        {
+          text: "Neurobiologie",
+          collapsed: false,
+          items: [{ text: "Das Nervensystem", link: "/de/chapter7.md" }],
+        },
+        {
+          text: "Sehen",
+          collapsed: false,
+          items: [
+            { text: "Auge und visuelle Wahrnehmung", link: "/de/chapter8.md" },
+            { text: "Visuelle Behinderungen", link: "/de/chapter9.md" },
+          ],
+        },
+        {
+          text: "Hören",
+          collapsed: false,
+          items: [
+            { text: "Ohr und auditive Wahrnehmung", link: "/de/chapter10.md" },
+            { text: "Auditive Behinderungen", link: "/de/chapter11.md" },
+          ],
+        },
+        {
+          text: "Tasten",
+          collapsed: false,
+          items: [{ text: "Haut und taktile Wahrnehmung", link: "/de/chapter12.md" }],
+        },
+        {
+          text: "Bewegung",
+          collapsed: false,
+          items: [
+            { text: "Rückenmark, Bewegungsapparat und Muskulatur", link: "/de/chapter13.md" },
+            { text: "Motorische Behinderungen", link: "/de/chapter14.md" },
+          ],
+        },
+        {
+          text: "Kommunikation",
+          collapsed: false,
+          items: [
+            { text: "Sprache und Sprechen", link: "/de/chapter15.md" },
+            { text: "Verbale und vokale Behinderungen", link: "/de/chapter16.md" },
+          ],
+        },
+        {
+          text: "Komplexe Behinderungen",
+          collapsed: false,
+          items: [{ text: "Mehrfachbehinderungen, Syndrome", link: "/de/chapter17.md" }],
+        },
+        {
+          text: "Geriatrische Syndrome",
+          collapsed: false,
+          items: [{ text: "Altersbedingte Funktionseinschränkungen", link: "/de/chapter18.md" }],
+        },
+        // { text: "Major Types of Disability", link: "/de/chapter19.md" },
+        // { text: "Assistive Technology - Basics", link: "/de/chapter20.md" },
       ],
       // "/de/index.html": [],
     },
