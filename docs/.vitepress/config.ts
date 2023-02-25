@@ -34,6 +34,10 @@ export default withPwa(
           nav: nav("en"),
           sidebar: sidebar("en"),
           outlineTitle: "Table of Contents",
+          editLink: {
+            pattern: "https://github.com/studyathome-internationally/rehabilitationstechnik/edit/main/docs/:path",
+            text: "Edit this page on GitHub",
+          },
         },
       },
       de: {
@@ -46,6 +50,10 @@ export default withPwa(
           nav: nav("de"),
           sidebar: sidebar("de"),
           outlineTitle: "Inhaltsverzeichnis",
+          editLink: {
+            pattern: "https://github.com/studyathome-internationally/rehabilitationstechnik/edit/main/docs/:path",
+            text: "Diese Seite auf GitHub bearbeiten",
+          },
         },
       },
     },
