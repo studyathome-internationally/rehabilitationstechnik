@@ -54,6 +54,7 @@ export default withPwa(
             pattern: "https://github.com/studyathome-internationally/rehabilitationstechnik/edit/main/docs/:path",
             text: "Diese Seite auf GitHub bearbeiten",
           },
+          darkModeSwitchLabel: "Darstellung",
         },
       },
     },
