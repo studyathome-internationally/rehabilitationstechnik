@@ -28,7 +28,7 @@ export default {
   },
   setup() {
     const initZoom = () => {
-      if (inBrowser) mediumZoom(".vp-doc img", { background: "var(--vp-c-bg)", margin: 0 });
+      if (inBrowser) mediumZoom("[data-zoom-image]", { background: "var(--vp-c-bg)", margin: 0 });
     };
     const route = useRoute();
     const handler = () => nextTick(initZoom);

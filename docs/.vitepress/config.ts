@@ -159,7 +159,7 @@ function markdown() {
       md.use(MdItInclude);
       md.use(MdItAbbreviation);
       md.use(MdItFootnote);
-      md.use(MdItImages);
+      md.use(MdItImages, { dir: "docs" });
       md.use(MdItMath);
     },
   };

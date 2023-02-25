@@ -10,6 +10,10 @@
     img
       width fit-content
       margin auto
+    // object
+    //   background red !important
+    svg
+      width 100%
     border 1px solid var(--vp-c-brand)
     border-radius 0.5rem 0.5rem 0 0
     figcaption
@@ -36,3 +40,21 @@
     table
       margin 0.5rem auto
       max-width 100%
+
+.dark .VPContent
+  figure
+    svg
+      filter invert(1)
+      // path[stroke="#000"]
+      //   // stroke var(--vp-c-text-1)
+      //   filter invert(1)
+      // path[fill="#000"]
+      //   // fill var(--vp-c-text-1)
+      //   filter invert(1)
+      // symbol
+      //   // fill var(--vp-c-text-1)
+      //   filter invert(1)
+      // path[fill-rule="evenodd"]
+      //   // stroke var(--vp-c-text-1)
+      //   // fill var(--vp-c-text-1)
+      //   filter invert(1)
