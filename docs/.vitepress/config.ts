@@ -23,6 +23,7 @@ export default withPwa(
     base,
     head: head(),
     markdown: markdown(),
+    lastUpdated: true,
     locales: {
       root: {
         label: "English",
