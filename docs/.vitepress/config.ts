@@ -50,15 +50,16 @@ export default withPwa(
           nav: nav("de"),
           sidebar: sidebar("de"),
           outlineTitle: "Inhaltsverzeichnis",
+          darkModeSwitchLabel: "Darstellung",
           editLink: {
             pattern: "https://github.com/studyathome-internationally/rehabilitationstechnik/edit/main/docs/:path",
             text: "Diese Seite auf GitHub bearbeiten",
           },
-          darkModeSwitchLabel: "Darstellung",
         },
       },
     },
     themeConfig: {
+      socialLinks: [{ icon: "github", link: "https://github.com/studyathome-internationally/rehabilitationstechnik" }],
       algolia: {
         appId: "JI7BWPYEMW",
         apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
