@@ -52,6 +52,13 @@ export default withPwa(
           sidebar: sidebar("de"),
           outlineTitle: "Inhaltsverzeichnis",
           darkModeSwitchLabel: "Darstellung",
+          lastUpdatedText: "Letzte Aktualisierung",
+          sidebarMenuLabel: "Menü",
+          returnToTopLabel: "Zurück zum Anfang",
+          docFooter: {
+            prev: "Vorherige Seite",
+            next: "Nächste Seite",
+          },
           editLink: {
             pattern: "https://github.com/studyathome-internationally/rehabilitationstechnik/edit/main/docs/:path",
             text: "Diese Seite auf GitHub bearbeiten",
