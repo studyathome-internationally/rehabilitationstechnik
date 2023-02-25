@@ -14,6 +14,7 @@ import MdItInclude from "markdown-it-include";
 
 import MdItAbbreviation from "./config/plugins/abbreviation";
 import MdItFootnote from "./config/plugins/footnote";
+import MdItImages from "./config/plugins/images";
 import MdItMath from "./config/plugins/math";
 
 import base from "./config/base.js";
@@ -158,6 +159,7 @@ function markdown() {
       md.use(MdItInclude);
       md.use(MdItAbbreviation);
       md.use(MdItFootnote);
+      md.use(MdItImages);
       md.use(MdItMath);
     },
   };
