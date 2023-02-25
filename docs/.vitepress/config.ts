@@ -177,58 +177,47 @@ function sidebar(lang) {
         { text: "Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3.md" },
         { text: "Rehabilitationstechnik", link: "/de/chapter4.md" },
         { text: "Einteilung der Hilfsmittel", link: "/de/chapter5.md" },
-        { text: "Medizinische Grundlagen", link: "/de/chapter6.md" },
         {
-          text: "Neurobiologie",
-          collapsed: false,
-          items: [{ text: "Das Nervensystem", link: "/de/chapter7.md" }],
-        },
-        {
-          text: "Sehen",
-          collapsed: false,
+          text: "Medizinische Grundlagen",
+          link: "/de/chapter6.md",
           items: [
-            { text: "Auge und visuelle Wahrnehmung", link: "/de/chapter8.md" },
-            { text: "Visuelle Behinderungen", link: "/de/chapter9.md" },
+            { text: "Das Nervensystem", link: "/de/chapter7.md" },
+            {
+              text: "Sehen",
+              collapsed: true,
+              items: [
+                { text: "Auge und visuelle Wahrnehmung", link: "/de/chapter8.md" },
+                { text: "Visuelle Behinderungen", link: "/de/chapter9.md" },
+              ],
+            },
+            {
+              text: "Hören",
+              collapsed: true,
+              items: [
+                { text: "Ohr und auditive Wahrnehmung", link: "/de/chapter10.md" },
+                { text: "Auditive Behinderungen", link: "/de/chapter11.md" },
+              ],
+            },
+            { text: "Haut und taktile Wahrnehmung", link: "/de/chapter12.md" },
+            {
+              text: "Bewegung",
+              collapsed: true,
+              items: [
+                { text: "Rückenmark, Bewegungsapparat und Muskulatur", link: "/de/chapter13.md" },
+                { text: "Motorische Behinderungen", link: "/de/chapter14.md" },
+              ],
+            },
+            {
+              text: "Kommunikation",
+              collapsed: true,
+              items: [
+                { text: "Sprache und Sprechen", link: "/de/chapter15.md" },
+                { text: "Verbale und vokale Behinderungen", link: "/de/chapter16.md" },
+              ],
+            },
+            { text: "Mehrfachbehinderungen, Syndrome", link: "/de/chapter17.md" },
+            { text: "Altersbedingte Funktionseinschränkungen", link: "/de/chapter18.md" },
           ],
-        },
-        {
-          text: "Hören",
-          collapsed: false,
-          items: [
-            { text: "Ohr und auditive Wahrnehmung", link: "/de/chapter10.md" },
-            { text: "Auditive Behinderungen", link: "/de/chapter11.md" },
-          ],
-        },
-        {
-          text: "Tasten",
-          collapsed: false,
-          items: [{ text: "Haut und taktile Wahrnehmung", link: "/de/chapter12.md" }],
-        },
-        {
-          text: "Bewegung",
-          collapsed: false,
-          items: [
-            { text: "Rückenmark, Bewegungsapparat und Muskulatur", link: "/de/chapter13.md" },
-            { text: "Motorische Behinderungen", link: "/de/chapter14.md" },
-          ],
-        },
-        {
-          text: "Kommunikation",
-          collapsed: false,
-          items: [
-            { text: "Sprache und Sprechen", link: "/de/chapter15.md" },
-            { text: "Verbale und vokale Behinderungen", link: "/de/chapter16.md" },
-          ],
-        },
-        {
-          text: "Komplexe Behinderungen",
-          collapsed: false,
-          items: [{ text: "Mehrfachbehinderungen, Syndrome", link: "/de/chapter17.md" }],
-        },
-        {
-          text: "Geriatrische Syndrome",
-          collapsed: false,
-          items: [{ text: "Altersbedingte Funktionseinschränkungen", link: "/de/chapter18.md" }],
         },
         // { text: "Major Types of Disability", link: "/de/chapter19.md" },
         // { text: "Assistive Technology - Basics", link: "/de/chapter20.md" },
@@ -242,54 +231,48 @@ function sidebar(lang) {
         { text: "Disability as Difference Between Performance and Requirement", link: "/chapter3.md" },
         { text: "Rehabilitation Technology", link: "/chapter4.md" },
         { text: "Classification of the Tools", link: "/chapter5.md" },
-        { text: "Medical Basics", link: "/chapter6.md" },
-        { text: "Neurobiology", collapsed: false, items: [{ text: "The Nervous System", link: "/chapter7.md" }] },
         {
-          text: "Vision",
+          text: "Medical Basics",
+          link: "/chapter6.md",
           collapsed: false,
           items: [
-            { text: "Eye and Visual Perception", link: "/chapter8.md" },
-            { text: "Visual Disabilities", link: "/chapter9.md" },
+            { text: "The Nervous System", link: "/chapter7.md" },
+            {
+              text: "Vision",
+              collapsed: true,
+              items: [
+                { text: "Eye and Visual Perception", link: "/chapter8.md" },
+                { text: "Visual Disabilities", link: "/chapter9.md" },
+              ],
+            },
+            {
+              text: "Hearing",
+              collapsed: true,
+              items: [
+                { text: "Ear and Auditory Perception", link: "/chapter10.md" },
+                { text: "Auditory Disabilities", link: "/chapter11.md" },
+              ],
+            },
+            { text: "Skin and Tactile Perception", link: "/chapter12.md" },
+            {
+              text: "Movement",
+              collapsed: true,
+              items: [
+                { text: "Spinal Cord, Musculoskeletal System and Musculature", link: "/chapter13.md" },
+                { text: "Motor Disabilities", link: "/chapter14.md" },
+              ],
+            },
+            {
+              text: "Communication",
+              collapsed: true,
+              items: [
+                { text: "Language and Speech", link: "/chapter15.md" },
+                { text: "Verbal and Vocal Disabilities", link: "/chapter16.md" },
+              ],
+            },
+            { text: "Multiple Disabilities, Syndromes", link: "/chapter17.md" },
+            { text: "Age-Related Functional Limitations", link: "/chapter18.md" },
           ],
-        },
-        {
-          text: "Hearing",
-          collapsed: false,
-          items: [
-            { text: "Ear and Auditory Perception", link: "/chapter10.md" },
-            { text: "Auditory Disabilities", link: "/chapter11.md" },
-          ],
-        },
-        {
-          text: "Touch",
-          collapsed: false,
-          items: [{ text: "Skin and Tactile Perception", link: "/chapter12.md" }],
-        },
-        {
-          text: "Movement",
-          collapsed: false,
-          items: [
-            { text: "Spinal Cord, Musculoskeletal System and Musculature", link: "/chapter13.md" },
-            { text: "Motor Disabilities", link: "/chapter14.md" },
-          ],
-        },
-        {
-          text: "Communication",
-          collapsed: false,
-          items: [
-            { text: "Language and Speech", link: "/chapter15.md" },
-            { text: "Verbal and Vocal Disabilities", link: "/chapter16.md" },
-          ],
-        },
-        {
-          text: "Complex Disabilities",
-          collapsed: false,
-          items: [{ text: "Multiple Disabilities, Syndromes", link: "/chapter17.md" }],
-        },
-        {
-          text: "Geriatric Syndromes",
-          collapsed: false,
-          items: [{ text: "Age-Related Functional Limitations", link: "/chapter18.md" }],
         },
         // { text: "Major Types of Disability", link: "/chapter19.md" },
         // { text: "Assistive Technology - Basics", link: "/chapter20.md" },
