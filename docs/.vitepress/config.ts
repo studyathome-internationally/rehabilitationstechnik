@@ -190,11 +190,16 @@ function sidebar(lang) {
   return {
     de: {
       "/": [
-        { text: "Definitionen und Wortwahl", link: "/de/chapter1.md" },
-        { text: "Die Ebenen der Behinderung nach WHO", link: "/de/chapter2.md" },
-        { text: "Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3.md" },
-        { text: "Rehabilitationstechnik", link: "/de/chapter4.md" },
-        { text: "Einteilung der Hilfsmittel", link: "/de/chapter5.md" },
+        {
+          text: "Definitionen und Einteilung",
+          items: [
+            { text: "Definitionen und Wortwahl", link: "/de/chapter1.md" },
+            { text: "Die Ebenen der Behinderung nach WHO", link: "/de/chapter2.md" },
+            { text: "Behinderung als Differenz zwischen Leistung und Anforderung", link: "/de/chapter3.md" },
+            { text: "Rehabilitationstechnik", link: "/de/chapter4.md" },
+            { text: "Einteilung der Hilfsmittel", link: "/de/chapter5.md" },
+          ],
+        },
         {
           text: "Medizinische Grundlagen",
           link: "/de/chapter6.md",
@@ -244,11 +249,16 @@ function sidebar(lang) {
     },
     en: {
       "/": [
-        { text: "Definitions and Wording", link: "/chapter1.md" },
-        { text: "The Levels of Disability According to WHO", link: "/chapter2.md" },
-        { text: "Disability as Difference Between Performance and Requirement", link: "/chapter3.md" },
-        { text: "Rehabilitation Technology", link: "/chapter4.md" },
-        { text: "Classification of the Tools", link: "/chapter5.md" },
+        {
+          text: "Definitions and Classification",
+          items: [
+            { text: "Definitions and Wording", link: "/chapter1.md" },
+            { text: "The Levels of Disability According to WHO", link: "/chapter2.md" },
+            { text: "Disability as Difference Between Performance and Requirement", link: "/chapter3.md" },
+            { text: "Rehabilitation Technology", link: "/chapter4.md" },
+            { text: "Classification of the Tools", link: "/chapter5.md" },
+          ],
+        },
         {
           text: "Medical Basics",
           link: "/chapter6.md",
