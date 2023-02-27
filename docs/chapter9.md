@@ -29,7 +29,7 @@ This rating is valid with optimal optical correction (glasses, contact lenses) f
 | Severe visual impairment | $\lt~0.05$    |
 | Legally blind            | $\lt~0.02$    |
 
-.classification-visual-impairment#classification of visual impairments.
+.classification-visual-impairment#Classification of visual impairments.
 
 ## Causes of Visual Impairments
 
