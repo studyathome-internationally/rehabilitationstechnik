@@ -27,7 +27,8 @@ abbreviations:
 - [Chapter 16: Verbal and Vocal Disabilities](chapter16.md)
 - [Chapter 17: Multiple Disabilities, Syndromes](chapter17.md)
 - [Chapter 18: Age-Related Functional Limitations](chapter18.md)
-  {.toc}
+
+{.toc}
 
 <style lang="stylus">
 .prev-next

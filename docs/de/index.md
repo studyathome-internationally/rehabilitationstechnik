@@ -27,7 +27,8 @@ abbreviations:
 - [Kapitel 16: Verbale und vokale Behinderungen](chapter16.md)
 - [Kapitel 17: Mehrfachbehinderungen, Syndrome](chapter17.md)
 - [Kapitel 18: Altersbedingte Funktionseinschränkungen](chapter18.md)
-  {.toc}
+
+{.toc}
 
 <style lang="stylus">
 .prev-next
