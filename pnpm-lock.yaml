@@ -22,7 +22,7 @@ specifiers:
   stylus: ^0.59.0
   vite: ^4.0.0
   vite-plugin-pwa: ^0.14.4
-  vitepress: 1.0.0-alpha.47
+  vitepress: 1.0.0-alpha.49
   vue: ^3.2.47
   workbox-window: ^6.5.4
 
@@ -48,7 +48,7 @@ devDependencies:
   stylus: 0.59.0
   vite: 4.1.2_mjhv34w3caratd4slml5scxf7a
   vite-plugin-pwa: 0.14.4_hqils2veansstxzaefh32znarq
-  vitepress: 1.0.0-alpha.47_mjhv34w3caratd4slml5scxf7a
+  vitepress: 1.0.0-alpha.49_mjhv34w3caratd4slml5scxf7a
   vue: 3.2.47
   workbox-window: 6.5.4
 
@@ -1352,7 +1352,7 @@ packages:
     resolution: {integrity: sha512-2xAv2GFuHzzmG0SSZgf8wHX0qZX8n9Y1ZirKUk5Wrdc+vH9CL837x2hZIUdwcPZI9caBA+/CzxsS68O4waYjUQ==}
     dependencies:
       '@docsearch/react': 3.3.3
-      preact: 10.12.1
+      preact: 10.13.0
     transitivePeerDependencies:
       - '@algolia/client-search'
       - '@types/react'
@@ -3164,8 +3164,8 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /preact/10.12.1:
-    resolution: {integrity: sha512-l8386ixSsBdbreOAkqtrwqHwdvR35ID8c3rKPa8lCWuO86dBi32QWHV4vfsZK1utLLFMvw+Z5Ad4XLkZzchscg==}
+  /preact/10.13.0:
+    resolution: {integrity: sha512-ERdIdUpR6doqdaSIh80hvzebHB7O6JxycOhyzAeLEchqOq/4yueslQbfnPwXaNhAYacFTyCclhwkEbOumT0tHw==}
     dev: true
 
   /pretty-bytes/5.6.0:
@@ -3284,6 +3284,14 @@ packages:
 
   /rollup/3.16.0:
     resolution: {integrity: sha512-9wE1H5N1SJqnROpQanBGJ7lrIitwlUYGj4Va4eyf3+vNhoIHLPLag2/CUGIiq3V9lHOBJB6zTsGsPvc50oeihg==}
+    engines: {node: '>=14.18.0', npm: '>=8.0.0'}
+    hasBin: true
+    optionalDependencies:
+      fsevents: 2.3.2
+    dev: true
+
+  /rollup/3.17.3:
+    resolution: {integrity: sha512-p5LaCXiiOL/wrOkj8djsIDFmyU9ysUxcyW+EKRLHb6TKldJzXpImjcRSR+vgo09DBdofGcOoLOsRyxxG2n5/qQ==}
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
@@ -3685,14 +3693,14 @@ packages:
       esbuild: 0.16.17
       postcss: 8.4.21
       resolve: 1.22.1
-      rollup: 3.16.0
+      rollup: 3.17.3
       stylus: 0.59.0
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
 
-  /vitepress/1.0.0-alpha.47_mjhv34w3caratd4slml5scxf7a:
-    resolution: {integrity: sha512-vj+LOY0WJtKSk98HV4qqG6p4MofmF+C8yrWHiiw+GCMfr6C+610U5D7oD2OruroIafsON6F4nBDWGK8ZyGIpXQ==}
+  /vitepress/1.0.0-alpha.49_mjhv34w3caratd4slml5scxf7a:
+    resolution: {integrity: sha512-3nUZJow4qL8NHRWYatqqVj45AJDxWst/TuOj+IbQRhxesEswa+Fpwayj9/FxzRzBl665fuiG5y+QeVhOeUm0OA==}
     hasBin: true
     dependencies:
       '@docsearch/css': 3.3.3
