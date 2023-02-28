@@ -29,7 +29,7 @@ export default withPwa(
         label: "English",
         lang: "en-US",
         title: "Rehabilitation Technology",
-        description: "UAS Technikum Vienna",
+        description: "Rehabilitation Technology - OER by UAS Technikum Wien",
         themeConfig: {
           logo: "/img/studyathome-noir.svg",
           nav: nav("en"),
@@ -45,7 +45,7 @@ export default withPwa(
         label: "Deutsch",
         lang: "de-AT",
         title: "Rehabilitationstechnik",
-        description: "FH Technikum Wien",
+        description: "Rehabilitationstechnik - OER der FH Technikum Wien",
         themeConfig: {
           logo: "/img/studyathome-noir.svg",
           nav: nav("de"),
