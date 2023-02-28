@@ -1,5 +1,6 @@
 ---
 sidebar: false
+next: false
 abbreviations:
   list: false
 ---
@@ -29,8 +30,3 @@ abbreviations:
 - [Kapitel 18: Altersbedingte Funktionseinschränkungen](chapter18.md)
 
 {.toc}
-
-<style lang="stylus">
-.prev-next
-  display none !important
-</style>
