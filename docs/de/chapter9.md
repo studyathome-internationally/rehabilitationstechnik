@@ -42,7 +42,11 @@ Diese Wertung gilt bei optimaler optischer Korrektur (Brille, Kontaktlinsen) fü
 Nachfolgend werden einige der (in westlichen Ländern) am häufigsten auftretenden Augenerkrankungen und deren Auswirkungen auf das Sehvermögen der betroffenen Person beschrieben.
 Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](chapter1.html#sichtweise-behinderung)).
 
+<div class="no-dark">
+
 ![Normalsicht](./pics/06/normalsicht.svg "normalsicht#Normalsicht [@frederiksen:1989].")
+
+</div>
 
 Es muss darauf hingewiesen werden, dass diese Darstellung sowie alle Simulationen von Sehbehinderungen nur sehr grobe Näherungen des tatsächlichen Sachverhaltes darstellen.
 Gesichtsfeldausfälle lassen sich nicht einfach durch schwarze Flächen nachbilden, obwohl das oft in Illustrationen gemacht wird.
@@ -65,7 +69,11 @@ Bei den Refraktionsanomalien unterscheiden wir:
 
    ![Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut](./pics/06/strahlengang-myopie.svg "strahlengang-myopie#Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut [@mörike:1981].")
 
+   <div class="no-dark">
+
    ![Myopie](./pics/06/myopie.svg "myopie#Myopie [@frederiksen:1989].")
+
+   </div>
 
 2. Weitsichtigkeit  
    Bei Weitsichtigkeit (Hyperopie oder Hypermetropie, engl. hyperopia, hypermetropia) ist die Brechkraft des Auges zu niedrig (Brennweite zu lang) bzw. der Augapfel ist zu kurz.
@@ -100,7 +108,11 @@ Bei rechtzeitigem Erkennen des ansteigenden Augeninnendruckes, der sich durch Fa
 In seltenen Fällen ist ein chirurgischer Eingriff erforderlich.
 Der Grüne Star ist weltweit die häufigste Erblindungsursache.
 
+<div class="no-dark">
+
 ![Glaukom](./pics/06/glaukom.svg "glaukom#Glaukom [@frederiksen:1989].")
+
+</div>
 
 ## Katarakt – Grauer Star
 
@@ -109,7 +121,11 @@ Dadurch wird das Sehvermögen durch Trübung des Bildes, aber auch durch Blendwi
 
 [^11]: Rötelninfektion der Mutter vornehmlich im ersten Schwangerschaftsmonat.
 
+<div class="no-dark">
+
 ![Katarakt](./pics/06/katarakt.svg "katarakt#Katarakt [@frederiksen:1989].")
+
+</div>
 
 Der Graue Star ist durch die operative Entfernung der Linse relativ einfach chirurgisch zu beheben.
 Die dadurch verloren gegangene Brechkraft der Linse kann entweder durch eine Starbrille ($+12\;\sf{dpt}$) oder durch Implantation einer Kunststofflinse ersetzt werden.
@@ -125,7 +141,11 @@ Bereits in der Kindheit kommt es zu schlechtem Sehen in der Dämmerung (Nachtbli
 Später kommt es auch am Tag zu einem ringförmigen Gesichtsfeldausfall (ringförmiges Skotom), sodass nur mehr ein Gesichtsfeld von $10\degree$ bis $15\degree$ verbleibt.
 In späteren Stadien führt Retinopathia pigmentosa zum „Tunnelblick“ (ein bis auf wenige Grad eingeschränktes Gesichtsfeld) und somit zur praktischen Erblindung, obwohl das zentrale Sehvermögen (Sehschärfe) noch recht gut sein kann (<<fig:retinopathia-pigmentosa>>).
 
+<div class="no-dark">
+
 ![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
+
+</div>
 
 ## Hemianopie (Hemianopsie)
 
@@ -136,6 +156,10 @@ Die Unterbrechung der Hemianopie in der Gesichtsfeldmitte rührt daher, dass in 
 Somit sind an der Verarbeitung des fovealen Bereiches beide Hemisphären beteiligt [@betz:1991].
 Bei einer Schädigung im Bereich eines Okzipitallappens können daher trotzdem Reize aus des gesamten Fovea wahrgenommen werden [@wilson:1996:a].
 
+<div class="no-dark">
+
 ![Hemianopie](./pics/06/hemianopie.svg "hemianopie#Hemianopie; nach [@frederiksen:1989].")
+
+</div>
 
 !!!include(general/attribution.md)!!!

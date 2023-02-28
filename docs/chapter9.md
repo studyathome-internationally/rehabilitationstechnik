@@ -38,7 +38,11 @@ This rating is valid with optimal optical correction (glasses, contact lenses) f
 Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
 For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
 
-![NormNormal visionalsicht](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
+<div class="no-dark">
+
+![Normal vision](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
+
+</div>
 
 It must be pointed out that this illustration as well as all simulations of visual impairments are only very rough approximations of the actual situation.
 Visual field defects cannot simply be simulated by black areas, although this is often done in illustrations.
@@ -61,7 +65,11 @@ In refractive anomalies we distinguish:
 
    ![Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina](./pics/06/strahlengang-myopie.svg "ray-tracing-myopia#Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina [@mörike:1981].")
 
+   <div class="no-dark">
+
    ![Myopia](./pics/06/myopie.svg "myopia#Myopia [@frederiksen:1989].")
+
+   </div>
 
 2. Hyperopia (farsightedness)  
    In farsightedness (hyperopia, hypermetropia) the refractive power of the eye is too low (focal length too long) or the eyeball is too short.
@@ -94,7 +102,11 @@ If the rising intraocular pressure, which becomes noticeable through color perce
 In rare cases, surgical intervention is required.
 Glaucoma is the most common cause of blindness worldwide.
 
+<div class="no-dark">
+
 ![Glaucoma](./pics/06/glaukom.svg "glaucoma#Glaucoma [@frederiksen:1989].")
+
+</div>
 
 ## Cataract
 
@@ -103,7 +115,11 @@ As a result, vision is reduced by clouding of the image, but also by glare due t
 
 [^11]: Rubella infection of the mother mainly in the first month of pregnancy.
 
+<div class="no-dark">
+
 ![Cataract](./pics/06/katarakt.svg "cataract#Cataract [@frederiksen:1989].")
+
+</div>
 
 Cataract is relatively easy to correct surgically by surgical removal of the lens.
 The refractive power of the lens lost as a result can be replaced either by cataract glasses ($+12\;\sf{dpt}$) or by implantation of a plastic lens.
@@ -119,7 +135,11 @@ Already in childhood, poor vision in twilight occurs (night blindness due to fai
 Later, a ring-shaped visual field loss (annular scotoma) also occurs during the day, leaving only a visual field of $10\degree$ to $15\degree$.
 In later stages, retinopathy pigmentosa leads to “tunnel vision” (a visual field reduced to a few degrees) and thus to practical blindness, although central vision (visual acuity) may still be quite good (<<fig:retinopathia-pigmentosa>>).
 
+<div class="no-dark">
+
 ![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
+
+</div>
 
 ## Hemianopia (Hemianopsia)
 
@@ -130,6 +150,10 @@ The interruption of hemianopia in the center of the visual field results from th
 Thus, both hemispheres are involved in the processing of the foveal area [@betz:1991].
 Therefore, in case of damage in one occipital lobe, stimuli from the entire fovea can still be perceived [@wilson:1996:a].
 
+<div class="no-dark">
+
 ![Hemianopia](./pics/06/hemianopie.svg "hemianopia#Hemianopia; according [@frederiksen:1989].")
+
+</div>
 
 !!!include(general/attribution.en.md)!!!
