@@ -40,3 +40,7 @@
 .dark .VPContent
   figure img
     filter invert(1)
+
+  /* FIXME: Implement support for markdown-it-attrs in markdown-it-list-of-{figures,tables} */
+  .no-dark > figure img
+    filter unset
