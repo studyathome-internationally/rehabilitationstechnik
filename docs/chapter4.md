@@ -20,13 +20,13 @@ abbreviations:
 
 ## Medical Technology and Rehabilitation Technology
 
-The task of **medical technology** is the creation of all those prophylactic, diagnostic and therapeutic devices and procedures that support the medical practitioner in his/her efforts for the well-being of the patient.
+The task of **medical technology** (See <<fig:medical-technology-rehabilitation-technology>>, [@zagler:2008]) is the creation of all those prophylactic, diagnostic and therapeutic devices and procedures that support the medical practitioner in his/her efforts for the well-being of the patient.
 These medical efforts may also be aimed at the rehabilitation of a patient, although the instruments used may very well belong to the fundus of medical technology.
 
 - Medical technology aims at the healing of the patient.
 - Medical technology, therefore, primarily addresses the impairment.
 
-**Rehabilitation technology**, on the other hand, is primarily aimed at providing the person affected by a _disability_ and/or a (social) _handicap_ with technical tools with which the disability or handicap can be completely or at least partially overcome.
+**Rehabilitation technology** (See <<fig:medical-technology-rehabilitation-technology>>, [@zagler:2008]), on the other hand, is primarily aimed at providing the person affected by a _disability_ and/or a (social) _handicap_ with technical tools with which the disability or handicap can be completely or at least partially overcome.
 
 - Rehabilitation technology aims at restoring or improving a function of the patient affected by impairment.
 - Rehabilitation technology starts therefore with the disability (_ability disorder_) or with the handicap.
@@ -35,6 +35,8 @@ Rehabilitation Technology (RT) is a multidisciplinary technical field whose task
 This multidisciplinarity does not exist merely by necessity (because of the lack of possibility of classification), but deliberately.
 When it comes to finding ways and means to help disabled, ill and old/frail people to achieve more independence and a higher quality of life, no technical discipline should be excluded.
 It should, therefore, be an honorable task for every technician to search his or her own field of specialization to see what contributions can be made to rehabilitation technology.
+
+![Medical technology and rehabilitation technology in relation to the chain of effects from disease to handicap.](./pics/06/medizintechnik-rehabilitationstechnik-wirkungskette.svg "medical-technology-rehabilitation-technology#Medical technology and rehabilitation technology in relation to the chain of effects from disease to handicap [@zagler:2008].")
 
 ## Goals of Rehabilitation Technology
 
