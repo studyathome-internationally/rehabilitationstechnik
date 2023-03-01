@@ -20,13 +20,13 @@ abbreviations:
 
 ## Medical Technology and Rehabilitation Technology
 
-The task of **medical technology** (See <<fig:medical-technology-rehabilitation-technology>>, [@zagler:2008]) is the creation of all those prophylactic, diagnostic and therapeutic devices and procedures that support the medical practitioner in his/her efforts for the well-being of the patient.
+The task of **medical technology** (<<fig:medical-technology-rehabilitation-technology>>) is the creation of all those prophylactic, diagnostic and therapeutic devices and procedures that support the medical practitioner in his/her efforts for the well-being of the patient.
 These medical efforts may also be aimed at the rehabilitation of a patient, although the instruments used may very well belong to the fundus of medical technology.
 
 - Medical technology aims at the healing of the patient.
 - Medical technology, therefore, primarily addresses the impairment.
 
-**Rehabilitation technology** (See <<fig:medical-technology-rehabilitation-technology>>, [@zagler:2008]), on the other hand, is primarily aimed at providing the person affected by a _disability_ and/or a (social) _handicap_ with technical tools with which the disability or handicap can be completely or at least partially overcome.
+**Rehabilitation technology** (<<fig:medical-technology-rehabilitation-technology>>), on the other hand, is primarily aimed at providing the person affected by a _disability_ and/or a (social) _handicap_ with technical tools with which the disability or handicap can be completely or at least partially overcome.
 
 - Rehabilitation technology aims at restoring or improving a function of the patient affected by impairment.
 - Rehabilitation technology starts therefore with the disability (_ability disorder_) or with the handicap.
