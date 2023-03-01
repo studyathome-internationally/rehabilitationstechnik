@@ -69,7 +69,7 @@ Sound impedance is the characteristic impedance (product of density and sound ve
 <!-- FIXME: Querverweis -->
 <!-- FIXME: Einheiten? -->
 
-For the evaluation of hearing performance or hearing loss in audiometry (see Chapter [Determination of Hearing Ability - Audiometry](./chapter10.html#determination-of-hearing-ability-audiometry)), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
+For the evaluation of hearing performance or hearing loss in audiometry (see Chapter [Determination of Hearing Ability - Audiometry](./chapter9.html#determination-of-hearing-ability-audiometry)), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
 Hearing losses are expressed in dB HL (suffix or HL for _Hearing Loss_ or _Hearing Level_) and indicate by how many dB the sound pressure must be raised above the normal hearing threshold in order for a hearing-impaired person to perceive a sound at a given frequency.
 
 To evaluate the perception of acoustic signals in the presence of noise, another ratio designated dB SL (suffix SL for _Sensation Level_) is used.
@@ -124,7 +124,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    <!-- FIXME: Querverweis -->
 
    The ossicles also cause the sound energy to be transmitted not to the entire inner ear, but only to the oval window.
-   The round window (the second connection point between the middle ear and the inner ear) can, therefore, oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter [Physiology of the Ear](./chapter10.html#physiology-of-the-ear) point (a)).
+   The round window (the second connection point between the middle ear and the inner ear) can, therefore, oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter [Physiology of the Ear](./chapter9.html#physiology-of-the-ear) point (a)).
 
    Finally, the middle ear also has a certain regulatory or protective function.
    The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ – $80\;\sf{dB}$ above the hearing threshold and have a damping (attenuating) effect on the transmission of lower frequencies.

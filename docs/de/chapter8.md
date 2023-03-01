@@ -40,7 +40,7 @@ Diese Wertung gilt bei optimaler optischer Korrektur (Brille, Kontaktlinsen) fü
 <!-- FIXME: "leidet"?? -->
 
 Nachfolgend werden einige der (in westlichen Ländern) am häufigsten auftretenden Augenerkrankungen und deren Auswirkungen auf das Sehvermögen der betroffenen Person beschrieben.
-Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](chapter1.html#sichtweise-behinderung)).
+Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](./chapter1.html#sichtweise-behinderung)).
 
 <div class="no-dark">
 

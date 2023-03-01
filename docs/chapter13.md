@@ -261,7 +261,7 @@ For this reason, in the treatment of muscle diseases, the actual muscle diseases
 
 Because of the much broader view of motor disorders, these two categories are treated separately here.
 The neurogenic (secondary) myopathies are therefore found in this chapter.
-Chapter [Muscular Causes](./chapter14.html#muscular-causes) is devoted to muscle disorders in the narrower sense (primary neuropathies).
+Chapter [Muscular Causes](./chapter13.html#muscular-causes) is devoted to muscle disorders in the narrower sense (primary neuropathies).
 
   <!-- FIXME: Cross-reference -->
 
@@ -275,7 +275,7 @@ Chapter [Muscular Causes](./chapter14.html#muscular-causes) is devoted to muscle
      Disturbances of visual as well as auditory perception may occur.
      The symptoms can occur in almost any combination, so that there is no uniform appearance.
 
-     A distinction is made between the types spastic, athetotic, and ataxic (for description see [basics-and-systematics](chapter6.html#basics-and-systematics) (c)), but these can also occur in combinations [@prentke:1993, @trace-center:1999].
+     A distinction is made between the types spastic, athetotic, and ataxic (for description see [basics-and-systematics](./chapter13.html#basics-and-systematics) (c)), but these can also occur in combinations [@prentke:1993, @trace-center:1999].
 
    - _Minimal cerebral dysfunction_ (MCD)  
      Minimal cerebral dysfunction (MCD) is the result of early childhood brain damage (MCP – minimal cerebral palsy) that has only a minor effect.
@@ -420,7 +420,7 @@ Chapter [Muscular Causes](./chapter14.html#muscular-causes) is devoted to muscle
 
 This section deals with muscle diseases in the narrower sense (primary myopathies).
 These include all diseases in which the muscle fibers are directly affected by a disease process [@deutsche-gesellschaft-muskelkranke:1998].
-The secondary or neurogenic myopathies can be found in chapter [Damages of the Nervous System](./chapter14.html#damages-of-the-nervous-system).
+The secondary or neurogenic myopathies can be found in chapter [Damages of the Nervous System](./chapter13.html#damages-of-the-nervous-system).
 Most neuromuscular diseases are genetic, intelligence, emotions and affect are not impaired, sensory organs are not affected.
 
 1. Progressive muscular dystrophies  
@@ -469,7 +469,7 @@ Most neuromuscular diseases are genetic, intelligence, emotions and affect are n
 <!-- FIXME: cross reference -->
 
 2. Myasthenias  
-   Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^28] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter [Musculature](./chapter13.html#musculature)).
+   Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^28] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter [Musculature](./chapter12.html#musculature)).
 
    - _Myasthenia gravis_  
      There is a load-dependent, abnormally rapid fatigue of the striated muscles, which typically affects the eye muscles (double vision – diplopia), the chewing and swallowing muscles, the neck muscles and the upper arms.

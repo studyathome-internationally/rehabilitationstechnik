@@ -36,7 +36,7 @@ This rating is valid with optimal optical correction (glasses, contact lenses) f
 <!-- FIXME: Abbildungsverweis -->
 
 Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
-For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
+For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](./chapter1.html#sichtweise-behinderung)).
 
 <div class="no-dark">
 

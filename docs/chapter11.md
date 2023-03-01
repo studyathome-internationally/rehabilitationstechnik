@@ -170,7 +170,7 @@ For two-point discrimination at different body sites, the following values can b
 Thus, the tongue enables the finest discrimination, followed by the fingertips.
 Especially the large skin areas, which would lend themselves to the tactile perception of images in terms of their surface area, perform extremely poorly in spatial stimulus discrimination.
 In addition, it must be distinguished whether both tactile stimuli are presented simultaneously (simultaneous) or successively (successive).
-Since the skin also knows so-called receptive fields (for more details see [The Receptive Fields](./chapter8.html#the-receptive-fields)), which are surrounded by fields with lateral inhibition, discrimination is lower for simultaneous two-point stimuli (the second stimulus falls into the inhibitory area) than for successive presentation.
+Since the skin also knows so-called receptive fields (for more details see [The Receptive Fields](./chapter7.html#the-receptive-fields)), which are surrounded by fields with lateral inhibition, discrimination is lower for simultaneous two-point stimuli (the second stimulus falls into the inhibitory area) than for successive presentation.
 
 Thus, for static tactile perceptibility at the fingertip, tactile information must have a spatial resolution of more than $2.5\;\sf{mm}$ for stimuli to be distinguished from each other.
 For the presentation of a line formed by dots, which should be perceived as reasonably continuous, the individual dots must not exceed a distance of $1\;\sf{mm}$ (this specification applies to the moving finger).

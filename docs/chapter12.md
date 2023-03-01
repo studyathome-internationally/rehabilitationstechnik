@@ -21,7 +21,7 @@ abbreviations:
 <!-- FIXME: Querverweis -->
 
 In this chapter, together with the discussion of musculature and musculoskeletal system, the spinal cord is also discussed because all motor commands by which peripheral muscle can be stimulated are addressed via this connection from the central nervous system (CNS).
-It is important to distinguish which muscles are supplied via a direct connection from the brain (cranial nerves, see [The Cranial Nerves](./chapter7.html#the-cranial-nerves)) and which run via the spinal cord and can therefore be affected by spinal injuries.
+It is important to distinguish which muscles are supplied via a direct connection from the brain (cranial nerves, see [The Cranial Nerves](./chapter6.html#the-cranial-nerves)) and which run via the spinal cord and can therefore be affected by spinal injuries.
 
 ## The Spinal Cord
 

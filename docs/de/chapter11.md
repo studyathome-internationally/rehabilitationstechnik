@@ -172,7 +172,7 @@ Für die Zweipunktunterscheidung (Zweipunktdiskriminierung) an verschiedenen Kö
 Die feinste Diskriminierung ermöglicht also die Zunge, gefolgt von den Fingerbeeren.
 Gerade die großen Hautpartien, die sich hinsichtlich ihrer Fläche für die taktile Wahrnehmung von Bildern anbieten würden, schneiden bei der räumlichen Reizdiskriminierung äußerst schlecht ab.
 Zusätzlich muss unterschieden werden, ob beide taktilen Stimuli gleichzeitig (simultan) oder nacheinander (sukzessiv) präsentiert werden.
-Da auch die Haut sogenannte rezeptive Felder kennt (Näheres dazu siehe [Die rezeptiven Felder](./chapter8.html#die-rezeptiven-felder)), die von Feldern mit lateraler Inhibition umgeben sind, ist die Diskriminierung bei simultanen Zweipunktreizen (der zweite Reiz fällt in das inhibierende Gebiet) geringer als bei der sukzessiven Präsentation.
+Da auch die Haut sogenannte rezeptive Felder kennt (Näheres dazu siehe [Die rezeptiven Felder](./chapter7.html#die-rezeptiven-felder)), die von Feldern mit lateraler Inhibition umgeben sind, ist die Diskriminierung bei simultanen Zweipunktreizen (der zweite Reiz fällt in das inhibierende Gebiet) geringer als bei der sukzessiven Präsentation.
 
 Für die statische taktile Wahrnehmbarkeit an der Fingerspitze muss eine taktile Information demnach eine räumliche Auflösung von mehr als $2.5\;\sf{mm}$ für voneinander zu unterscheidende Reize aufweisen.
 Für die Darstellung einer aus Punkten gebildeten Linie, die als einigermaßen kontinuierlich empfundenen werden soll, dürfen die einzelnen Punkte einen Abstand von $1\;\sf{mm}$ nicht überschreiten (diese Angabe gilt für den bewegten Finger).
