@@ -28,7 +28,7 @@ const { formula, block } = toRefs(props);
 
 const mlContent = computed(() => {
   if (block.value) options.displayMode = true;
-  return katex.renderToString(formula.value, options);
+  return katex.renderToString(formula.value, options).replaceAll("<annotation ", '<annotation aria-hidden="true" ');
 });
 </script>
 

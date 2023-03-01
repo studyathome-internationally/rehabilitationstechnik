@@ -201,7 +201,7 @@ function math_plugin(md, options) {
     options.displayMode = false;
     options.strict = "ignore";
     try {
-      return katex.renderToString(latex, options);
+      return katex.renderToString(latex, options).replaceAll("<annotation ", '<annotation aria-hidden="true" ');
     } catch (error) {
       if (options.throwOnError) {
         console.log(error);
@@ -218,7 +218,11 @@ function math_plugin(md, options) {
     options.displayMode = true;
     options.strict = "ignore";
     try {
-      return "<p v-pre class='katex-block'>" + katex.renderToString(latex, options) + "</p>";
+      return (
+        "<p v-pre class='katex-block'>" +
+        katex.renderToString(latex, options).replaceAll("<annotation ", '<annotation aria-hidden="true" ') +
+        "</p>"
+      );
     } catch (error) {
       if (options.throwOnError) {
         console.log(error);
