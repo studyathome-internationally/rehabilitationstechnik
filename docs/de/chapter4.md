@@ -20,13 +20,13 @@ abbreviations:
 
 ## Medizintechnik und Rehabilitationstechnik
 
-Aufgabe der Medizintechnik ist die Schaffung aller jener prophylaktischen, diagnostischen und therapeutischen Geräte und Verfahren, die den Medizinerinnen und Medizinern bei ihren Bemühungen um das Wohl des Patienten oder der Patientin unterstützen.
+Aufgabe der **Medizintechnik** (<<fig:medizintechnik-rehabilitationstechnik>>) ist die Schaffung aller jener prophylaktischen, diagnostischen und therapeutischen Geräte und Verfahren, die den Medizinerinnen und Medizinern bei ihren Bemühungen um das Wohl des Patienten oder der Patientin unterstützen.
 Diese ärztlichen Bemühungen können auch auf die Rehabilitation einer Patientin oder Patienten abzielen, obwohl das eingesetzte Instrumentarium sehr wohl dem Fundus der Medizintechnik zuzurechnen ist.
 
 - Medizintechnik zielt auf die Heilung der Patientin oder des Patienten ab.
 - Medizintechnik setzt daher in erster Linie bei der (gesundheitlichen) Schädigung an.
 
-**Rehabilitationstechnik** hingegen zielt in erster Linie darauf ab, dem von einer Fähigkeitsstörung (_disability_) bzw. einer (sozialen) Beeinträchtigung (_handicap_) betroffenen Menschen technische Werkzeuge in die Hand zu geben, mit denen die Fähigkeitsstörung bzw. die Beeinträchtigung ganz oder zumindest teilweise überwunden werden kann.
+**Rehabilitationstechnik** (<<fig:medizintechnik-rehabilitationstechnik>>) hingegen zielt in erster Linie darauf ab, dem von einer Fähigkeitsstörung (_disability_) bzw. einer (sozialen) Beeinträchtigung (_handicap_) betroffenen Menschen technische Werkzeuge in die Hand zu geben, mit denen die Fähigkeitsstörung bzw. die Beeinträchtigung ganz oder zumindest teilweise überwunden werden kann.
 
 - Rehabilitationstechnik zielt auf die Wiederherstellung oder Verbesserung einer durch Schädigung betroffenen Funktion der Patientin oder des Patienten ab.
 - Rehabilitationstechnik setzt daher bei der Fähigkeitsstörung (_disability_) bzw. bei der Beeinträchtigung (_handicap_) an.
@@ -37,6 +37,8 @@ Rehabilitationstechnik (engl. _Rehabilitation Technology_, _Rehabilitation Engin
 Diese Multidisziplinarität besteht nicht bloß notgedrungen (wegen mangelnder Möglichkeit einer Zuordnung), sondern vollkommen bewusst.
 Wenn es darum geht, Mittel und Wege zu finden, um behinderten, kranken und alten/gebrechlichen Menschen Hilfestellung zu mehr Selbstständigkeit und höherer Lebensqualität zu geben, dann darf keine technische Disziplin davon ausgeschlossen werden.
 Es sollte daher eine ehrenvolle Aufgabe für jeden Techniker und jede Technikerin sein, das eigene Spezialgebiet danach zu durchforsten, welche Beiträge zur Rehabilitationstechnik damit geleistet werden können.
+
+![Medizintechnik und Rehabilitationstechnik in Bezug auf die Wirkungskette von der Krankheit zur (sozialen) Beeinträchtigung.](./pics/06/medizintechnik-rehabilitationstechnik-wirkungskette.svg "medizintechnik-rehabilitationstechnik#Medizintechnik und Rehabilitationstechnik in Bezug auf die Wirkungskette von der Krankheit zur (sozialen) Beeinträchtigung [@zagler:2008].")
 
 ## Ziele der Rehabilitationstechnik
 
