@@ -14,470 +14,136 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[ALS]: Amyotrophic lateral sclerosis
-*[CNS]: Central Nervous System
-*[CP]: Cerebral palsy
-*[CVA]: Cerebral vascular accident
-*[MCD]: Minimal cerebral dysfunction
-*[MCP]: Minimal cerebral palsy
-*[MS]: Multiple sclerosis
-*[TBI]: Traumatic brain injury
+*[PET]: Positron emission tomography
 
-# Motor Disabilities
+# Language and Speech
 
-## Basics and Systematics
+The spoken (vocalized) utterances of a human being are based on a two-stage process in which we must strictly distinguish between the elements _language_ (semantic representation system) and _speaking_ (phonetic representation system).
+Language is the encoding of abstract patterns of thought into a sequence of graphic signs (e.g., letters) or phonetic elements (phonemes).
+We call the manifestation of characters “writing”; we call the realization of sounds “speaking” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
 
-1. Classification according to the location  
-   Motor disabilities can affect any region of the human body.
-   In the context of rehabilitation technology, we are primarily interested in those disorders that affect the mobility of the extremities.
-   Movements of the head and trunk, as well as movements of internal organs (e.g., heart, respiration) are not addressed here.
+In the complex “language – speaking” four linguistic levels can be distinguished [@böhme:1997]:
 
-   The upper extremities, arms and hands, are primarily used for mechanical interaction with our environment, i.e. grasping and moving objects, operating switches and levers, guiding writing instruments, etc.
-   We want to include all these activities under the term manipulation and therefore refer to this part of motor disabilities as manipulation disabilities.
+- _Semantic-lexical level_: semantics – study of the content and meaning of words; lexicology – study of the vocabulary of a language.
+- _Syntactic-morphological level_: syntax – characterization of sentences and recognition of their internal structure; morphology or grammar – teaching of the structure and laws of a language.
+- _Phonetic-phonological level_: phonetics – articulatory, acoustic and auditory factors of sounds; phonology – study of the sound system of individual languages and its function.
+- _Pragmatic-communicative level_: use of language in the relationship between speaker and listener (sender and receiver).
 
-   The lower extremities, legs and feet, are primarily used for locomotion, i.e., a person's mobility.
-   We therefore group disabilities by which the movements of the lower extremities are impaired under the term mobility disabilities.
+## The Language
 
-2. Motor paralysis  
-   Paralysis is the reduction or loss of function of an organ or body part.
-   In the neurological sense, it refers to a reduction in the motor or sensory functions of a nerve.
+1. Definitions  
+   Language is a conventional[^32] system of signs for communication purposes [@brockhaus:1994].
+   Communication between living beings can take place in many different ways.
+   In animals, gestures, gestures and scents play an important role in addition to sounds.
+   Despite the variety of the used expressions and forms of expression, the communication occurring with animals is not called language, since for the transmission of the message always only given, unchanged signs are used.
+   Language in the sense of the usual definition exists only if there is a convention which makes it possible to produce and understand an unlimited number of arbitrary messages from a limited, supraindividual stock of signs (e.g. alphabet, vocabulary).
+   According to current knowledge, these syntactic abilities required for this seem to occur exclusively in humans.
+   In this sense language consists of meaning-bearing elements (morphemes), which can be combined according to the rules of syntax to meaningful units manifold [@dudel:1996].
 
-   Strictly speaking, plegia refers to a general paralysis.
-   The term paresis is used for incomplete paralysis, while complete paralysis is called paralysis[^24].
-   The designation of paralysis in terms of location and extent can be found in <<tab:classification-paralysis>>.
+   > The human being speaks (...) We speak, because speaking is natural to us (...) One says, the human being has the language by nature (...) Only the language enables the human being to be that living being, which he is as a human being (...) As the speaking one the human being is: human being.  
+   > _Martin Heidegger_ [@heidegger:1959]
 
-   [^24]: The designations are not uniformly chosen in the literature. On the one hand, the general term plegia is also used in connection with complete paralysis; on the other hand, the term paralysis is found instead of plegia.
+   [^32]: conventional: here in the sense of “based on conventions”, agreed.
 
-   <!-- FIXME: figure referencing -->
-   <table>
-     <colgroup>
-       <col>
-       <colgroup span="3"></colgroup>
-     </colgroup>
-     <thead>
-       <tr>
-         <th rowspan="2" scope="rowgroup">Extent of paralysis</th>
-         <th colspan="3">Location of paralysis</th>
-       </tr>
-       <tr>
-         <th>All four limbs</th>
-         <th>Two symmetrical limbs</th>
-         <th>One half of the body</th>
-       </tr>
-       <tr>
-         <th scope="row">General term</th>
-         <th>Quadriplegia</th>
-         <th>Paraplegia or diplegia</th>
-         <th>Hemiplegia</th>
-       </tr>
-     </thead>
-     <tbody>
-       <tr>
-         <th scope="row" rowspan="2">Incomplete</th>
-         <td>
-         <figure id="tetraparesis">
-           <img src="./pics/06/tetraparese.svg" alt="Tetraparesis (engl. tetraparesis)" title="Tetraparesis (engl. tetraparesis)">
-           <figcaption>Tetraparesis (engl. tetraparesis)</figcaption>
-         </figure>
-         </td>
-         <td>
-         <figure id="paraparesis">
-           <img src="./pics/06/paraparese.svg" alt="Paraparesis (engl: paraparesis)" title="Paraparesis (engl: paraparesis)">
-           <figcaption>Paraparesis (engl: paraparesis)</figcaption>
-         </figure>
-         </td>
-         <td>
-         <figure id="hemiparesis">
-           <img src="./pics/06/hemiparese.svg" alt="Hemiparesis (engl. hemiparesis)" title="Hemiparesis (engl. hemiparesis)">
-           <figcaption>Hemiparesis (engl. hemiparesis)</figcaption>
-         </figure>
-         </td>
-       </tr>
-       <tr>
-         <td></td>
-         <td>
-         <ul>
-           <li>Paraparesis superior: arms</li>
-           <li>Paraparesis inferior: legs</li>
-         </ul>
-         </td>
-         <td></td>
-       </tr>
-       <tr>
-         <th scope="row" rowspan="2">Complete</th>
-         <td>
-         <figure id="tetraparalyse">
-           <img src="./pics/06/tetraparalyse.svg" alt="Tetraparalysis (also tetraplegia)" title="Tetraparalysis (also tetraplegia)">
-           <figcaption>Tetraparalysis (also tetraplegia)</figcaption>
-         </figure>
-         </td>
-         <td>
-         <figure id="paraparalysis">
-           <img src="./pics/06/paraparalyse.svg" alt="Paraparalysis (also paraplegia)" title="Paraparalysis (also paraplegia)">
-           <figcaption>Paraparalysis (also paraplegia)</figcaption>
-         </figure>
-         </td>
-         <td>
-         <figure id="hemiparalysis">
-           <img src="./pics/06/hemiparalyse.svg" alt="Hemiparalysis (also Hemiplegia)" title="Hemiparalysis (also Hemiplegia)">
-           <figcaption>Hemiparalysis (also Hemiplegia)</figcaption>
-         </figure>
-         </td>
-       </tr>
-       <tr>
-         <td></td>
-         <td>
-         <ul>
-           <li>Paraparalysis superior: arms</li>
-           <li>Paraparalysis inferior: legs</li>
-         </ul>
-         </td>
-         <td></td>
-       </tr>
-     </tbody>
-   </table>
+   By language production, therefore, we want to understand the formation and processing of mental concepts, whereby, accessing the learned active vocabulary and applying the syntactic rules valid for the respective language, a message is prepared in such a way that it can be supplied to vocal articulation or to another suitable modality (writing, gestures, body language, etc.).
+   If this language manifests itself simultaneously in several modalities, then we speak of bimodal[^33] or multimodal communication.
 
-   .classification-paralysis#Classification of paralysis by location and extent.
+   [^33]: A typical example of bimodal communication is the simultaneous conversion of a linguistic expression into spoken language and sign language by the person speaking.
 
-3. disturbances of muscle tone and movement.  
-   Disorders of movement are commonly called _dyskineses_.
-   The following forms are distinguished:
+2. Language acquisition  
+   According to N. Chomsky, the complexity of human language conflicts with the ease with which children acquire language.
+   Therefore, with the “Principles and Parameters Model”, he postulates that the basic features common to all languages are already biologically laid out (innate knowledge).
+   Using these “universal principles”, the acquisition of the mother tongue is “only” limited to the learning of those grammatical parameters which determine the syntactic differences of each language.
 
-   - _Spastic_ (spasmodic): central nervous dysfunction of the muscles with excessive muscle tone and involuntary muscle contractions (continuous or dependent on the person's overall state of arousal).
-     Muscles are hard and cramped, with agonists and antagonists affected.
-     Movements can be performed only with difficulty or do not succeed.
-   - _Ataxic_ (Greek: without order): poor coordination of movements and poor balance.
-     Problems with precision of movements and coordination.
-     Muscle tone is low and accuracy of aim and direction is disturbed, especially toward the end of a movement.
-     The interaction of agonist and antagonist is disturbed [@lexicon:1999].
-   - _Athetotic_ (Greek: without fixed position): fluctuating muscle tone leads to additional, involuntary, aimless, worm-like and cramped movements.
-     Muscle tone is increased during movement and decreased at rest.
+3. Vocabulary  
+   The vocabulary of the German language comprises (depending on the source and counting method) about $300\:000$ to $400\:000$ words.
+   Of these, about $60\%$ are nouns (nouns), $25\%$ are verbs (tense words), and $15\%$ are adjectives (property words) and adverbs (circumstantial words).
+   The English language is much richer.
+   Here it is said to have a word inventory of $600\:000$ to $800\:000$ words.
+   French, on the other hand, comprises only $100\:000$ words [@brockhaus:1994, @erben:1965, @geo-magazine:1997].
 
-   Mixed forms of spasticity and athetosis as well as spasticity and ataxia are common.
-   What all forms have in common is that voluntary exertion aggravates the existing movement disorder.
+   The average active vocabulary of an adult is $8\:000$ to $16\:000$ words, while the average passive vocabulary reaches nearly $100\:000$ words.
+   In contrast, $2\:000$ words are sufficient for $90\%$ comprehension of a simple, everyday text.
 
-   An increase in muscle tone which, in contrast to spasticity, leads to stiffening even during passive movements, is called _rigor_.
+   At $18$ months, a child has about $50$ of word-like expressions.
+   One year later, the active vocabulary has increased to $400$ words and at the age of $3$ years to more than $700$ words.
+   Verbs have a special place in this process.
+   They are added to the active vocabulary later and with greater effort [@wilson:1998].
+   The passive vocabulary of a six-year-old child is reported to be no less than $23\:000$ words [@geo-magazine:1997].
 
-   {.lower-alpha}
+4. Language and brain functions  
+   Recent research claims that a great many regions of the human brain are involved in understanding and producing language.
+   This is especially true when considering that language can be heard and read, spoken or written, and that there are numerous non-verbal forms of expression in addition to verbal language.
 
-## Missing and Malformed Limbs
+   In the classical view of the brain regions involved, one starts, for the sake of better understanding, from heard speech and traces the chain of action to the production of a spoken response to what is heard.
 
-1. Congenital dysmelia  
-   The period between the fifth and the seventh week of pregnancy is crucial for the development of the extremities.
-   Lack of oxygen or exposure to drugs (e.g., in thalidomide[^25]), among other factors, can lead to malformation of limbs, referred to by the collective term dysmelia.
-   A subdivision and description of the most important dysmelias can be found in <<tab:most-important-types-dysmelia>> [@pschyrembel:1989].
+   On the one hand, by observing and analyzing brain lesions and their effect on the linguistic competence and performance of subjects, and on the other hand, by using positron emission tomography (PET)[^34] it has been possible to find relatively narrowly defined areas in the brain that are responsible for the processing and production of speech.
 
-   [^25]: Thalidomide embryopathy (thalidomide syndrome): dysmelia primarily in the upper extremities.
+   [^34]: Positron emission tomography can be used to create a cross-sectional image of the brain's energy balance and thus determine which areas of the brain have above-average activity during certain activities.
 
-   <table>
-     <thead>
-       <tr>
-         <td></td>
-         <th>Description of the malformation</th>
-       </tr>
-     </thead>
-     <tbody>
-       <tr>
-         <th scope="row">Amelia</th>
-         <td>Complete absence of extremity; possible underdevelopment of shoulder and pelvis</td>
-       </tr>
-       <tr>
-         <th scope="row">Phocomelia</th>
-         <td>Hands and feet attach directly to the trunk; arms and legs completely absent</td>
-       </tr>
-       <tr>
-         <th scope="row">Peromelia</th>
-         <td>Missing development at distal end of extremity; absence of hand or foot; stump formation</td>
-       </tr>
-       <tr>
-         <th scope="row">Ectromelia</th>
-         <td>Underdevelopment of long bones of arms or legs; shortening and malalignment of extremity</td>
-       </tr>
-     </tbody>
-   </table>
+   The so-called Wernicke center[^35] is the “sensory” language region in the posterior, upper part of the temporal lobe of the dominant hemisphere of the brain in each case (in $99\%$ of right-handed persons and $60\%$ of left-handed persons on the left side of the body).
 
-   .most-important-types-dysmelia#Main types of dysmelia.
+   [^35]: Carl Wernicke, German neurologist and psychiatrist, $1848-1905$
 
-2. Amputations  
-   In addition to the congenital absence of limbs, amputation can lead to the loss of a limb or parts thereof.
-   A distinction is made between spontaneous (traumatic) amputation due to an accident and surgical amputation.
-   The latter may be necessary in the case of irreparable circulatory disorders, tumor diseases or after serious injuries.
+   Earlier, Broca[^36] was able to locate the “motor” language region in the lower turn of the frontal lobe of the dominant hemisphere, named after him as Broca's center.
 
-3. Acquired damage to the skeleton  
-   Compared to known engineering materials, bones exhibit a combination of amazing performance characteristics [@brockhaus:1994]: elasticity like oak wood, tensile strength like copper, compressive strength greater than sandstone, and flexural strength comparable to mild steel.
-   From this it can be appreciated what high performance demands can be placed on the bones and how easily disturbances of the structure reduce the performance of the skeleton in terms of support and movement function.
+   [^36]: Paul Broca, French surgeon and anthropologist, $1824-1880$.
 
-   Of the numerous osteopathies (diseases affecting the bones), only the most important can be singled out here, which are highly likely to lead to impaired mobility.
+   The two terms “sensory” and “motor” center seem rather misleading in an overall consideration of the brain's linguistic activity, especially since the “motor center”, despite its topographical proximity, has nothing to do with the motor cortex responsible for the speech process.
 
-   - _Brittle bone disease_ (_osteogenesis imperfecta_; _brittle bone disease_): hereditary connective tissue disease occurring in several forms.
-     Symptoms are thin, bent, or shortened bones with increased brittleness.
-   - _Bone necrosis_ (also _osteochondrosis_; _osteonecrosis_): death of bone tissue, focal destruction of bone sections on the growing skeleton (children and adolescents).
-     Causes may include inflammation, radiation damage, frostbite, burns, and poisoning.
-     The spontaneously occurring form is called aseptic bone necrosis.
-   - _Softening of bone_ (_osteomalacia_; _osteomalacia_): softening and tendency of bones to bend due to calcium and phosphate deficiency.
-     One of the possible causes is rickets (vitamin D deficiency due to diet, insufficient UV exposure or renal insufficiency).
-     The consequences are limb pain, immobilization due to pain, skeletal deformities in the spine (scoliosis[^26], kyphosis[^27]), knock knees and bow legs.
-   - _Osteoporosis_ (_osteoporosis_): many forms of decrease in bone mass.
-     Menopausal women (postmenopausal osteoporosis due to estrogen deficiency) and older people (senile osteoporosis due to lack of exercise) are particularly at risk.
-     Hereditary factors may also play a role.
-     The effects are increased fragility of bones (vertebrae, femoral neck), spontaneous fractures, pain, kyphosis[^27].
-   - _Osteosclerosis_ (_osteosclerosis_): compaction of bone substance leading to a reduction in elasticity and thus increased risk of fracture.
-   - _Osteosarcoma_ (_osteosarcoma_), _osteoclastoma_ (_osteoclastoma_): malignant bone tumors, can lead to dissolution of bone tissue (osteolysis), pain and spontaneous fractures.
+   If one tries to name the two language centers according to their linguistic task, then the Wernicke center represents, so to speak, the lexicon in which the terms and their meaning (semantics) are stored.
+   Together with the functions for memory and assignment localized in the near occipital lobe, it is assumed that the words for the subsequent sentence formation are determined in the Wernicke area from abstract thoughts that have not yet been formulated in language by searching for the appropriate terms.
 
-   [^26]: lateral bending of the spine.
-   [^27]: hump-shaped curvature of the spine.
+   <!-- FIXME: missing bibliography entry: [MET 94] -->
+
+   ![Model for the production of spoken language.](./pics/07/modell-produktion-gesprochene-sprache.color.svg "model-production-spoken-language#Model for the production of spoken language [@zagler:2008, @met:1994].")
+
+   According to this model, Broca's center then takes over these word components as a “grammar machine,” supplements them with the necessary function words, and builds a syntactically correct sentence from them.
+
+   In the following step, the completed sentence, when it is to be pronounced, is passed on to that part of the motor cortex which is responsible for the correct control of about a hundred muscles involved in the articulation of spoken language.
+   Analogous mechanisms operate for written language and nonverbal communication.
+
+   The Wernicke area also has tasks in recognizing heard words.
+   Another center (optical speech center) is active during reading.
+
+   The language centers of the dominant brain hemisphere (mostly on the left) are responsible for the basic functions "lexicon", "semantics" and "grammar".
+   However, this should not hide the fact that the non-dominant brain hemisphere also has an important task to fulfill in understanding and producing language.
+   If the bar (corpus callosum), the connection between the two brain hemispheres, fails (injuries, tumors), persons lose the ability to distinguish emotional components in language (angry, ironic, humorous, etc.) or to understand figurative language (metaphors) other than in a purely literal sense [@eberhard:1994].
 
 {.lower-alpha}
 
-## Damage in the Area of Joints
+## Speech, Voice Formation and Speech Organs
 
-The most common diseases in the area of the joints (grie.: arthron) include osteoarthritis and ankylosing spondylitis, in addition to the entire arthritic complex.
+1. Organs of voice formation  
+   Human voice production, which is unique in all of nature, is accomplished through a complex interaction of a variety of organ systems:
 
-1. Arthritis  
-   Arthritis is defined as an infectious, rheumatic or metabolic acute or chronic inflammation of the joints.
-   The symptoms associated with arthritis are: Joint pain, misalignment of limbs, and restriction of range of motion to immobility.
+   - The respiratory system (the lungs and airways) must provide sufficient air volume and pressure.
+   - The larynx with the vocal cords serves to produce sounds (in the sense of tones together with their harmonics), which in this context are called voice.
+   - The articulation system, consisting of the pharynx, oral cavity and nasal cavity, forms the individual phonemes, i.e. the elements of spoken language, from the sound coming from the larynx.
+   - The voice formation in the larynx (position of the vocal cords) and all movements of the articulation organs (primarily position of the tongue, palate, jaws and lips) are carried out by the motor speech center of the brain.
+   - The role of the auditory system in speech production should not be underestimated.
+     Only through the feedback of one's own voice is natural speech acquisition and perfect articulation possible.
+     If this feedback is not guaranteed due to damage to the ear or the auditory pathway, language acquisition is only possible by means of special educational and therapeutic measures.
 
-2. Arthrosis  
-   Degenerative joint disease caused by overuse (heavy work, sports, overweight), metabolic disorders, aging or by already congenital malposition of joints.
-   It results in the erosion of joint cartilage to the point of complete abrasion.
-   Symptoms range from initial stiffness and pain on movement to permanent pain and reduced mobility.
+   The position of the vocal cords determines whether the exhaled air can pass through the glottis (gap between the vocal cords, _glottis_) unhindered (normal breathing) or whether it can cause the vocal cords to vibrate when the glottis is narrowed (phonation).
+   The more the vocal cords are tense and the higher the pressure of the exhaled air, the higher the frequency of vibration produced by the vocal cords.
+   A separate position of the vocal cords is present in the whispering voice.
+   The four most important positions of the vocal cords are shown in <<fig:position-of-voice-bands>>.
 
-3. Ankylosing spondylitis  
-   Ankylosing spondylitis is an autoimmune disease[^28] that affects joints, as well as ligaments, muscles, and bones.
-   The exact cause is unknown, but heredity plays a role.
-   Symptoms include: Rheumatoid manifestations (see above), inflammation, swelling, restricted movement, stiffening and curvature of the spine.
+   Depending on its position, the soft palate regulates the inflow of air into the oral or nasal cavity (or both), thereby contributing to the coloration of the sound.
+   Tongue, teeth and lips cause differentiation in articulation.
 
-   [^28]: Autoimmune disease: A disease in which the immune system attacks the body's own tissues due to a defect in “self-recognition”.
+   ![Position of the vocal cords](./pics/07/stellung-der-stimmbaender.svg "position-of-voice-bands#Position of the vocal cords [@servier-medical-art:2019,  @mörike:1981].")
 
-{.lower-alpha}
+   ::: figcaption
 
-## Damages of the Nervous System
+   1. with quiet breathing;
+   2. with forced breathing;
+   3. in voice production;
+   4. with whispered voice.
+      {.lower-alpha}
 
-In addition to their direct effect on motor function, damage to the central and peripheral nervous system can also lead to reduced stimulation of the muscles and thus to atrophy (regression, atrophy) of muscles.
-
-For this reason, in the treatment of muscle diseases, the actual muscle diseases (primary myopathies) and the neurogenic (i.e., caused by nerves) muscle diseases (secondary myopathies) are usually grouped under the common term neuromuscular diseases.
-
-<!-- FIXME: cross reference -->
-
-Because of the much broader view of motor disorders, these two categories are treated separately here.
-The neurogenic (secondary) myopathies are therefore found in this chapter.
-Chapter [Muscular Causes](./chapter14.html#muscular-causes) is devoted to muscle disorders in the narrower sense (primary neuropathies).
-
-  <!-- FIXME: Cross-reference -->
-
-1. Congenital lesions
-
-   - _Infantile cerebral palsy_ (CP)  
-     Infantile cerebral palsy (not to be confused with poliomyelitis – epidemic spinal polio), see point (b)) is the general term for consequences of early childhood, non-progressive brain damage (of the developing brain, $6.$ month of gestation to $6.$ year of life), resulting in damage to motor brain regions.
-     Causes include hypoxia during pregnancy (in utero) or at birth, infections, cerebral hemorrhage, jaundice (kernicterus), fetopathies, and trauma.
-
-     In addition to possible intelligence deficits and delay in language development, spastic paralysis symptoms are the most common.
-     Disturbances of visual as well as auditory perception may occur.
-     The symptoms can occur in almost any combination, so that there is no uniform appearance.
-
-     A distinction is made between the types spastic, athetotic, and ataxic (for description see [basics-and-systematics](chapter6.html#basics-and-systematics) (c)), but these can also occur in combinations [@prentke:1993, @trace-center:1999].
-
-   - _Minimal cerebral dysfunction_ (MCD)  
-     Minimal cerebral dysfunction (MCD) is the result of early childhood brain damage (MCP – minimal cerebral palsy) that has only a minor effect.
-     Common cause is hypoxia during pregnancy or during the birth process.
-     Appearance of immaturity in organizing movements (hesitant, awkward, clumsy).
-     In addition, speech, perception and intellect may be affected, but with normal intelligence, but only in terms of planning and organizing.
-     MCD is therefore also classified as a partial performance impairment.
-     The child is inconspicuous under low-stress conditions, but in other situations performance deficits occur.
-     Failure to recognize this situation by the environment can lead to behavioral problems and psychological difficulties.
-
-   - _Embryopathies and Fetopathies_  
-     These are the effects of infectious diseases of the mother during pregnancy.
-     In particular, rubella (rubella embryopathy, embryopathy rubeolosa, Gregg syndrome) during the first three months of pregnancy causes damage to the unborn child.
-     When the infection occurs in the second month of pregnancy, the CNS is damaged, resulting in movement disorders.
-     Damage caused by rubella infection later in pregnancy is called fetopathia rubeleosa.
-
-2. Damage acquired by disease and manifestation of genetic defects.
-
-   - _Poliomyelitis_  
-     Poliomyelitis (full name: poliomyelitis epidemica anterior acuta, epidemic spinal polio) is an inflammation of the neurons of the gray matter of the spinal cord caused by viral infection (poliomyelitis viruses) and a resulting acute destruction of anterior horn cells.
-
-     Symptoms include asymmetric flaccid paresis and paraplegia of the lower extremities (spillover to respiration and circulation is possible).
-     Permanent damage may include atrophic paralysis, skeletal and joint changes, and retardation of bone growth in individual extremities.
-     After a stable period of $15$ to $30$ years, symptoms may recur (post-polio syndrome).
-
-     <!-- FIXME: English translation -->
-
-   - _Multiple Sclerosis_ (MS)  
-     Multiple sclerosis (abbreviation: MS; other name: polysclerosis, encephalomyelitis disseminata; English: _multiple sclerosis_; old name: Charcot disease, as in ALS) is an inflammatory disease of the central nervous system with focal decay of the myelin sheaths.
-     Manifestation occurs between $20$ and $40$ years of age, rarely later.
-     The etiology of MS is unknown; autoimmune disease is suspected (viral influences may play a role).
-     Familial clustering occurs.
-     MS is much more common in the north than in the south.
-
-     The course is relapsing with remissions or chronic progressive.
-     Prognosis depends on the course: benign in about $30\%$ of cases with no visible effects, no significant disability in $30\%$ even after prolonged course, but malignant and lethal in $5-10\%$.
-
-     Symptoms are extremely varied.
-     Virtually all cerebral and spinal symptoms may occur, especially spastic paralysis (paresis to paraplegia), sensory disturbances, nystagmus, intention tremor, ataxia, eye muscle paralysis, speech impairment (dysarthria, scant speech), and psychological effects.
-
-   - _Amyotrophic lateral sclerosis_ (ALS)  
-     In amyotrophic lateral sclerosis (abbreviation: ALS; Lou Gehrig's Disease; old name: Charcot disease, as in MS), destruction of central (brain, brainstem) and peripheral (anterior horn cells) motor neurons and their axons leads to loss of muscle substance.
-     ALS is therefore classified as a secondary muscle disease.
-     The etiology is uncertain; toxic, infectious, or hereditary causes are suspected.
-     Manifestation usually occurs between $1.$ and $65.$ years of age [@hirschmann:1997].
-
-     Symptoms include unilateral spastic paralysis, dysarthria, aphonia, and muscle wasting to paralysis of the respiratory muscles.
-
-3. Lesions of the brain, stroke, traumatic brain injury
-
-   - _Brain tumors_  
-     A tumor in a strict sense refers to any pathological neoplasm of tissue that is spontaneous, autonomous, and irreversible in character.
-     Tumors may arise in the brain from nervous tissue itself or may form as a metastasis of a tumor in other regions of the body.
-
-     The localization of the tumor determines the resulting symptoms.
-     Among the most important symptoms are all the so-called focal symptoms (symptoms resulting from circumscribed damage to the brain), which can be grouped into symptom complexes (=brain-local syndromes) depending on the brain region affected (<<tab:focal-symptoms-laesions-brain>>).
-
-     <table>
-      <thead>
-        <tr>
-          <th colspan="2">Affected brain region</th>
-          <th>Typical possible symptoms</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td rowspan="2">frontal (forehead)</td>
-          <td>above</td>
-          <td>
-            Echolalia, echopraxia, perseveration, ataxia, abasia, astasia, motor aphasia, epileptic seizures, lack of motivation, lack of concentration, lack of focus on essentials
-          </td>
-        </tr>
-        <tr>
-          <td>bottom</td>
-          <td>Anosmia, affect lability, increase in drive</td>
-        </tr>
-        <tr>
-          <td colspan="2">temporal (temple)</td>
-          <td>sensory aphasia, homonymous hemianopia, contralateral hemiparesis, memory impairment</td>
-        </tr>
-        <tr>
-          <td colspan="2">parietal (vertex)</td>
-          <td>sensory and motor deficits, apraxia, orientation disorders, neglect, homonymous hemianopia</td>
-        </tr>
-        <tr>
-          <td colspan="2">occipital (back of the head)</td>
-          <td>homonymous hemianopia, visual illusions and hallucinations, alexia, agraphia</td>
-        </tr>
-      </tbody>
-     </table>
-
-     .focal-symptoms-laesions-brain#Focal symptoms in lesions of the brain [@pschyrembel:1989, @kurhila:1998].
-
-   - _Apoplexy_  
-     Apoplexy, _stroke_, _cerebral vascular accident_ (CVA): A distinction is made between the forms of ischemic (ischemia = interruption of blood flow to an organ) and hemorrhagic (hemorrhage = bleeding) infarction.
-
-     - Ischemic infarction: arterial circulatory disturbance in the brain usually triggered by an embolism (vascular occlusion or vasoconstriction due to an entrained clot).
-       Typical symptoms include hemiparesis, sensory disturbances, aphasia, and hemianopia.
-     - Hemorrhagic infarction: mass hemorrhage in the brain after rupture of a vessel.
-       Symptoms include impaired consciousness and marked motor paralysis.
-
-   - _Skull Trauma_  
-     Head injury, _traumatic brain injury_, TBI) is the generic term for all skull injuries involving the brain due to accident or other injury.
-     Depending on the extent and localization of the injury and the primary (destruction of nerve tissue) and secondary (hemorrhage, pressure on adjacent regions) effects of the injury, all the damage known from infarcts or tumor diseases may occur.
-
-   - _Hypoxia_  
-     Hypoxia is a reduced oxygen supply to the body or to individual regions of the body.
-     A lack of oxygen supply to the brain can lead to permanent brain damage.
-     Hypoxia during pregnancy (in utero) or during the birth process, for example, can lead to early brain damage and, as a consequence, to minimal cerebral dysfunction.
-
-4. Lesions of the spinal cord and nerve tracts – paraplegia  
-   Transverse lesions (_transverse lesion_, _spinal cord injury_) are complete or partial damage to the spinal cord following vertebral fractures, disc herniation, tumors, and others.
-   Lesions of the spinal cord above $\sf{Th}1$ lead to tetraparesis, below $\sf{Th}1$ to paraparesis, thus only the lower extremities are affected (see <<fig:vertebral-column>> and <<tab:classification-paralysis>>) [@pschyrembel:1989].
-   The typical relationships between the level of the lesion and the resulting functional consequences are shown in <<tab:effects-spinal-cord-lesions>>; after [@müller:1994].
-
-   Although most literature places the boundary between tetraplegia and paraplegia at $\sf{Th}1$ (thoracic vertebra $1$), according to other sources, the difference between lesions at $\sf{C}5$ and $\sf{C}6$ (cervical vertebrae $5$ and $6$) is particularly severe for the affected person.
-   In a $\sf{C}5$ lesion, only minor motor possibilities in the elbow joint remain, whereas in a $\sf{C}6$ lesion, relatively good manipulation of the wheelchair is already possible thanks to much better arm motor function.
-   Therefore, some authors place the boundary between tetraplegia and paraplegia between $\sf{C}5$ and $\sf{C}6$ [@american-paralysis-association:1998].
-
-   {.lower-alpha}
-
-| Class           | Location                     | Effect of complete motor failure                                                                                                                                                         |
-| --------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| –               | $\sf{C}1$ and $\sf{C}2$      | fatal outcome                                                                                                                                                                            |
-| Tetraplegia     | $\sf{C}3$ and $\sf{C}4$      | respiratory volume very much reduced (respiratory pacemaker)<br/>sitting in special electric wheelchair<br/>complete dependence                                                          |
-| ^^              | $\sf{C}5$                    | respiratory volume reduced<br/>bending at elbow joint possible<br/>short, level distances in wheelchair possible<br/>complete dependence                                                 |
-| ^^              | $\sf{C}6$                    | respiratory volume decreased<br/>flexion in elbow joint, extension in wrist joint<br/>relatively good manipulation of wheelchair<br/>complete dependence                                 |
-| ^^              | $\sf{C}7$                    | respiratory volume decreased<br/>holding and manipulating small objects with aids possible<br/>driving an adapted car possible<br/>relative dependence                                   |
-| ^^              | $\sf{C}8$[^29] to $\sf{Th}1$ | respiratory volume decreased<br/>wheelchair indispensable, standing with aids possible<br/>driving an adapted car possible<br/>relative dependence, minimal personal assistance required |
-| Paraplegia<br/> | $\sf{Th}1$ to $\sf{Th}2$     | respiratory volume reduced<br/>complete independence<br/>                                                                                                                                |
-| ^^              | $\sf{Th}3$ to $\sf{Th}9$     | complete independence                                                                                                                                                                    |
-| ^^              | $\sf{Th}10$ to $\sf{L}3$     | complete independence                                                                                                                                                                    |
-| ^^              | $\sf{L}5$ to $\sf{S}4$       | wheelchair dispensable, walking with splints and orthopedic shoes<br/>forearm support crutches or canes<br/>driving a car with hand controls<br/>complete independence                   |
-
-.effects-spinal-cord-lesions#Effects of spinal cord lesions [@müller:1994].
-
-[^29]: The designation $\sf{C}8$ refers to the spinal nerves, not to the numbering of the vertebral bodies.
-
-## Muscular Causes
-
-<!-- FIXME: Querverweis -->
-
-This section deals with muscle diseases in the narrower sense (primary myopathies).
-These include all diseases in which the muscle fibers are directly affected by a disease process [@deutsche-gesellschaft-muskelkranke:1998].
-The secondary or neurogenic myopathies can be found in chapter [Damages of the Nervous System](./chapter14.html#damages-of-the-nervous-system).
-Most neuromuscular diseases are genetic, intelligence, emotions and affect are not impaired, sensory organs are not affected.
-
-1. Progressive muscular dystrophies  
-   In progressive muscular dystrophies (progressive muscle misgrowth; dystrophia musculorum progressiva), muscle fibers progressively perish and are replaced by fat or connective tissue.
-   The group of dystrophies includes about $17$ of different muscle diseases, of which only the most important are discussed here.
-
-   - _Duchenne muscular dystrophy_  
-     Duchenne muscular dystrophy (also called malignant pelvic girdle) is the most common form of progressive dystrophies of childhood (manifesting in $2$ to $5$ years of age).
-     It is inherited in an X-linked recessive manner (sons affected, daughters carriers).
-     Onset occurs at $2$ to $6$ years of age.
-     It is caused by complete dystrophin deficiency[^30].
-
-     [^30]: Dystrophin is a protein required to coat muscle fibers.
-
-     The large muscles of the pelvis and thighs are affected, as well as the heart and respiratory muscles.
-     Typical pseudohypertrophy (the storage of fat and connective tissue at the expense of the perished muscle fibers fakes strong calf muscles) occurs in the calves.
-     From $7.$ to $12.$ years of age, a wheelchair is required; spinal curvatures (scoliosis) also occur.
-     From $15.$ of age, even a conventional wheelchair control is no longer usable.
-     Life expectancy is between $15$ and $30$ years.
-
-   - _Becker muscular dystrophy_ (Becker-Kiener muscular dystrophy)  
-     Becker muscular dystrophy (Becker-Kiener muscular dystrophy; also benign pelvic girdle form) is inherited X-linked and is slowly progressive.
-     Manifestation occurs between the ages of $5,$ and $25,$.
-     The cause here is not the absence but an alteration of the dystrophin molecule.
-
-     The pelvic girdle is affected first and the shoulder girdle later (cardiac involvement is possible).
-     Inability to walk occurs between $30.$ and $50.$ years of age.
-     Life expectancy is over $40$ years.
-
-   - _Limb Girdle Muscular Dystrophy_  
-     Limb-girdle muscular dystrophy is inherited in an autosomal recessive manner and is slowly progressive.
-     The time of manifestation can vary widely, but is usually between $15.$ and $20.$ years of age.
-     Life expectancy is shortened.
-
-     Symptoms begin in the pelvic or shoulder girdle, and the subsequent course is similar to Duchenne muscular dystrophy.
-     However, the heart and face are not affected.
-
-   - _Myotonic Dystrophy_  
-     Myotonic dystrophy (also myotonic dystrophy; dystrophia myotonica; Curshmann-Steinert-Batten syndrome; myotonic dystrophy) is inherited in an autosomal dominant manner and is the most common muscle disease of adulthood.
-     Manifestation can occur at all ages.
-
-     Typical for myotonic dystrophy is the delayed relaxation of the muscle after tension (myotonia = muscle spasm).
-     It starts in the facial region, later affects hands, forearms and lower legs, also eye and heart involvement.
-     Unlike most other muscle diseases, it can cause further damage, ranging from hangovers to mental retardation.
-
-<!-- FIXME: cross reference -->
-
-2. Myasthenias  
-   Myasthenias (muscle weaknesses) are a group of nonhereditary autoimmune diseases[^28] in which the transmission of neural stimuli from motor nerves to muscle tissue is impaired due to blockade of acetylcholine receptors of motor endplates (see Chapter [Musculature](./chapter13.html#musculature)).
-
-   - _Myasthenia gravis_  
-     There is a load-dependent, abnormally rapid fatigue of the striated muscles, which typically affects the eye muscles (double vision – diplopia), the chewing and swallowing muscles, the neck muscles and the upper arms.
-     Danger to life exists in crisis situations when paralysis symptoms spread to the swallowing and breathing muscles.
-
-   <!-- FIXME: footnote/reference -->
-
-   <!-- [^31]: see footnote 28 on page 54. -->
+   :::
 
 {.lower-alpha}
 

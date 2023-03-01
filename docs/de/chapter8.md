@@ -15,263 +15,151 @@ abbreviations:
 
 <!-- prettier-ignore -->
 *[engl.]: englisch
-*[lat.]: lateinisch
+*[RP]: Retinopathia pigmentosa
 *[z. B.]: zum Beispiel
 
-# Auge und visuelle Wahrnehmung
+# Visuelle Behinderungen
 
-## Aufbau des Auges
+## Klassifikation von Sehschädigungen
 
-Das Sinnesorgan zur Wahrnehmung optischer Reize ist das Auge.
-Der menschliche Augapfel (Bulbus) ist kugelförmig und hat einen Durchmesser von ca. $25\;\sf{mm}$.
-Der aus einer durchsichtigen, gallertartigen Substanz bestehende Glaskörper (Corpus vitreum), der den gesamten Innenraum ausfüllt, wird von drei Hautschichten umgeben und in seiner Form gehalten (<<fig:schnitt-menschliches-auge>>).
+Sehschädigungen werden üblicherweise gemäß <<tab:klassifikation-sehschaedigung>> klassifiziert.
+Diese Wertung gilt bei optimaler optischer Korrektur (Brille, Kontaktlinsen) für das bessere Auge.
 
-Die äußerste Augenhaut, die Lederhaut (Sclera), weist nur geringe Elastizität auf und ist für die Formgebung verantwortlich.
-Im vorderen Teil des Auges geht die Lederhaut vor der Linse in die durchsichtige Hornhaut (Cornea) über.
+| Bezeichnung                | Visus      |
+| -------------------------- | ---------- |
+| Sehbehinderung             | $\lt~0.3$  |
+| Hochgradige Sehbehinderung | $\lt~0.05$ |
+| Blind (vor dem Gesetz)     | $\lt~0.02$ |
 
-Die mittlere Schicht setzt sich aus drei Abschnitten zusammen.
-Drei Viertel des Augapfels umschließt die von zahlreichen Gefäßen durchzogene Aderhaut (Choroidea).
-Vorne, um die Linse herum, geht die Aderhaut in den Strahlenkörper (Corpus ciliare) über, der den Ziliarmuskel enthält, welcher durch Veränderung der Krümmung der Linse für die Akkommodation (Scharfstellung) sorgt.
-Im Strahlenkörper wird auch das Kammerwasser gebildet.
-Das Verhältnis aus Produktion und Resorption des Kammerwassers bestimmt den Augeninnendruck.
-Noch weiter vorne schließt sich die Regenbogenhaut (Iris) an, die durch Veränderung des Sehlochs (Pupille; lat. Pupilla) die in das Auge einfallende Lichtmenge bestimmt („Irisblende“ in der Fotografie).
+.klassifikation-sehschaedigung#Klassifikation von Sehschädigungen.
 
-Die innerste, auf dem Glaskörper aufliegende Augenhaut ist die Netzhaut (Retina), die wiederum aus mehreren Schichten besteht.
+## Ursachen für Sehbehinderungen
 
-![Schnitt durch das menschliche Auge.](./pics/06/schnitt-menschliches-auge.svg "schnitt-menschliches-auge#Schnitt durch das menschliche Auge [@servier-medical-art:2019].")
+<!-- FIXME: Abbildungsverweis?? -->
+<!-- FIXME: "des Raumes" entfernt -->
+<!-- FIXME: "leidet"?? -->
 
-## Die Netzhaut
+Nachfolgend werden einige der (in westlichen Ländern) am häufigsten auftretenden Augenerkrankungen und deren Auswirkungen auf das Sehvermögen der betroffenen Person beschrieben.
+Zur Illustration wird in der zugehörigen Abbildungen die Ansicht wiedergegeben, wie diese von einer Person wahrgenommen wird, die die betreffende Augenerkrankung hat (siehe [Abbildung: Eindimensionale und mehrschichtige Sichtweise von Behinderung](chapter1.html#sichtweise-behinderung)).
 
-Die Netzhaut ist sowohl Träger der Fotorezeptoren als auch mehrerer Nervenschichten, die eine erste Verarbeitung der visuellen Reize vornehmen.
-Sie ermöglicht die Wahrnehmung von Intensität, Wellenlänge und räumlicher Zuordnung einfallender optischer Reize.
+<div class="no-dark">
 
-<!-- FIXME: schwarz/weiß (hell/dunkel) -->
+![Normalsicht](./pics/06/normalsicht.svg "normalsicht#Normalsicht [@frederiksen:1989].")
 
-Die Erfassung der optischen Reize beginnt in der dem Licht abgewandten Schicht der Netzhaut, die die Fotorezeptoren trägt („inverses“ Auge).
-Die ca. $120\;\sf{Mio.}$ Stäbchen (engl. rods) ermöglichen das schwarz/weiß (hell/dunkel) Sehen, während die auf drei unterschiedliche Wellenlängen ausgelegten
-$6\;\sf{Mio.}$ Zäpfchen (engl. cones) der Farbwahrnehmung dienen (<<fig:schnitt-netzhaut>>).
+</div>
 
-![Schnitt durch die Netzhaut – Lichteinfall von links; Reizleitungsrichtung von rechts nach links](./pics/06/schnitt-netzhaut.svg "schnitt-netzhaut#Schnitt durch die Netzhaut – Lichteinfall von links; Reizleitungsrichtung von rechts nach links [@mörike:1981].")
+Es muss darauf hingewiesen werden, dass diese Darstellung sowie alle Simulationen von Sehbehinderungen nur sehr grobe Näherungen des tatsächlichen Sachverhaltes darstellen.
+Gesichtsfeldausfälle lassen sich nicht einfach durch schwarze Flächen nachbilden, obwohl das oft in Illustrationen gemacht wird.
+Hier wurde bewusst ein neutrales Grau gewählt, das einer nicht vorhandenen Wahrnehmung noch am nächsten kommt.
 
-Der vom Auge abgedeckte Spektralbereich reicht von $350\;\sf{nm}$ (blau) bis $750\;\sf{nm}$ (rot), mit einer maximalen Gesamt-Empfindlichkeit bei $560\;\sf{nm}$ (grün).
-Die Maxima der spektralen Empfindlichkeiten für die drei Typen von Zäpfchen liegen bei $560\;\sf{nm}$ (gelb-grün), $530\;\sf{nm}$ (blau-grün) und $430\;\sf{nm}$ (violett).
-Vereinfacht wird oft von „blauen“, „grünen“ und „roten“ Zäpfchen gesprochen.
-Von allen in der Netzhaut vorkommenden Zäpfchen sind rund $46\%$ rot, $46\%$ grün, aber nur $8\%$ blau [@bright:1997].
-Die Stäbchen erreichen ihr spektrales Maximum bei $510\;\sf{nm}$ und leisten keinen Beitrag zur Farbwahrnehmung (<<fig:spektrales-verhalten-zaepfchen>>).
+Selbst wenn es gelingen würde, ein optisch getreues Bild einer Sehschädigung zu zeichnen, bliebe auch diese Darstellung nur an der Oberfläche, da jede Art von Behinderung die betroffene Person nicht nur funktionell einschränkt, sondern auch tief in der Persönlichkeit und im Vorstellungsvermögen prägt.
+Wenn jemand beispielsweise glaubt, Blindheit durch Tragen einer Augenbinde zu verstehen, unterliegt einem gewaltigen Irrtum.
 
-![Spektrales Verhalten der Zäpfchen: Absorption in % der gesamten einfallenden Lichtmenge](./pics/06/spektrales-verhalten-zaepfchen.svg "spektrales-verhalten-zaepfchen#Spektrales Verhalten der Zäpfchen: Absorption in $\\%$ der gesamten einfallenden Lichtmenge [@lindsay:1981].")
+## Refraktionsanomalien – Brechungsfehler des Auges
 
-## Intensitätsbereich und Adaptation
+Stimmt die Brechkraft der optischen Elemente des Auges (Hornhaut, Linse, und Glaskörper) nicht mit der Länge des Augapfels überein, kann auf der Netzhaut kein scharfes Bild entstehen.
+Durch Brillen und Kontaktlinsen können $90\%$ der Refraktionsanomalien ausgeglichen werden.
+Bei den Refraktionsanomalien unterscheiden wir:
 
-Der Intensitätsbereich, in dem das Auge Reize verarbeiten kann, erstreckt sich über einen Bereich von $1:10^{12}$ (<<tab:empfindlichkeit-staebchen-zaepfchen>>) und wird durch verschiedene Mechanismen der Adaptation bewältigt:
+1. Kurzsichtigkeit  
+   Bei Kurzsichtigkeit (Myopie, myopia) ist die Brechkraft des Auges zu hoch (Brennweite zu kurz) bzw. der Augapfel ist zu lang.
+   Die Schärfenebene (insbesondere von entfernten Objekten) liegt vor der Netzhaut.
+   Abhilfe schafft eine Brille oder Kontaktlinse mit zerstreuender Wirkung (<<fig:strahlengang-myopie>>).
+   Die Auswirkungen von Myopie sind in <<fig:myopie>> dargestellt.
 
-- Verwendung von zwei unterschiedlich empfindlichen Rezeptor-Typen (Stäbchen und Zäpfchen)
-- Veränderung der einfallenden Lichtmenge durch die Pupille (Verhältnis $1:16$ – schneller Vorgang[^7])
-- Aufbau und Abbau von Sehfarbstoff in den Rezeptoren (langsam)
-- Adaptive räumliche und zeitliche Reizintegration in der Netzhaut.
+   ![Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut](./pics/06/strahlengang-myopie.svg "strahlengang-myopie#Strahlengang bei Myopie und Korrektur durch eine Zerstreuungslinse; ohne Korrektur schneiden sich Strahlen vor der Netzhaut [@mörike:1981].")
 
-[^7]: Dieser Wert bezieht sich auf das jugendliche Auge; für die Verhältnisse im Alter siehe später.
+   <div class="no-dark">
 
-Die Empfindlichkeit der Stäbchen ist etwa $2\:000$ mal höher als die der Zäpfchen.
-Bei geringen Leuchtdichten (Dämmerung) liefern die Zäpfchen daher keinen Beitrag, was zur Folge hat, dass die Farbwahrnehmung nur bei ausreichender Beleuchtung möglich ist.
+   ![Myopie](./pics/06/myopie.svg "myopie#Myopie [@frederiksen:1989].")
 
-<table>
-  <thead>
-    <tr>
-      <th scope="row">Beleuchtungsstärke [lx]</th>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{0}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{6}"/></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Stäbchen</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-    </tr>
-    <tr>
-      <th scope="row">Zäpfchen</th>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Bereich</th>
-      <td colspan="3">skotopisch</td>
-      <td colspan="4">mesopisch</td>
-      <td colspan="5">photopisch</td>
-    </tr>
-  </tbody>
-</table>
+   </div>
 
-.empfindlichkeit-staebchen-zaepfchen#Absolute Empfindlichkeit von Stäbchen und Zäpfchen [@zagler:1997].
+2. Weitsichtigkeit  
+   Bei Weitsichtigkeit (Hyperopie oder Hypermetropie, engl. hyperopia, hypermetropia) ist die Brechkraft des Auges zu niedrig (Brennweite zu lang) bzw. der Augapfel ist zu kurz.
+   Die Schärfenebene (insbesondere von nahen Objekten) liegt hinter der Netzhaut.
+   Abhilfe schafft eine Brille oder Kontaktlinse mit sammelnder Wirkung (<<fig:strahlengang-hyperopie>>).
 
-Fehlen durch eine Schädigung des Auges die Stäbchen[^8], ist nur Tagessehen (mesopisches und photopisches Sehen) möglich und es kommt zur Nachtblindheit (kein skotopisches Sehen).
-Das Auge ist mit einer absoluten Intensitätsschwelle von $8\cdot10^{-18}\;\sf{W/cm^2}$ im Vergleich zum Ohr um den Faktor $10$ empfindlicher.
+   <!-- FIXME: b>a? b=a -> Brille/Linse korrigiert -->
 
-[^8]: Da im peripheren Bereich der Retina fast ausschließlich Stäbchen vorkommen, führt ein Ausfall dieses Rezeptortyps neben der Nachtblindheit auch zum Verlust des peripheren Gesichtsfeldes, es kommt zum sogenannten Tunnelblick.
+   ![Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut](./pics/06/strahlengang-hyperopie.svg "strahlengang-hyperopie#Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut [@mörike:1981].")
 
-## Räumliches Auflösungsvermögen
+3. Alterssichtigkeit  
+   Die sogenannte Alterssichtigkeit (Presbyopie, presbyopia) hat ähnliche Auswirkungen wie die Hyperopie, jedoch liegt hier die Ursache in einer mit zunehmendem Alter verringerte Elastizität der Augen-Linse (siehe auch <<fig:augenlinse-und-akkommodation>>).
+   Dadurch wird die Nahakkommodation eingeschränkt und der Nahpunkt rückt immer mehr in die Ferne.
+   Von Presbyopie wird gesprochen, wenn der Akkommodationsbereich (der sog. Akkommodationserfolg) auf Werte unter $4\;\sf{dpt}$ gesunken ist (Werte in der Jugend liegen bei $12\;\sf{dpt}$).
 
-In einem Bereich von rund $\pm~1\degree$ Grad um jenen Punkt, an dem die optische Achse des Auges die Netzhaut trifft, liegt innerhalb des Gelben Flecks (Makula; lat. Macula) die Sehgrube (Fovea centralis; Fovea: lat. Grube).
-In dieser Zone des schärfsten Sehens befinden sich fast nur Zäpfchen mit einer Dichte von $400\:000\sf{/mm^{2}}$ (Zum Vergleich: Ein Standard TV-Bild hat $520\:000$ Bildpunkte).
-Hier sind die sonst über den Rezeptoren liegenden Nervenbahnen zum Rand der Makula hin verschoben und bilden den Makulawall, sodass das Licht direkt auf die Zäpfchen fallen kann.
-Die Makula weist daher hohe räumliche Auflösung und gutes Farberkennen auf.
-Wegen des Fehlens von Stäbchen ist skotopisches Sehen im Bereich der Fovea nicht möglich (die Fovea ist sozusagen „nachtblind“), weil aber die Zäpfchen nicht von andren Zellen bedeckt sind, ist die photopische Empfindlichkeit innerhalb der Fovea größer als an anderen Stellen der Netzhaut.
+   Abhilfe schaffen Lesebrillen (Brillen mit Sammellinsen, die bei Betrachtung von nahen Gegenständen getragen werden) bzw. Brillen mit Mehrstärken- oder Gleitsichtgläsern.
+   Beim Mehrstärkenglas befindet sich im unteren Teil des Brillenglases eine Zone mit höherer Brechkraft.
+   Wird der Blick zum Lesen gesenkt, verläuft die Blickachse durch diesen Teil des Brillenglases und die Nahakkommodation wird unterstützt.
+   Das Gleitsichtglas arbeitet nach dem selben Prinzip, jedoch erfolgt der Übergang vom oberen, niedriger brechenden Teil zum unteren, höher brechenden Teil stufenlos.
+   {.lower-alpha}
 
-Eine Strecke von $1\,\sf{mm}$ auf der Netzhaut deckt ein Gesichtsfeld von $3.5\degree$ ab.
-Im Bereich der Fovea centralis können Objekte im Abstand von $0.5$ bis $1$ Bogenminuten diskriminiert werden, was einem Abstand auf der Netzhaut von $2.5$ bis $5.0\,\sf{\mu}m$ entspricht.
-Außerhalb der Fovea centralis beträgt die Auflösung nur rund $1\degree$ (entsprechend einer Strecke von $0.3\,\sf{mm}$).
+## Glaukom – Grüner Star
 
-## Akkommodation (Scharfstellung)
+Der Grüne Star (Glaukom, _glaucoma_) wird durch erhöhten Augeninnendruck, also durch eine Übermenge an Kammerwasser, hervorgerufen.
+In den meisten Fällen liegt eine Verlegung der Abflusswege des Kammerwassers vor.
+Überproduktion von Kammerwasser hingegen ist selten.
+Der normale Augeninnendruck beträgt $13$ bis $28\sf{mbar}$; bei Glaukom steigt er auf Werte zwischen $50$ bis $80\sf{mbar}$.
 
-Die Scharfstellung des Auges (Akkommodation) erfolgt durch die Veränderung der Brechkraft der Linse.
-Das fernakkommodierte Auge (Einstellung auf unendlich) hat eine Brechkraft von rund $60$ Dioptrien[^9] ($=17\sf{mm}$ Brennweite).
-Bei maximaler Nahakkommodation (Einstellung auf $10\sf{cm}$) erhöht sich die Brechkraft um rund $12$ Dioptrien[^10].
-Die genauen Werte für das sogenannte emmetrope (normalsichtige) Auge werden in der Literatur wie folgt angegeben (<<tab:brechkraft-emmetropes-auge>>):
+Durch den erhöhten Augeninnendruck kann es binnen Stunden(!) zu einer Aushöhlung des Sehnervenkopfes (blinder Fleck) kommen, was wegen der Unterbrechung der Blutversorgung zu einem Absterben von Nervenzellen und somit zu irreversiblen Gesichtsfeldausfällen führt (<<fig:glaukom>>).
 
-[^9]: Dioptrie = Reziprokwert der (vorderen) Brennweite in Meter; Abkürzung dpt
-[^10]: Gilt für das jugendliche Auge und ist stark vom Alter abhängig.
+Bei rechtzeitigem Erkennen des ansteigenden Augeninnendruckes, der sich durch Farbwahrnehmungen und „Nebel“ bemerkbar macht, kann medikamentös entgegengewirkt werden.
+In seltenen Fällen ist ein chirurgischer Eingriff erforderlich.
+Der Grüne Star ist weltweit die häufigste Erblindungsursache.
 
-<table>
-  <thead>
-    <tr>
-      <th>Zustand</th>
-      <th>Ort</th>
-      <th>Brechkraft [dpt]</th>
-      <th>Brennweite [mm]</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="3">Akkommodationsruhe</td>
-      <td>Hornhaut und Vorderkammer</td>
-      <td><MathML formula="43.05\;\sf{dpt}"/></td>
-      <td><MathML formula="23.23\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Linse und Glaskörper</td>
-      <td><MathML formula="19.11\;\sf{dpt}"/></td>
-      <td><MathML formula="52.33\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Gesamt (äquivalentes System)</td>
-      <td><MathML formula="58.64\;\sf{dpt}"/></td>
-      <td><MathML formula="17.05\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Max. Akkommodation</td>
-      <td>Gesamt (äquivalentes System)</td>
-      <td><MathML formula="70.57\;\sf{dpt}"/></td>
-      <td><MathML formula="14.15\;\sf{mm}"/></td>
-    </tr>
-  </tbody>
-</table>
+<div class="no-dark">
 
-.brechkraft-emmetropes-auge#Brechkraft des emmetropen Auges [@methling:1996].
+![Glaukom](./pics/06/glaukom.svg "glaukom#Glaukom [@frederiksen:1989].")
 
-Die gesamte Brechkraft wird also etwa zu $2/3$ von Hornhaut und Vorderkammer und zu $1/3$ von Linse und Glaskörper aufgebracht.
-Durch eine Kontraktion des Ziliarmuskels werden die Zonulafasern entspannt.
-Die Linse wird zufolge ihrer Elastizität dicker, die Brechkraft wird erhöht und das Auge akkommodiert auf die Nähe (<<fig:augenlinse-und-akkommodation>>).
+</div>
 
-![Augenlinse und Akkommodation](./pics/06/augenlinse-und-akkommodation.svg "augenlinse-und-akkommodation#Augenlinse und Akkommodation [@servier-medical-art:2019, @mörike:1981]")
+## Katarakt – Grauer Star
 
-## Lidschlag
+Verschiedene Gründe wie Verletzungen (_Cataracta traumatica_), Diabetes (_Cataracta diabetica_), Hitzeeinwirkungen (_Cataracta calorica_, bei Gießern und Glasbläsern), Strahlenschäden (_Cataracta e radiatione_), Elektrounfälle, Vergiftungen, Virusinfekte während der Schwangerschaft (_Embryopathia rubeolosa_[^11]) sowie der Alterungsprozess können zu einer Trübung der Augenlinse führen.
+Dadurch wird das Sehvermögen durch Trübung des Bildes, aber auch durch Blendwirkung zufolge von Lichtstreuung herabgesetzt, was bis zur Einschränkung auf hell/dunkel Wahrnehmung gehen kann (<<fig:katarakt>>).
 
-Das Augenlid dient dem Schutz und der Befeuchtung des Augapfels.
-Der Lidschlag (Schließen des Oberlids) erfolgt entweder unwillkürlich-periodisch, willkürlich oder reflexartig.
-Die Frequenz mit der der unwillkürliche Lidschlag erfolgt ist stark von der Person abhängig.
-Als durchschnittlicher Richtwert gelten $15$ bis $16$ Lidschläge/min [@wilson:1996:a].
-Die Lidschlagfrequenz nimmt bei lang andauernden Tätigkeiten mit hoher Sehanforderung zu und kann dann Werte bis über $70$ Lidschläge / min erreichen [@methling:1996].
+[^11]: Rötelninfektion der Mutter vornehmlich im ersten Schwangerschaftsmonat.
 
-Die Dauer eines Lidschlags (Zeit, in der das Auge verschlossen bleibt) wird in der Literatur für unwillkürliche Lidschläge mit kleiner als $100\sf{ms}$, für willkürliche Lidschläge jedoch mit größer als $250\sf{ms}$ angegeben [@lauruska:1996].
+<div class="no-dark">
 
-## Vorverarbeitung und Informationsverdichtung in der Retina
+![Katarakt](./pics/06/katarakt.svg "katarakt#Katarakt [@frederiksen:1989].")
 
-Außer den Rezeptorzellen (rechts in <<fig:schnitt-netzhaut>>) befinden sich in der Retina noch vier weitere Schichten von Neuronen, die bereits innerhalb der Netzhaut für eine „Verschaltung“ der Signale sorgen und somit einen wesentlichen Beitrag zur Bildvorverarbeitung leisten.
-Die Leistungsfähigkeit dieser Schichten ist schon allein aus der Tatsache ersichtlich, dass $125$ Millionen Rezeptoren (Summe aus rund $120$ Millionen Stäbchen und $6$ Millionen Zäpfchen) lediglich $1$ Million Nervenfasern (Axone der Ganglienzellen) im Sehnerv gegenüberstehen.
-Anders ausgedrückt, verzeichnen wir zwischen Rezeptoren und Sehnerv eine Konvergenz von $125:1$, ohne dass jedoch bei diesem Schritt vom Auge aufgenommene Information einfach verloren geht.
+</div>
 
-## Die rezeptiven Felder
+Der Graue Star ist durch die operative Entfernung der Linse relativ einfach chirurgisch zu beheben.
+Die dadurch verloren gegangene Brechkraft der Linse kann entweder durch eine Starbrille ($+12\;\sf{dpt}$) oder durch Implantation einer Kunststofflinse ersetzt werden.
+Mangels ausreichender medizinischer Versorgung ist der Graue Star in Entwicklungsländern eine häufige Erblindungsursache.
 
-Untersuchungen über die Zusammenhänge zwischen optischen Reizen und der von der Retina entfalteten neuralen Aktivität lieferten bis zur Mitte des $20.$ Jahrhunderts eher verwirrende und unerklärbare Ergebnisse.
-Das vollkommener Dunkelheit ausgesetzte Auge zeigte entgegen den Erwartungen eine mäßige neurale Aktivität („spontanes Feuern“), die jedoch bei der Belichtung mit diffusem Licht nicht signifikant zunahm.
-<<fig:gleichfoermige-belichtung-rezeptives-feld>> zeigt schematisch den Versuchsaufbau, bei dem ein rezeptives Feld diffus beleuchtet wird.
-Die Ableitung des Aktionspotentials erfolgt am Axon der Ganglienzelle (Sehnerv).
+## Retinopathia pigmentosa (Retinitis pigmentosa) (RP)
 
-![Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "gleichfoermige-belichtung-rezeptives-feld#Gleichförmige (diffuse) Belichtung eines rezeptiven Feldes [@lindsay:1981].")
+Retinopathia pigmentosa (tapetoretinale Degeneration; meistens fälschlich als Retinitis Pigmentosa bezeichnet, da es sich um keine Entzündung handelt) ist die häufigste degenerative Netzhauterkrankung.
+Sie ist meist erblich bedingt, seltener kann sie durch Infektionskrankheiten oder Vergiftungen ausgelöst werden.
+Sie entsteht durch eine Stoffwechselstörung eines Enzyms.
+Bereits in der Kindheit kommt es zu schlechtem Sehen in der Dämmerung (Nachtblindheit durch Ausfall der für das skotopische Sehen erforderlichen Stäbchen).
 
-Erst $1950$ konnte Stephen Kuffler zeigen, dass die Ganglienzellen der Netzhaut nicht auf eine diffuse Beleuchtung schlechthin, sondern nur auf lokale Beleuchtungskontraste reagieren.
-Eine punktförmige Belichtung an oder in der Nähe jener Stelle (= Zentrum des rezeptiven Feldes), von der die Ableitung vorgenommen wurde, führt zu einer deutlichen Erhöhung der Impulsrate (<<fig:selektive-belichtung-rezeptives-feld>> – links).
-Die Belichtung einer ringförmigen Zone (= Umfeld des rezeptiven Feldes) um die Ableitungsstelle wirkt inhibitorisch, sodass sogar das spontane Feuern verschwindet (<<fig:selektive-belichtung-rezeptives-feld>> – rechts).
+Später kommt es auch am Tag zu einem ringförmigen Gesichtsfeldausfall (ringförmiges Skotom), sodass nur mehr ein Gesichtsfeld von $10\degree$ bis $15\degree$ verbleibt.
+In späteren Stadien führt Retinopathia pigmentosa zum „Tunnelblick“ (ein bis auf wenige Grad eingeschränktes Gesichtsfeld) und somit zur praktischen Erblindung, obwohl das zentrale Sehvermögen (Sehschärfe) noch recht gut sein kann (<<fig:retinopathia-pigmentosa>>).
 
-<!-- FIXME: grau? -->
+<div class="no-dark">
 
-![Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes.](./pics/06/selektive-belichtung-rezeptives-feld.svg "selektive-belichtung-rezeptives-feld#Selektive Belichtung von (a) Zentrum und (b) Umfeld eines rezeptiven Feldes [@lindsay:1981].")
+![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
 
-Genauere Untersuchungen zeigten, dass es zwei Typen von Ganglienzellen gibt, die sich nach der Art, wie sie auf Belichtung ihres rezeptiven Feldes antworten, unterscheiden.
-In beiden Fällen muss zwischen dem kreisförmigen Zentrum des jeweiligen rezeptiven Feldes und einem antagonistisch wirkenden ringförmigen Umfeld unterschieden werden.
-Durch dieses als laterale Hemmung (laterale Inhibition) bezeichnete Prinzip wird eine Steigerung der Bildschärfe erzielt.
+</div>
 
-## Messung der Sehschärfe
+## Hemianopie (Hemianopsie)
 
-Die Sehleistung des Auges wird durch den Visus angegeben, der ein Maß für die Sehschärfe bzw. genauer gesagt für das Auflösungsvermögen des Auges ist.
-Der Visus (V) ist der Reziprokwert des kleinsten Winkels (W~min~ in Bogenminuten), unter dem zwei Punkte noch getrennt wahrgenommen werden können.
+Als Hemianopie (Hemianopsie) wird ein halbseitiger Ausfall des Gesichtsfeldes bezeichnet.
+Bei der in <<fig:hemianopie>> gezeigten homonymen Hemianopie ist auf beiden Augen die gleiche Gesichtsfeldhälfte betroffen.
+Die Ursache dafür sind Schädigungen (z. B. Tumore, Schädelhirntrauma) der Sehbahn ab der Sehnervenkreuzung (Sehstrang, seitlicher Kniehöcker, Sehstrahlung und visueller Cortex), also in jenen Gebieten, in denen das halbe Gesichtsfeld beider Augen weitergeleitet und verarbeitet wird.
+Die Unterbrechung der Hemianopie in der Gesichtsfeldmitte rührt daher, dass in der Sehnervenkreuzung aus der Fovea stammende Nervenfasern sowohl in die eine wie auch in die andere Hemisphäre geleitet werden.
+Somit sind an der Verarbeitung des fovealen Bereiches beide Hemisphären beteiligt [@betz:1991].
+Bei einer Schädigung im Bereich eines Okzipitallappens können daher trotzdem Reize aus des gesamten Fovea wahrgenommen werden [@wilson:1996:a].
 
-$$
-\sf{V}=1\sf{/W_{min}}
-$$
+<div class="no-dark">
 
-Unter guten Lichtverhältnissen kann ein normalsichtiges Auge zwei Punkte gerade noch auseinanderhalten, wenn diese unter einem Winkel von $1$ Bogenminute ($1'$) erscheinen.
+![Hemianopie](./pics/06/hemianopie.svg "hemianopie#Hemianopie; nach [@frederiksen:1989].")
 
-Der Visus ist dann $V=1/1=1$.
-
-Zur Bestimmung des Visus (Sehschärfeprüfung) eignen sich im Prinzip alle Objekte, bei denen ein signifikantes Detail aus der jeweils angegebenen Entfernung unter dem Winkel von $1'$ erscheint (Optotypen).
-Dazu können z. B. Sehprobentafeln mit Buchstaben (Snellen-Tafel, <<fig:snellen-tafel>>) oder Ringen (Landolt-Ringe, <<fig:landolt-ringe>>) verwendet werden.
-Die Öffnung der Ringe wird aus der „Soll-Entfernung“ unter $1'$ gesehen.
-Die Sehleistung errechnet sich aus dem Quotienten aus Ist-Entfernung durch Soll-Entfernung.
-Kann z. B. die Lage des Spaltes eines Landolt-Ringes für eine Soll-Entfernung von $8.5\sf{m}$ erst bei einer Annäherung auf $3.3\sf{m}$ erkannt werden, ist der Visus $3.3/8.5=0.39$.
-Der Visus einer normal sehenden Person beträgt $V=1\ldots1.2$.
-Zum Lesen einer Zeitung ist ein Visus von mindestens $0.4$ erforderlich.
-
-![Snellen-Tafel.](./pics/06/snellen-tafel.svg "snellen-tafel#Snellen-Tafel [@hubel:1989].")
-
-<!-- FIXME: Maßstab Landoltringe? -->
-
-![Landolt-Ringe.](./pics/06/landolt-ringe.svg "landolt-ringe#Landolt-Ringe [@hubel:1989].")
-
-<!--
- Bild: Hub 89, linker Teil dazugezeichnet
- FIXME: Bildquelle
--->
+</div>
 
 !!!include(general/attribution.md)!!!

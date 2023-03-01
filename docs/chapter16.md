@@ -14,215 +14,315 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[USA]: United States of America
+*[CNS]: Central Nervous System
+*[PET]: Positron emission tomography
+*[PVS]: Persistent vegetative state
+*[RS]: Rett syndrome
 
-# Verbal and Vocal Disabilities
+# Multiple Disabilities, Syndromes
 
-When considering disabilities in the area of verbal communication skills, it is important to distinguish between speech (as the verbal basis; English: _language_) and language (as the vocal form of expression; English: _speech_).
-To understand and produce language is an achievement of our brain.
-To express this language vocally or also by writing or gestures and thus to communicate is in the broadest sense an achievement of our motor skills (articulation, hand motor skills).
-(articulation, hand motor skills, etc.).
+## Multiple Disabilities
 
-Between these two clearly defined areas there are all those neural structures which are responsible for the conception of movements and for the transmission of nerve signals to the musculature.
-They form, so to speak, the link between speech and language.
-Disorders in this area can therefore not always be clearly assigned.
-In addition, disabilities can also affect both areas of speech and language at the same time, so that a clear classification is impossible in this case.
-A first classification of the areas in which disorders can occur is given in <<tab:disorders-complex-speech-speech>> [@böhme:1997, @carroll:1998].
+The coincidence of several impairments is called multiple disability and often weighs more heavily for the affected person than the sum of the individual disabilities.
+
+<<tab:occurrence-multiple-disabilities>> shows, for the three most common primary disabilities (mobility, vision, and hearing impairment), the probability of occurrence of additional functional limitations.
+The numbers indicate how many of $1\:000$ persons with a given primary disability are affected by one of the selected additional limitations.
 
 <table>
-  <tbody class="break-words">
+  <colgroup span="3"></colgroup>
+  <col>
+  <thead>
     <tr>
-      <th scope="row">Level</th>
-      <td style="font-weight: bold;">phonetic-phonological</td>
-      <td style="font-weight: bold;">syntactic-morphological</td>
-      <td style="font-weight: bold;">semantic-lexical</td>
-      <td style="font-weight: bold;">pragmatic-communicative</td>
+      <th colspan="3">Of <MathML formula="1,000"/> individuals with a disability ...</th>
+      <th rowspan="2" scope="rowgroup">... are additionally limited at/by</th>
     </tr>
     <tr>
-      <th scope="row">Dysfunction</th>
-      <td>Motor and sensory dyslalia, phonematic disorders</td>
-      <td>Dysgrammatism, problems with determinate sentence constructions</td>
-      <td>Limited active and passive vocabulary, rare words often not at hand</td>
-      <td>Interpersonal communication disorders in social and situational context</td>
+      <th>... of mobility ...</th>
+      <th>... of vision ...</th>
+      <th>... of hearing ...</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><MathML formula="1,000"/></td>
+      <td><MathML formula="700"/></td>
+      <td><MathML formula="530"/></td>
+      <th>Mobility</th>
+    </tr>
+    <tr>
+      <td><MathML formula="150"/></td>
+      <td><MathML formula="1,000"/></td>
+      <td><MathML formula="160"/></td>
+      <th>Vision</th>
+    </tr>
+    <tr>
+      <td><MathML formula="230"/></td>
+      <td><MathML formula="380"/></td>
+      <td><MathML formula="1,000"/></td>
+      <th>Listening</th>
+    </tr>
+    <tr>
+      <td><MathML formula="320"/></td>
+      <td><MathML formula="220"/></td>
+      <td><MathML formula="200"/></td>
+      <th>Rheumatism</th>
+    </tr>
+    <tr>
+      <td><MathML formula="20"/></td>
+      <td><MathML formula="30"/></td>
+      <td><MathML formula="10"/></td>
+      <th>Epilepsy</th>
+    </tr>
+    <tr>
+      <td><MathML formula="270"/></td>
+      <td><MathML formula="150"/></td>
+      <td><MathML formula="170"/></td>
+      <th>Heart disease</th>
     </tr>
   </tbody>
 </table>
 
-.disorders-complex-speech-speech#Disorders in the speech-speech complex.
+.occurrence-multiple-disabilities#Occurrence of multiple disabilities [@tetzchner:1991].
 
-## Disabilities of the Language
+## Syndromes
 
-Disabilities of language are always based on lesions of the brain or are due to a developmental disorder that has delayed or prevented language acquisition.
+A syndrome[^38] is understood as the coincidence of several signs (symptoms) that are characteristic of a certain clinical picture.
+The cause of the disease (etiology) is usually uniform, but the course of the disease (pathogenesis) is unknown.
 
-1. Aphasia  
-   Aphasia is first of all the collective term for all damages occurring after language acquisition and affecting the area of linguistic communication.
-   They can affect both the perception and production of speech.
-   However, aphasia (literally speechlessness) in the narrower sense is usually understood as a disorder of speech production with preserved function of the organs and musculature needed for speech.
+[^38]: Syndrome: from grie. concomitant, accompanying.
 
-   Aphasia often also affects written language and sometimes the expression of gestures or the use of symbols.
-   In this sense, aphasia is a multimodal disability [@böhme:1997, @gadler:1996].
-   Aphasia may also affect the ability to understand and produce sign language, as has been found in deaf individuals with lesions of the language areas [@damasio:1993, @devlin:1999, @devlin:2000].
-   The frequency for Western countries is reported to be around $4$ out of $1\:000$ (statistics from UK and USA) [@carroll:1998].
+1. Down syndrome  
+   Down syndrome[^39] (also trisomy $21$ or Langdon-Down disease)[^40] results from a chromosomal disorder in which an extra third chromosome $21$ (hence trisomy $21$)[^41] appears in the body's cells at fertilization or one of the subsequent cell divisions and is passed on with each subsequent cell division from then on[^42].
+   Down syndrome leads to maldevelopment of almost all tissues and organs of the maturing organism.
+   Two types of Down syndrome are distinguished:
 
-   Simple, short and frequently used words, which were learned early in life, have the highest probability of still being mastered despite aphasia.
-   In any case, abstract words, complex syntactic constructions, and the passive form are problematic [@devlin:1999, @devlin:2000].
+   [^39]: John L. Down, English physician, $1828-1896$.
+   [^40]: The former common name “mongolism” is now considered discriminatory and should therefore be avoided.
+   [^41]: In addition to trisomy $21$, other autosomal trisomies involving chromosomes $3$, $9$, $10$, $12$, $13$, and $18$ are known. Genosomal trisomies (XXY and XYY) may occur in the sex chromosomes.
+   [^42]: that a chomosomal disorder is the cause of Down syndrome was suspected as early as $1930$, but proof was not provided until $1959$ by Frenchman Jérôme Lejeune.
 
-   Clinically, aphasia is usually classified as follows, although different opinions exist regarding terminology (for a summary, see <<tab:classification-leading-symptoms-aphasic-syndrome>>) [@eberhard:1994, @pschyrembel:1989, @böhme:1997]:
+   - _Free (complete) trisomy $21$_  
+     The additional chromosome $21$ already exists as $24$.
+     chromosome in one of the germ cells and is therefore present as a free third chromosome $21$ in all somatic cells (<<fig:chromosome-passing-down-syndrome>>).
+
+   - _Mosaic Down Syndrome_  
+      Sperm and egg cells contain the correct number of $23$ chromosomes.
+     The chromosomal error does not occur until one of the first cell divisions.
+     Therefore, there are cells with both $46$ and $47$ chromosomes.
+     This form occurs in about $1\%$ of children with Down syndrome (<<fig:chromosome-passing-mosaic-down-syndrome>>).
+
+   ![Chromosome sharing in Down syndrome (complete trisomy 21).](./pics/07/chromosomen-weitergabe-down-syndrom.color.svg "chromosome-passing-down-syndrome#Chromosome sharing in Down syndrome (complete trisomy $21$).")
+
+   ![Chromosome transfer in mosaic down syndrome. The cell shown in white with 45 chromosomes is not viable and dies.](./pics/07/chromosomen-weitergabe-mosaik-down-syndrom.color.svg "chromosome-passing-mosaic-down-syndrome#Chromosome transfer in mosaic down syndrome. The cell shown in white with $45$ chromosomes is not viable and dies [@zagler:2008].")
+
+   Apart from deformities and changes in habitus, the following symptoms are characteristic of Down syndrome:
+
+   - Mental retardation of varying degrees.
+   - Speech disorder (high palate, large tongue, malocclusion of teeth).
+   - Muscle hypotonia.
+
+2. Parkinson's syndrome  
+   Parkinson's syndrome[^43] is the most common neurological disorder of advanced age, predominantly affecting men.
+   It is an extrapyramidal syndrome due to degeneration of neurons in the midbrain (substantia nigra) [@pschyrembel:1989].
+
+   [^43]: James Parkinson, English surgeon and paleontologist, $1755-1824$.
+
+   The symptoms associated with Parkinson's syndrome are primarily:
+
+   - Silent and monotone speech
+   - Slowing and shortening of movements and movement disorders (slow, shuffling gait, small handwriting, tendency to fall)
+   - Stiffness of the muscles
+   - Resting tremor (tremor of muscles at rest with $4$ to $6$ movements per second).
+     Tremor stops during voluntary movements, so handwriting is not tremulous.
+
+3. Gregg syndrome  
+   Gregg syndrome (rubella embryopathy, embryopathia rubeolosa), malformation syndrome following rubella infection of the mother during the first three months of pregnancy [@pschyrembel:1989].
+   The anomalies that occur depend on the timing of rubella infection (<<tab:anomalies-gregg-syndrome>>).
 
    <table>
      <thead>
        <tr>
-         <td></td>
-         <th>Amnestic aphasia</th>
-         <th>Wernicke's aphasia<br/>Sensory A.</th>
-         <th>Broca's aphasia<br/>Motor A.</th>
-         <th>Global aphasia</th>
+         <th>Pregnancy month</th>
+         <th>Focus of abnormalities</th>
+         <th>Occurring symptoms</th>
        </tr>
      </thead>
      <tbody>
        <tr>
-         <th scope="row">Speech production</th>
-         <td>mostly fluent</td>
-         <td>fluent</td>
-         <td>significantly slowed</td>
-         <td>scarce to zero, including speech automatisms</td>
+         <td rowspan="4"><MathML formula="1"/></td>
+         <td rowspan="4">Eyes</td>
+         <td>congenital cataract (Cataracta congenita)</td>
        </tr>
        <tr>
-         <th scope="row">Articulation</th>
-         <td>mostly not disturbed</td>
-         <td>mostly not disturbed</td>
-         <td>often dysarthric</td>
-         <td>mostly dysarthric</td>
+       <td>facultative glaucoma (glaucoma)</td>
        </tr>
        <tr>
-         <th scope="row">Prosody</th>
-         <td>mostly well preserved</td>
-         <td>mostly well preserved</td>
-         <td>often leveled, also chanting</td>
-         <td>often leveled, mostly well preserved in automatisms</td>
+       <td>small eyes (microphthalmia)</td>
        </tr>
        <tr>
-         <th scope="row">Sentence construction</th>
-         <td>barely disturbed</td>
-         <td>paragrammatism (duplications and entanglements of sentences and parts of sentences</td>
-         <td>agrammatism (only simple sentence structures, absence of function words)</td>
-         <td>only single-word phrases, speech automatisms</td>
+       <td>back of the eye changes (pseudo-RP)</td>
        </tr>
        <tr>
-         <th scope="row">Word choice</th>
-         <td>Substitution strategies for word-finding disorders, some semantic paraphasias</td>
-         <td>many semantic paraphasias, often grossly divergent from the target word, semantic neologisms</td>
-         <td>relatively narrow vocabulary, hardly any semantic paraphasias</td>
-         <td>extremely limited vocabulary, grossly deviant semantic paraphasias</td>
+         <td rowspan="4"><MathML formula="2"/></td>
+         <td>Heart</td>
+         <td>heart septal defects</td>
        </tr>
        <tr>
-         <th scope="row">Sound structure</th>
-         <td>some phonemic paraphasias</td>
-         <td>many phonematic paraphasias up to neologisms, also phonematic jargon</td>
-         <td>many phonematic paraphasias</td>
-         <td>very many phonematic paraphasias and neologisms</td>
+         <td rowspan="3"><abbr title="Central nervous system">CNS</abbr></td>
+         <td>low brain volume (microcephaly)</td>
        </tr>
        <tr>
-         <th scope="row">Comprehension</th>
-         <td>slightly impaired</td>
-         <td>strongly disturbed</td>
-         <td>slightly disturbed</td>
-         <td>strongly disturbed</td>
+         <td>retardation, epilepsy</td>
+       </tr>
+       <tr>
+         <td>motion disorders</td>
+       </tr>
+       <tr>
+         <td><MathML formula="3"/></td>
+         <td>internal ear</td>
+         <td>sensorineural hearing loss</td>
        </tr>
      </tbody>
    </table>
 
-   .classification-leading-symptoms-aphasic-syndrome#Classification and leading symptoms of aphasic syndromes according to Poeck, 1994 in [@böhme:1997].
+   .anomalies-gregg-syndrome#Abnormalities in Gregg syndrome [@pschyrembel:1989].
 
-2. Paraphasia  
-   Paraphasia refers to a language disorder in which there are omissions, substitutions, additions, or rearrangements.
-   This can occur at the level of phonemes within a word (phonematic paraphasia) or words within a sentence (semantic or verbal paraphasia).
+4. Rett syndrome (RS)  
+   Rett syndrome[^44] is a disorder so far observed only in girls, probably inherited in an X-linked dominant manner, in the course of which there are brain atrophy (atrophy of neural tissue in the brain) as well as other changes in the brain.
+   Manifestation occurs between $6,$ month of life and $4,$ year of life.
+   The effects are:
 
-3. Dysphasia  
-   Dysphasia (also _specific language impairment_ = SLI) refers to language impairments in brain local syndrome or delayed language development [@pschyrembel:1989].
-   The impairments often primarily affect verbs (the acquisition, morphology, vocabulary).
-   Verbs with the most general meaning possible are preferred.
-   There is little derivation of semantics (recognizing the meaning of a word) from syntax [@wilson:1998].
+   [^44]: Andreas Rett, Austrian pediatrician.
 
-4. Agrammatism, Dysgrammatism  
-   Agrammatism is a disorder of grammatically correct expression (sentence structure disorder) after completed language development.
-   Speech is in simple, incorrect and often short expressions (telegram style).
-   Conjugations and declensions are missing, often the infinitive is used.
-   Agrammatism refers to the complete absence of syntax in linguistic utterances.
-   Milder forms (especially in childhood grammatical disorders) are called dysgrammatism Occurrence in motor aphasia (see above) and intellectual disabilities.
+   - epilepsy
+   - Delays in growth
+   - Loss of previously acquired skills
+   - Stereotyped hand movements (washing, kneading)
+   - Gait disturbances (wide-legged, stiff)
+   - Apraxia (also affects speech organs and eye movements)
+   - Loss of verbal communication
 
-   <!-- FIXME: reference to German countries? -->
+5. Usher syndrome  
+   Usher syndrome is an autosomal recessive inherited disorder with the main symptoms:
 
-5. Alexia, Dyslexia  
-   Dyslexia is used as a generalized term for a partial reading impairment with otherwise normal overall intelligence.
-   In German-speaking countries, the term _Legasthenie_ or _Lese- und Rechtschreibstörung_ (LRS) is usually used.
-   In affected children, confusion of graphemes[^37], faulty spelling, and reduced reading comprehension are noticeable from about the second grade.
-   Dyslexia of various degrees affects between $6$ and $10\%$ of children [@pschyrembel:1989].
-   According to a survey of $700$ disabled students at Glasgow University, individuals with dyslexia constitute the largest group [@busse:1998].
-   The reasons are still not clear, but both genetic and social influencing factors are suspected [@pschyrembel:1989].
+   - Progressive hearing loss in childhood and adolescence.
+   - Retinopathia pigmentosa (retinitis pigmentosa), occurring years later
+   - Failure of the vestibular nerve (part of the vestibulocochlear nerve = VIII. Cranial nerve, which innervates the vestibular system).
+   - Epileptic seizures (possible)
 
-   [^37]: Grapheme refers to the smallest meaning-bearing unit of written language.
+   Usher syndrome is a major cause of deaf-blindness.
 
-   In the case of dyslexia, it must be noted that reading and spelling disorders can occur together as well as separately.
-   As a rule, arithmetic is not affected.
-   If there is a complete inability to read, it is called alexia.
-   If reading fails due to a lack of recognition of letters, the condition is known as _superficial alexia_ (literary alexia).
-   If, on the other hand, words are not recognized, it is a case of _deep alexia_ or verbal alexia.
+6. Persistent vegetative state (PVS) and locked-in syndrome  
+   Waking coma (apallic syndrome, coma vigile, persistent vegetative state – PVS) refers to a clinical condition in which the patient is in a complete loss of perception of him/herself and his/her environment.
+   The autonomic functions of the hypothalamus and brainstem are fully or partially preserved.
+   An EEG is present and normal in the further course.
+   However, visual stimulation lacks the usual blocking of alpha waves.
+   Patients exhibit a natural sleep-wake cycle.
+   Nevertheless, there is no evidence of reproducible goal-directed or volitional behavior in response to visual, tactile, auditory, or noxious stimuli [@persistent-vegetative-state:1994:part-1].
 
-   The discussion about dyslexia makes it clear how easily we tend to proceed in terms of “defectology” and talk about impairments and weaknesses without thinking about advantages and strengths.
-   Individuals with dyslexia undoubtedly exhibit weakness in verbalizing, but usually show strengths in visualizing and using pictorial representations of facts.
-   Weaknesses on the constructive side are counterbalanced by strengths in analytical thinking.
-   It may have been these shifts in emphasis that enabled dyslexic individuals such as Faraday or Einstein to achieve the scientific feats that set them apart [@mccausland:1994].
+   Wakefulness coma is clearly distinguishable from related conditions such as locked-in syndrome, coma, brain death, or severe dementia (see also the compilation in <<tab:wakefulness-coma-and-related-states>>):
 
-6. Acalculia, Dyscalculia  
-   A partial performance weakness in dealing with numbers is called dyscalculia or arithmasthenia.
-   If there is a complete inability to calculate, it is called acalculia.
+   - Coma: Deep unconsciousness lasting more than one hour.
+   - Brain death: permanent absence of all brain activity, including that of the brain stem.
+   - Locked-in syndrome: consciousness and awareness is present but cannot be reciprocated.
+     PET scans show much higher metabolic levels than in PVS.
+   - Dementia: Progressive, multidimensional loss of cognitive function.
+     Progression to end-stage PVS is possible.
 
-7. Agraphia  
-   Similar to reading, writing can also be affected by a partial impairment.
-   An inability to write with intact hand motor skills and normal intelligence is called agraphia.
+   <table>
+     <thead>
+       <tr style="height: 14rem;">
+         <th>State</th>
+         <th>Self-awareness</th>
+         <th>Sleep-wake cycle</th>
+         <th>Motor functions</th>
+         <th>Awareness of suffering</th>
+         <th>Breathing</th>
+         <th>EEG activity</th>
+         <th>Brain metabolism</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <th scope="row">Wake coma</th>
+         <td>absent</td>
+         <td>intact</td>
+         <td>no controlled movement</td>
+         <td>no</td>
+         <td>normal</td>
+         <td>delta or theta, sometimes alpha</td>
+         <td>reduced by <MathML formula="50\%"/> or more</td>
+       </tr>
+       <tr>
+         <th scope="row">Coma</th>
+         <td>miss</td>
+         <td>absent</td>
+         <td>no controlled movement</td>
+         <td>no</td>
+         <td>reduced, different</td>
+         <td>delta or theta</td>
+         <td>reduced by <MathML formula="50\%"/> or more</td>
+       </tr>
+       <tr>
+         <th scope="row">Brain death</th>
+         <td>missing</td>
+         <td>absent</td>
+         <td>no or only spinal reflexes</td>
+         <td>no</td>
+         <td>absent</td>
+         <td>no EEG</td>
+         <td>absent</td>
+       </tr>
+       <tr>
+         <th scope="row">Locked-in syndrome</th>
+         <td>present</td>
+         <td>intact</td>
+         <td>complete paralysis, eye movements only</td>
+         <td>yes</td>
+         <td>normal</td>
+         <td>normal or minor deviation</td>
+         <td>slightly reduced</td>
+       </tr>
+       <tr>
+         <th scope="row">Dementia</th>
+         <td>present, lost later</td>
+         <td>intact</td>
+         <td>different, progressive decline</td>
+         <td>yes, but decreasing</td>
+         <td>normal</td>
+         <td>slowed</td>
+         <td>differentially reduced</td>
+       </tr>
+     </tbody>
+   </table>
 
-{.lower-alpha}
+   .wakefulness-coma-and-related-states#Persistent vegetative state (PVS) and related conditions [@persistent-vegetative-state:1994:part-1].
 
-## Impairments of Speech
+   Among the causes that can lead to a waking coma, a distinction is made between acute causes on the one hand and congenital or degenerative causes on the other [@persistent-vegetative-state:1994:part-1].
 
-A weak respiratory system affects the loudness and persistence of vocal utterances.
-Laryngeal disorders cause breathy, hoarse, soft, whispery, or slowed pronunciation.
-Dysfunctions of the soft palate result in either overly nasal articulation or absence of nasal sounds.
-If the anterior articulation system (tongue, jaw, lips) is impaired, the result is slurred, slow, imprecise, or uncoordinated pronunciation.
-Other articulation disorders may result in varying pitch, fluctuating volume, excessive rate of speech, or disturbances in the rhythm of speech (poluttering, stuttering).
+   Acute causes may have a traumatic background (traumatic brain injury, e.g., due to an accident or gunshot wound) or a non-traumatic background (hypoxia due to circulatory arrest or drowning, cerebral apoplexy, meningitis, tumors, or poisoning).
+   The statistical evolution of patients/patients with PVS $12$ months after an acute cause is shown in <<fig:model-production-spoken-language>>.
+   Note that prognoses vary widely between traumatic and nontraumatic triggers as well as between adults and children.
+   <<fig:model-production-spoken-language>> also shows, for that portion of individuals who awaken from PVS within 1 year, the probability and degree of expected disability [@kinney:1994, @persistent-vegetative-state:1994:part-1].
 
-1. Dysarthria, Anarthria  
-   Speech disorder caused by paralysis or coordination disorder of the speech muscles as a result of damage to the cranial nerves [@strässle:1998].
-   The whole complex of voice formation disorders described above is called _dysarthria_ or _dysarthrias_.
-   Dysarthria can occur as a result of cerebral palsy, muscular dystrophy, apoplexy (cerebral stroke), Parkinson's syndrome, amyotrophic lateral sclerosis (ALS), multiple sclerosis (MS), Huntington's disease, brain tumors, myasthenia gravis, or after traumatic brain injury, poisoning, or drug abuse.
+   ![Prognosis for people with PVS after 12 months; for the proportion regaining consciousness, the degree of disability expected.](./pics/07/prognose-pvs.color.svg "prognose-pvs#Prognosis for people with PVS after $12$ months; for the proportion regaining consciousness, the degree of disability expected is given [@zagler:2008,  @persistent-vegetative-state:1994:part-2].")
 
-   Anarthria refers to the most severe form of dysarthria in which specific articulation of sounds and sentence elements is not possible [@strässle:1998].
-   Cerebral damage causing dysarthria or anarthria often also causes movement disorders that prevent the affected person from making controlled gestures.
-   This presents an additional obstacle to communication [@strässle:1998].
+   Non-acute causes of a vegetative state include, on the one hand, numerous malformations of the brain such as anencephaly (absence of essential brain parts), microencephaly (small brain), hydranencephaly (remodeling of the cerebrum into a fluid bubble) and congenital hydrocephalus.
+   On the other hand, in adults, conditions such as Alzheimer's disease, Creutzfeldt-Jacob, Huntington's disease, Parkinson's disease, or multi-infarct dementia can result in PVS.
+   In children, gangliosidoses (lipid storage diseases) may be a cause of falling into a vegetative state [@persistent-vegetative-state:1994:part-1].
 
-2. Aphonia, Dysphonia  
-   The complete failure of phonation (voice production) is called aphonia.
-   Voice disorders (hoarse, busy, rough voice) and limitation of voice performance is called dysphonia.
-   Causes are, besides psychological influences (shock, stress), various anomalies and diseases of the larynx (also due to injury or intubation).
+   The incidence of PVS is reported very differently, varying from $25$ to $60$ on $1\;\sf{million}$ EW.
+   Only the smaller proportion has traumatic causes [@andrews:1993].
+   It should be noted, however, that a definitive diagnosis is often very difficult and misdiagnosis can account for up to $60\%$ of cases studied [@andrews:1996].
 
-{.lower-alpha}
+   <!-- FIXME: cross reference -->
 
-## Disorders in the Border Area Between Speech and Language
+   In locked-in syndrome, patients are conscious but without any ability to move.
+   In the “classic” form, vertical eye movements and blinking are preserved, and can be used for communication purposes with appropriate interfaces.
+   In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface).
+   <!-- In “total” locked-in syndrome, these movements are also absent and communication is possible – if at all – only via the evaluation of the EEG (Brain Computer Interface – see Part B, Chapter 3.2.8). -->
 
-Disorders that fall into the border area between speech and language, i.e., in the transition from language conceived in words to sound formation (assignment of phonemes), are deliberately treated here with the speech disorders.
-Although their causes lie before the actual articulation, this is because the aids used here must not support the speech itself, but the pronunciation.
-
-1. Dyslalia  
-   Dyslalia is a disorder of articulation in which phonemes are changed or replaced by others.
-   The causes may include central speech disorders and delayed speech development.
-
-2. Echolalia  
-   Echolalia refers to the compulsive verbal or modified repetition of words and sentences heard or said without regard to the content or situation.
-   It is part of natural language development in children between the ages of one and two, but later it is a sign of a language disorder.
-
-3. Bradylalia  
-   Bradylalia (also known as bradyarthria or bradyglossia) is a slowing of the speech rate observed, for example, in multiple sclerosis.
+   Causes for locked-in syndrome are: advanced ALS, brainstem infarction, infarction in the bridge (_pons_, connection of the two brain hemispheres), bilateral infarction of the internal capsule (capsula interna – deep lying part of the brain), tumors, encephalitis (inflammation of the brain) and craniocerebral trauma [@kübler:2001:a, @kübler:2001:b].
 
 {.lower-alpha}
 

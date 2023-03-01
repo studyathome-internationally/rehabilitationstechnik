@@ -15,283 +15,158 @@ abbreviations:
 
 <!-- prettier-ignore -->
 *[engl.]: englisch
-*[IHC]: Inner hair cells
-*[OHC]: Outer hair cells
-*[SPL]: Sound Pressure Level
-*[ZNS]: Zentralnervensystem
+*[z. B.]: zum Beispiel
 
-# Ohr und auditive Wahrnehmung
+# Auditive Behinderungen
 
-## Definitionen
+## Klassifikation von Hörschädigungen
 
-Das Ohr dient der Wahrnehmung von Schallwellen, worunter Dichteschwingungen eines elastischen Mediums verstanden werden.
-Für das Ohr sind das üblicherweise Druckschwankungen der umgebenden Luft.
-Die physikalische Beschreibung des Schalls wird Akustik genannt, während man die anatomischen und physiologischen Vorgänge der Schallwahrnehmung als auditiv bezeichnet.
+Die ICIDH unterscheidet sechs Grade der Hörschädigung (<<tab:kategorien-hoerschaedigung-nach-icidh>>):
 
-Als **Ton** wird eine Sinusschwingung mit _einer_ bestimmten Frequenz bezeichnet.
-Die Überlagerung endlich vieler Töne und deren Obertöne nennt man **Klang**.
-Ein **Geräusch** besteht aus der Überlagerung unendlich vieler Töne.
-Den zur Wahrnehmung eines Tones mindestens erforderlichen Schalldruck bezeichnet man als Hörschwelle.
+<!-- FIXME: hochgradige Hörschädigung (90 vs. 91dB) -->
 
-## Messgrößen
+| Bezeichnung nach ICIDH                   | Hörverlust \[in dB HV\]    |
+| ---------------------------------------- | -------------------------- |
+| geringe Hörschädigung                    | $26-40\;\sf{dB}\,\sf{HV}$  |
+| mäßige Hörschädigung                     | $41-55\;\sf{dB}\,\sf{HV}$  |
+| mittelgradige Hörschädigung              | $56-70\;\sf{dB}\,\sf{HV}$  |
+| hochgradige Hörschädigung                | $71-91\;\sf{dB}\,\sf{HV}$  |
+| an Taubheit[^14] grenzende Hörschädigung | $\gt~91\;\sf{dB}\,\sf{HV}$ |
+| vollständiger Verlust des Gehörs         | $-$                        |
 
-Der Schalldruck (_Sound Pressure Level_ = SPL) wird in Pascal ($1\sf{Pa}=1\sf{N/m^2}$) gemessen.
-Wegen der in der Akustik sonst erforderlichen großen Zahlen wird üblicherweise mit dem Schalldruckpegel $L$ gearbeitet, ein in Dezibel angegebenes logarithmisches Maß, das das Verhältnis zum Bezugsschalldruck $p_0$ angibt:
+.kategorien-hoerschaedigung-nach-icidh#Kategorien der Hörschädigung nach ICIDH [@matthesius:1995].
 
-$$
-L=20\log{\frac{P_{x}}{P_0}\sf{[db]}}
-$$
+[^14]:
+    Die ICIDH verwendet den Begriff „Taubheit“, der aber bei den Betroffenen verpönt ist.
+    Er sollte daher tunlichst vermieden und immer gegen Gehörlosigkeit ausgetauscht werden.
+    Die Ursache für die negative Besetzung der Wörter „Taubheit“ und „taub“ ist historisch bedingt.
+    Die Begriffe „dumm“ bzw. „tumb“ (ahd.) und „taub“ bzw. „toub“ hatten früher die gleiche Bedeutung, nämlich „stumpf“ bzw. auch „stumpfsinnig“ (Duden) und „benebelt“, „verwirrt“ und „betäubt“ [@bronzino:1995].
+    Das Ohr galt in der Antike als Sitz des Gedächtnisses.
+    Für Paracelsus waren große Ohren nicht nur Zeichen für ein gutes Hörvermögen, sondern auch für ein gutes Gedächtnis und einen scharfen Verstand [@hellbrück:1993].
 
-wobei $p_0$ der willkürlich festgelegte Bezugsschalldruck: $p_0=2\cdot10^{-5}\sf{N/m^2}$ ist.
+Der Begriff gehörlos sollte nur für Personen benutzt werden, deren Hörschädigung so hochgradig ist, dass sie unfähig sind, aus einer Verstärkung einen Nutzen zu ziehen.
+Der Nutzen, mittels einer Angabe in dB HV eine stichhaltige Trennungslinie zwischen schwerhörig und gehörlos zu ziehen, erscheint gering.
+Wesentlich wichtiger ist es die Funktionalität des Gehörs in Bezug auf die sozial bedeutendste Aufgabe, das Hören und Verstehen gesprochener Sprache, zu bewerten.
+In diesem Sinn wird von Praktikerinnen und Praktikern vorgeschlagen, die Trennung dort zu ziehen, wo das auditive Kommunizieren trotz verstärkender Hilfsmittel scheitert [@dotter:1996].
 
-$20\;\sf{dB}$ bedeuten somit eine Verzehnfachung des Schalldrucks.
-Einer Verdopplung des Schalldruckes entspricht ein Zuwachs von $6\;\sf{dB}$.
-Beträgt der Hörverlust einer Person $80\;\sf{dB}$ (das ist die Mitte jenes Bereiches, der als hochgradige Hörschädigung bewertet wird), dann ist der $10\:000$-fache Schalldruck in Bezug auf eine normal hörende Person erforderlich.
+Bei der Klassifizierung von Hörschädigungen wird in erster Linie unterschieden, ob die Reduktion der Hörleistung durch eine verringerte Leitung des Schalls bis zu den Rezeptoren (Haarzellen) des Innenohrs bedingt ist oder ob eine Schädigung der Cochlea oder der nachfolgenden Nervenbahnen (Hörbahn) vorliegt.
+Nach dieser generellen Unterscheidung werden noch einige typische Formen der Schwerhörigkeit besprochen
 
-Das Maß für die (subjektive) Lautstärke eines Schalls ist das Phon.
-Die Lautstärke ist zahlenmäßig gleich dem Schalldruckpegel (in dB) für einen gleich laut empfundenen $1\:000\;\sf{Hz}$ Ton (<<fig:dynamikbereich-ohr>>).
-Die Isophone ist die Menge aller gleich laut empfundenen Töne.
-
-![Dynamikbereich des Ohres](./pics/06/dynamikbereich-ohr.svg "dynamikbereich-ohr#Dynamikbereich des Ohres [@tetzchner:1991].")
-
-::: figcaption
-
-Die dargestellten Kurven (Isophone) geben gleich laut empfundene Lautstärke in Phon an; schattiert: Hauptsprachbereich [@betz:1991, @schmidt:1997].
-Der für Telefon angegebene Frequenzbereich bezieht sich auf die Bandbreiten analoger Telefonsysteme [^12].
-
-:::
-
-[^12]: Analoge Telefonsysteme sind mit einer Bandbreite von ca. $3.1\;\sf{kHz}$ ($300$ bis $3\:400\;\sf{Hz}$) spezifiziert. Digitale Systeme (ISDN) können Bandbreiten von typisch $7\;\sf{kHz}$ erreichen.
-
-Unter der Schallimpedanz versteht den Wellenwiderstand (Produkt aus Dichte und Schallgeschwindigkeit) eines Mediums [@pschyrembel:1989].
-
-<!-- FIXME: Querverweis -->
-<!-- FIXME: Einheiten? -->
-
-Für die Bewertung von Hörleistungen bzw. Hörverlusten in der Audiometrie (siehe Kapitel [Bestimmung des Hörvermögens – Audiometrie](./chapter10.html#bestimmung-des-horvermogens-audiometrie)) wird ein logarithmisches Maß (dB) verwendet, dessen Nullpunkt bei der jeweils betrachteten Frequenz die „normale Hörschwelle“ ist (audiometrischer Nullpunkt).
-Hörverluste werden in dB HV oder dB HL (Zusatz HV für Hörverlust bzw. HL für _Hearing Loss_ oder _Hearing Level_) angegeben und geben an, um wie viel dB der Schalldruck über die normale Hörschwelle (siehe <<fig:dynamikbereich-ohr>>) angehoben werden muss, damit eine hörbehinderte Person einen Ton bei einer bestimmten Frequenz wahrnehmen kann.
-
-Zur Bewertung der Wahrnehmung von akustischen Signalen bei Anwesenheit von Störgeräuschen wird ein weiteres mit dB SL (Zusatz SL für Sensation Level) bezeichnetes Verhältnis verwendet.
-Die Referenzschwelle (also $0\;\sf{dB}$ SL) wird für eine bestimmte zu bewertende Hörsituation dort gelegt, wo die Versuchsperson das Schallereignis (das Signal) bei $50\%$ der durchgeführten Messungen aus des Hintergrundgeräusch (Rauschen) heraushören kann.
-Der in dB SL angegebene Schalldruckpegel gibt daher an, um wie viel ein Signal über dieser Referenzschwelle liegt.
-Mit anderen Worten wird damit das Signal-Rausch-Verhältnis angegeben [@hellbrück:1993].
-
-## Anatomie des Ohres
-
-1. Äußeres Ohr  
-   Das äußere Ohr – von der Ohrmuschel bis zum Trommelfell – stellt einen etwa $3$ bis $3.5\;\sf{cm}$ langen Trichter dar, der die Schallwellen aus der Umgebung zum Trommelfell leitet.
-   Dabei ist es wichtig, dass die Luft auf beiden Seiten des Trommelfells die gleiche Temperatur (Körpertemperatur) hat, da sonst die unterschiedliche Brownsche Molekularbewegung wegen der hohen Empfindlichkeit des Ohres bereits störend wahrnehmbar wäre.
-
-   Der äußere Gehörgang wirkt verstärkend und weist bei der Resonanzfrequenz (ca. $2\:500\;\sf{Hz}$) eine Verstärkung von $20\;\sf{dB}$ auf.
-   Diese Verstärkung liegt also in jenem Bereich, der für das Sprachverständnis wichtig ist (Hauptsprachbereich, siehe <<fig:dynamikbereich-ohr>>).
-   Da beim Kleinkind der äußere Gehörgang nur wenige Millimeter lang ist, verschiebt sich die Resonanz deutlich zu höheren Frequenzen, was zur Folge hat, dass Kleinkinder hohe Frequenzen bevorzugter wahrnehmen.
-
-2. Mittelohr  
-   Die Weiterleitung des Schalls im Mittelohr (Paukenhöhle) – zwischen dem Trommelfell und dem ovalen Fenster – erfolgt über die drei gelenkig miteinander verbundenen Gehörknöchelchen: Hammer (_Malleus_), Amboss (_Incus_) und Steigbügel (_Stapes_).
-   Der Durchmesser der Paukenhöhle (vom Trommelfell bis zur Innenwand) beträgt nur etwa $5\;\sf{mm}$.
-   Die Dicke des Trommelfells beträgt $0.1\;\sf{mm}$ (<<fig:schnitt-durch-ohr>>).
-
-   ![Schnitt durch das Ohr](./pics/06/schnitt-durch-ohr.svg "schnitt-durch-ohr#Schnitt durch das Ohr [@servier-medical-art:2019, @faller:1995].")
-
-   ::: figcaption
-
-   1. Ohrmuschel;
-   2. Äußerer Gehörgang;
-   3. Trommelfell;
-   4. Hammer;
-   5. Paukenhöhle;
-   6. Amboss;
-   7. Steigbügel;
-   8. Steigbügelplatte im ovalen Fenster;
-   9. rundes Fenster;
-   10. Schnecke;
-   11. Bogengänge des Vestibularapparates (Gleichgewichtsorgan)
-       {.lower-alpha}
-
-   :::
-
-   Die Auslenkungen des Trommelfells (bei der Hörschwelle kleiner als $10^{-10}\;\sf{m}$, das ist $1\sf{\mathring{A}}$, $0.1\;\sf{nm}$ oder etwa der Durchmesser eines Wasserstoffatoms) werden in komplizierten (frequenzabhängigen) Bewegungen über die drei Gehörknöchelchen zum ovalen Fenster übertragen.
-   Dabei wird einerseits die Bewegungsamplitude durch die Hebelwirkung der Gehörknöchelchen herabgesetzt (etwa um den Faktor $0.7$) bzw. die Kraft, die am ovalen Fenster zur Verfügung steht, entsprechend vergrößert.
-   Andererseits verhalten sich die Flächen von Trommelfell und ovalem Fenster etwa wie $20:1$, wodurch eine bedeutende Druckerhöhung ($\sf{Druck}=\sf{Kraft/Fläche}$ erzielt wird.
-   Genaue Messungen gestalten sich überaus schwierig, doch geht man in der Literatur von einer gesamten Druckverstärkung um den Faktor $35$ aus.
-   Theoretisch kann unter Einbeziehung aller Faktoren der Wert aber auch wesentlich höher liegen.
-
-   Diese Druck-Transformation ist erforderlich, da ohne sie das flüssigkeitsgefüllte Innenohr nur äußerst schlecht von schwingender Luft angeregt werden könnte.
-   Konkret würden durch Reflexion $98\%$ der Schallenergie verloren gehen und nur $2\%$ an das Innenohr weitergegeben werden.
-   Die Impedanzanpassung durch das Mittelohr erreicht, dass im Mittel $60\%$ der Schallenergie übertragen werden können.
+1. Schallleitungsschwerhörigkeit (generell)  
+   Bei der Schallleitungsschwerhörigkeit (Konduktionsschwerhörigkeit, engl. _conductive hearing loss_) liegen die Ursachen in einer Störung im äußeren Gehörgang (z. B. Pfropfen), im Trommelfell oder im Mittelohr (z. B. Versteifung der Gehörknöchelchen).
+   Das Hörvermögen ist vermindert, nie jedoch völlig verloren.
 
    <!-- FIXME: Querverweis -->
 
-   Die Gehörknöchelchen bewirken außerdem, dass die Schallenergie nicht auf das gesamte Innenohr, sondern nur auf das ovale Fenster übertragen wird.
-   Das runde Fenster (die zweite Verbindungsstelle zwischen Mittelohr und Innenohr) kann daher gegenphasig schwingen, was für die Funktion der Schnecke (siehe Kapitel [Physiologie des Ohres](./chapter10.html#physiologie-des-ohres) Punkt (a)) von großer Bedeutung ist.
+   Im Tonschwellenaudiogramm (siehe [Bestimmung des Hörvermögens – Audiometrie](./chapter10.html#bestimmung-des-horvermogens-audiometrie)) äußert sich eine Schallleitungsschwerhörigkeit in einem Absinken der Luftleitungskurve (LL-Kurve), während die Knochenleitungskurve (KL-Kurve) unverändert in jenem Bereich bleibt, der für normal hörende Personen die Regel ist (<<fig:tonschwellenaudiogramm-schallleitung>>, für die verwendeten Zeichen siehe <<tab:audiogramm-verwendete-symbole>>).
+   Man spricht hier vom Auftreten einer „KL-LL-Differenz“ oder „air-bone-gap“).
 
-   Schließlich kommt dem Mittelohr auch noch eine gewisse Regelungsfunktion bzw. Schutzfunktion zu.
-   Das Trommelfell und der Steigbügel sind mit Muskeln (_Musculus tensor tympani_ am Trommelfell/Hammer und _Musculus stapedius_ am Steigbügel) verbunden, die bei einem Schalldruckpegel von $60$ – $80\;\sf{dB}$ oberhalb der Hörschwelle kontrahieren und dämpfend auf die Übertragung niederer Frequenzen wirken.
+   <!-- prettier-ignore -->
+   ![Tonschwellenaudiogramm bei Schalleitungsschwerhörigkeit – die Luftleitungskurve (x) liegt unter der Knochenleitungskurve (\]) = „air-bone-gap“.](./pics/06/tonschwellenaudiogramm-schallleitung.svg "tonschwellenaudiogramm-schallleitung#Tonschwellenaudiogramm bei Schallleitungsschwerhörigkeit – die Luftleitungskurve (x) liegt unter der Knochenleitungskurve (]) = „air-bone-gap“ [@hellbrück:1993].")
 
-3. Innenohr  
-   Das Innenohr enthält zwei Sinnesorgane, die vollkommen unterschiedliche Funktionen erfüllen, aber anatomisch einen Komplex bilden: Die Schnecke (_Cochlea_), das eigentliche Hörorgan und den Vestibularapparat, der das Gleichgewichtsorgan bildet (<<fig:schnitt-durch-ohr>>).
+   Ein Verschließen der Ohren mit den Fingern führt zu einer Dämpfung von ca. $20\;\sf{dB}\,\sf{HV}$, simuliert also eine Schallleitungsschwerhörigkeit, die noch geringer ist, als eine „geringe Hörschädigung“ nach ICIDH (siehe <<tab:kategorien-hoerschaedigung-nach-icidh>>).
 
-   Die Schnecke (_Cochlea_) ist ein in den Schädelknochen eingelassener spiralförmiger Gang, in dem der zweiteilige häutige Schneckengang (_Scala media_ oder _Ductus cochlearis_) schwingfähig befestigt ist.
-   Damit besteht die Schnecke aus drei flüssigkeitsgefüllten Gängen.
-   In der Mitte der mit Endolymphe[^13] gefüllte häutige Schneckengang mit dreieckigem Querschnitt, darüber die Vorhoftreppe (_Scala vestibuli_) und darunter die Paukentreppe (Scala tympani).
-   Die beiden letztgenannten Gänge sind mit Perilymphe[^13] gefüllt.
-   Kurz vor dem Ende der Schnecke (_Helicotrema_) endet der häutige Schneckengang blind, sodass die beiden Treppen dort ineinander übergehen (<<fig:schnecke>> und <<fig:querschnitt-durch-schnecke>>).
+2. Schallempfindungsschwerhörigkeit (generell)  
+   Die Ursachen für eine Schallempfindungsschwerhörigkeit (Perzeptionsschwerhörigkeit, engl. _sensorineural hearing loss_) sind Schädigungen des Innenohres (Hörsturz, Ototoxikose, Schalltrauma), des Hörnervs oder des zentralen Nervensystems.
+   Im Tonschwellenaudiogramm äußert sich eine Schallempfindungsschwerhörigkeit durch das gemeinsame Absinken der Luftleitungskurve und der Knochenleitungskurve (<<fig:tonschwellenaudiogramm-schallempfindung>>).
 
-   [^13]: Endolymphe: hohe K+-, niedrige Na+-Konzentration; Perilymphe umgekehrt.
+   <!-- prettier-ignore -->
+   ![Tonschwellenaudiogramm bei Schallempfindungsschwerhörigkeit – Luftleitungskurve (x) und Knochenleitungskurve (\]) in Deckung](./pics/06/tonschwellenaudiogramm-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Tonschwellenaudiogramm bei Schallempfindungsschwerhörigkeit – Luftleitungskurve (x) und Knochenleitungskurve (]) in Deckung [@hellbrück:1993].")
 
-   ![Die Schnecke (rechtes Ohr), geöffnet](./pics/06/schnecke.svg "schnecke#Die Schnecke (rechtes Ohr), geöffnet [@servier-medical-art:2019, @betz:1991].")
+   Von Schallempfindungsschwerhörigkeit sind vornehmlich die hohen Frequenzen betroffen, was sich in einer schlechten Wahrnehmbarkeit der Phoneme „s“, „f“ und „sch“ bemerkbar macht.
+   Somit ist nicht nur das Hören selbst, sondern vor allem das Verstehen betroffen.
+   Eine (völlige) Gehörlosigkeit ist immer durch eine Störung des Innenohrs bedingt.
 
-   ::: figcaption
+3. Kombinierte Schallleitungs- und Schallempfindungsschwerhörigkeit (generell)  
+   Als dritte mögliche generelle Hörschädigung soll noch die kombinierte Schallleitungs- und Schallempfindungsschwerhörigkeit im Tonschwellenaudiogramm vorgestellt werden.
+   Wegen der Schallempfindungsschwerhörigkeit sinken die LL- und die KL-Kurven gemeinsam ab.
+   Die zusätzliche Schallleitungsschwerhörigkeit bedingt ein weiteres Absinken der LL-Kurve (<<fig:tonschwellenaudiogramm-schallempfindung>>).
 
-   1. Steigbügel im ovalen Fenster;
-   2. Beginn der Vorhoftreppe;
-   3. häutiger Schneckengang;
-   4. rundes Fenster am Ende der Paukentreppe;
-   5. Helicotrema
-      {.lower-alpha}
+   <!-- prettier-ignore -->
+   ![Tonschwellenaudiogramm bei kombinierter Schallleitungs- und Schallempfindungsschwerhörigkeit – beide Kurven tiefer, aber die Luftleitungskurve (x) liegt noch weiter unter der Knochenleitungskurve (\])](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Tonschwellenaudiogramm bei kombinierter Schallleitungs- und Schallempfindungsschwerhörigkeit – beide Kurven tiefer, aber die Luftleitungskurve (x) liegt noch weiter unter der Knochenleitungskurve (]) [@hellbrück:1993].")
 
-   :::
+4. Lärmschwerhörigkeit  
+   Jede Belastung des Gehörs mit hohen Schalldruckpegeln führt zu einer Verschiebung der Hörschwelle nach oben.
+   Ist die Belastung kurz oder werden dabei Schalldruckpegel von $90\;\sf{dB}\,\sf{SPL}$ nicht überschritten, kommt es zwar zu einer bei allen Sinnesorganen vorkommenden Adaptation, aber die Hörschwelle sinkt nach einer Erholungszeit wieder auf die Werte vor der Schallbelastung.
 
-   ![Schematischer Querschnitt durch die Schnecke](./pics/06/querschnitt-durch-schnecke.svg "querschnitt-durch-schnecke#Schematischer Querschnitt durch die Schnecke [@servier-medical-art:2019, @betz:1991].")
+   Lang andauernde Schallbelastungen, insbesondere dann, wenn sie $90\;\sf{dB}\,\sf{SPL}$ überschreiten, stellen eine ernsthafte Gefährdung des Ohres dar.
+   Dabei können drei Mechanismen zum Tragen kommen.
+   Zum einen können durch die Schallbelastung (z. B. $15$ Minuten bei $95\;\sf{dB}\,\sf{SPL}$ oder $30$ Sekunden bei $115\;\sf{dB}\,\sf{SPL}$) Haarzellen mechanisch beschädigt werden (Abknicken oder Verschmelzen der Stereozilien).
+   Zweitens haben Haarzellen bei Erregung einen erhöhten Energiebedarf, der bei lang anhaltender Stimulation nicht mehr gedeckt werden kann.
+   Wird der Zelle nicht rechtzeitig eine Erholungspause gegönnt, kann es zum Absterben (Verhungern) der Sinneszelle kommen.
+   Drittens führt Lärm zu einer Stressbelastung des gesamten Organismus, durch die auch die Durchblutung und somit die Sauerstoffversorgung des Ohres herabgesetzt wird und eine schädigende Wirkung auf das Innenohr nicht ausgeschlossen werden kann [@hellbrück:1993].
 
-   ::: figcaption
+   Ein durch Lärmeinwirkung ausgelöster Hörverlust betrifft besonders die Frequenzen um $4\;\sf{kHz}$.
+   Offenbar gerät dieser Bereich der Cochlea bei Lärmbelastung am frühesten in einen Versorgungsengpass.
+   Wegen der bei $4\;\sf{kHz}$ liegenden musikalischen Note $\sf{c^5}$ (fünf-gestrichenes C, oberste Taste eines Klaviers mit $4186\;\sf{Hz}$) wird auch von der $\sf{c^5}$-Senke gesprochen[^15] [@hellbrück:1993].
+   Ein für eine Lärmschwerhörigkeit typisches Audiogramm ist in <<fig:tonschwellenaudiogramm-laermschwerhoerigkeit>> dargestellt.
 
-   <div>
+   [^15]:
+       Akustikerinnen, Akustiker, Musiker und Musikerinnen verwenden unterschiedliche Bezeichnungen der Tonhöhen.
+       In der Akustik werden die zu den einzelnen Oktaven des Klaviers gehörenden Töne mit tiefgestellten Indizes versehen. $\sf{C_1}$ bezeichnet daher das tiefste C (erste vollständige Oktave) am Klavier.
+       Der höchste Ton des Klaviers ist das $\sf{C_8}$.
+       In der Musik beginnt die eingestrichene Oktave mit dem mittleren C des Klaviers. Hier werden hochgestellte Indizes verwendet.
+       Die Bezeichnung ist daher $\sf{c^1}$.
+       Der in der gleichen Oktave liegende Kammerton mit $440\;\sf{Hz}$ trägt die Bezeichnung $\sf{a^1}$.
+       Dem musikalischen $\sf{c^1}$ entspricht somit das akustische $\sf{C^4}$ [@lindsay:1981].
 
-   1. Vorhoftreppe;
-   2. häutiger Schneckengang;
-   3. Paukentreppe
-      {.upper-alpha}
+   ![Tonschwellenaudiogramm bei Lärmschwerhörigkeit – typischer Abfall bei 4000 Hz, c5 – Senke.](./pics/06/tonschwellenaudiogramm-laermschwerhoerigkeit.svg "tonschwellenaudiogramm-laermschwerhoerigkeit#Tonschwellenaudiogramm bei Lärmschwerhörigkeit – typischer Abfall bei $4000\\;\sf{Hz}$, $\sf{c^5}$–Senke.")
 
-   </div>
-   <div>
+   <!--
+    Beschriftung: Zagler
+    Bild: nicht CC
+    FIXME: Quelle [HEL 93]?
+   -->
 
-   1. Reissnersche Membran;
-   2. Deckmembran;
-   3. Basilarmembran;
-   4. Cortisches Organ;
-   5. äußere Haarzellen;
-   6. innere Haarzellen
-      {.lower-alpha}
+   Besonders gefährlich sind alle impulshaltigen Schalle, weil in diesem Fall der Regelmechanismus des Mittelohres (Bedämpfung durch Kontraktion der Mittelohrmuskeln) nicht rechtzeitig zum Tragen kommt und die hohen Pegel ungehindert das Innenohr erreichen können.
 
-   </div>
+   Während die schädlichen Langzeit-Auswirkungen von berufsbedingtem Lärm heute nicht nur hinlänglich bekannt sind (oder zumindest bekannt sein sollten) und wirksame Gehörschutzmaßnahmen angeboten werden, stellt der „Freizeitlärm“ die weitaus größere Gefahr für die Volksgesundheit dar.
+   Die Auswirkungen von überlauter Musik (Diskotheken, open-air Konzerte[^16], „Car-Sound“) und insbesondere die über Kopf- und Ohrhörer konsumierte Musik aus tragbaren Geräten stellen ein enormes Risiko dar.
+   Allen Liebhabern solcher „Schallquellen“ muss an dieser Stelle warnend ins Stammbuch geschrieben werden, dass Beschädigungen der Haarzellen absolut irreversibel sind.
 
-   :::
+   [^16]:
+       Der von einer „durchschnittlichen“ Rockband produzierte Schalldruckpegel wird in der Literatur mit $120$ bis $130\;\sf{dB}\,\sf{SPL}$ angegeben.
+       Für die Gruppe „The Who“ finden sich Werte bis $160\;\sf{dB}\,\sf{SPL}$ (!). Die Folgen für die Haarzellen sind leicht vorstellbar.
+       Nur der Start eines Space-Shuttles (in $50\;\sf{m}$ Entfernung gemessen) übertrifft mit $180\;\sf{dB}\,\sf{SPL}$ diesen Wert noch deutlich [@lindsay:1981, @kendrik:1997].
 
-## Physiologie des Ohres
+5. Altersschwerhörigkeit – Presbyakusis  
+   Unter Altersschwerhörigkeit (Presbyakusis) wird eine mit zunehmendem Alter steigende Hörschwelle bei höheren Frequenzen verstanden (den typischen Verlauf des Audiogramms zeigt <<fig:tonschwellenaudiogramm-altersschwerhoerigkeit>>).
 
-1. Mechanische Vorgänge in der Schnecke  
-   Nach der Impedanzwandlung durch das Mittelohr empfängt das Innenohr das Schallsignal über die Vibrationen der Steigbügel-Fußplatte im ovalen Fenster, die sich auf die Flüssigkeit der Vorhoftreppe übertragen.
-   Da diese Flüssigkeit inkompressibel ist, muss bei einer Einwärtsbewegung des ovalen Fensters (Druckanstieg) der darunter liegende häutige Gang (auch cochleäre Trennwand genannt) nach unten ausweichen.
-   Dies bewirkt einen Druckanstieg in der (darunterliegenden) Paukentreppe, was in weiterer Folge zu einer Auslenkung des runden Fensters am Ende der Paukentreppe führt.
-   In der nachfolgenden Halbwelle der Schwingung sind die Verhältnisse genau umgekehrt.
+   ![Tonschwellenaudiogramm bei Altersschwerhörigkeit – typischer Verlust im Bereich der hohen Töne.](./pics/06/tonschwellenaudiogramm-altersschwerhoerigkeit.svg "tonschwellenaudiogramm-altersschwerhoerigkeit#Tonschwellenaudiogramm bei Altersschwerhörigkeit – typischer Verlust im Bereich der hohen Töne.")
 
-   Durch diese Auf- und Abbewegung der cochleären Trennwand kommt es zu einer Scherbewegung zwischen ihren einzelnen Bestandteilen und durch die Verschiebung der Deckmembran (_Membrana tectoria_; Tektorialmembran) zu einer Verbiegung der Sinneshärchen der Haarzellen des Cortischen Organs (<<fig:querschnitt-durch-schnecke>>).
+   <!--
+    Beschriftung: Zagler
+    Bild: nicht CC
+    FIXME: Quelle [HEL 93]?
+   -->
 
-   Die Haarzellen sind entlang der Cochlea in zwei parallel verlaufenden Gruppen angeordnet.
-   Die etwa $8\:000$ inneren Haarzellen (IHC = _inner hair cells_) sind in _einer_ Reihe angeordnet, die rund $14\:000$ äußeren Haarzellen (OHC = _outer hair cells_) bilden drei bis fünf Reihen.
-   Jede dieser Haarzellen trägt $60$ – $100$ Sinneshärchen (_Stereozilien_).
-   Trotz ihrer wesentlich größeren Zahl enden nur $5$ bis $10\%$ der Nervenfasern des Hörnervs an den OHC (hohe Konvergenz).
-   Die wesentlich größere Zahl der $30\:000$ bis $40\:000$ Nervenfasern innerviert die IHC.
-   Nicht alle Nervenfasern des Hörnervs sind afferent (verlaufen also von den Haarzellen zum ZNS).
-   Etwa $1\:800$ sind efferent und stehen in Verbindung mit den im nächsten Abschnitt beschriebenen aktiven Vorgängen in der Cochlea [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
-   Die örtliche Dichte der Neuronen beträgt am Beginn der Cochlea (beim ovalen Fenster) $1\:150$ Ganglienzellen/mm^2^ und nimmt zum Helicotrema hin ab [@lindsay:1981].
+   Von einer „echten“ Presbyakusis kann streng genommen nur dann gesprochen werden, wenn der Hörverlust symmetrisch auf beiden Ohren auftritt und wenn außerdem sichergestellt ist, dass nicht auch andere Faktoren zu einem Hochtonverlust geführt haben.
+   In den meisten Fällen wird man es mit einer Mischung aus Alterseffekten und Langzeitfolgen von Lärmbelastung und Medikamentenschädigungen (ototoxische Wirkung von Medikamenten) zu tun haben, die sich nicht voneinander trennen lassen[^17].
 
-   <!-- FIXME: Steigbügel-Fußplatte? -->
-
-2. Ausbildung der Wanderwelle und cochleärer Verstärker  
-   Bisher wurde die Mechanik des Innenohres nur dem Prinzip nach geschildert.
-   Genauer betrachtet löst die Vibration des Steigbügel-Fußplatte zunächst nur am Beginn der Schnecke eine Bewegung der cochleären Trennwand aus, die sich im weiteren zeitlichen Verlauf als Wanderwelle entlang der gesamten Schnecke ausbreitet.
-   Wir sprechen hier von der passiven Wanderwelle.
-   Sie hat die besondere Eigenschaft, dass sie sich nicht mit gleicher oder nur abnehmender Amplitude entlang der Schnecke ausbreitet, sondern dass sie je nach ihrer Frequenz an einer bestimmten Stelle der Schnecke zu einem Maximum anwächst und danach ziemlich abrupt abklingt (<<fig:wanderwelle-cochlaere-trennwand>>).
-
-   ![Darstellung der passiven Wanderwelle in der cochleären Trennwand](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Darstellung der passiven Wanderwelle in der cochleären Trennwand [@schmidt:1997,@bell:2004].")
-
-   Der Ort, an dem die Wanderwelle ihr Maximum erreicht, ist von der Frequenz der Erregung abhängig und für die Frequenzselektivität des Ohres von ausschlaggebender (aber nicht hinreichender) Bedeutung.
-   Hohe Frequenzen erzeugen das Maximum in der Nähe der Schneckenbasis (beim Steigbügel bzw. beim ovalen und runden Fenster), tiefe Frequenzen an der Schneckenspitze (_Helicotrema_).
-   Frequenzgemische (Klänge, Geräusche) erzeugen mehrere Maxima entlang der Basilarmembran.
-   Diese Betrachtungsweise liegt der Ortstheorie (tonotopischen Theorie) zugrunde (<<fig:lage-wanderwelle>>).
-
-   ![Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier ausgerollt ](./pics/06/lage-wanderwelle.svg "lage-wanderwelle#Lage der Einhüllenden von passiven Wanderwellen; die Cochlea ist hier ausgerollt dargestellt [@zenner:1994:a].")
-
-   <!-- FIXME: aufgesteilt? -->
-
-   Die Ausbildung eines Schwingungsmaximums durch die passive Wanderwelle bewirkt neben der Frequenzselektion einen ersten Verstärkungseffekt.
-   Ursprünglich hat man das Ohr als einen rein passiven Schallsensor betrachtet.
-   Erst in neuerer Zeit haben Untersuchungen gezeigt, dass die äußeren Haarzellen des Cortischen Organs mikromechanische Schwingungen von bis zu $20\;\sf{kHz}$ erzeugen können.
-   Durch die frequenz- und ortsselektive Anregung der äußeren Haarzellen wird die passive Wanderwelle an einem eng umschriebenen Ort bis zum Faktor $1\:000$ verstärkt und aufgesteilt [@zenner:1994:a] (<<fig:verstaerkung-wanderwelle>>).
-   Ohne diese aktive Verstärkung würde eine Anregung der inneren Haarzellen erst ab $60\;\sf{dB}\,\sf{SPL}$ erfolgen [@schmidt:1997].
-
-   ![Aktive Verstärkung der Wanderwelle](./pics/06/verstaerkung-wanderwelle.svg "verstaerkung-wanderwelle#Aktive Verstärkung der Wanderwelle [@zenner:1994:a].")
-
-3. Frequenzselektivität des Ohres  
-   Die Ausbildung der passiven und auch der aktiven Wanderwelle (Ortstheorie, Tonotopie) ist nicht vollkommen ausreichend, um die enorme Frequenzselektivität des Ohres zu erklären.
-   Zu dieser Annahme gelangt man einerseits aus Messungen bei mittleren Schalldruckpegeln, bei denen fast alle Fasern des Hörnervs aktiv sind und nicht nur die, die für die jeweilige Frequenz charakteristisch sind.
-   Trotzdem ist das Gehör auch in diesem Fall frequenzselektiv.
-   Andererseits ist es bei einkanaligen Cochlearimplantaten (die Nervenendungen in der Cochlea werden nur an einem einzigen Ort von einer Elektrode stimuliert) möglich, die Empfindung unterschiedlicher Frequenzen hervorzurufen.
-   Wäre allein die Ortstheorie die Erklärung für die Frequenzwahrnehmung, dann müsste für jede zu übertragende Tonhöhe eine eigene Elektrode am dafür maßgeblichen Ort implantiert werden.
-
-   <!-- FIXME: mikrophonische vs. mikrofonische -->
-
-   Da eine einzelne Faser des Hörnervs einer Schallschwingung nur bis zu einer Frequenz von etwa $800\;\sf{Hz}$ direkt folgen kann, müssen an der Codierung höherfrequenter Töne mehrere Nervenfasern beteiligt sein.
-   Beim sogenannten Salvenprinzip wechseln sich mehrere Nervenfasern so beim „Feuern“ ab, dass die Summe (Überlagerung) ihrer einzelnen Entladungen der zu übermittelnden Frequenz entspricht.
-   Dies führt zur sogenannten Periodentheorie (mikrophonische Theorie) der Frequenzselektivität.
-   Einzelne Nervenfasern werden zu Gruppen zusammengefasst und so synchronisiert, dass das Gesamtmuster ihrer neuralen Aktivität auch höheren Frequenzen zu folgen vermag (<<fig:schematische-darstellung-salvenprinzip>>) [@troost:1998].
-
-   ![Schematische Darstellung der Übertragung höherer Frequenzen durch das Salvenprinzip](./pics/06/schematische-darstellung-salvenprinzip.svg "schematische-darstellung-salvenprinzip#Schematische Darstellung der Übertragung höherer Frequenzen durch das Salvenprinzip [@guski:1996].")
+   [^17]:
+       In diesem Zusammenhang ist bemerkenswert, dass Untersuchungen an Naturvölkern (Afrika und Asien) keine Anzeichen von Presbyakusis gezeigt haben.
+       Es liegt daher der Verdacht nahe, dass Presbyakusis nichts anderes ist, als die über die Lebenszeit integrierte Auswirkung sozial bedingter Schädigungen des Gehörs (Sozioakusis) [@hellbrück:1993].
 
    {.lower-alpha}
 
-## Bestimmung des Hörvermögens - Audiometrie
+## Tinnitus – Ohrgeräusche
 
-Das Verfahren zur Bestimmung des Hörvermögens wird Audiometrie genannt.
-Neben der Feststellung des Grades eines Hörverlustes und der betroffenen Frequenzen ist es die Aufgabe der Audiometrie, auch den Ort, an dem der Hörverlust auftritt, zu lokalisieren und zwischen Schallleitungsschwerhörigkeit (Konduktionsschwerhörigkeit, engl. _conductive hearing loss_) und Schallempfindungsschwerhörigkeit (Perzeptionsschwerhörigkeit, engl. _sensorineural hearing loss_) zu unterscheiden.
+<!-- FIXME: "sensorineuralem" -->
+<!-- FIXME: "Schallempfindungsschwerhörigkeit" - Schallleitungsschwerhörigkeit? -->
 
-<!-- FIXME: "sog. Luftleitung" - Position? -->
+Mit Tinnitus werden Töne und Geräusche bezeichnet, die von der betroffenen Person wahrgenommen, aber durch keine äußere Schallquelle verursacht werden.
+Etwa $32\%$ der erwachsenen Bevölkerung ist durch Tinnitus betroffen, $20\%$ geben an, dass sie davon so schwer betroffen sind, dass sich die Ohrgeräusche störend bemerkbar machen.
+Tinnitus ist in den meisten Fällen eine Begleiterscheinung von Schwerhörigkeit.
+Die meisten Patientinnen und Patienten mit sensorineuralem Hörverlust klagen über Ohrgeräusche im hohen Frequenzbereich, während Schallempfindungsschwerhörigkeit in der Regel zu Tinnitus im unteren Frequenzbereich führt.
+Otosklerose kann ebenso wie die Meniere-Krankheit zu Tinnitus im tiefen Frequenzbereich führen [@troost:1998].
 
-Das wichtigste Verfahren zur Überprüfung des Gehörs ist die Tonschwellenaudiometrie bzw. das Tonschwellenaudiogramm, also die Messung der persönlichen Hörschwelle.
-In einem schallisolierten Raum werden über Kopfhörer Töne (reine Sinusschwingungen) unterschiedlicher Intensität und Frequenz angeboten (sog. Luftleitung).
-Die untersuchte Person muss angeben, ob ein dargebotener Ton wahrgenommen werden konnte oder nicht.
+Pulssynchrone Ohrgeräusche haben ihre Ursache in Durchblutungsstörungen oder werden durch Hypertonie (erhöhten Blutdruck hervorgerufen).
+Unter Tinnitus versteht man allgemein die nicht-pulsierenden Ohrgeräusche, die sich bei Erkrankungen des Mittelohrs als Sausen, Brummen oder Rauschen, bei Schädigungen des Innenohres als Zischen oder Pfeifen manifestiert [@pschyrembel:1989].
 
-Außer der Darbietung der Töne über Kopfhörer wird in einer getrennten Versuchsreihe auch eine Einkopplung über den Körperschall (Knochenleitung) mittels eines hinter dem Ohr am Schädelknochen angesetzten Vibrators vorgenommen.
-Auch für die Knochenleitung gibt es eine festgelegte „Hörschwelle“, von der aus allfällige Hörverluste in dB HV gemessen werden können.
-
-Die Resultate der Messungen werden in ein (genormtes) Diagramm, das Audiogramm, eingetragen.
-Dabei werden üblicherweise die in <<tab:audiogramm-verwendete-symbole>> dargestellten Symbole verwendet:
-
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th>Links</th>
-      <th>Rechts</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Farbe der Marken</th>
-      <td>blau</td>
-      <td>rot</td>
-    </tr>
-    <tr>
-      <th scope="row">Luftleitung</th>
-      <td style="color: blue;">x</td>
-      <td style="color: red;">o</td>
-    </tr>
-    <tr>
-      <th scope="row">Knochenleitung</th>
-      <td style="color: blue;">]</td>
-      <td style="color: red;">[</td>
-    </tr>
-  </tbody>
-</table>
-
-.audiogramm-verwendete-symbole#Im Audiogramm verwendete Symbole.
-
-Für eine annähernd normal hörende Person ergibt sich beispielsweise ein Tonschwellenaudiogramm für das linke Ohr, wie es in <<fig:tonschwellenaudiogramm-normal>> dargestellt ist.
-Die Kurven für Luftleitung und Knochenleitung liegen übereinander oder fast übereinander.
-Die Abweichungen von der $0\;\sf{dB}\,\sf{HV}$ Linie betragen im Beispiel maximal $15\;\sf{dB}\,\sf{HV}$.
-
-![Tonschwellenaudiogramm einer normal hörenden Person, linkes Ohr, keine Hörschäden](./pics/06/tonschwellenaudiogramm-normal.svg "tonschwellenaudiogramm-normal#Tonschwellenaudiogramm einer normal hörenden Person, linkes Ohr, keine Hörschäden [@hellbrück:1993].")
+Auslösende Ursache für Tinnitus können Spasmen (Verkrampfungen) der Mittelohrmuskeln, Degenerationen der Halswirbelsäule oder Funktionsstörungen der Cochlea sein.
+Im letztgenannten Fall können die aktiven Bewegungen der äußeren Haarzellen betroffen sein, sodass es möglich ist, die dadurch entstehenden Töne objektiv im Gehörgang zu messen.
+In den meisten Fällen handelt es sich jedoch um subjektiven Tinnitus, dessen Ursache in einer Störung der Verstärkungswirkung der äußeren Haarzellen vermutet wird.
+Dadurch kommt es zu vermehrter Stimulation der äußeren Haarzellen, die wiederum auf die inneren Haarzellen wirkt und so eine als Ton oder Geräusch wahrnehmbare Erregung hervorruft [@hellbrück:1993].
+Andere Quellen vermuten als Ursache eine Erhöhung der spontanen Entladung der Nervenfasern des Hörnervs, da die inhibierende Wirkung eines durch die Cochlea geleiteten Gleichstromes zu einer Verringerung der Ohrgeräusche führt [@troost:1998].
 
 !!!include(general/attribution.md)!!!

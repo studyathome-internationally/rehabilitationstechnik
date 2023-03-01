@@ -14,146 +14,277 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[RP]: Retinopathia pigmentosa
+*[AC]: Air conduction
+*[BC]: Bone conduction
+*[CNS]: Central Nervous System
+*[IHC]: Inner hair cells
+*[OHC]: Outer hair cells
+*[SPL]: Sound Pressure Level
 
-# Visual Disabilities
+# Ear and Auditory Perception
 
-## Classification of Visual Impairment
+## Definitions
 
-Visual impairment is usually classified according to <<tab:classification-visual-impairment>>.
-This rating is valid with optimal optical correction (glasses, contact lenses) for the better eye.
+The ear is used to perceive sound waves, which are density vibrations of an elastic medium.
+For the ear, these are usually pressure fluctuations of the surrounding air.
+The physical description of sound is called acoustics, while the anatomical and physiological processes of sound perception are called auditory.
 
-| Designation              | Visual Acuity |
-| ------------------------ | ------------- |
-| Visual Impairment        | $\lt~0.3$     |
-| Severe visual impairment | $\lt~0.05$    |
-| Legally blind            | $\lt~0.02$    |
+A **tone** is defined as a sinusoidal oscillation with _a certain_ frequency.
+The superposition of finitely many tones and their overtones is called **sound**.
+A **noise** consists of the superposition of an infinite number of tones.
+The minimum sound pressure required to perceive a tone is called the hearing threshold.
 
-.classification-visual-impairment#Classification of visual impairments.
+## Measurement Parameters
 
-## Causes of Visual Impairments
+Sound pressure is measured in pascals ($1\sf{Pa}=1\sf{N/m^2}$).
+Because of the large numbers otherwise required in acoustics, it is common to work with the _Sound Pressure Level_ (SPL) $L$, a logarithmic measure given in decibels that indicates the ratio to the reference sound pressure $p_0$:
 
-<!-- FIXME: Abbildungsverweis -->
+$$
+L=20\log{\frac{P_{x}}{P_0}\sf{[db]}}
+$$
 
-Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
-For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
+Where $p_0$ is the arbitrary reference sound pressure: $p_0=2\cdot10^{-5}\sf{N/m^2}$.
 
-<div class="no-dark">
+Thus, $20\;\sf{dB}$ means a tenfold increase of the sound pressure.
+A doubling of the sound pressure corresponds to an increase of $6\;\sf{dB}$.
+If a person's hearing loss is $80\;\sf{dB}$ (which is the midpoint of that range judged to be profound hearing loss), then $10\:000$ times the sound pressure is required relative to a person with normal hearing.
 
-![Normal vision](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
+The measure of the (subjective) loudness of a sound is the phon.
+The loudness is numerically equal to the sound pressure level (in dB) for an equally loud perceived $1\:000\;\sf{Hz}$ sound (<<fig:dynamic-range-ear>>).
+The isophone is the set of all equally loud perceived tones.
 
-</div>
+![Dynamic range of the ear](./pics/06/dynamikbereich-ohr.svg "dynamic-range-ear#Dynamic range of the ear [@tetzchner:1991].")
 
-It must be pointed out that this illustration as well as all simulations of visual impairments are only very rough approximations of the actual situation.
-Visual field defects cannot simply be simulated by black areas, although this is often done in illustrations.
-Here, a neutral gray was deliberately chosen, which still comes closest to a non-existent perception.
+::: figcaption
 
-Even if it were possible to draw a visually faithful picture of a visual impairment, this representation would only remain on the surface, since any kind of disability not only restricts the affected person functionally, but also deeply shapes his or her personality and imagination.
-For example, if someone thinks he or she understands blindness by wearing a blindfold, he or she is subject to a huge error.
+The curves shown (isophones) indicate equally loud perceived volume in phon; shaded: Main speech range [@betz:1991, @schmidt:1997].
+The frequency range given for telephone refers to the bandwidths of analog telephone systems [^12].
 
-## Refractive Anomalies – Refractive Errors of the Eye
+:::
 
-If the refractive power of the optical elements of the eye (cornea, lens, and vitreous body) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
-Eyeglasses and contact lenses can compensate for $90\%$ of refractive anomalies.
-In refractive anomalies we distinguish:
+[^12]: Analog telephone systems are specified with a bandwidth of about $3.1\;\sf{kHz}$ ($300$ to $3\:400\;\sf{Hz}$). Digital systems (ISDN) can achieve bandwidths of typically $7\;\sf{kHz}$.
 
-1. Myopia  
-   In myopia, the refractive power of the eye is too high (focal length too short) or the eyeball is too long.
-   The plane of focus (especially of distant objects) is in front of the retina.
-   The remedy is glasses or contact lenses with a dispersing effect (<<fig:ray-tracing-myopia>>).
-   The effects of myopia are shown in <<fig:myopia>>.
+Sound impedance is the characteristic impedance (product of density and sound velocity) of a medium [@pschyrembel:1989].
 
-   ![Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina](./pics/06/strahlengang-myopie.svg "ray-tracing-myopia#Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina [@mörike:1981].")
+<!-- FIXME: Querverweis -->
+<!-- FIXME: Einheiten? -->
 
-   <div class="no-dark">
+For the evaluation of hearing performance or hearing loss in audiometry (see Chapter [Determination of Hearing Ability - Audiometry](./chapter10.html#determination-of-hearing-ability-audiometry)), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
+Hearing losses are expressed in dB HL (suffix or HL for _Hearing Loss_ or _Hearing Level_) and indicate by how many dB the sound pressure must be raised above the normal hearing threshold in order for a hearing-impaired person to perceive a sound at a given frequency.
 
-   ![Myopia](./pics/06/myopie.svg "myopia#Myopia [@frederiksen:1989].")
+To evaluate the perception of acoustic signals in the presence of noise, another ratio designated dB SL (suffix SL for _Sensation Level_) is used.
+The reference threshold (i.e. $0\;\sf{dB}$ SL) is placed for a particular listening situation to be evaluated where the subject can hear the sound event (the signal) at $50\%$ of the measurements made from the background noise (hiss).
+The sound pressure level, given in dB SL, therefore indicates by how much a signal is above this reference threshold.
+In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
+
+## Ear Anatomy
+
+1. Outer ear  
+   The outer ear – from the pinna to the eardrum (tympanic membrane) – represents a funnel about $3$ to $3.5\;\sf{cm}$ long that conducts sound waves from the environment to the eardrum.
+   It is important that the air on both sides of the eardrum has the same temperature (body temperature), otherwise the different Brownian molecular motion would already be disturbingly perceptible due to the high sensitivity of the ear.
+
+   The external auditory canal has an amplifying effect and exhibits an amplification of $20\;\sf{dB}$ at the resonant frequency (about $2\:500\;\sf{Hz}$).
+   Thus, this gain is in that range that is important for speech understanding (main speech range, see <<fig:dynamic-range-ear>>).
+   Because the external auditory canal in infants is only a few millimeters long, the resonance shifts significantly to higher frequencies, which results in infants perceiving high frequencies more preferentially.
+
+2. Middle ear  
+   Sound is transmitted in the middle ear (tympanic cavity) – between the tympanic membrane and the oval window – by the three articulating ossicles: Mallet (_Malleus_), Anvil (_Incus_), and Stirrup (_Stapes_).
+   The diameter of the tympanic cavity (from the tympanic membrane to the inner wall) is only about $5\;\sf{mm}$.
+   The thickness of the tympanic membrane is $0.1\;\sf{mm}$ (<<fig:cutaway-through-ear>>).
+
+   ![Cutaway through the ear](./pics/06/schnitt-durch-ohr.svg "cutaway-through-ear#Cutaway through the ear [@servier-medical-art:2019, @faller:1995].")
+
+   ::: figcaption
+
+   1. Pinna;
+   2. External auditory canal;
+   3. Eardrum (tympanic membrane);
+   4. Mallet;
+   5. Tympanic cavity;
+   6. Anvil;
+   7. Stirrup;
+   8. Stirrup plate in oval window;
+   9. Round window;
+   10. Cochlea;
+   11. Semicircular ducts of the vestibular apparatus (organ of balance).s
+       {.lower-alpha}
+
+   :::
+
+   The deflections of the tympanic membrane (at the hearing threshold smaller than $10^{-10}\;\sf{m}$, which is $1\sf{\mathring{A}}$, $0.1\;\sf{nm}$ or about the diameter of a hydrogen atom) are transmitted in complicated (frequency-dependent) movements via the three ossicles to the oval window.
+   On the one hand, the movement amplitude is reduced by the leverage effect of the ossicles (approximately by a factor of $0.7$) and the force available at the oval window is increased accordingly.
+   On the other hand, the areas of the tympanic membrane and oval window behave approximately as $20:1$, resulting in a significant increase in pressure ($\sf{pressure}=\sf{force/area}$).
+   Accurate measurements are exceedingly difficult, but the literature suggests a total pressure gain of a factor of $35$.
+   Theoretically, however, taking all factors into account, the value can be much higher.
+
+   This pressure transformation is necessary, because without it the liquid-filled inner ear could be excited only extremely badly by vibrating air.
+   Specifically, $98\%$ of the sound energy would be lost by reflection and only $2\%$ would be transmitted to the inner ear.
+   Impedance matching by the middle ear achieves that on average $60\%$ of sound energy can be transmitted.
+
+   <!-- FIXME: Querverweis -->
+
+   The ossicles also cause the sound energy to be transmitted not to the entire inner ear, but only to the oval window.
+   The round window (the second connection point between the middle ear and the inner ear) can, therefore, oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter [Physiology of the Ear](./chapter10.html#physiology-of-the-ear) point (a)).
+
+   Finally, the middle ear also has a certain regulatory or protective function.
+   The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ – $80\;\sf{dB}$ above the hearing threshold and have a damping (attenuating) effect on the transmission of lower frequencies.
+
+3. Inner ear  
+   The inner ear contains two sensory organs that perform completely different functions, but anatomically form a complex: The cochlea (_cochlea_), the hearing organ proper, and the vestibular apparatus, which forms the organ of balance (<<fig:cutaway-through-ear>>).
+
+   The cochlea (_cochlea_) is a spiral duct embedded in the cranial bone, in which the two-part membranous cochlear duct (_scala media_ or _ductus cochlearis_) is vibrationally attached.
+   Thus the cochlea consists of three fluid-filled ducts.
+   In the center the membranous cochlear duct, filled with endolymph[^13] and having a triangular cross-section, above it the vestibular duct (_scala vestibuli_) and below it the tympanic duct (scala tympani).
+   The latter two passages are filled with perilymph[^13].
+   Just before the end of the helix (_helicotrema_), the membranous ducts end, so that the two ducts merge there (<<fig:cochlea>> and <<fig:cross-cut-through-cochlea>>).
+
+   [^13]: endolymph: high K+, low Na+ concentration; perilymph vice versa.
+
+   ![The cochlea (right ear), open](./pics/06/schnecke.svg "cochlea#The cochlea (right ear), open [@servier-medical-art:2019, @betz:1991].")
+
+   ::: figcaption
+
+   1. Stirrup in the oval window;
+   2. Beginning of vestibular duct;
+   3. Skin-like spiral cochlear duct;
+   4. Round window at the end of the tympanic duct;
+   5. Helicotrema
+      {.lower-alpha}
+
+   :::
+
+   ![Schematic cross section through the cochlea](./pics/06/querschnitt-durch-schnecke.svg "cross-cut-through-cochlea#Schematic cross section through the cochlea [@servier-medical-art:2019, @betz:1991].")
+
+   ::: figcaption
+
+   <div>
+
+   1. Vestibular duct;
+   2. Skin-like cochlear duct;
+   3. Tympanic duct
+      {.upper-alpha}
+
+   </div>
+   <div>
+
+   1. Reissner's membrane;
+   2. Tectorial membrane;
+   3. Basilar membrane;
+   4. Organ of Corti;
+   5. Outer hair cells;
+   6. Inner hair cells
+      {.lower-alpha}
 
    </div>
 
-2. Hyperopia (farsightedness)  
-   In farsightedness (hyperopia, hypermetropia) the refractive power of the eye is too low (focal length too long) or the eyeball is too short.
-   The plane of focus (especially of close objects) is behind the retina.
-   The remedy is a pair of glasses or contact lens with collecting effect (<<fig:ray-trace-hyperopia>>).
+   :::
 
-   ![Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina](./pics/06/strahlengang-hyperopie.svg "ray-trace-hyperopia#Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina [@mörike:1981].")
+## Physiology of the Ear
 
-3. Presbyopia  
-   The so-called presbyopia has similar effects as hyperopia, but the cause is a reduced elasticity of the eye lens with increasing age (see also <<fig:eye-lens-and-accommodation>>).
-   As a result, near accommodation becomes limited and the near point moves more and more into the distance.
-   Presbyopia is said to occur when the range of accommodation (the so-called accommodation success) has decreased to values below $4\;\sf{dpt}$ (values in youth are around $12\;\sf{dpt}$).
+1. Mechanical processes in the cochlea.  
+   After impedance conversion by the middle ear, the inner ear receives the sound signal via the vibrations of the stirrup (stapes) footplate in the oval window, which are transmitted to the fluid of the vestibular duct.
+   Because this fluid is incompressible, when the oval window moves inward (pressure increases), the membranous duct (also called the cochlear partition) beneath it must move downward.
+   This causes a pressure rise in the (underlying) tympanic duct, which subsequently leads to a deflection of the round window at the end of the tympanic duct.
+   In the subsequent half-wave of the oscillation, the conditions are exactly reversed.
 
-   Reading glasses (glasses with converging lenses worn when looking at near objects) or glasses with multifocal or progressive lenses provide a remedy.
-   With multifocal lenses, there is a zone of higher refractive power in the lower part of the lens.
-   When the gaze is lowered for reading, the visual axis passes through this part of the lens and near accommodation is supported.
-   The progressive lens works on the same principle, but the transition from the upper, lower refractive part to the lower, higher refractive part is stepless.
+   This up-and-down movement of the cochlear partition results in a shearing motion between its individual components, and the displacement of the covering membrane (_membrana tectoria_; tectorial membrane) results in a bending of the sensory hairs of the hair cells of the organ of Corti (<<fig:cross-cut-through-cochlea>>).
+
+   The hair cells are arranged along the cochlea in two parallel groups.
+   The approximately $8\:000$ inner hair cells (IHC = _inner hair cells_) are arranged in _one_ row, and the approximately $14\:000$ outer hair cells (OHC = _outer hair cells_) form three to five rows.
+   Each of these hair cells carries $60$ – $100$ sensory hairs (_stereocilia_).
+   Despite their much larger number, only $5$ to $10\%$ of the auditory nerve fibers terminate at the OHC (high convergence).
+   The much larger number of $30\:000$ to $40\:000$ nerve fibers innervate the IHC.
+   Not all auditory nerve fibers are afferent (i.e., run from the hair cells to the CNS).
+   About $1\:800$ are efferent and are associated with the active processes in the cochlea described in the next section [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
+   The local density of neurons is $1\:150$ ganglion cells/mm^2^ at the beginning of the cochlea (at the oval window) and decreases toward the helicotrema [@lindsay:1981].
+
+2. Formation of the travelling wave and cochlear amplifier.  
+   So far, the mechanics of the inner ear have been described only in principle.
+   More precisely, the vibration of the stapes footplate initially triggers a movement of the cochlear partition only at the beginning of the cochlea, which in the further course of time propagates as a travelling wave along the entire cochlea.
+   We speak here of the passive travelling wave.
+   It has the special property that it does not propagate along the helix with the same or only decreasing amplitude, but that, depending on its frequency, it increases to a maximum at a certain point of resonance in the helix and then decays rather abruptly (<<fig:wanderwelle-cochlaere-trennwand>>).
+
+   ![Representation of the passive travelling wave in the cochlear partition.](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Representation of the passive travelling wave in the cochlear partition [@schmidt:1997,@bell:2004].")
+
+   The place where the travelling wave reaches its maximum depends on the frequency of the excitation and is of decisive (but not sufficient) importance for the frequency selectivity of the ear.
+   High frequencies produce the maximum near the base of the snail (at the stapes or at the oval and round window), low frequencies at the tip of the snail (_helicotrema_).
+   Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
+   This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
+
+   ![Location of the envelope of passive travelling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive travelling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
+
+   The formation of a vibration maximum by the passive travelling wave causes a first amplification effect in addition to the frequency selection.
+   Originally, the ear was considered to be a purely passive sound sensor.
+   Only recently have studies shown that the outer hair cells of the organ of Corti can generate micromechanical vibrations of up to $20\;\sf{kHz}$.
+   Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive travelling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
+   Without this active amplification, excitation of the inner hair cells would occur only from $60\;\sf{dB}\,\sf{SPL}$ [@schmidt:1997].
+
+   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
+
+3. Frequency selectivity of the ear  
+   The formation of the passive and also the active travelling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
+   On the one hand, this assumption is reached from measurements at medium sound pressure levels, at which almost all fibers of the auditory nerve are active and not only those that are characteristic for the respective frequency.
+   Nevertheless, the auditory system is frequency selective even in this case.
+   On the other hand, with single-channel cochlear implants (the nerve endings in the cochlea are stimulated by an electrode at only one location), it is possible to evoke the sensation of different frequencies.
+   If location theory alone were the explanation for frequency perception, then a separate electrode would have to be implanted at the relevant location for each pitch to be transmitted.
+
+   Since a single fiber of the auditory nerve can directly follow a sound vibration only up to a frequency of about $800\;\sf{Hz}$, several nerve fibers must be involved in the coding of higher frequency sounds.
+   In the so-called volley principle, several nerve fibers alternate in “firing” in such a way that the sum (superposition) of their individual discharges corresponds to the frequency to be transmitted.
+   This leads to the so-called period theory (microphonic theory) of frequency selectivity.
+   Individual nerve fibers are combined into groups and synchronized in such a way that the overall pattern of their neural activity is able to follow higher frequencies (<<fig:schematic-display-salvo-principle>>) [@troost:1998].
+
+   ![Schematic representation of the transmission of higher frequencies by the salvo principle.](./pics/06/schematische-darstellung-salvenprinzip.svg "schematic-display-salvo-principle#Schematic representation of the transmission of higher frequencies by the salvo principle [@guski:1996].")
+
    {.lower-alpha}
 
-## Glaucoma
+## Determination of Hearing Ability - Audiometry
 
-Glaucoma is caused by increased intraocular pressure, i.e. by an excess of aqueous humor.
-In most cases, there is an obstruction of the outflow pathways of the aqueous humor.
-Overproduction of aqueous humor, on the other hand, is rare.
-Normal intraocular pressure is $13$ to $28\sf{mbar}$; in glaucoma, it increases to values between $50$ to $80\sf{mbar}$.
+The procedure for determining hearing ability is called audiometry.
+In addition to determining the degree of hearing loss and the frequencies affected, the purpose of audiometry is also to locate the place where the hearing loss occurs and to distinguish between conductive hearing loss and sensorineural hearing loss (perceptual hearing loss).
 
-The increased intraocular pressure can cause damage to the optic nerve papilla (at the blind spot where the optic nerve leaves the eyeball) within hours (!), which leads to the progessive mutilation of nerve cells due to the interruption of blood supply and thus to irreversible visual field loss (<<fig:glaucoma>>).
+The most important procedure for testing hearing is sound threshold audiometry or the sound threshold audiogram, i.e. the measurement of the personal hearing threshold.
+In a soundproof room, tones (pure sinusoidal oscillations) of different intensity and frequency are offered through headphones (so-called air conduction).
+The person examined must indicate whether a presented tone could be perceived or not.
 
-If the rising intraocular pressure, which becomes noticeable through color perception and “fog”, is detected in time, it can be counteracted with medication.
-In rare cases, surgical intervention is required.
-Glaucoma is the most common cause of blindness worldwide.
+In addition to the presentation of the tones via headphones, a coupling via structure-borne sound (bone conduction) is also performed in a separate series of experiments by means of a vibrator attached to the skull bone behind the ear.
+There is also a defined “hearing threshold” for bone conduction, from which any hearing losses can be measured in dB HL.
 
-<div class="no-dark">
+The results of the measurements are plotted on a (standardized) graph, the audiogram.
+The symbols shown in <<tab:audiogram-used-symbols>> are usually used:
 
-![Glaucoma](./pics/06/glaukom.svg "glaucoma#Glaucoma [@frederiksen:1989].")
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Left</th>
+      <th>Right</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Mark color</th>
+      <td>blue</td>
+      <td>red</td>
+    </tr>
+    <tr>
+      <th scope="row">Air conduction (<abbr title="Air conduction">AC</abbr>)</th>
+      <td style="color: blue;">x</td>
+      <td style="color: red;">o</td>
+    </tr>
+    <tr>
+      <th scope="row">Bone conduction (<abbr title="Bone conduction">BC</abbr>)</th>
+      <td style="color: blue;">]</td>
+      <td style="color: red;">[</td>
+    </tr>
+  </tbody>
+</table>
 
-</div>
+.audiogram-used-symbols#Symbols used in the audiogram.
 
-## Cataract
+For example, for a person with approximately normal hearing, the result is a tone threshold audiogram for the left ear as shown in <<fig:tonschwellenaudiogramm-normal>>.
+The curves for air conduction and bone conduction are superimposed or nearly so.
+The deviations from the $0\;\sf{dB}\,\sf{HL}$ line in the example are at most $15\;\sf{dB}\,\sf{HL}$.
 
-Various reasons such as injuries (_cataracta traumatica_), diabetes (_cataracta diabetica_), heat effects (_cataracta calorica_, in foundrymen and glassblowers), radiation damage (_cataracta e radiatione_), electrical accidents, poisoning, viral infections during pregnancy (_embryopathia rubeolosa_[^11]) as well as the aging process can lead to opacification of the eye lens.
-As a result, vision is reduced by clouding of the image, but also by glare due to light scattering, which may go as far as restriction to light/dark perception (<<fig:cataract>>).
-
-[^11]: Rubella infection of the mother mainly in the first month of pregnancy.
-
-<div class="no-dark">
-
-![Cataract](./pics/06/katarakt.svg "cataract#Cataract [@frederiksen:1989].")
-
-</div>
-
-Cataract is relatively easy to correct surgically by surgical removal of the lens.
-The refractive power of the lens lost as a result can be replaced either by cataract glasses ($+12\;\sf{dpt}$) or by implantation of a plastic lens.
-In the absence of adequate medical care, cataracts are a common cause of blindness in developing countries.
-
-## Retinopathy pigmentosa (Retinitis pigmentosa) (RP)
-
-Retinopathia pigmentosa (tapetoretinal degeneration; usually incorrectly called retinitis pigmentosa, as it is not an inflammation) is the most common degenerative retinal disease.
-It is usually hereditary; less commonly, it can be triggered by infectious diseases or poisoning.
-It is caused by a metabolic disorder of an enzyme.
-Already in childhood, poor vision in twilight occurs (night blindness due to failure of the rods required for scotopic vision).
-
-Later, a ring-shaped visual field loss (annular scotoma) also occurs during the day, leaving only a visual field of $10\degree$ to $15\degree$.
-In later stages, retinopathy pigmentosa leads to “tunnel vision” (a visual field reduced to a few degrees) and thus to practical blindness, although central vision (visual acuity) may still be quite good (<<fig:retinopathia-pigmentosa>>).
-
-<div class="no-dark">
-
-![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
-
-</div>
-
-## Hemianopia (Hemianopsia)
-
-Hemianopia (hemianopsia) is a hemifacial loss of the visual field.
-In homonymous hemianopia shown in <<fig:hemianopia>>, the same half of the visual field is affected in both eyes.
-This is caused by damage (e.g., tumors, traumatic brain injury) to the visual pathway starting at the optic nerve junction (optic cord, lateral malleolus, optic radiation, and visual cortex), the areas where half the visual field of both eyes is transmitted and processed.
-The interruption of hemianopia in the center of the visual field results from the fact that in the optic nerve junction, nerve fibers originating from the fovea are conducted to both the one and the other hemisphere.
-Thus, both hemispheres are involved in the processing of the foveal area [@betz:1991].
-Therefore, in case of damage in one occipital lobe, stimuli from the entire fovea can still be perceived [@wilson:1996:a].
-
-<div class="no-dark">
-
-![Hemianopia](./pics/06/hemianopie.svg "hemianopia#Hemianopia; according [@frederiksen:1989].")
-
-</div>
+![Tone threshold audiogram of a person with normal hearing, left ear, no hearing impairment.](./pics/06/tonschwellenaudiogramm-normal.svg "tonschwellenaudiogramm-normal#Tone threshold audiogram of a person with normal hearing, left ear, no hearing impairment [@hellbrück:1993].")
 
 !!!include(general/attribution.en.md)!!!

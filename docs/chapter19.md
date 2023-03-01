@@ -14,251 +14,161 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[AAC]: Augmentative and Alternative Communication
-*[CNS]: Central Nervous System
-*[CP]: Cerebral Palsy
-*[ICIDH]: International Classification of Impairments, Disabilities and Handicaps
-*[IQ]: Intelligence Quotient
-*[MRI]: Magnetic Resonance Imaging
-*[SCI]: Spinal Cord Injury
+*[AAL]: Ambient Assisted Living (or Active Assisted Living)
+*[AsTeRICS]: Assistive Technology Rapid Integration & Construction Set
+*[AT]: Assistive Technology
+*[USA]: United States of America
 
-# Major Types of Disability
+# Assistive Technology - Basics
 
-## Causes of Disability
+In the _Assistive Technology Act_ of 2004 from USA Public Law [@assistive-technology-act:2004], the term “Assistive Technology” is defined as “technology designed to be utilized in an assistive device or assistive service”:
 
-Conditions causing disability can be classified as follows [@koutoukidis:2008]:
+- An Assistive Technology device is “…any item, piece of equipment, or product system, whether acquired commercially, modified, or customized, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities.”
+- Assistive technology service means any service that directly assists an individual with a disability in the selection, acquisition, or use of an assistive technology device.
 
-- Inherited: genetically transmitted
-- Congenital: conditions resulting from infection during the mother's pregnancy, or injury during or soon after birth (e.g. cerebral palsy)
-- Acquired: resulting from accident, intentional injury, substance misuse, or illness during life (e.g. amputation due to injury in a car accident or due to effects of diabetes)
-- Of unknown origin
+This means that the term Assistive Technology (AT) includes assistive, adaptive, and rehabilitative technologies and devices as well as the process used in selecting, locating and using them.
+Thus, AT products help people with disabilities in performing daily living tasks, communication, education, or work.
+They give these people alternative access to advanced electronic devices like computers or mobile phones and help them to achieve greater independence and improve their quality of life.
+It enables people to perform tasks that they were formerly unable to accomplish or had great difficulties with accomplishing what means greater independence. [@asterics:deliverable:2.4, @soprano:deliverable:1.1.2]
 
-Depending on the concrete physiological or mental effect of a disability, the following major forms can be classified:
+## Goals and Target Group
 
-- Physical Disability
-- Sensory Disability
-- Mental Disability
+The target groups for the application of Assistive Technologies are persons with physical or mental challenges or social handicaps.
+Thus, goals of Assistive Technologies are to overcome completely or partly those functional or social restrictions and/or to compensate effects of diseases and disabilities without necessarily changing the underlying causes themselves, thus creating a barrier-free environment.
 
-## Physical Disability
+![A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).](./pics/09/personal-assistive-tools.svg "personal-assistive-tools#A personal assistive tool to restoring a function (a), communal assistive technology to overcome a barrier (b) and a barrier-free design to remove or avoid possible barriers (c).")
 
-Physical disability involves several serious, mostly lifelong disabilities, which restrict the person in particular in his/her motor abilities.
-The most common manifestations are:
+1. Goal of Assistive Technology – Personal Approach
+   The first goal is _to restore or improve an impaired function_.
+   This approach applies with incapacities/skill deficits.
+   With an assistive device the functional restriction (disability) is compensated (producing activity), for example by a hearing aid.
+   This concept is represented in <<fig:personal-assistive-tools>> a), where the “A” stands for the assistive tool.
+2. Goal of Assistive Technology – Communal Approach
+   With this approach the _effects of impairment are overcome_ without any restoration or improvement of the function itself.
+   This approach applies to the handicap.
+   The functional restriction remains, but the person is again able to fulfil his or her role in society (producing participation).
+   This approach is depicted in <<fig:personal-assistive-tools>> b).
+3. Goal of Assistive Technology – Design Approach
+   The third goal of Assistive Technology is to _remove barriers_ or to avoid them from the start.
+   It applies to the design of the built environment by creating barrier-free environments, whereby barriers are to be seen in the broadest sense.
+   This concept is represented in <<fig:personal-assistive-tools>> c).
 
-- Damage to the central nervous system
-  - Paraplegia
-  - Central motoric movement disorder as a result of accidents or insults
-  - Multiple sclerosis
-  - Spina bifida
-  - Parkinson’s disease
-  - Cerebral Palsy
-- Damage to the skeletal system
-  - Deformation of the spine (scoliosis, lordosis, kyphosis)
-  - Osteogenesis imperfecta (brittle bone disease)
-  - Joint malformations (luxation)
-  - Malformation of the skeletal system
-    - Dysmelia (disorders of extremities development)
-    - Cleft formation of hand or foot (e.g. clubfoot)
-- Amputations
-- Muscle disorders (muscular atrophy, muscular dystrophy)
-- Inflammatory conditions of bones and joints (arthritis)
+## Assistive Tools: A Matter of Design
 
-A physical disability is not a static situation.
-It can be, as mentioned before, inherited but also acquired through accidents or diseases.
-Through medical treatment or medical aids and appliances, the disability can be cured or moderated.
-Thus, disability is always a complex process of causes and consequences, direct effects, individual destinies, and social consequences [@fürstler:2000].
+To reach the already mentioned third goal of Assistive Technology barriers are removed by the right design.
+Thus, this approach will be described more in detail, and principles of Universal Design are presented.
 
-In the following, two common forms of physical disabilities will be introduced in more detail: _paraplegia_/_spinal cord injury_ and _cerebral palsy_.
+### Narrowing the Gap
 
-### Paraplegia and Spinal Cord Injury
+<!-- FIXME: cross-reference -->
 
-Depending on the paralyzed regions of the patient several terms are common.
-Paraplegia is used if the lower extremities or the trunk are paralyzed (motor or sensory loss).
-Tetraplegia describes the paralysis of all four extremities, while hemiplegia covers half of the body divided by the sagittal plane.
-In the case of spinal cord injury (SCI), the clinical classification depends on several criteria like sensory/motor impairment, complete or incomplete SCI, the severity of the injury, and the level of spinal lesion.
-The level of spinal lesion divides the spinal cord into an upper part, where motor and sensory functions are intact, and a lower part where this is not the case.
-See <<fig:spinal-cord-and-sensory-skin-nerves>> for the four existing groups of levels, which are cervical (C2 - C8), thoracic (T1 - T12), lumbar (L1 - L5), and sacral (S1 - S5). [@keller:2002, pp. 34-37]
+As mentioned before in chapter 1.2 Disability as Difference between Personal Ability and Societal Demands the Gap Theory says that disability is the difference between the personal abilities and the demands which are posed to this person by society or environment.
+There are two directions to close the gap between abilities and demands – first, to increase the personal abilities, or second to decrease the demands of a product or the environment.
 
-![The groups of levels illustrated at the spinal cord, sections of the spinal cord (middle), lateral view (left), and the regions of sensory skin nerves (right).](./pics/08/spinal-cord-and-sensory-skin-nerves.svg "spinal-cord-and-sensory-skin-nerves#The groups of levels illustrated at the spinal cord, lateral view (left), sections of the spinal cord (middle), and the regions of sensory skin nerves (right) [@servier-medical-art:2019, @popovic:2000].")
+![Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design.](./pics/09/narrowing-the-gap-between-personal-abilities-and-demands.svg "Narrowing the gap between personal abilities and demands either through increasing the abilities with assistive tools or through decreasing demands with the help of (universal) design [@zagler:2013].")
 
-The extent of functional loss of the upper extremity varies depending on the level of the lesion and includes loss of a finger, hand, arm, and shoulder functions.
-Furthermore, motor and sensory functions can be impaired individually or in conjunction. [@keller:2002, pp. 34-37]
+In recent years, a few design philosophies have developed:
 
-### Cerebral Palsy
+- Barrier-free Design
+- Adaptable Design
+- Design-for-All
+- Universal Design
 
-Cerebral Palsy, short CP, is a lesion that occurs in the immature brain leaving children with permanent motor impairment (palsy).
-It describes a group of disorders concerning the development of movement and posture, causing activity limitation.
-The motor disorders of CP may come with disturbances of sensation, cognition, communication, perception, behavior, or seizure disorder, respectively.
-The causative event of CP occurs in early childhood, which is defined as less than 2 years of age.
-The reasons for the lesion can be a developmental defect (e.g. lissencephaly), infarction (e.g. middle cerebral artery occlusion in a neonate), or trauma during or after delivery.
-As CP is a persistent but not unchangeable disorder of motion and posture, it is somehow a stable and definite situation.
-Nevertheless, “not unchangeable” means that motor and non-motor disorders provoked by CP can improve or worsen, spontaneously by themselves or through treatment.
-These changes are due to the plasticity of the CNS, its compensatory capabilities, and the possibility to learn through experience. [@ferrari:2010, @miller:2005]
+Even if each philosophy has its definition and its approach, they all have one goal – to narrow the gap between the demands from the environment and the abilities of a person by reducing the demands.
+Nevertheless, the term “Universal Design” has become the most preferable.
 
-The main classifications of CP are based on
+### Principles of Universal Design
 
-- Muscle tone anomalies like hypertonia or dystonia,
-- The type of the prevailing neurological symptom like ataxia, choreoathetosis and
-- Its somatic location, e.g. diplegia, tetraplegia, hemiplegia. [@cioni:2010]
+Pioneers in the topic “Universal Design” is the “Center for Universal Design” at the North Carolina State University where the seven principles of Universal Design were developed [@zagler:2013], which are
 
-To get an idea of the clinical syndromes of CP, the following there is an extract from [@cioni:2010] – Traditional Clinical Syndromes like spastic tetraparesis, spastic diplegia, spastic hemiplegia, ataxic form, dystonic form and athetosic (or choreo-athetosic) form of CP.
+1. Principle: Equitable Use  
+   The design is useful and marketable to people with diverse abilities
+2. Principle: Flexibility in Use  
+   The design accommodates a wide range of individual preferences and abilities
+3. Principle: Simple and Intuitive Use  
+   The use of the design is easy to understand, regardless of the user’s experience, knowledge,
+   language skills, or current concentration level.
+4. Principle: Perceptible Information  
+   The design communicates necessary information effectively to the user, regardless of
+   ambient conditions of the user’s sensory abilities.
+5. Principle: Tolerance for Error  
+   The design minimizes hazards and adverse consequences of accidental or unintended actions.
+6. Principle: Low Physical Effort  
+   The design can be used efficiently and comfortably and with a minimum of fatigue.
+7. Principle: Size and Space for Approach and Use  
+   Appropriate size and space are provided for approach, reach, manipulation, and use regardless of the user’s body size, posture, or mobility. [@connell:1997]
 
-#### Spastic Tetraparesis
+## Classification of Technical Aids
 
-In tetraparesis, tone and motion disorders are usually severe, rarely symmetrical, “equally” involving upper and lower limbs and generally becoming apparent from birth.
-Posture motor development is severely delayed; the prognosis for autonomous walking and manipulation is adverse.
-Visual disorders (visual agnosia, gaze palsy, strabismus, reduction of visual acuity, etc) and hearing disorders are frequent.
-Epilepsy is very often present, usually in a secondary generalized form (infantile spasms, Lennox-Gastaut syndrome, etc).
-Mental failure is often associated, consequent both the cortical neuropathological damage and early motor disorder, impairing the acquisition of the fundamental stages of physical development.
-Consequent to spasticity, patients suffer from widespread muscle contractures and articular and skeletal position deformities.
-The most frequent anatomical lesions, also detectable in vivo through neuroimages and especially through magnetic resonance imaging (MRI), are represented by diffuse periventricular leukomalacia or by multicystic damage with severe cerebral atrophy.
+### Augmentative Aids
 
-#### Spastic Diplegia
+With an augmentative aid, a stimulus or an action is amplified in such a way that it becomes effective also for an organ with reduced functionality or capability.
+This amplification is represented in <<fig:principle-of-augmentative-aids>> as a thickened arrow.
+Examples of augmentative aids are glasses, orthoses, hearing aids, or walking aids. [@zagler:2013]
 
-<!-- FIXME: chapter reference -->
+![Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture).](./pics/09/principle-of-augmentative-aids.svg "principle-of-augmentative-aids#Principle of an augmentative aid: the input or stimulus (left picture, left arrow) is amplified through an aid (“A”, right picture) [@zagler:2013].")
 
-In spastic diplegia, tone and motion disorders involve all four limbs, with more severe involvement of the lower limbs.
-This is the typical clinical picture of severe pre-term children, with a high incidence of periventricular leukomalacia.
-The type of motor damage is caused by the proximity of the malacic lesions to the course of the corticospinal pathways (e.g. pyramidal pathways) to the lower part of the body.
-Hypertonia, mostly involving sural triceps and hip adductors, rarely becomes apparent before the third-fourth month after birth, and sometimes even later.
-Traditionally (but this term is no longer accepted, see chapter 3), the clinical history includes a “silent period” taking place after the acute stage of the cerebral damage and before tone disorders and motor development retardation become evident.
-Upper limb motricity is quite preserved; the prognosis for walking, even without walking supports, is usually favorable.
-Cranial nerve involvement is frequent, as well as strabismus.
-Intelligence and speech development are usually not impaired.
-Epilepsy is rare.
-Muscle contractures and articular deformities of the lower limbs are frequent.
+### Substituting Aids
 
-#### Spastic Hemiplegia
+Substituting aid means that a stimulus is redirected to another sensory organ that is normally not used for that purpose.
+The same applies if an action or an activity is executed by another motor organ than usual.
+With action or activity, a movement or the trigger for a movement is meant.
+In that way there is a substitution, what is called “Vikariat” in German or simply “substitute” in English.
+The principle of a substitute is represented in <<fig:principle-of-substituting-aids>>, left where a person with visual impairment cannot perceive the stimuli (arrow) due to his/her impairment.
+These optical stimuli can be converted by an assistive tool (“A”) into an acoustic stimulus which is then redirected to the person's organ of hearing (<<fig:principle-of-substituting-aids>>, middle).
+Similarly, the optical stimuli can be converted into tactile stimuli, which are perceptible by the person (<<fig:principle-of-substituting-aids>>, right).
+Two very common examples are first Braille where the person “read” with his/her fingertips instead of reading with the eyes and second lip-reading where the eyes take over the task of the hearing sense. [@zagler:2013]
 
-<!-- FIXME: check "praxic" -->
-<!-- FIXME: check "trophism" -->
+![Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense.](./pics/09/principle-of-substituting-aids.svg "principle-of-substituting-aids#Principle of substituting aids: the stimulus (arrow, left) is converted and redirected to other sensory organs, e.g. converted into acoustic stimuli and redirected to the hearing sense (middle) or converted into tactile stimuli and redirected to the tactile sense [@zagler:2013].")
 
-Muscle tone and voluntary motion disorders only affect one body side.
-Involvement can be more marked in the upper or the lower limb, often mainly distal but sometimes also proximal.
-The prognosis for autonomous walking is almost always favorable.
-Patients often present with convulsion discharges, and expressions of partial epilepsy.
-Alterations of the body pattern and the praxic and gnostic organization are frequent.
-The development of intelligence can be impaired; when the paretic side corresponds to the dominant hemisphere, retardation in speech development may be apparent.
-Muscle contractures and articular deformities usually develop on the paretic side, even at an early stage; muscle and bone trophism is usually reduced.
-The anatomical and neuroradiological correlate is mostly represented by isolated porencephalic cysts, lesions of the internal capsule, or even periventricular lesions, also bilateral, or by more diffuse damage of a cerebral hemisphere.
+If one sensory organ takes over the task from another sensory organ this is called “sensory substitution”.
+These substitutions are limited by the bandwidth of human senses, which are displayed in <<tab:bandwidth-human-organs>>.
+Due to these bandwidths, one must expect limitations by using a substitute.
 
-#### Ataxic Form
+| Sensory Organ          | Bandwidth in bit/s |
+| ---------------------- | ------------------ |
+| Vision (Eye)           | 10^6 bit/s         |
+| Hearing (Ear)          | 10^4 bit/s         |
+| Tactile Sensing (Skin) | 10^2 bit/s         |
+| Smelling (Nose)        | < 10^1 bit/s       |
+| Tasting (Tongue)       | < 10^1 bit/s       |
 
-It is by far the rarest form of CP.
-Motion coordination disorders (tremors, dissymmetry, adiadochokinesia, etc) and balance disorders (ataxia) prevail.
-In the first months of life, it is characterized by the presence of a marked hypotonia, usually persisting even later in life; psychomotor development is usually delayed; often a cerebellar ocular nystagmus is present.
-Sometimes, it can be associated with symptoms of pyramidal origin.
-Speech is characterized by delayed development, sometimes even severe, and words are scanned.
-Mental deficiency is often present.
-From the anatomical point of view, these forms are associated with cerebellar damage and/or damage to cerebellar downstream pathways, usually due to malformative alterations, with structural growth defects, or with infectious diseases.
-Seldom it may derive from perinatal hypoxic-ischemic haemorrhagic damage.
+.bandwidth-human-organs#Bandwidths of human senses [@zagler:2013].
 
-#### Dystonic Form
+If an action is performed through a deputy, e.g. a device or robot, it is called “motor substitution”.
+The example displayed in <<fig:principle-of-motor-substitution>> shows a substitution for the action lifting which is done by a device.
+If the lifting through the device is initiated by pressing a button, then “pressing the button” is the substitute for the motor function of the upper limbs. Otherwise, if the lifting through the device is initiated by voice control, then “speaking” is the substitute for the motor function of the upper limbs. [@zagler:2013]
 
-Motor disorders result from an extrapyramidal system dysfunction, followed by a tone regulation alteration.
-Underlying muscular tone is reduced in rest conditions, while in conditions of stimulation and motor constraint it consistently increases, leading to postures that are fully overlapping to those observed in spastic syndromes.
-Rapid and non-coordinated involuntary hyperkinetic syndromes are constantly present, especially in the face and mouth.
-Pyramidal type clinical signs are sometimes associated (mixed forms).
-The continuous variability of tone also impacts mouth- speech muscles, resulting in an impaired voice emission, with very fast and often incomprehensible speech.
-Cognitive development is seldom impaired.
-At the encephalic level, the lesion is thought to be in the basal nuclei; when severe, it can be identified as the so-called “status marmoratus”.
-Once mostly associated with neonatal jaundice due to mother-foetus incompatibility, this form of CP mostly represents the outcome of a severe perinatal asphyxia in term infants.
+![Principle of a motor substitution: substation of lifting through pressing a button, or through voice control.](./pics/09/principle-of-motor-substitution.svg "principle-of-motor-substitution#Principle of a motor substitution: substation of lifting through pressing a button, or through voice control, modified from [@zagler:2013].")
 
-#### Athetotic (or Chore athetotic) Form
+### Bridging Aids
 
-<!-- FIXME: quotation mark -->
+The purpose of bridging aid is to replace or bridge an interrupted part of a (sensor or actuator) function chain.
+Thus, the stimulus is fed back to the original neural pathway or organ after bridging.
+The assistive tool bypasses the broken function chain through that nerve paths behind the broken part get stimulated in a way that the stimulus is similar to the original stimulus (<<fig:principle-of-bridging-aids>>).
+Examples of bridging aids are cochlea implants or retina implants. [@zagler:2013]
 
-Also in this form, symptoms are consequent of extrapyramidal system dysfunction, with the prevalent location in the caudate and putamen.
-The clinical picture is characterized by hypotonia and by the presence of slow, arrhythmic, and continuous polypoidal movements, usually occurring from the first months after birth, and often by rapid, proximal, choric movements involving the face, the tongue, and the distal part of the limbs.
-Pyramidal symptoms may coexist.
-Usually, the development of intelligence is not strongly impaired, and speech is dysarthric.
-When it is caused by hyperbilirubinemia, it is often associated with perceptive deafness. [@cioni:2010]
+![Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway.](./pics/09/principle-of-bridging-aids.svg "principle-of-bridging-aids#Principle of a bridging aid: the assistive device (“A”) bridges the broken sensory channel in a way that the stimulus (arrow) is fed back to the original neural pathway [@zagler:2013].")
 
-However, children with CP are in most ways normal children with special needs.
-The greater long-term goal is for children with CP as for any other children, to grow and develop to their maximum capabilities in a way that they may succeed as contributing members of society. [@ferrari:2010]
+## Differentiation to Ambient Assisted Living
 
-## Sensory Disability
+Ambient Assisted Living (or Active Assisted Living), in short AAL, means extending the time people can live independently in their preferred environment by increasing their autonomy, self-confidence, and mobility.
+It aims to monitor and care for, to support maintaining the health and functional capability of the elderly individuals.
+Furthermore, it enhances security and shall prevent social isolation by supporting maintaining the multifunctional network around the individual.
+In addition, the Concept of AAL is understood as supporting carers, families, and care organizations and as increasing the efficiency and productivity of resources used in the aging societies.
+Thus, AAL addresses, in particular, the issues affecting an aging population and targets the need of an individual and their caretakers, whereby two groups of persons are considered: elderly people and people with disabilities. [@soprano:deliverable:1.1.2, @active-assistive-living:2015]
 
-Sensory disabilities can involve one or more of the senses, although the term is primarily used to refer to vision and hearing impairment
+In contrast, assistive technologies enable persons **regardless of age** to perform a function that due to disability is difficult to perform.
+Some disabilities are associated with aging but aging itself is not a disability.
+Therefore, the relation of Ambient Assisted Living Technologies to Assistive Technologies (AT) is that AT is a part of AAL technologies. [@soprano:deliverable:1.1.2]
 
-- Vision impairment
-- Hearing impairment
-- Olfactory and gustatory impairment
-- Somatosensory impairment (impairment of the tactile sense)
-- Balance disorder (impairment of the vestibular system)
+AAL is described more as philosophy than technology, nevertheless different technologies will be needed for AAL solutions.
+Some examples of these technologies are as follows:
 
-In the following, major forms of visual and hearing impairments are outlined in more detail.
+- Software and network technologies
+- Sensors and actuators
+- Human-machine interfaces
+- Embedded systems
+- Smart homes
 
-### Visual Impairments
-
-About 135 million people worldwide have a visual impairment or are blind – and millions experience visual disabilities when they age. [@robitaille:2010]
-The types of visual disabilities are manifold – they include
-
-- Refractive errors (Myopia - near-sightedness, Hyperopia – farsightedness, Presbyopia)
-- Glaucoma (damage to the optic nerve caused by high intraocular pressure)
-- Cataract (opacity/haze of the lens, can be caused by diabetes, infectious diseases, age)
-- Retinopathic pigmentosa (degeneration of the visual rods, hereditary or caused by infection)
-- Hemianopia (half sided vision loss caused by tumors, traumatic brain injury, or stroke)
-- Damages to the neural system, optic nerve, or retina lead to blindness. [@zagler:2012]
-
-![Effects of different types of visual disabilities (glaucoma: top, left; cataract: top, right; retinopathic pigmentosa: bottom, left; hemianopia: bottom, right).](./pics/08/effects-of-different-types-of-visual-disabilities.svg "effects-of-different-types-of-visual-disabilities#Effects of different types of visual disabilities (glaucoma: top, left; cataract: top, right; retinopathic pigmentosa: bottom, left; hemianopia: bottom, right) [@zagler:2012].")
-
-### Hearing Impairments
-
-Hearing impairments can have various physiological and anatomical reasons, ranging from mechanical defects in the outer or middle ear regions (eardrum, malleus, incus and stapes, oval and round window) to problems in the inner ear (cochlea) or defects in the electric propagation of auditory stimuli via nerve cells in the basal regions of the brain. [@zagler:2012]
-
-Tinnitus is the perception of sound within the human ear in the absence of corresponding external sound.
-It can be classified into subjective tinnitus (why no obvious physical reason) and objective tinnitus (where noise production is cause by a problem in the inner ear).
-Only a tiny fraction of all tinnitus cases are objective ones.
-Hearing impairments are usually diagnosed using an audiometric hearing test.
-Using the pure tone audiometry, testing thresholds of audibility are established and can be compared with a normal (physiological) hearing capacity. [@zagler:2012]
-
-<!-- FIXME: check license rights of "audiometric measurement device" -->
-<!-- prettier-ignore -->
-![Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (\])](./pics/08/audiometric-measurement-device.svg "audiometric-measurement-device#Audiometric measurement device, normal hearing threshold curves for air conduction (x) and bone conduction (]) [@zagler:2012].")
-
-Depending on the level of hearing loss, the ICIDH classifies following stage of hearing impairment: mild hearing loss (26-40 dB attenuation), moderate hearing loss (41-55 dB), moderately severe hearing loss (56-70dB) severe hearing loss (71-91 dB), profound hearing loss (>91 dB) and deafness. [@zagler:2012]
-The kind of hearing impairment can often be diagnosed from the differently shaped curves for air- and bone conduction levels:
-
-![Different kinds of hearing loss: conductive (top, left); sensorineural (top, right); noise induced (bottom, left); age-related: Presbycusia (bottom, right)](./pics/08/different-kinds-of-hearing-loss.svg "different-kinds-of-hearing-loss#Different kinds of hearing loss: conductive (top, left); sensorineural (top, right); noise induced (bottom, left); age-related: Presbycusia (bottom, right) [@zagler:2012].")
-
-## Mental Disability
-
-- Intellectual disability: Intellectual disabilities are characterized by significant limitations in both intellectual functioning and in adaptive behavior, which covers many everyday social and practical skills.
-  These disabilities originate before the age of 18. [@american-association-on-intellectual-and-development-disabilities:2013]
-  Impairments to the brain (body function) result in activity limitations and participation restrictions.
-  Brain impairments associated with intellectual disability result in limitations in intellectual function. [@wehmeyer:2010]
-- Mental illness
-
-An intellectual disability also belongs to the so-called category of developmental disability, which is a broad term that includes both physical and mental disabilities (e.g., conduct disorder, cerebral palsy, Down syndrome, ...). [@ICI]
-
-In the following, Trisomy 21/Down Syndrome will be explained in more detail, as this is a common cause of intellectual disabilities.
-
-### Trisomy 21 – “Down Syndrome”
-
-Trisomy 21 (also known as “Down syndrome”) is one of the most common chromosome abnormalities in humans, occurring in about one per 1000 babies born each year.
-The genetic cause of Down syndrome - an extra copy of chromosome 21 - was identified by French researchers in 1959.
-It is typically associated with physical growth delays, characteristic facial features, and mild to moderate intellectual disability. [@weijerman:2010, @hickey:2012]
-
-![Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21](./pics/08/karyotype-of-trisomy-down-syndrome.svg "karyotype-of-trisomy-down-syndrome#Karyotype for trisomy Down syndrome: Notice the three copies of chromosome 21 [@servier-medical-art:2019, @human-genome-project:2013].")
-
-In Down syndrome, physical and mental development is typically delayed.
-Infants tend to be placid and passive and do not cry as often as expected.
-The intelligence quotient (IQ) among children with Down syndrome varies but averages about 50, compared with normal children, whose average IQ is 100. [@weijerman:2010]
-
-Children with Down syndrome have better visual-motor skills (such as drawing) than skills that require listening.
-Thus, their language skills typically develop slowly.
-Behavior suggestive of attention-deficit disorder (sometimes with hyperactivity) is often seen in childhood.
-Children with Down syndrome are at greater risk of autistic behavior, especially those with severe intellectual disabilities.
-Depression is also common among adults and may also occur in children.
-Early intervention with educational and other services improves the functioning of young children with Down syndrome. [@down-syndrome-education:2015]
-
-Children with Down syndrome often have heart defects.
-They have hearing loss and are prone to recurring ear infections.
-They are also prone to vision problems because of problems in their corneas and lenses.
-The joints in the neck may be unstable, which can lead to weakness or paralysis.
-Many people with Down syndrome develop thyroid disease (such as hypothyroidism) and diabetes.
-They are also at a higher risk of developing infections and leukemia.
-
-Assistive Technology devices applicate to help kids/people with Down syndrome include computers with touch screens and a communication boards with symbols or letters (see chapter 8 Augmentative and Alternative Communication (AAC)), adapted objects and tools for easier handling (for example a spoon with a special handle), leg braces or walkers which help the person to walk.
-
-!!!include(general/attribution.en.md)!!!
+The products and services of these technologies enable persons to perform tasks or functions at a level similar to an earlier experience, leading to a lifestyle of independence. [@soprano:deliverable:1.1.2]

@@ -16,275 +16,156 @@ abbreviations:
 <!-- prettier-ignore -->
 *[AC]: Air conduction
 *[BC]: Bone conduction
-*[CNS]: Central Nervous System
-*[IHC]: Inner hair cells
-*[OHC]: Outer hair cells
-*[SPL]: Sound Pressure Level
 
-# Ear and Auditory Perception
+# Auditory Disabilities
 
-## Definitions
+## Hearing Impairment Classification
 
-The ear is used to perceive sound waves, which are density vibrations of an elastic medium.
-For the ear, these are usually pressure fluctuations of the surrounding air.
-The physical description of sound is called acoustics, while the anatomical and physiological processes of sound perception are called auditory.
+The ICIDH distinguishes six degrees of hearing impairment (<<tab:categories-hearing-impairment-according-to-icidh>>):
 
-A **tone** is defined as a sinusoidal oscillation with _a certain_ frequency.
-The superposition of finitely many tones and their overtones is called **sound**.
-A **noise** consists of the superposition of an infinite number of tones.
-The minimum sound pressure required to perceive a tone is called the hearing threshold.
+<!-- FIXME: Profound hearing loss (90 vs. 91dB) -->
 
-## Measurement Parameters
+| Designation According to ICIDH                     | Hearing Loss [in dB HL\]   |
+| -------------------------------------------------- | -------------------------- |
+| Mild hearing loss                                  | $26-40\;\sf{dB}\,\sf{HL}$  |
+| Moderate hearing loss                              | $41-55\;\sf{dB}\,\sf{HL}$  |
+| Moderatly severe hearing loss                      | $56-70\;\sf{dB}\,\sf{HL}$  |
+| Severe hearing loss                                | $71-91\;\sf{dB}\,\sf{HL}$  |
+| Profound hearing loss (bordering on deafness)[^14] | $\gt~91\;\sf{dB}\,\sf{HL}$ |
+| Complete loss of hearing                           | $-$                        |
 
-Sound pressure is measured in pascals ($1\sf{Pa}=1\sf{N/m^2}$).
-Because of the large numbers otherwise required in acoustics, it is common to work with the _Sound Pressure Level_ (SPL) $L$, a logarithmic measure given in decibels that indicates the ratio to the reference sound pressure $p_0$:
+.categories-hearing-impairment-according-to-icidh#Categories of hearing impairment according to ICIDH [@matthesius:1995].
 
-$$
-L=20\log{\frac{P_{x}}{P_0}\sf{[db]}}
-$$
+<!-- FIXME: ahd. -->
 
-Where $p_0$ is the arbitrary reference sound pressure: $p_0=2\cdot10^{-5}\sf{N/m^2}$.
+[^14]:
+    The ICIDH uses the term “deafness”, which is frowned upon by those affected.
+    It should therefore be avoided at all costs and always replaced with deafness.
+    The reason for the negative connotation of the words “deafness” and “deaf” is historical.
+    The terms “stupid” or “tumb” (ahd.) and “deaf” or “toub” used to have the same meaning, namely “dull” or also “dull-witted” (Duden) and “befuddled”, “confused” and “stunned” [@bronzino:1995].
+    In ancient times, the ear was considered the seat of memory.
+    For Paracelsus, large ears were signs not only of good hearing, but also of a good memory and a keen mind [@hellbrück:1993].
 
-Thus, $20\;\sf{dB}$ means a tenfold increase of the sound pressure.
-A doubling of the sound pressure corresponds to an increase of $6\;\sf{dB}$.
-If a person's hearing loss is $80\;\sf{dB}$ (which is the midpoint of that range judged to be profound hearing loss), then $10\:000$ times the sound pressure is required relative to a person with normal hearing.
+The term deaf should be used only for persons whose hearing impairment is so severe that they are incapable of deriving any benefit from amplification.
+The usefulness of drawing a valid line of demarcation between hard of hearing and deaf by means of an indication in dB HL seems to be small.
+It is much more important to evaluate the functionality of the auditory system in relation to the most socially significant task, the hearing and understanding of spoken language.
+With this in mind, practitioners suggest drawing the line where auditory communication fails despite amplifying aids [@dotter:1996].
 
-The measure of the (subjective) loudness of a sound is the phon.
-The loudness is numerically equal to the sound pressure level (in dB) for an equally loud perceived $1\:000\;\sf{Hz}$ sound (<<fig:dynamic-range-ear>>).
-The isophone is the set of all equally loud perceived tones.
+In classifying hearing impairment, the primary distinction is whether the reduction in auditory performance is due to reduced conduction of sound to the receptors (hair cells) of the inner ear or whether there is damage to the cochlea or downstream neural pathways (auditory pathway).
+After this general distinction, some more typical forms of hearing loss will be discussed
 
-![Dynamic range of the ear](./pics/06/dynamikbereich-ohr.svg "dynamic-range-ear#Dynamic range of the ear [@tetzchner:1991].")
+1. Conductive hearing loss (general)  
+   Conductive hearing loss is caused by a disorder in the external auditory canal (e.g. a plug), in the eardrum or in the middle ear (e.g. stiffening of the ossicles).
+   Hearing is diminished, but never completely lost.
 
-::: figcaption
+   <!-- FIXME: Cross reference -->
 
-The curves shown (isophones) indicate equally loud perceived volume in phon; shaded: Main speech range [@betz:1991, @schmidt:1997].
-The frequency range given for telephone refers to the bandwidths of analog telephone systems [^12].
+   In the bone-threshold audiogram (see [Determination of Hearing Ability - Audiometry](./chapter10.html#determination-of-hearing-ability-audiometry) for details), a conductive hearing loss is expressed by a drop in the air-conduction curve (AC curve), while the bone-conduction curve (BC curve) remains unchanged in that range that is the norm for persons with normal hearing (<<fig:tone-threshold-audiogram-sound-conduction>>, for the symbols used see <<tab:audiogram-used-symbols>>).
+   This is referred to as the occurrence of a “AC-BC difference” or “air-bone gap”).
 
-:::
+   <!-- prettier-ignore -->
+   ![Tone threshold audiogram in conductive hearing loss – the air conduction curve (x) is below the bone conduction curve (\]) = “air-bone-gap”.](./pics/06/tonschwellenaudiogramm-schallleitung.svg "tone-threshold-audiogram-sound-conduction#Tone threshold audiogram in conductive hearing loss – the air conduction curve (x) is below the bone conduction curve (]) = “air-bone-gap” [@hellbrück:1993].")
 
-[^12]: Analog telephone systems are specified with a bandwidth of about $3.1\;\sf{kHz}$ ($300$ to $3\:400\;\sf{Hz}$). Digital systems (ISDN) can achieve bandwidths of typically $7\;\sf{kHz}$.
+   Closing the ears with the fingers results in an attenuation of approximately $20\;\sf{dB}\,\sf{HL}$, thus simulating a conductive hearing loss that is even lower than a “mild hearing loss” according to ICIDH (see <<tab:categories-hearing-impairment-according-to-icidh>>).
 
-Sound impedance is the characteristic impedance (product of density and sound velocity) of a medium [@pschyrembel:1989].
+2. Sensorineural hearing loss (general).  
+   The causes of sensorineural hearing loss are damage to the inner ear (hearing loss, ototoxicosis, acoustic trauma), the auditory nerve or the central nervous system.
+   In the tone threshold audiogram, sensorineural hearing loss is manifested by a joint drop in the air conduction curve and the bone conduction curve (<<fig:tone-threshold-audiogram-sound-sensing>>).
 
-<!-- FIXME: Querverweis -->
-<!-- FIXME: Einheiten? -->
+   <!-- prettier-ignore -->
+   ![Tone threshold audiogram in sensorineural hearing loss – air conduction curve (x) and bone conduction curve (\]) in congruence](./pics/06/tonschwellenaudiogramm-schallempfindung.svg "tone-threshold-audiogram-sound-sensing#Tone threshold audiogram in sensorineural hearing loss – air conduction curve (x) and bone conduction curve (]) in congruence [@hellbrück:1993].")
 
-For the evaluation of hearing performance or hearing loss in audiometry (see Chapter [Determination of Hearing Ability - Audiometry](./chapter10.html#determination-of-hearing-ability-audiometry)), a logarithmic measure (dB) is used whose zero point at the frequency under consideration is the “normal hearing threshold” (audiometric zero point).
-Hearing losses are expressed in dB HL (suffix or HL for _Hearing Loss_ or _Hearing Level_) and indicate by how many dB the sound pressure must be raised above the normal hearing threshold in order for a hearing-impaired person to perceive a sound at a given frequency.
+   Sensorineural hearing loss primarily affects the high frequencies, which is noticeable in poor perceptibility of the phonemes “s”, “f” and “sh”.
+   Thus, not only hearing itself is affected, but especially understanding.
+   A (complete) deafness is always caused by a disturbance of the inner ear.
 
-To evaluate the perception of acoustic signals in the presence of noise, another ratio designated dB SL (suffix SL for _Sensation Level_) is used.
-The reference threshold (i.e. $0\;\sf{dB}$ SL) is placed for a particular listening situation to be evaluated where the subject can hear the sound event (the signal) at $50\%$ of the measurements made from the background noise (hiss).
-The sound pressure level, given in dB SL, therefore indicates by how much a signal is above this reference threshold.
-In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
+3. Combined conductive and sensorineural hearing loss (general)  
+   As a third possible general hearing impairment, the combined conductive and sensorineural hearing loss in the tone threshold audiogram shall be presented.
+   Because of the sensorineural hearing loss, the AC and BC curves decrease together.
+   The additional conductive hearing loss causes a further drop of the AC curve (<<fig:tone-threshold-audiogram-sound-sensing>>).
 
-## Ear Anatomy
+   <!-- prettier-ignore -->
+   ![Tone threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (\]).](./pics/06/tonschwellenaudiogramm-schallleitung-schallempfindung.svg "tonschwellenaudiogramm-schallempfindung#Tone threshold audiogram in combined conductive and sensorineural hearing loss – both curves lower, but the air conduction curve (x) is even further below the bone conduction curve (]) [@hellbrück:1993].")
 
-1. Outer ear  
-   The outer ear – from the pinna to the eardrum (tympanic membrane) – represents a funnel about $3$ to $3.5\;\sf{cm}$ long that conducts sound waves from the environment to the eardrum.
-   It is important that the air on both sides of the eardrum has the same temperature (body temperature), otherwise the different Brownian molecular motion would already be disturbingly perceptible due to the high sensitivity of the ear.
+4. Noise-induced hearing loss  
+   Any exposure of the auditory system to high sound pressure levels leads to an upward shift of the hearing threshold.
+   If the exposure is short or if it does not exceed sound pressure levels of $90\;\sf{dB}\,\sf{SPL}$, adaptation, which occurs in all sensory organs, occurs, but the hearing threshold drops back to the values before the sound exposure after a recovery period.
 
-   The external auditory canal has an amplifying effect and exhibits an amplification of $20\;\sf{dB}$ at the resonant frequency (about $2\:500\;\sf{Hz}$).
-   Thus, this gain is in that range that is important for speech understanding (main speech range, see <<fig:dynamic-range-ear>>).
-   Because the external auditory canal in infants is only a few millimeters long, the resonance shifts significantly to higher frequencies, which results in infants perceiving high frequencies more preferentially.
+   Prolonged exposure to sound, especially when it exceeds $90\;\sf{dB}\,\sf{SPL}$, poses a serious threat to the ear.
+   Three mechanisms may come into play.
+   First, sound exposure (e.g., $15$ minutes at $95\;\sf{dB}\,\sf{SPL}$ or $30$ seconds at $115\;\sf{dB}\,\sf{SPL}$) can mechanically damage hair cells (kinking or fusing of stereocilia).
+   Second, hair cells have an increased energy demand during excitation that cannot be met during prolonged stimulation.
+   If the cell is not allowed to recover in time, the sensory cell may die (starve).
+   Thirdly, noise leads to a stress load of the entire organism, through which the blood circulation and thus the oxygen supply of the ear is reduced and a damaging effect on the inner ear cannot be excluded [@hellbrück:1993].
 
-2. Middle ear  
-   Sound is transmitted in the middle ear (tympanic cavity) – between the tympanic membrane and the oval window – by the three articulating ossicles: Mallet (_Malleus_), Anvil (_Incus_), and Stirrup (_Stapes_).
-   The diameter of the tympanic cavity (from the tympanic membrane to the inner wall) is only about $5\;\sf{mm}$.
-   The thickness of the tympanic membrane is $0.1\;\sf{mm}$ (<<fig:cutaway-through-ear>>).
+   Hearing loss triggered by noise exposure particularly affects the frequencies around $4\;\sf{kHz}$.
+   Apparently, this region of the cochlea enters a supply bottleneck earliest when exposed to noise.
+   Because of the musical note $\sf{c^5}$ (five-dashed C, top key of a piano with $4186\;\sf{Hz}$) located at $4\;\sf{kHz}$, it is also called the $\sf{c^5}$ sink[^15] [@hellbrück:1993].
+   An audiogram typical of noise-induced hearing loss is shown in <<fig:tone-threshold-audiogram-noise-induced-hearing-loss>>.
 
-   ![Cutaway through the ear](./pics/06/schnitt-durch-ohr.svg "cutaway-through-ear#Cutaway through the ear [@servier-medical-art:2019, @faller:1995].")
+   [^15]:
+       Acousticians and musicians use different designations of pitches.
+       In acoustics, the notes belonging to each octave of the piano are given subscripts, so $\sf{C_1}$ denotes the lowest C (first complete octave) on the piano.
+       The highest note of the piano is $\sf{C_8}$.
+       In music, the pitched octave begins with middle C on the piano.
+       Superscript indices are used here. The designation is therefore $\sf{c^1}$.
+       The concert pitch lying in the same octave with $440\;\sf{Hz}$ has the designation $\sf{a^1}$.
+       The musical $\sf{c^1}$ thus corresponds to the acoustic $\sf{C^4}$ [@lindsay:1981].
 
-   ::: figcaption
+   ![Tone threshold audiogram in noise-induced hearing loss – typical drop at 4000 Hz, c5 – dip.](./pics/06/tonschwellenaudiogramm-laermschwerhoerigkeit.svg "tone-threshold-audiogram-noise-induced-hearing-loss#Tone threshold audiogram in noise-induced hearing loss – typical drop at $4000;\\sf{Hz}$, $\sf{c^5}$ dip.")
 
-   1. Pinna;
-   2. External auditory canal;
-   3. Eardrum (tympanic membrane);
-   4. Mallet;
-   5. Tympanic cavity;
-   6. Anvil;
-   7. Stirrup;
-   8. Stirrup plate in oval window;
-   9. Round window;
-   10. Cochlea;
-   11. Semicircular ducts of the vestibular apparatus (organ of balance).s
-       {.lower-alpha}
+   <!--
+    Beschriftung: Zagler
+    Bild: nicht CC
+    FIXME: Quelle [HEL 93]?
+   -->
 
-   :::
+   All impulsive sounds are particularly dangerous, because in this case the regulating mechanism of the middle ear (attenuation by contraction of the middle ear muscles) does not take effect in time and the high levels can reach the inner ear unhindered.
 
-   The deflections of the tympanic membrane (at the hearing threshold smaller than $10^{-10}\;\sf{m}$, which is $1\sf{\mathring{A}}$, $0.1\;\sf{nm}$ or about the diameter of a hydrogen atom) are transmitted in complicated (frequency-dependent) movements via the three ossicles to the oval window.
-   On the one hand, the movement amplitude is reduced by the leverage effect of the ossicles (approximately by a factor of $0.7$) and the force available at the oval window is increased accordingly.
-   On the other hand, the areas of the tympanic membrane and oval window behave approximately as $20:1$, resulting in a significant increase in pressure ($\sf{pressure}=\sf{force/area}$).
-   Accurate measurements are exceedingly difficult, but the literature suggests a total pressure gain of a factor of $35$.
-   Theoretically, however, taking all factors into account, the value can be much higher.
+   While the harmful long-term effects of occupational noise are not only sufficiently well known today (or at least should be) and effective hearing protection measures are available, “recreational noise” poses the far greater threat to public health.
+   The effects of over-loud music (discotheques, open-air concerts[^16], “car sound”) and, in particular, music from portable devices consumed through headphones and earphones pose an enormous risk.
+   All lovers of such “sound sources” must be warned at this point that damage to the hair cells is absolutely irreversible.
 
-   This pressure transformation is necessary, because without it the liquid-filled inner ear could be excited only extremely badly by vibrating air.
-   Specifically, $98\%$ of the sound energy would be lost by reflection and only $2\%$ would be transmitted to the inner ear.
-   Impedance matching by the middle ear achieves that on average $60\%$ of sound energy can be transmitted.
+   [^16]:
+       The sound pressure level produced by an “average” rock band is given in the literature as $120$ to $130\;\sf{dB}\,\sf{SPL}$.
+       For the group “The Who” values up to $160\;\sf{dB}\,\sf{SPL}$ (!) are found.
+       The consequences for the hair cells are easy to imagine. Only the launch of a space shuttle (measured at a distance of $50\;\sf{m}$) clearly exceeds this value with $180\;\sf{dB}\,\sf{SPL}$ [@lindsay:1981, @kendrik:1997].
 
-   <!-- FIXME: Querverweis -->
+5. Age-related hearing loss – presbycusis (presbyacusis)  
+   Age-related hearing loss (presbycusis) refers to a hearing threshold at higher frequencies that increases with age (the typical course of the audiogram is shown in <<fig:tone-threshold-audiogram-age-related-hearing-loss>>).
 
-   The ossicles also cause the sound energy to be transmitted not to the entire inner ear, but only to the oval window.
-   The round window (the second connection point between the middle ear and the inner ear) can, therefore, oscillate in antiphase, which is of great importance for the function of the cochlea (see chapter [Physiology of the Ear](./chapter10.html#physiology-of-the-ear) point (a)).
+   ![Tone threshold audiogram in age-related hearing loss – typical loss in the range of high tones.](./pics/06/tonschwellenaudiogramm-altersschwerhoerigkeit.svg "tone-threshold-audiogram-age-related-hearing-loss#Tone threshold audiogram in age-related hearing loss – typical loss in the range of high tones.")
 
-   Finally, the middle ear also has a certain regulatory or protective function.
-   The tympanic membrane and the stapes are connected with muscles (_musculus tensor tympani_ at the tympanic membrane/hammer and _musculus stapedius_ at the stapes), which contract at a sound pressure level of $60$ – $80\;\sf{dB}$ above the hearing threshold and have a damping (attenuating) effect on the transmission of lower frequencies.
+   <!--
+    Beschriftung: Zagler
+    Bild: nicht CC
+    FIXME: Quelle [HEL 93]?
+   -->
 
-3. Inner ear  
-   The inner ear contains two sensory organs that perform completely different functions, but anatomically form a complex: The cochlea (_cochlea_), the hearing organ proper, and the vestibular apparatus, which forms the organ of balance (<<fig:cutaway-through-ear>>).
+   Strictly speaking, one can only speak of “true” presbycusis if the hearing loss occurs symmetrically in both ears and if it is also ensured that other factors have not also led to a loss of high frequencies.
+   In most cases, one will have to deal with a mixture of age effects and long-term consequences of noise exposure and drug damage (ototoxic effects of drugs), which cannot be separated from each other[^17].
 
-   The cochlea (_cochlea_) is a spiral duct embedded in the cranial bone, in which the two-part membranous cochlear duct (_scala media_ or _ductus cochlearis_) is vibrationally attached.
-   Thus the cochlea consists of three fluid-filled ducts.
-   In the center the membranous cochlear duct, filled with endolymph[^13] and having a triangular cross-section, above it the vestibular duct (_scala vestibuli_) and below it the tympanic duct (scala tympani).
-   The latter two passages are filled with perilymph[^13].
-   Just before the end of the helix (_helicotrema_), the membranous ducts end, so that the two ducts merge there (<<fig:cochlea>> and <<fig:cross-cut-through-cochlea>>).
-
-   [^13]: endolymph: high K+, low Na+ concentration; perilymph vice versa.
-
-   ![The cochlea (right ear), open](./pics/06/schnecke.svg "cochlea#The cochlea (right ear), open [@servier-medical-art:2019, @betz:1991].")
-
-   ::: figcaption
-
-   1. Stirrup in the oval window;
-   2. Beginning of vestibular duct;
-   3. Skin-like spiral cochlear duct;
-   4. Round window at the end of the tympanic duct;
-   5. Helicotrema
-      {.lower-alpha}
-
-   :::
-
-   ![Schematic cross section through the cochlea](./pics/06/querschnitt-durch-schnecke.svg "cross-cut-through-cochlea#Schematic cross section through the cochlea [@servier-medical-art:2019, @betz:1991].")
-
-   ::: figcaption
-
-   <div>
-
-   1. Vestibular duct;
-   2. Skin-like cochlear duct;
-   3. Tympanic duct
-      {.upper-alpha}
-
-   </div>
-   <div>
-
-   1. Reissner's membrane;
-   2. Tectorial membrane;
-   3. Basilar membrane;
-   4. Organ of Corti;
-   5. Outer hair cells;
-   6. Inner hair cells
-      {.lower-alpha}
-
-   </div>
-
-   :::
-
-## Physiology of the Ear
-
-1. Mechanical processes in the cochlea.  
-   After impedance conversion by the middle ear, the inner ear receives the sound signal via the vibrations of the stirrup (stapes) footplate in the oval window, which are transmitted to the fluid of the vestibular duct.
-   Because this fluid is incompressible, when the oval window moves inward (pressure increases), the membranous duct (also called the cochlear partition) beneath it must move downward.
-   This causes a pressure rise in the (underlying) tympanic duct, which subsequently leads to a deflection of the round window at the end of the tympanic duct.
-   In the subsequent half-wave of the oscillation, the conditions are exactly reversed.
-
-   This up-and-down movement of the cochlear partition results in a shearing motion between its individual components, and the displacement of the covering membrane (_membrana tectoria_; tectorial membrane) results in a bending of the sensory hairs of the hair cells of the organ of Corti (<<fig:cross-cut-through-cochlea>>).
-
-   The hair cells are arranged along the cochlea in two parallel groups.
-   The approximately $8\:000$ inner hair cells (IHC = _inner hair cells_) are arranged in _one_ row, and the approximately $14\:000$ outer hair cells (OHC = _outer hair cells_) form three to five rows.
-   Each of these hair cells carries $60$ – $100$ sensory hairs (_stereocilia_).
-   Despite their much larger number, only $5$ to $10\%$ of the auditory nerve fibers terminate at the OHC (high convergence).
-   The much larger number of $30\:000$ to $40\:000$ nerve fibers innervate the IHC.
-   Not all auditory nerve fibers are afferent (i.e., run from the hair cells to the CNS).
-   About $1\:800$ are efferent and are associated with the active processes in the cochlea described in the next section [@silbernagl:1991, @dudel:1996, @hellbrück:1993, @betz:1991, @zenner:1994:a].
-   The local density of neurons is $1\:150$ ganglion cells/mm^2^ at the beginning of the cochlea (at the oval window) and decreases toward the helicotrema [@lindsay:1981].
-
-2. Formation of the travelling wave and cochlear amplifier.  
-   So far, the mechanics of the inner ear have been described only in principle.
-   More precisely, the vibration of the stapes footplate initially triggers a movement of the cochlear partition only at the beginning of the cochlea, which in the further course of time propagates as a travelling wave along the entire cochlea.
-   We speak here of the passive travelling wave.
-   It has the special property that it does not propagate along the helix with the same or only decreasing amplitude, but that, depending on its frequency, it increases to a maximum at a certain point of resonance in the helix and then decays rather abruptly (<<fig:wanderwelle-cochlaere-trennwand>>).
-
-   ![Representation of the passive travelling wave in the cochlear partition.](./pics/06/wanderwelle-cochlaere-trennwand.svg "wanderwelle-cochlaere-trennwand#Representation of the passive travelling wave in the cochlear partition [@schmidt:1997,@bell:2004].")
-
-   The place where the travelling wave reaches its maximum depends on the frequency of the excitation and is of decisive (but not sufficient) importance for the frequency selectivity of the ear.
-   High frequencies produce the maximum near the base of the snail (at the stapes or at the oval and round window), low frequencies at the tip of the snail (_helicotrema_).
-   Frequency mixtures (sounds, noises) produce several maxima along the basilar membrane.
-   This approach is the basis of the location theory (tonotopic theory) (<<fig:location-travelling-wave>>).
-
-   ![Location of the envelope of passive travelling waves; the cochlea is shown rolled out here.](./pics/06/lage-wanderwelle.svg "location-travelling-wave#Location of the envelope of passive travelling waves; the cochlea is shown rolled out here [@zenner:1994:a].")
-
-   The formation of a vibration maximum by the passive travelling wave causes a first amplification effect in addition to the frequency selection.
-   Originally, the ear was considered to be a purely passive sound sensor.
-   Only recently have studies shown that the outer hair cells of the organ of Corti can generate micromechanical vibrations of up to $20\;\sf{kHz}$.
-   Frequency- and site-selective excitation of the outer hair cells amplifies and splits the passive travelling wave at a narrowly defined location by a factor of $1\:000$ [@zenner:1994:a] (<<fig:amplification-traveling-wave>>).
-   Without this active amplification, excitation of the inner hair cells would occur only from $60\;\sf{dB}\,\sf{SPL}$ [@schmidt:1997].
-
-   ![Active amplification of the travelling wave.](./pics/06/verstaerkung-wanderwelle.svg "amplification-traveling-wave#Active amplification of the travelling wave [@zenner:1994:a].")
-
-3. Frequency selectivity of the ear  
-   The formation of the passive and also the active travelling wave (place theory, tonotopy) is not completely sufficient to explain the enormous frequency selectivity of the ear.
-   On the one hand, this assumption is reached from measurements at medium sound pressure levels, at which almost all fibers of the auditory nerve are active and not only those that are characteristic for the respective frequency.
-   Nevertheless, the auditory system is frequency selective even in this case.
-   On the other hand, with single-channel cochlear implants (the nerve endings in the cochlea are stimulated by an electrode at only one location), it is possible to evoke the sensation of different frequencies.
-   If location theory alone were the explanation for frequency perception, then a separate electrode would have to be implanted at the relevant location for each pitch to be transmitted.
-
-   Since a single fiber of the auditory nerve can directly follow a sound vibration only up to a frequency of about $800\;\sf{Hz}$, several nerve fibers must be involved in the coding of higher frequency sounds.
-   In the so-called volley principle, several nerve fibers alternate in “firing” in such a way that the sum (superposition) of their individual discharges corresponds to the frequency to be transmitted.
-   This leads to the so-called period theory (microphonic theory) of frequency selectivity.
-   Individual nerve fibers are combined into groups and synchronized in such a way that the overall pattern of their neural activity is able to follow higher frequencies (<<fig:schematic-display-salvo-principle>>) [@troost:1998].
-
-   ![Schematic representation of the transmission of higher frequencies by the salvo principle.](./pics/06/schematische-darstellung-salvenprinzip.svg "schematic-display-salvo-principle#Schematic representation of the transmission of higher frequencies by the salvo principle [@guski:1996].")
+   [^17]:
+       In this context, it is noteworthy that studies on primitive peoples (Africa and Asia) have shown no signs of presbycusis.
+       It is therefore reasonable to suspect that presbycusis is nothing else than the effect of socially conditioned damage to hearing (socioacusis) integrated over a lifetime [@hellbrück:1993].
 
    {.lower-alpha}
 
-## Determination of Hearing Ability - Audiometry
+## Tinnitus – Ringing in the Ears
 
-The procedure for determining hearing ability is called audiometry.
-In addition to determining the degree of hearing loss and the frequencies affected, the purpose of audiometry is also to locate the place where the hearing loss occurs and to distinguish between conductive hearing loss and sensorineural hearing loss (perceptual hearing loss).
+Tinnitus refers to sounds and noises that are perceived by the affected person but are not caused by any external sound source.
+Approximately $32\%$ of the adult population is affected by tinnitus, with $20\%$ reporting that it affects them so severely that the ringing in the ears is bothersome.
+In most cases, tinnitus is a concomitant of hearing loss.
+Most patients with sensorineural hearing loss complain of tinnitus in the high frequency range, while sensorineural hearing loss usually leads to tinnitus in the low frequency range.
+Otosclerosis, like Meniere's disease, can lead to tinnitus in the low frequency range [@troost:1998].
 
-The most important procedure for testing hearing is sound threshold audiometry or the sound threshold audiogram, i.e. the measurement of the personal hearing threshold.
-In a soundproof room, tones (pure sinusoidal oscillations) of different intensity and frequency are offered through headphones (so-called air conduction).
-The person examined must indicate whether a presented tone could be perceived or not.
+Pulse-synchronous ear noises have their cause in circulatory disturbances or are caused by hypertension (increased blood pressure).
+Tinnitus is generally understood to be the non-pulsating ear noises that manifest themselves as buzzing, humming or noise in the case of diseases of the middle ear, and as hissing or whistling in the case of damage to the inner ear [@pschyrembel:1989].
 
-In addition to the presentation of the tones via headphones, a coupling via structure-borne sound (bone conduction) is also performed in a separate series of experiments by means of a vibrator attached to the skull bone behind the ear.
-There is also a defined “hearing threshold” for bone conduction, from which any hearing losses can be measured in dB HL.
-
-The results of the measurements are plotted on a (standardized) graph, the audiogram.
-The symbols shown in <<tab:audiogram-used-symbols>> are usually used:
-
-<table>
-  <thead>
-    <tr>
-      <th></th>
-      <th>Left</th>
-      <th>Right</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Mark color</th>
-      <td>blue</td>
-      <td>red</td>
-    </tr>
-    <tr>
-      <th scope="row">Air conduction (<abbr title="Air conduction">AC</abbr>)</th>
-      <td style="color: blue;">x</td>
-      <td style="color: red;">o</td>
-    </tr>
-    <tr>
-      <th scope="row">Bone conduction (<abbr title="Bone conduction">BC</abbr>)</th>
-      <td style="color: blue;">]</td>
-      <td style="color: red;">[</td>
-    </tr>
-  </tbody>
-</table>
-
-.audiogram-used-symbols#Symbols used in the audiogram.
-
-For example, for a person with approximately normal hearing, the result is a tone threshold audiogram for the left ear as shown in <<fig:tonschwellenaudiogramm-normal>>.
-The curves for air conduction and bone conduction are superimposed or nearly so.
-The deviations from the $0\;\sf{dB}\,\sf{HL}$ line in the example are at most $15\;\sf{dB}\,\sf{HL}$.
-
-![Tone threshold audiogram of a person with normal hearing, left ear, no hearing impairment.](./pics/06/tonschwellenaudiogramm-normal.svg "tonschwellenaudiogramm-normal#Tone threshold audiogram of a person with normal hearing, left ear, no hearing impairment [@hellbrück:1993].")
+Triggering cause for tinnitus can be spasms (cramps) of the middle ear muscles, degenerations of the cervical spine or functional disorders of the cochlea.
+In the latter case, the active movements of the outer hair cells may be affected, making it possible to objectively measure the resulting sounds in the auditory canal.
+In most cases, however, it is subjective tinnitus, the cause of which is suspected to be a disturbance in the amplification effect of the outer hair cells.
+This results in increased stimulation of the outer hair cells, which in turn acts on the inner hair cells to produce an excitation perceivable as a tone or noise [@hellbrück:1993].
+Other sources suggest that the cause is an increase in the spontaneous discharge of the nerve fibers of the auditory nerve, since the inhibitory effect of a direct current conducted through the cochlea leads to a reduction in ear noise [@troost:1998].
 
 !!!include(general/attribution.en.md)!!!

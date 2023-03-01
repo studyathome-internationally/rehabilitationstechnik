@@ -14,257 +14,146 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[PAL]: Phase Alternating Line
+*[RP]: Retinopathia pigmentosa
 
-# Eye and Visual Perception
+# Visual Disabilities
 
-## Structure of the Eye
+## Classification of Visual Impairment
 
-The sensory organ for the perception of optical stimuli is the eye.
-The human eyeball (bulb) is spherical and has a diameter of approximately $25\;\sf{mm}$.
-Made of a transparent, gelatinous substance, the vitreous body (corpus vitreum), which fills the entire interior, is surrounded and held in shape by three layers of tissue (<<fig:cutaway-human-eye>>).
+Visual impairment is usually classified according to <<tab:classification-visual-impairment>>.
+This rating is valid with optimal optical correction (glasses, contact lenses) for the better eye.
 
-The outermost eye tissue, the sclera, has little elasticity and is responsible for shaping it.
-In the anterior part of the eye, the sclera merges with the transparent cornea in front of the lens.
+| Designation              | Visual Acuity |
+| ------------------------ | ------------- |
+| Visual Impairment        | $\lt~0.3$     |
+| Severe visual impairment | $\lt~0.05$    |
+| Legally blind            | $\lt~0.02$    |
 
-The middle layer is composed of three sections.
-Three quarters of the eyeball is enclosed by the choroid, which is interspersed by numerous blood vessels.
-In front, around the lens, the choroid merges into the corpus ciliare, which contains the ciliary muscle, which provides accommodation (focusing) by changing the curvature of the lens.
-The aqueous humor is also formed in the corpus ciliare.
-The ratio of production and reabsorption of the aqueous humor determines the intraocular pressure.
-Even further in front is the iris, which determines the amount of light entering the eye by altering the pupil (“iris diaphragm” in photography).
+.classification-visual-impairment#Classification of visual impairments.
 
-The innermost eye tissue resting on the vitreous body is the retina, which in turn consists of several layers.
+## Causes of Visual Impairments
 
-![Cutaway through the human eye.](./pics/06/schnitt-menschliches-auge.svg "cutaway-human-eye#Cutaway through the human eye [@servier-medical-art:2019].")
+<!-- FIXME: Abbildungsverweis -->
 
-## The Retina
+Some of the most common eye diseases (in Western countries) and their effects on the vision of the affected person are described below.
+For illustration purposes, the associated figures reproduce the view perceived by a person suffering from the eye disease in question ([Figure: One-dimensional and multi-layered views of disability](chapter1.html#sichtweise-behinderung)).
 
-The retina is the carrier of photoreceptors as well as several layers of nerves that perform initial processing of visual stimuli.
-It enables the perception of intensity, wavelength and spatial allocation of incident optical stimuli.
+<div class="no-dark">
 
-The detection of optical stimuli begins in the layer of the retina facing away from the light, which carries the photoreceptors (“inverse” eye).
-The approximately $120\;\sf{million}$ rods enable black and white (light/dark) vision, while $6\;\sf{million}$ three-wavelength cones serve the color perception (<<fig:cutaway-retina>>).
+![Normal vision](./pics/06/normalsicht.svg "normal-vision#Normal vision [@frederiksen:1989].")
 
-![Section through the retina – light incidence from the left; direction of conduction from right to left](./pics/06/schnitt-netzhaut.svg "cutaway-retina#Section through the retina – light incidence from the left; direction of conduction from right to left [@mörike:1981].")
+</div>
 
-The spectral range covered by the eye extends from $350\;\sf{nm}$ (blue) to $750\;\sf{nm}$ (red), with a maximum overall sensitivity at $560\;\sf{nm}$ (green).
-The maxima of spectral sensitivities for the three types of cones are $560\;\sf{nm}$ (yellow-green), $530\;\sf{nm}$ (blue-green), and $430\;\sf{nm}$ (violet).
-Simplified, we often speak of “blue,” “green,” and “red” cones.
-Of all the cones found in the retina, about $46\%$ are red, $46\%$ are green, but only $8\%$ are blue ([@bright:1997], <<fig:spectral-behavior-cones>>).
-The rods reach their spectral maximum at $510\;\sf{nm}$ and make no contribution to color perception.
+It must be pointed out that this illustration as well as all simulations of visual impairments are only very rough approximations of the actual situation.
+Visual field defects cannot simply be simulated by black areas, although this is often done in illustrations.
+Here, a neutral gray was deliberately chosen, which still comes closest to a non-existent perception.
 
-![Spectral behavior of the cones: Absorption in % of the total amount of incident light.](./pics/06/spektrales-verhalten-zaepfchen.svg "spectral-behavior-cones#Spectral behavior of the cones: Absorption in $\\%$ of the total amount of incident light [@lindsay:1981].")
+Even if it were possible to draw a visually faithful picture of a visual impairment, this representation would only remain on the surface, since any kind of disability not only restricts the affected person functionally, but also deeply shapes his or her personality and imagination.
+For example, if someone thinks he or she understands blindness by wearing a blindfold, he or she is subject to a huge error.
 
-## Intensity Range and Adaptation
+## Refractive Anomalies – Refractive Errors of the Eye
 
-The intensity over which the eye can process stimuli spans a range of $1:10^{12}$ (<<tab:sensitivity-rod-cone>>) and is managed by different mechanisms of adaptation:
+If the refractive power of the optical elements of the eye (cornea, lens, and vitreous body) does not match the length of the eyeball, a sharp image cannot be formed on the retina.
+Eyeglasses and contact lenses can compensate for $90\%$ of refractive anomalies.
+In refractive anomalies we distinguish:
 
-- Use of two differently sensitive receptor types (rods and cones).
-- Change of the amount of incident light through the pupil (ratio $1:16$ – fast process[^7])
-- Buildup and breakdown of visual pigment in the receptors (slow).
-- Adaptive spatial and temporal stimulus integration in the retina.
+1. Myopia  
+   In myopia, the refractive power of the eye is too high (focal length too short) or the eyeball is too long.
+   The plane of focus (especially of distant objects) is in front of the retina.
+   The remedy is glasses or contact lenses with a dispersing effect (<<fig:ray-tracing-myopia>>).
+   The effects of myopia are shown in <<fig:myopia>>.
 
-[^7]: this value refers to the juvenile eye; for conditions in old age, see later.
+   ![Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina](./pics/06/strahlengang-myopie.svg "ray-tracing-myopia#Beam path in myopia and correction by a diverging lens; without correction, rays intersect in front of the retina [@mörike:1981].")
 
-The sensitivity of rods is about $2\:000$ times higher than that of cones.
-At low luminances (twilight), therefore, the cones make no contribution, with the result that color perception is possible only with sufficient illumination.
+   <div class="no-dark">
 
-<table>
-  <thead>
-    <tr>
-      <th scope="row">Illuminance [lx]</th>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{0}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{6}"/></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Rods</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-    </tr>
-    <tr>
-      <th scope="row">Cones</th>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Scope</th>
-      <td colspan="3">scotopic</td>
-      <td colspan="4">mesopic</td>
-      <td colspan="5">photopic</td>
-    </tr>
-  </tbody>
-</table>
+   ![Myopia](./pics/06/myopie.svg "myopia#Myopia [@frederiksen:1989].")
 
-.sensitivity-rod-cone#Absolute sensitivity of rods and cones [@zagler:1997].
+   </div>
 
-If the rods[^8] are missing due to a damage of the eye, only day vision (mesopic and photopic vision) is possible and night blindness occurs (no scotopic vision).
-The eye, with an absolute intensity threshold of $8\cdot10^{-18}\;\sf{W/cm^2}$, is more sensitive by a factor of $10$ compared to the ear.
+2. Hyperopia (farsightedness)  
+   In farsightedness (hyperopia, hypermetropia) the refractive power of the eye is too low (focal length too long) or the eyeball is too short.
+   The plane of focus (especially of close objects) is behind the retina.
+   The remedy is a pair of glasses or contact lens with collecting effect (<<fig:ray-trace-hyperopia>>).
 
-[^8]: Since the peripheral area of the retina is almost exclusively occupied by rods, a failure of this receptor type leads not only to night blindness but also to a loss of the peripheral visual field, resulting in so-called tunnel vision.
+   ![Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina](./pics/06/strahlengang-hyperopie.svg "ray-trace-hyperopia#Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina [@mörike:1981].")
 
-## Spatial Resolution
+3. Presbyopia  
+   The so-called presbyopia has similar effects as hyperopia, but the cause is a reduced elasticity of the eye lens with increasing age (see also <<fig:eye-lens-and-accommodation>>).
+   As a result, near accommodation becomes limited and the near point moves more and more into the distance.
+   Presbyopia is said to occur when the range of accommodation (the so-called accommodation success) has decreased to values below $4\;\sf{dpt}$ (values in youth are around $12\;\sf{dpt}$).
 
-In an area of about $\pm~1\degree$ degrees around that point where the optical axis of the eye meets the retina, within the yellow spot (macula; lat. macula) lies the visual pit (fovea centralis; fovea: lat. pit).
-In this zone of sharpest vision there are almost only cones with a density of $400\:000\sf{/mm^{2}}$ (for comparison: a standard TV (Low Definition/PAL) picture has $520\:000$ pixels).
-Here, the nerve tracts that otherwise overlie the receptors are shifted toward the edge of the macula, forming the macular wall, allowing light to fall directly on the cones.
-The macula therefore exhibits high spatial resolution and good color recognition.
-Because of the absence of rods, scotopic vision is not possible in the foveal region (the fovea is “night blind” so to speak), but because the cones are not covered by other cells, photopic sensitivity is greater within the fovea than elsewhere in the retina.
+   Reading glasses (glasses with converging lenses worn when looking at near objects) or glasses with multifocal or progressive lenses provide a remedy.
+   With multifocal lenses, there is a zone of higher refractive power in the lower part of the lens.
+   When the gaze is lowered for reading, the visual axis passes through this part of the lens and near accommodation is supported.
+   The progressive lens works on the same principle, but the transition from the upper, lower refractive part to the lower, higher refractive part is stepless.
+   {.lower-alpha}
 
-A distance of $1\,\sf{mm}$ on the retina covers a visual field of $3.5\degree$.
-Within the fovea centralis, objects can be discriminated at a distance of $0.5$ to $1$ arcminutes, corresponding to a distance on the retina of $2.5$ to $5.0\,\sf{\mu}m$.
-Outside the fovea centralis, the resolution is only around $1\degree$ (corresponding to a distance of $0.3\,\sf{mm}$).
+## Glaucoma
 
-## Accommodation (Focusing)
+Glaucoma is caused by increased intraocular pressure, i.e. by an excess of aqueous humor.
+In most cases, there is an obstruction of the outflow pathways of the aqueous humor.
+Overproduction of aqueous humor, on the other hand, is rare.
+Normal intraocular pressure is $13$ to $28\sf{mbar}$; in glaucoma, it increases to values between $50$ to $80\sf{mbar}$.
 
-The focusing of the eye (accommodation) is done by changing the refractive power of the lens.
-The far accommodated eye (setting at infinity) has a refractive power of about $60$ diopters[^9] ($=17\sf{mm}$ focal length).
-At maximum near accommodation (setting to $10\sf{cm}$), the refractive power increases by about $12$ diopters[^10].
-The exact values for the so-called emmetropic (normally sighted) eye are given in the literature as follows (<<tab:refractive-power-emmetropic-eye>>):
+The increased intraocular pressure can cause damage to the optic nerve papilla (at the blind spot where the optic nerve leaves the eyeball) within hours (!), which leads to the progessive mutilation of nerve cells due to the interruption of blood supply and thus to irreversible visual field loss (<<fig:glaucoma>>).
 
-[^9]: diopter = reciprocal of (anterior) focal length in meters; abbreviation dpt.
-[^10]: Applies to the juvenile eye and is strongly dependent on age.
+If the rising intraocular pressure, which becomes noticeable through color perception and “fog”, is detected in time, it can be counteracted with medication.
+In rare cases, surgical intervention is required.
+Glaucoma is the most common cause of blindness worldwide.
 
-<table>
-  <thead>
-    <tr>
-      <th>State</th>
-      <th>Location</th>
-      <th>Refractive power [dpt]</th>
-      <th>Focal length [mm]</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="3">Accommodative rest</td>
-      <td>Cornea and anterior chamber</td>
-      <td><MathML formula="43.05\;\sf{dpt}"/></td>
-      <td><MathML formula="23.23\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Lens and vitreous body</td>
-      <td><MathML formula="19.11\;\sf{dpt}"/></td>
-      <td><MathML formula="52.33\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Total (equivalent system)</td>
-      <td><MathML formula="58.64\;\sf{dpt}"/></td>
-      <td><MathML formula="17.05\;\sf{mm}"/></td>
-    </tr>
-    <tr>
-      <td>Max. Accommodation</td>
-      <td>Total (equivalent system)</td>
-      <td><MathML formula="70.57\;\sf{dpt}"/></td>
-      <td><MathML formula="14.15\;\sf{mm}"/></td>
-    </tr>
-  </tbody>
-</table>
+<div class="no-dark">
 
-.refractive-power-emmetropic-eye#Refractive power of the emmetropic eye [@methling:1996].
+![Glaucoma](./pics/06/glaukom.svg "glaucoma#Glaucoma [@frederiksen:1989].")
 
-Thus, approximately $2/3$ of the total refractive power is applied by the cornea and anterior chamber and $1/3$ by the lens and vitreous body.
-Contraction of the ciliary muscle relaxes the zonular fibers.
-The lens becomes thicker due to its elasticity, the refractive power is increased, and the eye accommodates to near (<<fig:eye-lens-and-accommodation>>).
+</div>
 
-![Eye lens and accommodation.](./pics/06/augenlinse-und-akkommodation.svg "eye-lens-and-accommodation#Eye lens and accommodation [@servier-medical-art:2019, @mörike:1981].")
+## Cataract
 
-## Blink
+Various reasons such as injuries (_cataracta traumatica_), diabetes (_cataracta diabetica_), heat effects (_cataracta calorica_, in foundrymen and glassblowers), radiation damage (_cataracta e radiatione_), electrical accidents, poisoning, viral infections during pregnancy (_embryopathia rubeolosa_[^11]) as well as the aging process can lead to opacification of the eye lens.
+As a result, vision is reduced by clouding of the image, but also by glare due to light scattering, which may go as far as restriction to light/dark perception (<<fig:cataract>>).
 
-The eyelid serves to protect and moisten the eyeball.
-The blink (closing of the upper eyelid) is either involuntary-periodic, voluntary or reflexive.
-The frequency with which the involuntary blink occurs is highly dependent on the individual.
-An average guideline is $15$ to $16$ blinks/min [@wilson:1996:a].
-The eyelid blink frequency increases during long-lasting activities with high visual demand and can then reach values up to more than $70$ eyelid blinks/min [@methling:1996].
+[^11]: Rubella infection of the mother mainly in the first month of pregnancy.
 
-The duration of a blink (time during which the eye remains closed) is reported in the literature to be less than $100\sf{ms}$ for involuntary blinks, but greater than $250\sf{ms}$ for voluntary blinks [@lauruska:1996].
+<div class="no-dark">
 
-## Preprocessing and Information Aggregation in the Retina
+![Cataract](./pics/06/katarakt.svg "cataract#Cataract [@frederiksen:1989].")
 
-In addition to the receptor cells (on the right in <<fig:cutaway-retina>>), there are four other layers of neurons in the retina that already provide “wiring” of signals within the retina and thus make a significant contribution to image preprocessing.
-The efficiency of these layers is evident from the fact alone that $125$ million receptors (sum of about $120$ million rods and $6$ million cones) face only $1$ million nerve fibers (ganglion cell axons) in the optic nerve.
-In other words, we register a convergence of $125:1$ between receptors and optic nerve, without, however, information recorded by the eye being simply lost at this step.
+</div>
 
-## The Receptive Fields
+Cataract is relatively easy to correct surgically by surgical removal of the lens.
+The refractive power of the lens lost as a result can be replaced either by cataract glasses ($+12\;\sf{dpt}$) or by implantation of a plastic lens.
+In the absence of adequate medical care, cataracts are a common cause of blindness in developing countries.
 
-Studies of the relationships between optical stimuli and neural activity deployed by the retina yielded rather puzzling and inexplicable results until the middle of the $20.$ century.
-The eye exposed to complete darkness showed moderate neural activity (“spontaneous firing”).
-But contrary to expectations, this did not increase significantly when exposed to diffuse light.
-<<fig:equal-exposure-receptive-field>> schematically shows the experimental setup in which a receptive field is diffusely illuminated.
-The action potential is derived at the ganglion cell (optic nerve) axon.
+## Retinopathy pigmentosa (Retinitis pigmentosa) (RP)
 
-![Uniform (diffuse) exposure of a receptive field.](./pics/06/gleichfoermige-belichtung-rezeptives-feld.svg "equal-exposure-receptive-field#Uniform (diffuse) exposure of a receptive field [@lindsay:1981].")
+Retinopathia pigmentosa (tapetoretinal degeneration; usually incorrectly called retinitis pigmentosa, as it is not an inflammation) is the most common degenerative retinal disease.
+It is usually hereditary; less commonly, it can be triggered by infectious diseases or poisoning.
+It is caused by a metabolic disorder of an enzyme.
+Already in childhood, poor vision in twilight occurs (night blindness due to failure of the rods required for scotopic vision).
 
-It was not until $1950$ that Stephen Kuffler was able to show that retinal ganglion cells do not respond to diffuse illumination per se, but only to local illumination contrasts.
-A punctate exposure at or near that location (= center of the receptive field) from which the derivation was made leads to a marked increase in the impulse rate (<<fig:selective-exposure-receptive-field>> – left).
-Exposure of a ring-shaped zone (= surrounding of the receptive field) around the derivation site has an inhibitory effect, so that even spontaneous firing disappears (<<fig:selective-exposure-receptive-field>> – right).
+Later, a ring-shaped visual field loss (annular scotoma) also occurs during the day, leaving only a visual field of $10\degree$ to $15\degree$.
+In later stages, retinopathy pigmentosa leads to “tunnel vision” (a visual field reduced to a few degrees) and thus to practical blindness, although central vision (visual acuity) may still be quite good (<<fig:retinopathia-pigmentosa>>).
 
-![Selective exposure of (a) center and (b) surroundings of a receptive field.](./pics/06/selektive-belichtung-rezeptives-feld.svg "selective-exposure-receptive-field#Selective exposure of (a) center and (b) surroundings of a receptive field [@lindsay:1981].")
+<div class="no-dark">
 
-More detailed investigations showed that there are two types of ganglion cells which differ according to the way they respond to exposure of their receptive field.
-In both cases, a distinction must be made between the circular center of the respective receptive field and an antagonistic ring-shaped surrounding.
-Through this principle, known as lateral inhibition, an increase in image sharpness is achieved.
+![Retinopathia pigmentosa (Retinitis Pigmentosa)](./pics/06/retinopathia-pigmentosa.svg "retinopathia-pigmentosa#Retinopathia pigmentosa (Retinitis Pigmentosa) [@frederiksen:1989].")
 
-## Measurement of Visual Acuity
+</div>
 
-The visual performance of the eye is indicated by the visual acuity, which more precisely is the resolving power of the eye.
-Visual acuity (V) is the reciprocal of the smallest angle (W~min~ in minutes of arc) at which two points can still be perceived separately.
+## Hemianopia (Hemianopsia)
 
-$$
-\sf{V}=1\sf{/W_{min}}
-$$
+Hemianopia (hemianopsia) is a hemifacial loss of the visual field.
+In homonymous hemianopia shown in <<fig:hemianopia>>, the same half of the visual field is affected in both eyes.
+This is caused by damage (e.g., tumors, traumatic brain injury) to the visual pathway starting at the optic nerve junction (optic cord, lateral malleolus, optic radiation, and visual cortex), the areas where half the visual field of both eyes is transmitted and processed.
+The interruption of hemianopia in the center of the visual field results from the fact that in the optic nerve junction, nerve fibers originating from the fovea are conducted to both the one and the other hemisphere.
+Thus, both hemispheres are involved in the processing of the foveal area [@betz:1991].
+Therefore, in case of damage in one occipital lobe, stimuli from the entire fovea can still be perceived [@wilson:1996:a].
 
-Under good lighting conditions, a normally sighted eye can just keep two points apart when they appear at an angle of $1$ arcminute ($1'$).
+<div class="no-dark">
 
-The visual acuity is then $V=1/1=1$.
+![Hemianopia](./pics/06/hemianopie.svg "hemianopia#Hemianopia; according [@frederiksen:1989].")
 
-In principle, all objects for which a significant detail appears at the angle of $1'$ from the respective specified distance (optotypes) are suitable for determining visual acuity.
-For this purpose, e.g., visual test charts with letters (Snellen chart, <<fig:snellen-chart>>) or rings (Landolt rings, <<fig:landolt-rings>>) can be used.
-The slit in the rings is seen from the “target distance” below $1'$.
-The visual power is calculated from the quotient of actual distance by target distance.
-For example, if the orientation of the slit of a Landolt ring for a target distance of $8.5\sf{m}$ can only be detected when approaching $3.3\sf{m}$, the visual acuity is $3.3/8.5=0.39$.
-
-The visual acuity of a person with normal vision is $V=1$.
-To read a newspaper, a visual acuity of at least $0.4$ is required.
-
-![Snellen chart.](./pics/06/snellen-tafel.svg "snellen-chart#Snellen chart [@hubel:1989].")
-
-![Landolt rings.](./pics/06/landolt-ringe.svg "landolt-rings#Landolt rings [@hubel:1989].")
-
-<!--
- Bild: Hub 89, linker Teil dazugezeichnet
- FIXME: Bildquelle
--->
+</div>
 
 !!!include(general/attribution.en.md)!!!

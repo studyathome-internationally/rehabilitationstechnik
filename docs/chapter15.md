@@ -14,136 +14,215 @@ abbreviations:
 ---
 
 <!-- prettier-ignore -->
-*[PET]: Positron emission tomography
+*[USA]: United States of America
 
-# Language and Speech
+# Verbal and Vocal Disabilities
 
-The spoken (vocalized) utterances of a human being are based on a two-stage process in which we must strictly distinguish between the elements _language_ (semantic representation system) and _speaking_ (phonetic representation system).
-Language is the encoding of abstract patterns of thought into a sequence of graphic signs (e.g., letters) or phonetic elements (phonemes).
-We call the manifestation of characters “writing”; we call the realization of sounds “speaking” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
+When considering disabilities in the area of verbal communication skills, it is important to distinguish between speech (as the verbal basis; English: _language_) and language (as the vocal form of expression; English: _speech_).
+To understand and produce language is an achievement of our brain.
+To express this language vocally or also by writing or gestures and thus to communicate is in the broadest sense an achievement of our motor skills (articulation, hand motor skills).
+(articulation, hand motor skills, etc.).
 
-In the complex “language – speaking” four linguistic levels can be distinguished [@böhme:1997]:
+Between these two clearly defined areas there are all those neural structures which are responsible for the conception of movements and for the transmission of nerve signals to the musculature.
+They form, so to speak, the link between speech and language.
+Disorders in this area can therefore not always be clearly assigned.
+In addition, disabilities can also affect both areas of speech and language at the same time, so that a clear classification is impossible in this case.
+A first classification of the areas in which disorders can occur is given in <<tab:disorders-complex-speech-speech>> [@böhme:1997, @carroll:1998].
 
-- _Semantic-lexical level_: semantics – study of the content and meaning of words; lexicology – study of the vocabulary of a language.
-- _Syntactic-morphological level_: syntax – characterization of sentences and recognition of their internal structure; morphology or grammar – teaching of the structure and laws of a language.
-- _Phonetic-phonological level_: phonetics – articulatory, acoustic and auditory factors of sounds; phonology – study of the sound system of individual languages and its function.
-- _Pragmatic-communicative level_: use of language in the relationship between speaker and listener (sender and receiver).
+<table>
+  <tbody class="break-words">
+    <tr>
+      <th scope="row">Level</th>
+      <td style="font-weight: bold;">phonetic-phonological</td>
+      <td style="font-weight: bold;">syntactic-morphological</td>
+      <td style="font-weight: bold;">semantic-lexical</td>
+      <td style="font-weight: bold;">pragmatic-communicative</td>
+    </tr>
+    <tr>
+      <th scope="row">Dysfunction</th>
+      <td>Motor and sensory dyslalia, phonematic disorders</td>
+      <td>Dysgrammatism, problems with determinate sentence constructions</td>
+      <td>Limited active and passive vocabulary, rare words often not at hand</td>
+      <td>Interpersonal communication disorders in social and situational context</td>
+    </tr>
+  </tbody>
+</table>
 
-## The Language
+.disorders-complex-speech-speech#Disorders in the speech-speech complex.
 
-1. Definitions  
-   Language is a conventional[^32] system of signs for communication purposes [@brockhaus:1994].
-   Communication between living beings can take place in many different ways.
-   In animals, gestures, gestures and scents play an important role in addition to sounds.
-   Despite the variety of the used expressions and forms of expression, the communication occurring with animals is not called language, since for the transmission of the message always only given, unchanged signs are used.
-   Language in the sense of the usual definition exists only if there is a convention which makes it possible to produce and understand an unlimited number of arbitrary messages from a limited, supraindividual stock of signs (e.g. alphabet, vocabulary).
-   According to current knowledge, these syntactic abilities required for this seem to occur exclusively in humans.
-   In this sense language consists of meaning-bearing elements (morphemes), which can be combined according to the rules of syntax to meaningful units manifold [@dudel:1996].
+## Disabilities of the Language
 
-   > The human being speaks (...) We speak, because speaking is natural to us (...) One says, the human being has the language by nature (...) Only the language enables the human being to be that living being, which he is as a human being (...) As the speaking one the human being is: human being.  
-   > _Martin Heidegger_ [@heidegger:1959]
+Disabilities of language are always based on lesions of the brain or are due to a developmental disorder that has delayed or prevented language acquisition.
 
-   [^32]: conventional: here in the sense of “based on conventions”, agreed.
+1. Aphasia  
+   Aphasia is first of all the collective term for all damages occurring after language acquisition and affecting the area of linguistic communication.
+   They can affect both the perception and production of speech.
+   However, aphasia (literally speechlessness) in the narrower sense is usually understood as a disorder of speech production with preserved function of the organs and musculature needed for speech.
 
-   By language production, therefore, we want to understand the formation and processing of mental concepts, whereby, accessing the learned active vocabulary and applying the syntactic rules valid for the respective language, a message is prepared in such a way that it can be supplied to vocal articulation or to another suitable modality (writing, gestures, body language, etc.).
-   If this language manifests itself simultaneously in several modalities, then we speak of bimodal[^33] or multimodal communication.
+   Aphasia often also affects written language and sometimes the expression of gestures or the use of symbols.
+   In this sense, aphasia is a multimodal disability [@böhme:1997, @gadler:1996].
+   Aphasia may also affect the ability to understand and produce sign language, as has been found in deaf individuals with lesions of the language areas [@damasio:1993, @devlin:1999, @devlin:2000].
+   The frequency for Western countries is reported to be around $4$ out of $1\:000$ (statistics from UK and USA) [@carroll:1998].
 
-   [^33]: A typical example of bimodal communication is the simultaneous conversion of a linguistic expression into spoken language and sign language by the person speaking.
+   Simple, short and frequently used words, which were learned early in life, have the highest probability of still being mastered despite aphasia.
+   In any case, abstract words, complex syntactic constructions, and the passive form are problematic [@devlin:1999, @devlin:2000].
 
-2. Language acquisition  
-   According to N. Chomsky, the complexity of human language conflicts with the ease with which children acquire language.
-   Therefore, with the “Principles and Parameters Model”, he postulates that the basic features common to all languages are already biologically laid out (innate knowledge).
-   Using these “universal principles”, the acquisition of the mother tongue is “only” limited to the learning of those grammatical parameters which determine the syntactic differences of each language.
+   Clinically, aphasia is usually classified as follows, although different opinions exist regarding terminology (for a summary, see <<tab:classification-leading-symptoms-aphasic-syndrome>>) [@eberhard:1994, @pschyrembel:1989, @böhme:1997]:
 
-3. Vocabulary  
-   The vocabulary of the German language comprises (depending on the source and counting method) about $300\:000$ to $400\:000$ words.
-   Of these, about $60\%$ are nouns (nouns), $25\%$ are verbs (tense words), and $15\%$ are adjectives (property words) and adverbs (circumstantial words).
-   The English language is much richer.
-   Here it is said to have a word inventory of $600\:000$ to $800\:000$ words.
-   French, on the other hand, comprises only $100\:000$ words [@brockhaus:1994, @erben:1965, @geo-magazine:1997].
+   <table>
+     <thead>
+       <tr>
+         <td></td>
+         <th>Amnestic aphasia</th>
+         <th>Wernicke's aphasia<br/>Sensory A.</th>
+         <th>Broca's aphasia<br/>Motor A.</th>
+         <th>Global aphasia</th>
+       </tr>
+     </thead>
+     <tbody>
+       <tr>
+         <th scope="row">Speech production</th>
+         <td>mostly fluent</td>
+         <td>fluent</td>
+         <td>significantly slowed</td>
+         <td>scarce to zero, including speech automatisms</td>
+       </tr>
+       <tr>
+         <th scope="row">Articulation</th>
+         <td>mostly not disturbed</td>
+         <td>mostly not disturbed</td>
+         <td>often dysarthric</td>
+         <td>mostly dysarthric</td>
+       </tr>
+       <tr>
+         <th scope="row">Prosody</th>
+         <td>mostly well preserved</td>
+         <td>mostly well preserved</td>
+         <td>often leveled, also chanting</td>
+         <td>often leveled, mostly well preserved in automatisms</td>
+       </tr>
+       <tr>
+         <th scope="row">Sentence construction</th>
+         <td>barely disturbed</td>
+         <td>paragrammatism (duplications and entanglements of sentences and parts of sentences</td>
+         <td>agrammatism (only simple sentence structures, absence of function words)</td>
+         <td>only single-word phrases, speech automatisms</td>
+       </tr>
+       <tr>
+         <th scope="row">Word choice</th>
+         <td>Substitution strategies for word-finding disorders, some semantic paraphasias</td>
+         <td>many semantic paraphasias, often grossly divergent from the target word, semantic neologisms</td>
+         <td>relatively narrow vocabulary, hardly any semantic paraphasias</td>
+         <td>extremely limited vocabulary, grossly deviant semantic paraphasias</td>
+       </tr>
+       <tr>
+         <th scope="row">Sound structure</th>
+         <td>some phonemic paraphasias</td>
+         <td>many phonematic paraphasias up to neologisms, also phonematic jargon</td>
+         <td>many phonematic paraphasias</td>
+         <td>very many phonematic paraphasias and neologisms</td>
+       </tr>
+       <tr>
+         <th scope="row">Comprehension</th>
+         <td>slightly impaired</td>
+         <td>strongly disturbed</td>
+         <td>slightly disturbed</td>
+         <td>strongly disturbed</td>
+       </tr>
+     </tbody>
+   </table>
 
-   The average active vocabulary of an adult is $8\:000$ to $16\:000$ words, while the average passive vocabulary reaches nearly $100\:000$ words.
-   In contrast, $2\:000$ words are sufficient for $90\%$ comprehension of a simple, everyday text.
+   .classification-leading-symptoms-aphasic-syndrome#Classification and leading symptoms of aphasic syndromes according to Poeck, 1994 in [@böhme:1997].
 
-   At $18$ months, a child has about $50$ of word-like expressions.
-   One year later, the active vocabulary has increased to $400$ words and at the age of $3$ years to more than $700$ words.
-   Verbs have a special place in this process.
-   They are added to the active vocabulary later and with greater effort [@wilson:1998].
-   The passive vocabulary of a six-year-old child is reported to be no less than $23\:000$ words [@geo-magazine:1997].
+2. Paraphasia  
+   Paraphasia refers to a language disorder in which there are omissions, substitutions, additions, or rearrangements.
+   This can occur at the level of phonemes within a word (phonematic paraphasia) or words within a sentence (semantic or verbal paraphasia).
 
-4. Language and brain functions  
-   Recent research claims that a great many regions of the human brain are involved in understanding and producing language.
-   This is especially true when considering that language can be heard and read, spoken or written, and that there are numerous non-verbal forms of expression in addition to verbal language.
+3. Dysphasia  
+   Dysphasia (also _specific language impairment_ = SLI) refers to language impairments in brain local syndrome or delayed language development [@pschyrembel:1989].
+   The impairments often primarily affect verbs (the acquisition, morphology, vocabulary).
+   Verbs with the most general meaning possible are preferred.
+   There is little derivation of semantics (recognizing the meaning of a word) from syntax [@wilson:1998].
 
-   In the classical view of the brain regions involved, one starts, for the sake of better understanding, from heard speech and traces the chain of action to the production of a spoken response to what is heard.
+4. Agrammatism, Dysgrammatism  
+   Agrammatism is a disorder of grammatically correct expression (sentence structure disorder) after completed language development.
+   Speech is in simple, incorrect and often short expressions (telegram style).
+   Conjugations and declensions are missing, often the infinitive is used.
+   Agrammatism refers to the complete absence of syntax in linguistic utterances.
+   Milder forms (especially in childhood grammatical disorders) are called dysgrammatism Occurrence in motor aphasia (see above) and intellectual disabilities.
 
-   On the one hand, by observing and analyzing brain lesions and their effect on the linguistic competence and performance of subjects, and on the other hand, by using positron emission tomography (PET)[^34] it has been possible to find relatively narrowly defined areas in the brain that are responsible for the processing and production of speech.
+   <!-- FIXME: reference to German countries? -->
 
-   [^34]: Positron emission tomography can be used to create a cross-sectional image of the brain's energy balance and thus determine which areas of the brain have above-average activity during certain activities.
+5. Alexia, Dyslexia  
+   Dyslexia is used as a generalized term for a partial reading impairment with otherwise normal overall intelligence.
+   In German-speaking countries, the term _Legasthenie_ or _Lese- und Rechtschreibstörung_ (LRS) is usually used.
+   In affected children, confusion of graphemes[^37], faulty spelling, and reduced reading comprehension are noticeable from about the second grade.
+   Dyslexia of various degrees affects between $6$ and $10\%$ of children [@pschyrembel:1989].
+   According to a survey of $700$ disabled students at Glasgow University, individuals with dyslexia constitute the largest group [@busse:1998].
+   The reasons are still not clear, but both genetic and social influencing factors are suspected [@pschyrembel:1989].
 
-   The so-called Wernicke center[^35] is the “sensory” language region in the posterior, upper part of the temporal lobe of the dominant hemisphere of the brain in each case (in $99\%$ of right-handed persons and $60\%$ of left-handed persons on the left side of the body).
+   [^37]: Grapheme refers to the smallest meaning-bearing unit of written language.
 
-   [^35]: Carl Wernicke, German neurologist and psychiatrist, $1848-1905$
+   In the case of dyslexia, it must be noted that reading and spelling disorders can occur together as well as separately.
+   As a rule, arithmetic is not affected.
+   If there is a complete inability to read, it is called alexia.
+   If reading fails due to a lack of recognition of letters, the condition is known as _superficial alexia_ (literary alexia).
+   If, on the other hand, words are not recognized, it is a case of _deep alexia_ or verbal alexia.
 
-   Earlier, Broca[^36] was able to locate the “motor” language region in the lower turn of the frontal lobe of the dominant hemisphere, named after him as Broca's center.
+   The discussion about dyslexia makes it clear how easily we tend to proceed in terms of “defectology” and talk about impairments and weaknesses without thinking about advantages and strengths.
+   Individuals with dyslexia undoubtedly exhibit weakness in verbalizing, but usually show strengths in visualizing and using pictorial representations of facts.
+   Weaknesses on the constructive side are counterbalanced by strengths in analytical thinking.
+   It may have been these shifts in emphasis that enabled dyslexic individuals such as Faraday or Einstein to achieve the scientific feats that set them apart [@mccausland:1994].
 
-   [^36]: Paul Broca, French surgeon and anthropologist, $1824-1880$.
+6. Acalculia, Dyscalculia  
+   A partial performance weakness in dealing with numbers is called dyscalculia or arithmasthenia.
+   If there is a complete inability to calculate, it is called acalculia.
 
-   The two terms “sensory” and “motor” center seem rather misleading in an overall consideration of the brain's linguistic activity, especially since the “motor center”, despite its topographical proximity, has nothing to do with the motor cortex responsible for the speech process.
-
-   If one tries to name the two language centers according to their linguistic task, then the Wernicke center represents, so to speak, the lexicon in which the terms and their meaning (semantics) are stored.
-   Together with the functions for memory and assignment localized in the near occipital lobe, it is assumed that the words for the subsequent sentence formation are determined in the Wernicke area from abstract thoughts that have not yet been formulated in language by searching for the appropriate terms.
-
-   <!-- FIXME: missing bibliography entry: [MET 94] -->
-
-   ![Model for the production of spoken language.](./pics/07/modell-produktion-gesprochene-sprache.color.svg "model-production-spoken-language#Model for the production of spoken language [@zagler:2008, @met:1994].")
-
-   According to this model, Broca's center then takes over these word components as a “grammar machine,” supplements them with the necessary function words, and builds a syntactically correct sentence from them.
-
-   In the following step, the completed sentence, when it is to be pronounced, is passed on to that part of the motor cortex which is responsible for the correct control of about a hundred muscles involved in the articulation of spoken language.
-   Analogous mechanisms operate for written language and nonverbal communication.
-
-   The Wernicke area also has tasks in recognizing heard words.
-   Another center (optical speech center) is active during reading.
-
-   The language centers of the dominant brain hemisphere (mostly on the left) are responsible for the basic functions "lexicon", "semantics" and "grammar".
-   However, this should not hide the fact that the non-dominant brain hemisphere also has an important task to fulfill in understanding and producing language.
-   If the bar (corpus callosum), the connection between the two brain hemispheres, fails (injuries, tumors), persons lose the ability to distinguish emotional components in language (angry, ironic, humorous, etc.) or to understand figurative language (metaphors) other than in a purely literal sense [@eberhard:1994].
+7. Agraphia  
+   Similar to reading, writing can also be affected by a partial impairment.
+   An inability to write with intact hand motor skills and normal intelligence is called agraphia.
 
 {.lower-alpha}
 
-## Speech, Voice Formation and Speech Organs
+## Impairments of Speech
 
-1. Organs of voice formation  
-   Human voice production, which is unique in all of nature, is accomplished through a complex interaction of a variety of organ systems:
+A weak respiratory system affects the loudness and persistence of vocal utterances.
+Laryngeal disorders cause breathy, hoarse, soft, whispery, or slowed pronunciation.
+Dysfunctions of the soft palate result in either overly nasal articulation or absence of nasal sounds.
+If the anterior articulation system (tongue, jaw, lips) is impaired, the result is slurred, slow, imprecise, or uncoordinated pronunciation.
+Other articulation disorders may result in varying pitch, fluctuating volume, excessive rate of speech, or disturbances in the rhythm of speech (poluttering, stuttering).
 
-   - The respiratory system (the lungs and airways) must provide sufficient air volume and pressure.
-   - The larynx with the vocal cords serves to produce sounds (in the sense of tones together with their harmonics), which in this context are called voice.
-   - The articulation system, consisting of the pharynx, oral cavity and nasal cavity, forms the individual phonemes, i.e. the elements of spoken language, from the sound coming from the larynx.
-   - The voice formation in the larynx (position of the vocal cords) and all movements of the articulation organs (primarily position of the tongue, palate, jaws and lips) are carried out by the motor speech center of the brain.
-   - The role of the auditory system in speech production should not be underestimated.
-     Only through the feedback of one's own voice is natural speech acquisition and perfect articulation possible.
-     If this feedback is not guaranteed due to damage to the ear or the auditory pathway, language acquisition is only possible by means of special educational and therapeutic measures.
+1. Dysarthria, Anarthria  
+   Speech disorder caused by paralysis or coordination disorder of the speech muscles as a result of damage to the cranial nerves [@strässle:1998].
+   The whole complex of voice formation disorders described above is called _dysarthria_ or _dysarthrias_.
+   Dysarthria can occur as a result of cerebral palsy, muscular dystrophy, apoplexy (cerebral stroke), Parkinson's syndrome, amyotrophic lateral sclerosis (ALS), multiple sclerosis (MS), Huntington's disease, brain tumors, myasthenia gravis, or after traumatic brain injury, poisoning, or drug abuse.
 
-   The position of the vocal cords determines whether the exhaled air can pass through the glottis (gap between the vocal cords, _glottis_) unhindered (normal breathing) or whether it can cause the vocal cords to vibrate when the glottis is narrowed (phonation).
-   The more the vocal cords are tense and the higher the pressure of the exhaled air, the higher the frequency of vibration produced by the vocal cords.
-   A separate position of the vocal cords is present in the whispering voice.
-   The four most important positions of the vocal cords are shown in <<fig:position-of-voice-bands>>.
+   Anarthria refers to the most severe form of dysarthria in which specific articulation of sounds and sentence elements is not possible [@strässle:1998].
+   Cerebral damage causing dysarthria or anarthria often also causes movement disorders that prevent the affected person from making controlled gestures.
+   This presents an additional obstacle to communication [@strässle:1998].
 
-   Depending on its position, the soft palate regulates the inflow of air into the oral or nasal cavity (or both), thereby contributing to the coloration of the sound.
-   Tongue, teeth and lips cause differentiation in articulation.
+2. Aphonia, Dysphonia  
+   The complete failure of phonation (voice production) is called aphonia.
+   Voice disorders (hoarse, busy, rough voice) and limitation of voice performance is called dysphonia.
+   Causes are, besides psychological influences (shock, stress), various anomalies and diseases of the larynx (also due to injury or intubation).
 
-   ![Position of the vocal cords](./pics/07/stellung-der-stimmbaender.svg "position-of-voice-bands#Position of the vocal cords [@servier-medical-art:2019,  @mörike:1981].")
+{.lower-alpha}
 
-   ::: figcaption
+## Disorders in the Border Area Between Speech and Language
 
-   1. with quiet breathing;
-   2. with forced breathing;
-   3. in voice production;
-   4. with whispered voice.
-      {.lower-alpha}
+Disorders that fall into the border area between speech and language, i.e., in the transition from language conceived in words to sound formation (assignment of phonemes), are deliberately treated here with the speech disorders.
+Although their causes lie before the actual articulation, this is because the aids used here must not support the speech itself, but the pronunciation.
 
-   :::
+1. Dyslalia  
+   Dyslalia is a disorder of articulation in which phonemes are changed or replaced by others.
+   The causes may include central speech disorders and delayed speech development.
+
+2. Echolalia  
+   Echolalia refers to the compulsive verbal or modified repetition of words and sentences heard or said without regard to the content or situation.
+   It is part of natural language development in children between the ages of one and two, but later it is a sign of a language disorder.
+
+3. Bradylalia  
+   Bradylalia (also known as bradyarthria or bradyglossia) is a slowing of the speech rate observed, for example, in multiple sclerosis.
 
 {.lower-alpha}
 
