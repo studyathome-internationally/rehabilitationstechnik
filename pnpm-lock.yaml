@@ -8,6 +8,7 @@ specifiers:
   katex: ^0.16.4
   markdown-it: ^13.0.1
   markdown-it-abbr: ^1.0.4
+  markdown-it-anchor: ^8.6.7
   markdown-it-attrs: ^4.1.6
   markdown-it-cite: ^0.0.2
   markdown-it-footnote: ^3.0.3
@@ -34,6 +35,7 @@ devDependencies:
   katex: 0.16.4
   markdown-it: 13.0.1
   markdown-it-abbr: 1.0.4
+  markdown-it-anchor: 8.6.7_ea7kj7wzjkld5jo2noyjqxi764
   markdown-it-attrs: 4.1.6_markdown-it@13.0.1
   markdown-it-cite: 0.0.2
   markdown-it-footnote: 3.0.3
@@ -2928,6 +2930,16 @@ packages:
 
   /markdown-it-abbr/1.0.4:
     resolution: {integrity: sha512-ZeA4Z4SaBbYysZap5iZcxKmlPL6bYA8grqhzJIHB1ikn7njnzaP8uwbtuXc4YXD5LicI4/2Xmc0VwmSiFV04gg==}
+    dev: true
+
+  /markdown-it-anchor/8.6.7_ea7kj7wzjkld5jo2noyjqxi764:
+    resolution: {integrity: sha512-FlCHFwNnutLgVTflOYHPW2pPcl2AACqVzExlkGQNsi4CJgqOHN7YTgDd4LuhgN1BFO3TS0vLAruV1Td6dwWPJA==}
+    peerDependencies:
+      '@types/markdown-it': '*'
+      markdown-it: '*'
+    dependencies:
+      '@types/markdown-it': 12.2.3
+      markdown-it: 13.0.1
     dev: true
 
   /markdown-it-attrs/4.1.6_markdown-it@13.0.1:
