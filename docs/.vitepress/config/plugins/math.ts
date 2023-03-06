@@ -201,7 +201,7 @@ function math_plugin(md, options) {
     options.displayMode = false;
     options.strict = "ignore";
     try {
-      return katex.renderToString(latex, options).replaceAll("<annotation ", '<annotation aria-hidden="true" ');
+      return katex.renderToString(latex, options).replaceAll(/<annotation.*?<\/annotation>/g, "");
     } catch (error) {
       if (options.throwOnError) {
         console.log(error);
@@ -220,7 +220,7 @@ function math_plugin(md, options) {
     try {
       return (
         "<p v-pre class='katex-block'>" +
-        katex.renderToString(latex, options).replaceAll("<annotation ", '<annotation aria-hidden="true" ') +
+        katex.renderToString(latex, options).replaceAll(/<annotation.*?<\/annotation>/g, "") +
         "</p>"
       );
     } catch (error) {
