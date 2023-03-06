@@ -12,6 +12,8 @@ import MdItSub from "markdown-it-sub";
 import MdItSup from "markdown-it-sup";
 import MdItInclude from "markdown-it-include";
 
+import MdItAnchor from "markdown-it-anchor";
+
 import MdItAbbreviation from "./config/plugins/abbreviation";
 import MdItFootnote from "./config/plugins/footnote";
 import MdItMath from "./config/plugins/math";
@@ -169,6 +171,14 @@ function markdown() {
       md.use(MdItAbbreviation);
       md.use(MdItFootnote);
       md.use(MdItMath);
+    },
+    anchor: {
+      permalink: MdItAnchor.permalink.linkAfterHeader({
+        style: "aria-label",
+        assistiveText: (title) => `Permalink to "${title}"`,
+        visuallyHiddenClass: "visually-hidden",
+        wrapper: ['<div class="header-wrapper">', "</div>"],
+      }),
     },
   };
 }
