@@ -168,7 +168,7 @@ Sie wird in <<tab:beispiel-technische-klassifikation-iso-9999>> anhand von einig
       <td>Index tone generators</td>
     </tr>
     <tr>
-      <td rowspan="2">33</td>
+      <td rowspan="2"><MathML formula="33"/></td>
       <td rowspan="2">Television and video equipment</td>
       <td><MathML formula="03"/></td>
       <td>Television sets</td>

@@ -168,7 +168,7 @@ It is described in more detail in <<tab:example-technical-classification-iso-999
       <td>Index tone generators</td>
     </tr>
     <tr>
-      <td rowspan="2">33</td>
+      <td rowspan="2"><MathML formula="33"/></td>
       <td rowspan="2">Television and video equipment</td>
       <td><MathML formula="03"/></td>
       <td>Television sets</td>
@@ -306,13 +306,13 @@ From this it can be seen what limitations must be expected in the use of vicaria
 Smell and taste are, therefore, not considered for vicariates.
 Thermal stimuli also provide only small bandwidths.
 
-| Sense Organ    | Bandwidth in $\sf{bit/s}$ |
-| -------------- | ------------------------- |
-| Vision (Eye)   | $10^{6}\;\sf{bit/s}$      |
-| Hearing (Ear)  | $10^{4}\;\sf{bit/s}$      |
-| Touch (Skin)   | $10^{2}\;\sf{bit/s}$      |
-| Smell (Nose)   | $\lt10\;\sf{bit/s}$       |
-| Taste (Tongue) | $\lt10\;\sf{bit/s}$       |
+| Sense Organ    | Bandwidth in $\sf{bit/s}$       |
+| -------------- | ------------------------------- |
+| Vision (Eye)   | $\SI{10^{6}}{\bits\per\second}$ |
+| Hearing (Ear)  | $\SI{10^{4}}{\bits\per\second}$ |
+| Touch (Skin)   | $\SI{10^{2}}{\bits\per\second}$ |
+| Smell (Nose)   | $\lt\SI{10}{\bits\per\second}$  |
+| Taste (Tongue) | $\lt\SI{10}{\bits\per\second}$  |
 
 .bandwidths-human-sense-organs#Bandwidths of the human sensory organs [@kokjer:1987, @way:1997].
 

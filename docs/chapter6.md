@@ -24,7 +24,7 @@ The typical nerve cell, the neuron, consists of the roundish cell body, the fila
 The nerve cell can receive information via the cell body and the dendrites, and the axon is responsible for transmitting information to other neurons (<<fig:structure-nerve-cell>>).
 
 The point where information is transferred from one nerve cell to another is called a synapse.
-There, an axon (or the branches occurring at the end of an axon) approaches another cell body or the dendrites of a nerve cell to within $0.02\;\sf{{\mu}m}$.
+There, an axon (or the branches occurring at the end of an axon) approaches another cell body or the dendrites of a nerve cell to within $\SI{0.02}{\micro\meter}$.
 Across this gap, information is transmitted by a chemical process (release of neurotransmitters).
 
 ![Structure of a nerve cell (neuron).](./pics/06/aufbau-nervenzelle.svg "structure-nerve-cell#Structure of a nerve cell (neuron) [@servier-medical-art:2019, @maelicke:1990].")
