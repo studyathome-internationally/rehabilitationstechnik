@@ -11,6 +11,7 @@ for rendering output.
 "use strict";
 
 import katex from "katex";
+import macros from "./macros";
 
 // Test if potential opening or closing delimieter
 // Assumes that there is a "$" at state.src[pos]
@@ -195,80 +196,32 @@ function math_plugin(md, options) {
   // Default options
 
   options = options || {};
+  options.displayMode = true;
+  options.strict = true;
   options.output = "mathml";
-  options.macros = {
-    "\\SI": "{#1\\;\\mathrm{#2}}",
-    "\\squared": "{^{2}}",
-    "\\cubed": "{^{3}}",
-    "\\per": "/",
-    "\\tera": "T",
-    "\\giga": "G",
-    "\\mega": "M",
-    "\\kilo": "k",
-    "\\milli": "m",
-    "\\micro": "μ",
-    "\\nano": "n",
-    "\\kilogram": "\\text{kg}\\,",
-    "\\meter": "\\text{m}\\,",
-    "\\second": "\\text{s}\\,",
-    "\\ampere": "\\text{A}\\,",
-    "\\kelvin": "\\text{K}\\,",
-    "\\mol": "\\text{mol}\\,",
-    "\\candela": "\\text{cd}\\,",
-    "\\newton": "\\text{N}\\,",
-    "\\hertz": "\\text{Hz}\\,",
-    "\\pascal": "\\text{Pa}\\,",
-    "\\volt": "\\text{V}\\,",
-    "\\watt": "\\text{W}\\,",
-    "\\joule": "\\text{J}\\,",
-    "\\henry": "\\text{H}\\,",
-    "\\farad": "\\text{F}\\,",
-    "\\coulomb": "\\text{C}\\,",
-    "\\ohm": "\\Omega\\,",
-    "\\weber": "\\text{Wb}\\,",
-    "\\tesla": "\\text{T}\\,",
-    "\\degree": "\\text{deg}\\,",
-  };
+  options.macros = macros;
 
-  // set KaTeX as the renderer for markdown-it-simplemath
-  var katexInline = function (latex) {
-    options.displayMode = false;
-    options.strict = "ignore";
+  var katexRenderer = function (latex, mode, errorElement) {
+    options.displayMode = mode;
     try {
-      return katex.renderToString(latex, options).replaceAll(/<annotation.*?<\/annotation>/g, "");
+      return katex
+        .renderToString(latex, options)
+        .replace(/^<span class="katex">/, "")
+        .replace(/<\/span>$/, "")
+        .replace(/^<math /, "<math v-pre ");
     } catch (error) {
-      if (options.throwOnError) {
-        console.log(error);
-      }
-      return `<span v-pre class='katex-error' title='${escapeHtml(error.toString())}'>${escapeHtml(latex)}</span>`;
+      if (options.throwOnError) console.log(error);
+      const e = escapeHtml(error.toString());
+      return `<${errorElement} v-pre class="katex-error" title="${e}">${escapeHtml(latex)}</${errorElement}>`;
     }
   };
 
   var inlineRenderer = function (tokens, idx) {
-    return katexInline(tokens[idx].content).replace(`<span class="katex">`, `<span v-pre class="katex">`);
-  };
-
-  var katexBlock = function (latex) {
-    options.displayMode = true;
-    options.strict = "ignore";
-    try {
-      return (
-        "<p v-pre class='katex-block'>" +
-        katex.renderToString(latex, options).replaceAll(/<annotation.*?<\/annotation>/g, "") +
-        "</p>"
-      );
-    } catch (error) {
-      if (options.throwOnError) {
-        console.log(error);
-      }
-      return `<p v-pre class='katex-block katex-error' v-pre title='${escapeHtml(error.toString())}'>${escapeHtml(
-        latex
-      )}</p>`;
-    }
+    return katexRenderer(tokens[idx].content, false, "span");
   };
 
   var blockRenderer = function (tokens, idx) {
-    return katexBlock(tokens[idx].content) + "\n";
+    return katexRenderer(tokens[idx].content, true, "p");
   };
 
   md.inline.ruler.after("escape", "math_inline", math_inline);
