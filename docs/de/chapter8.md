@@ -85,7 +85,7 @@ Bei den Refraktionsanomalien unterscheiden wir:
    ![Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut](./pics/06/strahlengang-hyperopie.svg "strahlengang-hyperopie#Strahlengang bei Hyperopie und Korrektur durch eine Sammellinse; ohne Korrektur schneiden sich Strahlen hinter der Netzhaut [@mörike:1981].")
 
 3. Alterssichtigkeit  
-   Die sogenannte Alterssichtigkeit (Presbyopie, presbyopia) hat ähnliche Auswirkungen wie die Hyperopie, jedoch liegt hier die Ursache in einer mit zunehmendem Alter verringerte Elastizität der Augen-Linse (siehe auch <<fig:augenlinse-und-akkommodation>>).
+   Die sogenannte Alterssichtigkeit (Presbyopie, presbyopia) hat ähnliche Auswirkungen wie die Hyperopie, jedoch liegt hier die Ursache in einer mit zunehmendem Alter verringerte Elastizität der Augen-Linse (siehe auch [Abbildung: Augenlinse und Akkommodation](/de/chapter7.html#augenlinse-und-akkommodation)).
    Dadurch wird die Nahakkommodation eingeschränkt und der Nahpunkt rückt immer mehr in die Ferne.
    Von Presbyopie wird gesprochen, wenn der Akkommodationsbereich (der sog. Akkommodationserfolg) auf Werte unter $4\;\sf{dpt}$ gesunken ist (Werte in der Jugend liegen bei $12\;\sf{dpt}$).
 

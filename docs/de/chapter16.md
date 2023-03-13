@@ -307,9 +307,9 @@ Dabei ist die Krankheitsursache (Ätiologie) zwar meist einheitlich, der Krankhe
    Bei den Ursachen, die zu einem Wachkoma führen können, unterscheidet man zunächst zwischen akuten Ursachen auf der einen und kongenitaler bzw. degenerativen Ursachen auf der anderen Seite [@persistent-vegetative-state:1994:part-1].
 
    Die akuten Ursachen können sowohl einen traumatischen Hintergrund (Schädelhirntrauma z. B. durch Unfall oder Schussverletzung) als auch nicht traumatische Hintergründe (Hypoxie durch Kreislaufstillstand oder Ertrinken, Gehirnschlag, Meningitis, Tumore oder Vergiftungen) haben.
-   Die statistische Entwicklung von Patienten / Patientinnen mit PVS $12$ Monate nach einer akuten Ursache ist in <<fig:modell-produktion-gesprochene-sprache>> dargestellt.
+   Die statistische Entwicklung von Patienten / Patientinnen mit PVS $12$ Monate nach einer akuten Ursache ist in [Abbildung: Modell für die Produktion gesprochener Sprache](/de/chapter14.html#modell-produktion-gesprochene-sprache) dargestellt.
    Zu beachten ist, dass die Prognosen sowohl zwischen traumatischen und nicht-traumatischen Auslösern als auch zwischen Erwachsenen und Kindern große Unterschiede aufweisen.
-   <<fig:modell-produktion-gesprochene-sprache>> zeigt außerdem für jenen Teil der Personen, die innerhalb eines Jahres aus dem PVS erwachen, die Wahrscheinlichkeit und den Grad einer zu erwartenden Behinderung [@kinney:1994, @persistent-vegetative-state:1994:part-1].
+   [Abbildung: Modell für die Produktion gesprochener Sprache](/de/chapter14.html#modell-produktion-gesprochene-sprache) zeigt außerdem für jenen Teil der Personen, die innerhalb eines Jahres aus dem PVS erwachen, die Wahrscheinlichkeit und den Grad einer zu erwartenden Behinderung [@kinney:1994, @persistent-vegetative-state:1994:part-1].
 
    ![Prognose für Menschen mit PVS nach 12 Monaten; für den Anteil, der wieder das Bewusstsein erlangt, ist der Grad der zu erwartenden Behinderungen angegeben.](./pics/07/prognose-pvs.color.svg "prognose-pvs#Prognose für Menschen mit PVS nach $12$ Monaten; für den Anteil, der wieder das Bewusstsein erlangt, ist der Grad der zu erwartenden Behinderungen angegeben [@zagler:2008,  @persistent-vegetative-state:1994:part-2].")
 

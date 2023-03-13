@@ -400,7 +400,7 @@ Den Muskelerkrankungen im engeren Sinn (primäre Neuropathien) ist das Kapitel [
 
 4. Läsionen des Rückenmarkes und von Nervenbahnen – Querschnittlähmung  
    Querschnittläsionen (_transverse lesion_, _spinal cord injury_) sind vollständige oder teilweise Schädigungen des Rückenmarks nach Wirbelbrüchen, Bandscheibenvorfall, Tumoren u. a..
-   Läsionen des Rückenmarks oberhalb von $\sf{Th}1$ führen zu Tetraparesen, unterhalb von $\sf{Th}1$ zu Paraparesen, es sind also nur die unteren Extremitäten betroffen (siehe dazu <<fig:wirbelsaeule>> und <<tab:klassifizierung-laehmungen>>) [@pschyrembel:1989].
+   Läsionen des Rückenmarks oberhalb von $\sf{Th}1$ führen zu Tetraparesen, unterhalb von $\sf{Th}1$ zu Paraparesen, es sind also nur die unteren Extremitäten betroffen (siehe dazu [Abbildung: Wirbelsäule](/de/chapter12.html#wirbelsaeule) und <<tab:klassifizierung-laehmungen>>) [@pschyrembel:1989].
    Die typischen Zusammenhänge zwischen der Höhe der Läsion und den daraus resultierenden funktionalen Konsequenzen zeigt <<tab:auswirkungen-querschnittlaesionen>>; nach [@müller:1994].
 
    Wenn auch in der meisten Literatur die Grenze zwischen Tetraplegie und Paraplegie bei $\sf{Th}1$ (Brustwirbel $1$) angesetzt wird, ist der Unterschied zwischen Läsionen bei $\sf{C}5$ und $\sf{C}6$ (Halswirbel $5$ und $6$) nach anderen Quellen für die betroffene Person besonders gravierend.
