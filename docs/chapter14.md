@@ -18,11 +18,11 @@ abbreviations:
 
 # Language and Speech
 
-The spoken (vocalized) utterances of a human being are based on a two-stage process in which we must strictly distinguish between the elements _language_ (semantic representation system) and _speaking_ (phonetic representation system).
+The spoken (vocalized) utterances of a human being are based on a two-stage process in which we must strictly distinguish between the elements _language_ (semantic representation system) and _speech_ (phonetic representation system).
 Language is the encoding of abstract patterns of thought into a sequence of graphic signs (e.g., letters) or phonetic elements (phonemes).
-We call the manifestation of characters “writing”; we call the realization of sounds “speaking” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
+We call the manifestation of characters “writing”; we call the realization of sounds “speech” [@dudel:1996, @böhme:1997, @pschyrembel:1989].
 
-In the complex “language – speaking” four linguistic levels can be distinguished [@böhme:1997]:
+In the complex “language – speech” four linguistic levels can be distinguished [@böhme:1997]:
 
 - _Semantic-lexical level_: semantics – study of the content and meaning of words; lexicology – study of the vocabulary of a language.
 - _Syntactic-morphological level_: syntax – characterization of sentences and recognition of their internal structure; morphology or grammar – teaching of the structure and laws of a language.
@@ -34,11 +34,11 @@ In the complex “language – speaking” four linguistic levels can be disting
 1. Definitions  
    Language is a conventional[^32] system of signs for communication purposes [@brockhaus:1994].
    Communication between living beings can take place in many different ways.
-   In animals, gestures, gestures and scents play an important role in addition to sounds.
+   In animals, gestures and scents play an important role in addition to sounds.
    Despite the variety of the used expressions and forms of expression, the communication occurring with animals is not called language, since for the transmission of the message always only given, unchanged signs are used.
    Language in the sense of the usual definition exists only if there is a convention which makes it possible to produce and understand an unlimited number of arbitrary messages from a limited, supraindividual stock of signs (e.g. alphabet, vocabulary).
    According to current knowledge, these syntactic abilities required for this seem to occur exclusively in humans.
-   In this sense language consists of meaning-bearing elements (morphemes), which can be combined according to the rules of syntax to meaningful units manifold [@dudel:1996].
+   In this sense language consists of meaning-bearing elements (morphemes), which can be combined according to the rules of syntax to manifold meaningful units [@dudel:1996].
 
    > The human being speaks (...) We speak, because speaking is natural to us (...) One says, the human being has the language by nature (...) Only the language enables the human being to be that living being, which he is as a human being (...) As the speaking one the human being is: human being.  
    > _Martin Heidegger_ [@heidegger:1959]
@@ -122,7 +122,7 @@ In the complex “language – speaking” four linguistic levels can be disting
    - The articulation system, consisting of the pharynx, oral cavity and nasal cavity, forms the individual phonemes, i.e. the elements of spoken language, from the sound coming from the larynx.
    - The voice formation in the larynx (position of the vocal cords) and all movements of the articulation organs (primarily position of the tongue, palate, jaws and lips) are carried out by the motor speech center of the brain.
    - The role of the auditory system in speech production should not be underestimated.
-     Only through the feedback of one's own voice is natural speech acquisition and perfect articulation possible.
+     Only through the feedback of one's own voice natural speech acquisition and perfect articulation is possible.
      If this feedback is not guaranteed due to damage to the ear or the auditory pathway, language acquisition is only possible by means of special educational and therapeutic measures.
 
    The position of the vocal cords determines whether the exhaled air can pass through the glottis (gap between the vocal cords, _glottis_) unhindered (normal breathing) or whether it can cause the vocal cords to vibrate when the glottis is narrowed (phonation).

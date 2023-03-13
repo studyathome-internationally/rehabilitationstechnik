@@ -378,7 +378,7 @@ Chapter [Muscular Causes](./chapter13.html#muscular-causes) is devoted to muscle
        Symptoms include impaired consciousness and marked motor paralysis.
 
    - _Skull Trauma_  
-     Head injury, _traumatic brain injury_, TBI) is the generic term for all skull injuries involving the brain due to accident or other injury.
+     Head injury (_traumatic brain injury_, TBI) is the generic term for all skull injuries involving the brain due to accident or other injury.
      Depending on the extent and localization of the injury and the primary (destruction of nerve tissue) and secondary (hemorrhage, pressure on adjacent regions) effects of the injury, all the damage known from infarcts or tumor diseases may occur.
 
    - _Hypoxia_  
@@ -388,7 +388,7 @@ Chapter [Muscular Causes](./chapter13.html#muscular-causes) is devoted to muscle
 
 4. Lesions of the spinal cord and nerve tracts – paraplegia  
    Transverse lesions (_transverse lesion_, _spinal cord injury_) are complete or partial damage to the spinal cord following vertebral fractures, disc herniation, tumors, and others.
-   Lesions of the spinal cord above $\sf{Th}1$ lead to tetraparesis, below $\sf{Th}1$ to paraparesis, thus only the lower extremities are affected (see <<fig:vertebral-column>> and <<tab:classification-paralysis>>) [@pschyrembel:1989].
+   Lesions of the spinal cord above $\sf{Th}1$ lead to tetraparesis, below $\sf{Th}1$ to paraparesis, thus only the lower extremities are affected (see [Figure: Vertebral column](chapter12.html#vertebral-column) and <<tab:classification-paralysis>>) [@pschyrembel:1989].
    The typical relationships between the level of the lesion and the resulting functional consequences are shown in <<tab:effects-spinal-cord-lesions>>; after [@müller:1994].
 
    Although most literature places the boundary between tetraplegia and paraplegia at $\sf{Th}1$ (thoracic vertebra $1$), according to other sources, the difference between lesions at $\sf{C}5$ and $\sf{C}6$ (cervical vertebrae $5$ and $6$) is particularly severe for the affected person.

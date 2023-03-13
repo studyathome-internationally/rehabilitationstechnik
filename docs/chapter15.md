@@ -18,15 +18,14 @@ abbreviations:
 
 # Verbal and Vocal Disabilities
 
-When considering disabilities in the area of verbal communication skills, it is important to distinguish between speech (as the verbal basis; English: _language_) and language (as the vocal form of expression; English: _speech_).
+When considering disabilities in the area of verbal communication skills, it is important to distinguish between language (as the verbal basis) and speech (as the vocal form of expression).
 To understand and produce language is an achievement of our brain.
 To express this language vocally or also by writing or gestures and thus to communicate is in the broadest sense an achievement of our motor skills (articulation, hand motor skills).
-(articulation, hand motor skills, etc.).
 
 Between these two clearly defined areas there are all those neural structures which are responsible for the conception of movements and for the transmission of nerve signals to the musculature.
-They form, so to speak, the link between speech and language.
+They form, so to speak, the link between language and speech.
 Disorders in this area can therefore not always be clearly assigned.
-In addition, disabilities can also affect both areas of speech and language at the same time, so that a clear classification is impossible in this case.
+In addition, disabilities can also affect both areas of language and speech at the same time, so that a clear classification is impossible in this case.
 A first classification of the areas in which disorders can occur is given in <<tab:disorders-complex-speech-speech>> [@böhme:1997, @carroll:1998].
 
 <table>
@@ -190,7 +189,7 @@ A weak respiratory system affects the loudness and persistence of vocal utteranc
 Laryngeal disorders cause breathy, hoarse, soft, whispery, or slowed pronunciation.
 Dysfunctions of the soft palate result in either overly nasal articulation or absence of nasal sounds.
 If the anterior articulation system (tongue, jaw, lips) is impaired, the result is slurred, slow, imprecise, or uncoordinated pronunciation.
-Other articulation disorders may result in varying pitch, fluctuating volume, excessive rate of speech, or disturbances in the rhythm of speech (poluttering, stuttering).
+Other articulation disorders may result in varying pitch, fluctuating volume, excessive rate of speech, or disturbances in the rhythm of speech (cluttering, stuttering).
 
 1. Dysarthria, Anarthria  
    Speech disorder caused by paralysis or coordination disorder of the speech muscles as a result of damage to the cranial nerves [@strässle:1998].
@@ -208,14 +207,14 @@ Other articulation disorders may result in varying pitch, fluctuating volume, ex
 
 {.lower-alpha}
 
-## Disorders in the Border Area Between Speech and Language
+## Disorders in the Border Area Between Language and Speech
 
-Disorders that fall into the border area between speech and language, i.e., in the transition from language conceived in words to sound formation (assignment of phonemes), are deliberately treated here with the speech disorders.
-Although their causes lie before the actual articulation, this is because the aids used here must not support the speech itself, but the pronunciation.
+Disorders that fall into the border area between language and speech, i.e., in the transition from language conceived in words to sound formation (assignment of phonemes), are deliberately treated here with the speech disorders.
+Although their causes lie before the actual articulation, this is because the aids used here must not support the language itself, but the pronunciation.
 
 1. Dyslalia  
    Dyslalia is a disorder of articulation in which phonemes are changed or replaced by others.
-   The causes may include central speech disorders and delayed speech development.
+   The causes may include central language disorders and delayed language development.
 
 2. Echolalia  
    Echolalia refers to the compulsive verbal or modified repetition of words and sentences heard or said without regard to the content or situation.

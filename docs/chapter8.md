@@ -79,7 +79,7 @@ In refractive anomalies we distinguish:
    ![Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina](./pics/06/strahlengang-hyperopie.svg "ray-trace-hyperopia#Beam path with hyperopia and correction by a converging lens; without correction, rays intersect behind the retina [@mörike:1981].")
 
 3. Presbyopia  
-   The so-called presbyopia has similar effects as hyperopia, but the cause is a reduced elasticity of the eye lens with increasing age (see also <<fig:eye-lens-and-accommodation>>).
+   The so-called presbyopia has similar effects as hyperopia, but the cause is a reduced elasticity of the eye lens with increasing age (see also [Figure: Eye lens and accommodation](/chapter7.html#eye-lens-and-accommodation)).
    As a result, near accommodation becomes limited and the near point moves more and more into the distance.
    Presbyopia is said to occur when the range of accommodation (the so-called accommodation success) has decreased to values below $4\;\sf{dpt}$ (values in youth are around $12\;\sf{dpt}$).
 

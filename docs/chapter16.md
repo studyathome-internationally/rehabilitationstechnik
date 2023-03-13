@@ -15,6 +15,7 @@ abbreviations:
 
 <!-- prettier-ignore -->
 *[CNS]: Central Nervous System
+*[EEG]: Electroencephalogram
 *[PET]: Positron emission tomography
 *[PVS]: Persistent vegetative state
 *[RS]: Rett syndrome
@@ -189,12 +190,12 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
 
 4. Rett syndrome (RS)  
    Rett syndrome[^44] is a disorder so far observed only in girls, probably inherited in an X-linked dominant manner, in the course of which there are brain atrophy (atrophy of neural tissue in the brain) as well as other changes in the brain.
-   Manifestation occurs between $6,$ month of life and $4,$ year of life.
+   Manifestation occurs between $6^{\text{th}}$ month of life and $4^{\text{th}}$ year of life.
    The effects are:
 
    [^44]: Andreas Rett, Austrian pediatrician.
 
-   - epilepsy
+   - Epilepsy
    - Delays in growth
    - Loss of previously acquired skills
    - Stereotyped hand movements (washing, kneading)
@@ -213,14 +214,14 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
    Usher syndrome is a major cause of deaf-blindness.
 
 6. Persistent vegetative state (PVS) and locked-in syndrome  
-   Waking coma (apallic syndrome, coma vigile, persistent vegetative state – PVS) refers to a clinical condition in which the patient is in a complete loss of perception of him/herself and his/her environment.
+   Vigilent coma (apallic syndrome, coma vigile, persistent vegetative state – PVS) refers to a clinical condition in which the patient is in a complete loss of perception of him/herself and his/her environment.
    The autonomic functions of the hypothalamus and brainstem are fully or partially preserved.
    An EEG is present and normal in the further course.
    However, visual stimulation lacks the usual blocking of alpha waves.
    Patients exhibit a natural sleep-wake cycle.
    Nevertheless, there is no evidence of reproducible goal-directed or volitional behavior in response to visual, tactile, auditory, or noxious stimuli [@persistent-vegetative-state:1994:part-1].
 
-   Wakefulness coma is clearly distinguishable from related conditions such as locked-in syndrome, coma, brain death, or severe dementia (see also the compilation in <<tab:wakefulness-coma-and-related-states>>):
+   Vigilent coma is clearly distinguishable from related conditions such as locked-in syndrome, coma, brain death, or severe dementia (see also the compilation in <<tab:wakefulness-coma-and-related-states>>):
 
    - Coma: Deep unconsciousness lasting more than one hour.
    - Brain death: permanent absence of all brain activity, including that of the brain stem.
@@ -244,7 +245,7 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
      </thead>
      <tbody>
        <tr>
-         <th scope="row">Wake coma</th>
+         <th scope="row">Vigilent coma</th>
          <td>absent</td>
          <td>intact</td>
          <td>no controlled movement</td>
@@ -298,20 +299,20 @@ The cause of the disease (etiology) is usually uniform, but the course of the di
 
    .wakefulness-coma-and-related-states#Persistent vegetative state (PVS) and related conditions [@persistent-vegetative-state:1994:part-1].
 
-   Among the causes that can lead to a waking coma, a distinction is made between acute causes on the one hand and congenital or degenerative causes on the other [@persistent-vegetative-state:1994:part-1].
+   Among the causes that can lead to a vigilent coma, a distinction is made between acute causes on the one hand and congenital or degenerative causes on the other [@persistent-vegetative-state:1994:part-1].
 
    Acute causes may have a traumatic background (traumatic brain injury, e.g., due to an accident or gunshot wound) or a non-traumatic background (hypoxia due to circulatory arrest or drowning, cerebral apoplexy, meningitis, tumors, or poisoning).
-   The statistical evolution of patients/patients with PVS $12$ months after an acute cause is shown in <<fig:model-production-spoken-language>>.
+   The statistical evolution of patients/patients with PVS $12$ months after an acute cause is shown in [Figure: Model for the production of spoken language](/chapter14.html#model-production-spoken-language).
    Note that prognoses vary widely between traumatic and nontraumatic triggers as well as between adults and children.
-   <<fig:model-production-spoken-language>> also shows, for that portion of individuals who awaken from PVS within 1 year, the probability and degree of expected disability [@kinney:1994, @persistent-vegetative-state:1994:part-1].
+   [Figure: Model for the production of spoken language](/chapter14.html#model-production-spoken-language) also shows, for that portion of individuals who awaken from PVS within 1 year, the probability and degree of expected disability [@kinney:1994, @persistent-vegetative-state:1994:part-1].
 
    ![Prognosis for people with PVS after 12 months; for the proportion regaining consciousness, the degree of disability expected.](./pics/07/prognose-pvs.color.svg "prognose-pvs#Prognosis for people with PVS after $12$ months; for the proportion regaining consciousness, the degree of disability expected is given [@zagler:2008,  @persistent-vegetative-state:1994:part-2].")
 
-   Non-acute causes of a vegetative state include, on the one hand, numerous malformations of the brain such as anencephaly (absence of essential brain parts), microencephaly (small brain), hydranencephaly (remodeling of the cerebrum into a fluid bubble) and congenital hydrocephalus.
+   Non-acute causes of a persistent vegetative state include, on the one hand, numerous malformations of the brain such as anencephaly (absence of essential brain parts), microencephaly (small brain), hydranencephaly (remodeling of the cerebrum into a fluid bubble) and congenital hydrocephalus.
    On the other hand, in adults, conditions such as Alzheimer's disease, Creutzfeldt-Jacob, Huntington's disease, Parkinson's disease, or multi-infarct dementia can result in PVS.
-   In children, gangliosidoses (lipid storage diseases) may be a cause of falling into a vegetative state [@persistent-vegetative-state:1994:part-1].
+   In children, gangliosidoses (lipid storage diseases) may be a cause of falling into a persistent vegetative state [@persistent-vegetative-state:1994:part-1].
 
-   The incidence of PVS is reported very differently, varying from $25$ to $60$ on $1\;\sf{million}$ EW.
+   The incidence of PVS is reported very differently, varying from $25$ to $60$ on $1\;\sf{million}$ residents.
    Only the smaller proportion has traumatic causes [@andrews:1993].
    It should be noted, however, that a definitive diagnosis is often very difficult and misdiagnosis can account for up to $60\%$ of cases studied [@andrews:1996].
 

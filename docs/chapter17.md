@@ -24,7 +24,7 @@ Aging represents a complex, irreversible process that is characterized by organi
 Theoretically, the aging process already begins at conception (biomorphosis). In practice, this is contrasted with the degenerative changes and functional losses that become much more pronounced with advancing age (senescence).
 
 When considering signs of aging, a conscious distinction should be made between chronological (calendar) age and biological age [@helander:1998].
-Classifying old people on the basis of age alone (as is repeatedly done in the context of statistics for lack of better options) creates highly heterogeneous populations whose abilities cannot be compared in many respects.
+Classifying old people on the basis of chronological age alone (as is repeatedly done in the context of statistics for lack of better options) creates highly heterogeneous populations whose abilities cannot be compared in many respects.
 
 <!-- FIXME: missing bibliography entry: [PLO 98] -->
 
@@ -37,7 +37,7 @@ It would therefore be an entirely wrong perspective to view them blanketly as di
 
 Percentage of the U.S. population living in households (source: U.S. Census Bureau [@mcneil:1995]) who
 
-1. are mildly or severely disabled;
+1. are disabled in general;
 2. are severely disabled;
 3. have problems in at least one activity of daily living[^45].
    {.lower-alpha}
@@ -51,12 +51,12 @@ Percentage of the U.S. population living in households (source: U.S. Census Bure
 
 ![Percentage of U.S. population living in households requiring assistance with daily living tasks – 1990/91 (source: U.S. Census Bureau WWW page).](./pics/07/prozentueller-anteil-hilfestellungen-us.color.svg "percentage-assistance-us#Percentage of U.S. population living in households needing assistance with daily living tasks – $1990/91$ (Source: U.S. Census Bureau WWW page, according to [@zagler:2008, @charness:1998:b]).")
 
-In a $1982$ study conducted in the U.S., it was found that $36\%$ of those caring for an elderly person were themselves over $65$ years old [@harootyan:1993].
+In a $1982$ study conducted in the U.S., it was found that $36\%$ of those caring for an old person were themselves over $65$ years old [@harootyan:1993].
 
 Declines in performance typical of the general aging process have been analyzed for a number of functions.
 They are described in the following points.
 However, it is important to reiterate here the particular heterogeneity of this population stratum.
-Much of the data elaborated below is based on averaging and thus attempts to represent the typical performance data of a statistical person of a certain age that does not exist in reality.
+Much of the data elaborated below are based on averaging and thus attempts to represent the typical performance data of a statistical person of a certain age that does not exist in reality.
 Rather, it is known that in many cases the extreme values of a given measurement scale are much more crowded than the middle [@harrington:1998].
 Therefore, the values given here can only represent a general trend line.
 
@@ -64,7 +64,7 @@ Therefore, the values given here can only represent a general trend line.
 
 1. Increase in eye diseases  
    With age, the statistical probability of suffering irreversible damage to the eyes increases significantly.
-   <<tab:increase-eye-diseases-age>> shows the frequencies of occurrence of cataracts, glaucoma, and age-related maculopathy collected for the United States for three age strata between $52$ and $85$ years.
+   <<tab:increase-eye-diseases-age>> shows the frequencies of occurrence of cataract, glaucoma, and age-related maculopathy collected for the United States for three age strata between $52$ and $85$ years.
 
    <table>
      <thead>
@@ -101,7 +101,7 @@ Therefore, the values given here can only represent a general trend line.
 
 2. General decrease in visual performance (visual acuity).  
    In addition to the increasing probability of suffering a visual impairment due to disease with age, there are numerous degenerative processes of the eye.
-   From <<fig:decrease-visual-performance-at-age>> it is evident that visual performance (visual acuity, V) statistically decreases by about $0.1\;\sf{V}$ per decade of life, starting with the $40th year of life, despite correction by glasses or contact lenses.
+   From <<fig:decrease-visual-performance-at-age>> it is evident that visual performance (visual acuity, V) statistically decreases by about $0.1\;\sf{V}$ per decade of life, starting with the $40^{\text{th}}$ year of life, despite correction by glasses or contact lenses.
    In the age group $65-74$ years $92\%$ of the persons have a visual acuity better than $0.8$ (with best possible correction), but for the age group $75-84$ this value decreases to $69\%$ [@kahn:1977].
 
    <!-- FIXME: missing bibliography entry: [GIT 86] -->
@@ -162,9 +162,9 @@ Therefore, the values given here can only represent a general trend line.
      <colgroup span="2"></colgroup>
      <thead>
        <tr>
-         <th rowspan="2">Alter [Jahre]</th>
-         <th colspan="2">min. (Tag)</th>
-         <th colspan="2">max. (Nacht)</th>
+         <th rowspan="2">Age [years]</th>
+         <th colspan="2">min. (Day)</th>
+         <th colspan="2">max. (Night)</th>
        </tr>
        <tr>
          <th>Ø [mm]</th>
@@ -207,7 +207,7 @@ Therefore, the values given here can only represent a general trend line.
 
    .age-dependence-pupil-diameter#Age dependence of pupil diameter – f is the rounded f-number corresponding to the equivalent photographic system [@zagler:1997, @methling:1996].
 
-   ![Dependence of pupil diameter on age.](./pics/07/abhaengigkeit-pupillendurchmesser-vom-alter.color.svg "abhaengigkeit-pupillendurchmesser-vom-alter#Abhängigkeit des Pupillendurchmessers vom Alter [@zagler:2008, @methling:1996].")
+   ![Dependence of pupil diameter on age.](./pics/07/abhaengigkeit-pupillendurchmesser-vom-alter.color.svg "abhaengigkeit-pupillendurchmesser-vom-alter#Dependence of pupil diameter on age. [@zagler:2008, @methling:1996].")
 
    ::: figcaption
 
@@ -217,7 +217,7 @@ Therefore, the values given here can only represent a general trend line.
    :::
 
    Even in photopic conditions, the pupil diameter of a person over $60$ years old is much smaller than in youth, so that the luminous flux reaching the retina of a $60$ year old person is only $1/3$ of a $20$ year old person, and thus the illuminance required for comparable visual performance is three times as great [@methling:1996].
-   Especially in the elderly, the improvement in visual performance achievable by increasing illuminance is significant.
+   Especially in the older population, the improvement in visual performance achievable by increasing illuminance is significant.
    According to [@fozard:1993], visual performance and visual comfort increase proportionally with the square root of the amount of light provided.
 
    An increase in the amount of light causes the iris to form a smaller pupil diameter.
@@ -235,7 +235,7 @@ Therefore, the values given here can only represent a general trend line.
 ## Listening
 
 The number of persons affected by hearing impairment within an age group increases almost exponentially with age.
-<<fig:increase-hearing-impairements-with-age>> shows as an example the evaluation of a statistic from Holland [@sandini:1996].
+<<fig:increase-hearing-impairements-with-age>> shows as an example the evaluation of a statistic is from Holland [@sandini:1996].
 
 The hearing threshold for pure tones in the upper auditory range (e.g., $8\;\sf{kHz}$) regularly increases in adult humans at a rate of about $1\;\sf{dB}$ per year of age.
 Low tones (e.g., $1\;\sf{kHz}$) are much less affected.
@@ -253,7 +253,7 @@ The age-related changes in perception thresholds for the sense of taste differ d
 While the threshold for “sweet” (e.g., sugar solutions) remains stable with age, the perception of “salty” and “bitter” decreases with age.
 
 Sensitivity to odors generally decreases with age.
-This not only means that older people enjoy eating less (the sense of smell plays a more important role here in addition to the sense of taste), it also creates an increased risk because escaping gas or spoiled food cannot be reliably detected [@fozard:1993].
+This not only means that older people enjoy eating less (the sense of smell plays a more important role here in addition to the sense of taste), it also creates an increased risk because gas leaks or spoiled food cannot be reliably detected [@fozard:1993].
 
 ## Force, Movement, Mobility
 
@@ -362,7 +362,7 @@ This not only means that older people enjoy eating less (the sense of smell play
 
    The walking speed of a person is proportional to the muscle power available to him, with the stretching of the knee joint playing an essential role.
 
-   Compared with men of the same age, elderly women have substantially less muscle strength: $80$-year-old women $66\%$, $8$-year-old women $54\%$ [@fozard:1998].
+   Compared with men of the same age, older women have substantially less muscle strength: $80$-year-old women $66\%$, $85$-year-old women $54\%$ [@fozard:1998].
    Thus, women tend to be more prone to mobility impairments in old age than men of the same age.
 
 3. Falls  
@@ -406,7 +406,7 @@ This not only means that older people enjoy eating less (the sense of smell play
      </tbody>
    </table>
 
-   .falls-cause-of-death-dependence-age#Falls as a cause of death as a function of age Office of Population Censuses and Surveys, United Kingdom, $1986$; from [@williams:1998:c].
+   .falls-cause-of-death-dependence-age#Falls as a cause of death as a function of age, Office of Population Censuses and Surveys, United Kingdom, $1986$; from [@williams:1998:c].
 
 {.lower-alpha}
 
@@ -447,7 +447,7 @@ This not only means that older people enjoy eating less (the sense of smell play
 
    [^47]: For the U.S., the total cost to the economy and government of people suffering from Alzheimer's disease is estimated to be at least $100 billion annually ($2002$) [@kautz:2003].
 
-   ![Increase in Alzheimer's disease in the USA.](./pics/07/anstieg-alzheimer-us.color.svg "increase-alzheimer-us#Anstieg der Erkrankungen an Alzheimer in den USA [@zagler:2008, @kautz:2002].")
+   ![Increase in Alzheimer's disease in the USA.](./pics/07/anstieg-alzheimer-us.color.svg "increase-alzheimer-us#Increase in Alzheimer's disease in the USA. [@zagler:2008, @kautz:2002].")
 
    In addition to dementia triggered by organic changes, the so-called “pseudodementia” is often observed, which can affect, for example, persons who are torn from their familiar surroundings by a hospitalization at an advanced age (hospitalization dementia).
 
