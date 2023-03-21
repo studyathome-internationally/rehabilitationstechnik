@@ -75,65 +75,28 @@ Der Intensitätsbereich, in dem das Auge Reize verarbeiten kann, erstreckt sich 
 Die Empfindlichkeit der Stäbchen ist etwa $2\:000$ mal höher als die der Zäpfchen.
 Bei geringen Leuchtdichten (Dämmerung) liefern die Zäpfchen daher keinen Beitrag, was zur Folge hat, dass die Farbwahrnehmung nur bei ausreichender Beleuchtung möglich ist.
 
-<table>
-  <thead>
-    <tr>
-      <th scope="row">Beleuchtungsstärke [lx]</th>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{0}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{6}"/></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Stäbchen</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-    </tr>
-    <tr>
-      <th scope="row">Zäpfchen</th>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Bereich</th>
-      <td colspan="3">skotopisch</td>
-      <td colspan="4">mesopisch</td>
-      <td colspan="5">photopisch</td>
-    </tr>
-  </tbody>
-</table>
+<!-- prettier-ignore -->
+| Beleuchtungsstärke [lx] | $10^{-5}$ | $10^{-4}$ | $10^{-3}$ | $10^{-2}$ | $10^{-1}$ | $10^{-0}$ | $10^{1}$ | $10^{2}$ | $10^{3}$ | $10^{4}$ | $10^{5}$ | $10^{6}$ |
+| ----------------------- | --------- | --------- | --------- | --------- | --------- | --------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Stäbchen                | ja        | ja        | ja        | ja        | ja        | ja        | ja       |          |          |          |          |          |
+| Zäpfchen                |           |           |           | ja        | ja        | ja        | ja       | ja       | ja       | ja       | ja       | ja       |
+| Bereich                 | skotopisch                      ||| mesopisch                                 |||| photopisch                                       |||||
 
 .empfindlichkeit-staebchen-zaepfchen#Absolute Empfindlichkeit von Stäbchen und Zäpfchen [@zagler:1997].
+
+<style>
+#empfindlichkeit-staebchen-zaepfchen > table th, #empfindlichkeit-staebchen-zaepfchen > table td {
+  padding: 2px 6px;
+}
+#empfindlichkeit-staebchen-zaepfchen > table tr:first-child td:nth-child(n+2):nth-child(-n+8),
+#empfindlichkeit-staebchen-zaepfchen > table tr:nth-child(2) td:nth-child(n+5):nth-child(-n+13) {
+  background-color: black;
+  color: black;
+}
+#empfindlichkeit-staebchen-zaepfchen > table tr:nth-child(3) td:nth-child(n+2):nth-child(-n+4) {
+  text-align: center;
+}
+</style>
 
 Fehlen durch eine Schädigung des Auges die Stäbchen[^8], ist nur Tagessehen (mesopisches und photopisches Sehen) möglich und es kommt zur Nachtblindheit (kein skotopisches Sehen).
 Das Auge ist mit einer absoluten Intensitätsschwelle von $8\cdot10^{-18}\;\sf{W/cm^2}$ im Vergleich zum Ohr um den Faktor $10$ empfindlicher.

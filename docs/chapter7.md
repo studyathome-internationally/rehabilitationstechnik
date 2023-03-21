@@ -70,65 +70,28 @@ The intensity over which the eye can process stimuli spans a range of $1:10^{12}
 The sensitivity of rods is about $2\:000$ times higher than that of cones.
 At low luminances (twilight), therefore, the cones make no contribution, with the result that color perception is possible only with sufficient illumination.
 
-<table>
-  <thead>
-    <tr>
-      <th scope="row">Illuminance [lx]</th>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{-1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{0}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{1}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{2}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{3}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{4}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{5}"/></td>
-      <td style="padding: 2px 6px;"><MathML formula="10^{6}"/></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Rods</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-    </tr>
-    <tr>
-      <th scope="row">Cones</th>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td style="background-color: black;"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">Scope</th>
-      <td colspan="3">scotopic</td>
-      <td colspan="4">mesopic</td>
-      <td colspan="5">photopic</td>
-    </tr>
-  </tbody>
-</table>
+<!-- prettier-ignore -->
+| Illuminance [lx] | $10^{-5}$ | $10^{-4}$ | $10^{-3}$ | $10^{-2}$ | $10^{-1}$ | $10^{-0}$ | $10^{1}$ | $10^{2}$ | $10^{3}$ | $10^{4}$ | $10^{5}$ | $10^{6}$ |
+| ---------------- | --------- | --------- | --------- | --------- | --------- | --------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Rods             | yes       | yes       | yes       | yes       | yes       | yes       | yes      |          |          |          |          |          |
+| Cones            |           |           |           | yes       | yes       | yes       | yes      | yes      | yes      | yes      | yes      | yes      |
+| Scope            | scotopic                        ||| mesopic                                   |||| photopic                                         |||||
 
 .sensitivity-rod-cone#Absolute sensitivity of rods and cones [@zagler:1997].
+
+<style>
+#sensitivity-rod-cone > table th, #sensitivity-rod-cone > table td {
+  padding: 2px 6px;
+}
+#sensitivity-rod-cone > table tr:first-child td:nth-child(n+2):nth-child(-n+8),
+#sensitivity-rod-cone > table tr:nth-child(2) td:nth-child(n+5):nth-child(-n+13) {
+  background-color: black;
+  color: black;
+}
+#sensitivity-rod-cone > table tr:nth-child(3) td:nth-child(n+2):nth-child(-n+4) {
+  text-align: center;
+}
+</style>
 
 If the rods[^8] are missing due to a damage of the eye, only day vision (mesopic and photopic vision) is possible and night blindness occurs (no scotopic vision).
 The eye, with an absolute intensity threshold of $8\cdot10^{-18}\;\sf{W/cm^2}$, is more sensitive by a factor of $10$ compared to the ear.
