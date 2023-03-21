@@ -43,7 +43,7 @@ abbreviations:
    In the neurological sense, it refers to a reduction in the motor or sensory functions of a nerve.
 
    Strictly speaking, plegia refers to a general paralysis.
-   The term paresis is used for incomplete paralysis, while complete paralysis is called paralysis[^24].
+   The term paresis is used for incomplete paralysis[^24].
    The designation of paralysis in terms of location and extent can be found in <<tab:classification-paralysis>>.
 
    [^24]: The designations are not uniformly chosen in the literature. On the one hand, the general term plegia is also used in connection with complete paralysis; on the other hand, the term paralysis is found instead of plegia.

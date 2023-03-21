@@ -136,138 +136,32 @@ This interconnectedness formed from convergence and divergence accounts for the 
 In the region of the head, $12$ cranial nerves (pairs) branch off from the central nervous system (CNS) and are usually designated by Roman numerals in the medical literature.
 In <<tab:names-functions-cranial-nerves>>, the names and major supply areas or functions of the cranial nerves are summarized.
 
-<table>
-    <thead>
-        <tr>
-            <th>Number</th>
-            <th colspan="2">Name</th>
-            <th>Supply Area/Function</th>
-        </tr>
-    </thead>
-    <tr>
-        <td>I</td>
-        <td colspan="2">Smell pathway (tractus olfactorius)</td>
-        <td>Axons of the olfactory cells of the nose, total olfactory sensation</td>
-    </tr>
-    <tr>
-        <td>II</td>
-        <td colspan="2">Optical nerve (optic nerve)</td>
-        <td>Total visual perception</td>
-    </tr>
-    <tr>
-        <td>III</td>
-        <td colspan="2">Oculomotor nerve</td>
-        <td>
-            <ul class="no-bullets no-padding no-ident">
-                <li>Lens of the eye (ciliary muscle),</li>
-                <li>Iris (pupillary muscle)</li>
-                <li>Upper eyelid (siphon of the upper eyelid)</li>
-                <li>Eye movements</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>IV</td>
-        <td colspan="2">Trochlear nerve</td>
-        <td>Eye movement</td>
-    </tr>
-    <tr>
-        <td rowspan="6">V</td>
-        <td colspan="3">Trigeminal nerve (trigeminal nerve)</td>
-    </tr>
-    <tr>
-      <td colspan="3">Radix sensoria & sensory part of trigeminal nerve consisting of:</td>
-    </tr>
-    <tr>
-      <td>V1</td>
-      <td>Ophthalmic nerve</td>
-      <td>among other things, forehead, upper eyelid, nasal bridge</td>
-    </tr>
-    <tr>
-      <td>V2</td>
-      <td>Maxillary nerve</td>
-      <td>among other things, lower eyelid, cheek, upper lip</td>
-    </tr>
-    <tr>
-      <td>V3</td>
-      <td>Mandibular nerve</td>
-      <td>among other things, tongue, lower lip, chin</td>
-    </tr>
-    <tr>
-      <td>V4</td>
-      <td>Radix motorica (motor part of the trigeminal nerve, follows N. mandibularis)</td>
-      <td>Masticatory muscles, palate, floor of the mouth, eustachian tube</td>
-    </tr>
-    <!-- <tr>
-        <td rowspan="4">V</td>
-        <td></td>
-        <td>Trigeminal nerve (trigeminal nerve)</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan="2">V1, V2, V3</td>
-        <td>Radix sensoria & sensory part of trigeminal nerve consisting of:</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>
-            <ul class="no-bullets no-ident no-padding no-wrap">
-                <li>Ophthalmic nerve (V1)</li>
-                <li>Maxillary nerve (V2)</li>
-                <li>Mandibular nerve (V3)</li>
-            </ul>
-        </td>
-        <td>
-            <ul class="no-bullets no-ident no-padding">
-                <li>among other things, forehead, upper eyelid, nasal bridge</li>
-                <li>among other things, lower eyelid, cheek, upper lip</li>
-                <li>among other things, tongue, lower lip, chin</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>V4</td>
-        <td>Radix motorica (motor part of the trigeminal nerve, follows N. mandibularis)</td>
-        <td>Masticatory muscles, palate, floor of the mouth, eustachian tube</td>
-    </tr> -->
-    <tr>
-        <td>VI</td>
-        <td colspan="2">Abducens nerve</td>
-        <td>Eye movement (abduction)</td>
-    </tr>
-    <tr>
-        <td>VII</td>
-        <td colspan="2">Facial nerve</td>
-        <td>including mimic muscles, middle ear muscles, mandibular muscles, secretion of lacrimal and salivary glands, taste fibers of the anterior <MathML formula="2/3"/> of the tongue</td>
-    </tr>
-    <tr>
-        <td>VIII</td>
-        <td colspan="2">Hearing and balance nerve (vestibulo-cochlear nerve)</td>
-        <td>Cochlea and vestibular apparatus (organ of balance)</td>
-    </tr>
-    <tr>
-        <td>IX</td>
-        <td colspan="2">Glossopharyngeal nerve</td>
-        <td>Gaumen and pharyngeal muscles, taste fibers of the posterior <MathML formula="1/3"/> of the tongue</td>
-    </tr>
-    <tr>
-        <td>X</td>
-        <td colspan="2">Vagus nerve</td>
-        <td>including larynx, thoracic and abdominal organs</td>
-    </tr>
-    <tr>
-        <td>XI</td>
-        <td colspan="2">Accessory nerve</td>
-        <td>including head movements, scapula, raising the upper arm above horizontal</td>
-    </tr>
-    <tr>
-        <td>XII</td>
-        <td colspan="2">Hypoglossal nerve</td>
-        <td>Tongue musculature</td>
-    </tr>
-</table>
+| Number | Name                                                 | Supply Area/Function                                                                                                                                         |
+| ------ | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| I      | Smell pathway (tractus olfactorius)                  | Axons of the olfactory cells of the nose, total olfactory sensation                                                                                          |
+| II     | Optical nerve (optic nerve)                          | Total visual perception                                                                                                                                      |
+| III    | Oculomotor nerve                                     | Lens of the eye (ciliary muscle),<br>Iris (pupillary muscle),<br>Upper eyelid (siphon of the upper eyelid),<br>Eye movements                                 |
+| IV     | Trochlear nerve                                      | Eye movement                                                                                                                                                 |
+| V      | Trigeminal nerve (Radix sensoria and Radix motorica) | see <<tab:trigeminal-nerve>>                                                                                                                                 |
+| VI     | Abducens nerve                                       | Eye movement (abduction)                                                                                                                                     |
+| VII    | Facial nerve                                         | Including mimic muscles, middle ear muscles, mandibular muscles, secretion of lacrimal and salivary glands, taste fibers of the anterior $2/3$ of the tongue |
+| VIII   | Hearing and balance nerve (vestibulo-cochlear nerve) | Cochlea and vestibular apparatus (organ of balance)                                                                                                          |
+| IX     | Glossopharyngeal nerve                               | Palatal and pharyngeal muscles, taste fibers of the posterior $1/3$ of the tongue                                                                            |
+| X      | Vagus nerve                                          | including larynx, thoracic and abdominal organs                                                                                                              |
+| XI     | Accessory nerve                                      | including head movements, scapula, raising the upper arm above horizontal                                                                                    |
+| XII    | Hypoglossal nerve                                    | Tongue musculature                                                                                                                                           |
 
 .names-functions-cranial-nerves#Names and main functions of the cranial nerves [@pschyrembel:1989].
+
+<!-- prettier-ignore -->
+| Number | Name                                                                                           || Supply Area/Function                                             |
+| ------ | ---------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- |
+| V1     | Radix sensoria & sensory part of trigeminal nerve consisting of:             | Ophthalmic nerve | Among other things, forehead, upper eyelid, nasal bridge         |
+| V2     | ^^                                                                           | Maxillary nerve  | Among other things, lower eyelid, cheek, upper lip               |
+| V3     | ^^                                                                           | Mandibular nerve | Among other things, tongue, lower lip, chin                      |
+| V4     | Radix motorica (motor part of the trigeminal nerve, follows N. mandibularis)                   || Masticatory muscles, palate, floor of the mouth, eustachian tube |
+
+.trigeminal-nerve#Trigeminal nerve [@pschyrembel:1989].
 
 The cranial nerves play a special role in rehabilitation technology because they are not affected even by high-lying spinal injuries and the functions with which they are associated are not lost.
 

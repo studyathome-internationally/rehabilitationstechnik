@@ -137,7 +137,32 @@ Diese aus Konvergenz und Divergenz gebildete Vernetzung macht die enorme Fähigk
 Im Bereich des Kopfes zweigen aus dem Zentralnervensystem (ZNS) $12$ Hirnnerven (-paare) ab, die in der medizinischen Literatur üblicherweise mit römischen Ziffern bezeichnet werden.
 In <<tab:namen-funktionen-hirnnerven>> sind die Namen und die wichtigsten Versorgungsgebiete bzw. Funktionen der Hirnnerven zusammengefasst.
 
-<!-- FIXME: check V, V1,V2,V3 -->
+| Nummer | Name                                                      | Versorgungsgebiet/Funktion                                                                                                                                  |
+| ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| I      | Riechbahn (Tractus olfactorius)                           | Axone der Riechzellen der Nase, gesamte Geruchsempfindung                                                                                                   |
+| II     | Sehnerv (Nervus opticus)                                  | Gesamte visuelle Wahrnehmung                                                                                                                                |
+| III    | Nervus oculomotoricus                                     | Augenlinse (Ziliarmuskel), Iris (Pupillenmuskel), Oberlid (Heber des Oberlids), Augenbewegungen                                                             |
+| IV     | Nervus trochlearis                                        | Augenbewegung                                                                                                                                               |
+| V      | Trigeminus Nerv (Radix sensoria und Radix motorica)       | siehe <<tab:trigeminus-nerv>>                                                                                                                               |
+| VI     | Nervus abducens                                           | Augenbewegung (Abduction)                                                                                                                                   |
+| VII    | Nervus facialis                                           | u. a. mimische Muskulatur, Mittelohrmuskeln, Unterkiefermuskulatur, Sekretion der Tränen- und Speicheldrüsen, Geschmacksfasern der vorderen $2/3$ der Zunge |
+| VIII   | Hör- und Gleichgewichtsnerv (Nervus vestibulo-cochlearis) | Cochlea und Vestibularapparat (Gleichgewichtsorgan)                                                                                                         |
+| IX     | Nervus glossopharyngeus                                   | Gaumen- und Rachenmuskulatur, Geschmacksfasern des hinteren $1/3$ der Zunge                                                                                 |
+| X      | Nervus vagus                                              | u. a. Kehlkopf, Brust- und Bauchorgane                                                                                                                      |
+| XI     | Nervus accessorius                                        | u. a. Kopfbewegungen, Schulterblatt, Heben des Oberarms über Horizontale                                                                                    |
+| XII    | Nervus hypoglossus                                        | Zungenmuskulatur                                                                                                                                            |
+
+.namen-funktionen-hirnnerven#Namen und wichtigste Funktionen der Hirnnerven [@pschyrembel:1989].
+
+<!-- prettier-ignore -->
+| Nummer | Name                                                                                                       || Versorgungsgebiet/Funktion                    |
+| ------ | ------------------------------------------------------------------------------ | -------------------------- | --------------------------------------------- |
+| V1     | Radix sensoria & sensorischer Teil des Nervus trigeminus bestehend aus:        | Nervus ophthalmicus        | u. a. Stirn, Oberlid, Nasenrücken             |
+| V2     | ^^                                                                             | Nervus maxillaris          | u. a. Unterlid, Wange, Oberlippe              |
+| V3     | ^^                                                                             | Nervus mandibularis        | u. a. Zunge, Unterlippe, Kinn                 |
+| V4     | Radix motorica (motorischer Teil des Nervus Trigeminus, folgt N. mandibularis)                             || Kaumuskulatur, Gaumen, Mundboden, Ohrtrompete |
+
+.trigeminus-nerv#Trigeminus Nerv [@pschyrembel:1989].
 
 <table>
     <thead>

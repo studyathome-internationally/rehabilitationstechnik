@@ -106,7 +106,7 @@ In other words, it indicates the signal-to-noise ratio [@hellbrück:1993].
    8. Stirrup plate in oval window;
    9. Round window;
    10. Cochlea;
-   11. Semicircular ducts of the vestibular apparatus (organ of balance).s
+   11. Semicircular ducts of the vestibular apparatus (organ of balance).
        {.lower-alpha}
 
    :::
