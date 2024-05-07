@@ -69,8 +69,8 @@ export default withPwa(
     themeConfig: {
       socialLinks: [{ icon: "github", link: "https://github.com/studyathome-internationally/rehabilitationstechnik" }],
       algolia: {
-        appId: "JI7BWPYEMW",
-        apiKey: "a5976af2be8c2ccbb60ba75f309ceb58",
+        appId: "IDY8T2V8XA",
+        apiKey: "6f21760fe43094826741454e3c890b35",
         indexName: "rehabilitationstechnik",
         locales: {
           root: {
