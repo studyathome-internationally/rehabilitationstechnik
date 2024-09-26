@@ -4,41 +4,29 @@
 
 # Legal Notice
 
-## Publisher and Editorial Responsibility
+Obligatory information according to § 25 of the Austrian Mediengesetz (media law) and according § 5 of the Austrian E-Commerce-Gesetz (E-commerce law).
 
+## Publisher and editorial responsibility
 
-**UAS Technikum Wien**  
-Mariahilfer Strasse 37-39  
-1060 Vienna
+```
+Verein Fachhochschule Technikum Wien
+ZVR-Zahl 074476426
+Geschäftsführung
 
-T: +43 1 588 39-0  
-F: +43 1 588 39-49
+Höchstädtplatz 6
+1200 Wien 
+T: +43 1 333 40 77-0
+UID-Nummer: ATU65565658
+```
 
+Contact: [E-Mail](mailto:info@technikum-wien.at)
 
-Email: [info@technikum-wien.at](mailto:info@technikum-wien.at)
-
-## Management
-
-Gabriele Költringer, EMBA (Managing Director)
-
-## Managing Comitee
-
-* Dr. Ulrike Baumgartner-Gabitzer
-* Mag. Wilhelm Grosseibl
-* DI Dr. Kurt Hofstädter (vice chairman)
-* Dr. Kari Kapsch
-* DI Anton Plimon
-* Dr. Lothar Roitner (chairman)
-* Mag. Dr. Gerhard Riemer
-
-## Basic Objective
-
-Internet presence to promote and support activities of the organization.
+Also see the [Impressum of the Technikum Wien webpage](https://www.technikum-wien.at/impressum/), for further information.
 
 ## Responsible for Content & Webmaster
 
 Project: [StudyATHome Internationally](https://studyathome.technikum-wien.at)  
-Email: [Martin Deinhofer, Project Lead](mailto:martin.deinhofer@technikum-wien.at)
+Lead: Martin Deinhofer,[E-Mail](mailto:studyathome@technikum-wien.at)
 
 ## Disclaimer
 
@@ -48,7 +36,7 @@ Links to external websites have been chosen carefully. As they are outside the c
 
 ## Copyright
 
-Copyright and legal right of use for texts, graphics, design, und source code belong to the UAS Technikum Wien, so does the legal right for the photos, if not linked from external websites. 
+Copyright and legal right of use for texts, graphics, design, und source code belong to the UAS Technikum Wien, so does the legal right for the photos, if not linked from external websites or not eplicitely marked otherwise. 
 
 Issuing, usage and disclosure of information for not commercial reasons is enabled, as long as the content remains unchanged and the source is mentioned (Source: UAS Technikum Wien). The layout of the homepage, graphics and pictures used and the collection of individual contributions are protected by copyright.
 
