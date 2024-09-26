@@ -6,8 +6,10 @@ on:
 env:
   BASE: /
   USER: study
+  USER_DEPLOY: study-deploy
   SERVER: studyathome.technikum-wien.at
   DEST: /var/www/html/asterics-web-devwindows/rehatec
+  DEST_SHORT: ./html/asterics-web-devwindows/rehatec
   SSH_OPTS: -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
   PORT: 2222
 jobs:
@@ -52,8 +54,19 @@ jobs:
       # DANGER:
       # - name: Delete Content from Server
       #   run: sshpass -p ${PASS} ssh -p ${PORT} ${SSH_OPTS} ${USER}@${SERVER} "echo rm -rf ${DEST}/*"
-      - name: Upload Build to StudyATHome Server
-        run: sshpass -p ${PASS} scp -P ${PORT} ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
+      #- name: Upload Build to StudyATHome Server
+      #  run: sshpass -p ${PASS} scp -P ${PORT} ${SSH_OPTS} -r * ${USER}@${SERVER}:${DEST}/
+      - name: Upload Files
+        id: upload
+        uses: Creepios/sftp-action@v1.0.3
+        with:
+          host: ${{ env.SERVER}}
+          port: 2222
+          username: ${{ env.USER_DEPLOY}}
+          password: ${{ secrets.DEPLOY_USER_KEY }}
+          localPath: './'
+          remotePath: ${{env.DEST_SHORT}}
+      
   # We don't know when the site will be deployed, we just wait a few seconds
   # Better solutions can be found
   delay:
